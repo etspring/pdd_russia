@@ -1,5 +1,7 @@
 # pdd_russia
 
+[![Donate](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C_%D1%80%D1%83%D0%B1%D0%BB%D0%B5%D0%BC-%D0%AEMoney-green)](https://yoomoney.ru/to/41001287467423)
+
 Описание:
 
 Репозиторий содержит экзаменационные вопросы для получения водительского удостоверения в РФ.
