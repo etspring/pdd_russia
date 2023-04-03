@@ -65,7 +65,7 @@
         "is_correct": true
       },
       {
-        "answer_text": "Разрешено только после 19 часов",
+        "answer_text": "Разрешено только после 21 часа",
         "is_correct": false
       },
       {
@@ -78,7 +78,7 @@
     "topic": [
       "Дорожные знаки"
     ],
-    "id": "22fd35ae752b3e3db2e4ee8ce3abaf78"
+    "id": "4530d0d832ebcf014616981f6b6ec104"
   },
   {
     "title": "Вопрос 4",

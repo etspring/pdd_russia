@@ -4,57 +4,30 @@
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/505bf5de2658d2b9a8e5bb4b5fa345e0.jpg",
-    "question": "Разрешено ли Вам произвести остановку в указанном месте?",
+    "question": "Разрешено ли Вам остановиться в указанном месте?",
     "answers": [
       {
-        "answer_text": "Разрешено",
+        "answer_text": "Запрещено",
         "is_correct": true
       },
       {
-        "answer_text": "Разрешено только для посадки или высадки пассажиров",
+        "answer_text": "Разрешено только для посадки и высадки пассажиров",
         "is_correct": false
       },
       {
-        "answer_text": "Запрещено",
+        "answer_text": "Разрешено",
         "is_correct": false
       }
     ],
     "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Сплошная линия разметки 1.4 жёлтого цвета обозначает места, где запрещена остановка. Применяется самостоятельно или в сочетании со знаком 3.27 «Остановка запрещена», как в данном случае. В указанном месте Вы можете произвести остановку, т. к. остановитесь вне зоны действия знака 3.27, определяемой длиной разметки жёлтого цвета.(«Дорожные знаки», «Горизонтальная разметка»)",
+    "answer_tip": "На рисунке изображён дорожный знак 3.27 «Остановка запрещена», а так же сплошная линия дорожной разметки 1.4 В данной ситуации остановка запрещена, т.к разметка 1.4 не ограничивает зону действия знака 3.27.Изменение вступило в силу: 1 марта 2023 года.",
     "topic": [
       "Остановка и стоянка"
     ],
-    "id": "e87372fea3b2cdb18d4ad6a480363e67"
+    "id": "bf06bbf89a29a444bbc395a8adafde98"
   },
   {
     "title": "Вопрос 2",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/92c47bbf0ca878640288b11f11a663ad.jpg",
-    "question": "В данной ситуации остановка:",
-    "answers": [
-      {
-        "answer_text": "Запрещена",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Разрешена только маршрутным транспортным средствам, используемым в качестве легкового такси",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешена только транспортным средствам, управляемым инвалидом или перевозящим инвалидов, в том числе детей-инвалидов",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Действие знака 3.27 «Остановка запрещена» не распространяется на маршрутные ТС и ТС, используемые в качестве легкового такси, но только в местах остановки маршрутных ТС или стоянки ТС, используемых в качестве легкового такси, обозначенных разметкой 1.17 и (или) знаками 5.16, 5.18 соответственно («Дорожные знаки»). Следовательно, в данном случае остановка ТС запрещена.(Изменения с 25 июля 2017)(14.12.18 обновлен вариант ответа. Раньше было сказано только про инвалидов 1 и 2 групп)",
-    "topic": [
-      "Остановка и стоянка"
-    ],
-    "id": "083c5fe721761c038be3faa6d7930633"
-  },
-  {
-    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/24d049f439bb6e16fc8d252d1f073127.jpg",
@@ -81,7 +54,7 @@
     "id": "ffc1f7fb184a971add67346daa47f56e"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/504b46e9c726ae266f448703767c59fd.jpg",
@@ -108,7 +81,7 @@
     "id": "19e0c1237409e47951528ade0d1e2667"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/952de68c6a21c16013dd07686568477f.jpg",
@@ -135,7 +108,7 @@
     "id": "d7543b23770c93ca52abfc74ab301c9f"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/9e8a8a32c281b9be4b7d280c5c01a90e.jpg",
@@ -166,7 +139,7 @@
     "id": "e741296f1ec1accd8affa6cbecdc70ff"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e1143edefb135690a12cda3b172f30d9.jpg",
@@ -193,7 +166,7 @@
     "id": "8df94ad9495b3b9395cba882c09045ff"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d45d8113cd910c59a0150fe80b274dfc.jpg",
@@ -220,7 +193,7 @@
     "id": "b8d1716fa37db5d9a7cef3d5ca070175"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/544ea7fd090765e47fa3b71f060b5f22.jpg",
@@ -247,7 +220,7 @@
     "id": "297e2e1b88020c6dc2849cd6b990d08a"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/a3c10883d8f389574cb255f4d33864b0.jpg",
@@ -274,7 +247,7 @@
     "id": "ebf1250c0212d082b4d869d6347d47ba"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/8fcf82e8373415484138ad71355732bb.jpg",
@@ -298,14 +271,14 @@
       }
     ],
     "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Водитель легкового автомобиля может заезжать на прилегающий к проезжей части тротуар только в местах, обозначенных знаком 6.4 «Парковка (парковочное место)», с одной из табличек 8.6.2, 8.6.3, 8.6.6-8.6.9 «Способ постановки транспортного средства на стоянку». В данной ситуации таких знаков нет, соответственно водитель - «нарушитель». Водитель мотоцикла не нарушает правила остановки и стоянки, т. к. правила запрещают это делать в условиях, когда расстояние между сплошной линией разметки и остановившимся транспортным средством менее З м. Здесь же действие происходит со стороны прерывистой линии, что Правилам не противоречит.(Пункт 12.4 ПДД)",
+    "answer_tip": "Водитель легкового автомобиля может заезжать на прилегающий к проезжей части тротуар только в местах, обозначенных знаком 6.4 «Парковка (парковочное место)», с одной из табличек 8.6.2, 8.6.3, 8.6.6-8.6.9 «Способ постановки транспортного средства на стоянку». В данной ситуации таких знаков нет, соответственно водитель - «нарушитель». Водитель мотоцикла не нарушает правила остановки и стоянки, т. к. правила запрещают это делать в условиях, когда расстояние между сплошной линией разметки и остановившимся транспортным средством менее З м. Здесь же действие происходит со стороны прерывистой линии, что Правилам не противоречит.(Пункт 12.2 ПДД)",
     "topic": [
       "Остановка и стоянка"
     ],
     "id": "16190e96c166e8d2dbf1659709d87fb0"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/8e7ec83d1a6f0f1a62a329e29d981547.jpg",
@@ -332,7 +305,7 @@
     "id": "2f14f286574ec9a4269c2103ebcb5158"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/456767f8b2e0d39f83d8f9f1b2a378da.jpg",
@@ -363,7 +336,7 @@
     "id": "592c5535461a8d7a15d496c3d5862a0e"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/45a39cf318af16d3e7d4c3aba37e4323.jpg",
@@ -390,7 +363,7 @@
     "id": "36e5aedad346ac99cf5c037f5452cb04"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/be2c5fa721a2a4283b9f9fbe4f6471eb.jpg",
@@ -421,7 +394,7 @@
     "id": "1ab15bf82bbc2702abb009e21ac27be3"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/4bfb3a80e06d09db2710d0fb03606cd7.jpg",
@@ -448,7 +421,7 @@
     "id": "6b52488e69c53f56b2e8e06283c470a2"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3deaa01681059af7d4c70fc791f9dd1f.jpg",
@@ -475,7 +448,7 @@
     "id": "42ac87d970fd030177149379f2ddf6ce"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -502,7 +475,7 @@
     "id": "8ee7a8edf16a574dc5a2728edb3b15eb"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/25b9ec9eace7b64df065e6a6f585cbb2.jpg",
@@ -533,7 +506,7 @@
     "id": "e03321951e398a8ece149876a819e0e5"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/4fc423e88c78dc69482145396d5b8714.jpg",
@@ -560,7 +533,7 @@
     "id": "1a31264160e72af7b52a5bcd0977ebdb"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6dae5a3892749dcae125697ffe1951f6.jpg",
@@ -587,7 +560,7 @@
     "id": "1da76bcea297fe0e2955198921add0c5"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b4505e7eecfe9ff9672af15cc58a9105.jpg",
@@ -614,7 +587,7 @@
     "id": "d6115df8c2fbd25596d686a477814179"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/33c782d613cfec360e0a7b92282c4ef4.jpg",
@@ -645,7 +618,7 @@
     "id": "cc9e0ad6d760e094d2ccaff98ae4ed6d"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/08103f56e684a60f8501cb3c48ee8528.jpg",
@@ -672,7 +645,7 @@
     "id": "c228e4a3e9252e0b181bea7f32faebb5"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d7cd98ef2f80b75430d3888354b4d543.jpg",
@@ -699,7 +672,7 @@
     "id": "a1e467acb91b05cc1fc0afd610714f15"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0ebce77b27ae28cb85b1ef9ead273cac.jpg",
@@ -730,7 +703,7 @@
     "id": "da8cbbc25b6b1d2a1e73daa86b7d9ea0"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/46b07099dd98f734c8f6980aeca681ab.jpg",
@@ -761,7 +734,7 @@
     "id": "f0db713807b683836f871b30b02e7047"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d5026d02d7f19eb9e5ffb5034c748542.jpg",
@@ -788,7 +761,7 @@
     "id": "530be726bc320d2cbdb970ab6ee5b6f9"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/135c7772caca269ac17e7266b0e467c5.jpg",
@@ -815,7 +788,7 @@
     "id": "889f18745b966f0d7bc25f977e840673"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/f5896207879e71211e2b149210a15174.jpg",
@@ -842,7 +815,7 @@
     "id": "713c43bbf072c8d1852e8fa836ac9d39"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/011c87847a6e97caf914b64e369dcc10.jpg",
@@ -869,7 +842,7 @@
     "id": "3bd5fde76ae3cc923aa131a822a04c36"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/456767f8b2e0d39f83d8f9f1b2a378da.jpg",
@@ -900,7 +873,7 @@
     "id": "592c5535461a8d7a15d496c3d5862a0e"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6328042eed06e2a17c8354741aafb562.jpg",
@@ -927,7 +900,7 @@
     "id": "fc6178a44afea0f9b27abd3554c85a3c"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/954888c8014645dbdb8290d439383030.jpg",
@@ -954,7 +927,7 @@
     "id": "366eafa6251f44f2c1f4425d8956953c"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b85658718ed032f21d74082892292800.jpg",
@@ -981,7 +954,7 @@
     "id": "c50665aba10e746a83a6a1e8f4f44cc9"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/42b6a5df48bdf5425236bd44ab304710.jpg",
@@ -1008,7 +981,7 @@
     "id": "480eb14d4300a8d49aaf9fb441d32339"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/ec86d9e4bba13f88a707b9303dbb3327.jpg",
@@ -1039,7 +1012,7 @@
     "id": "7d796ec720745d48640215f005715dc2"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/8578f56da82a57ddacac6b70d2062801.jpg",
@@ -1066,7 +1039,7 @@
     "id": "ca2f8de35f579bc67164e04ef7382e2e"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2796755efdc1bd381eb37634ca4b6f6a.jpg",
@@ -1093,7 +1066,7 @@
     "id": "76114a4c1d3ad5f5f23a55299845cb32"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/7a679f4c406644c20c7274dda0e67f67.jpg",
@@ -1124,7 +1097,7 @@
     "id": "574723fbb679603e95601fc95fd11fa3"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/71e8ebd733ec2cb0247a2c11efed1665.jpg",
@@ -1151,7 +1124,7 @@
     "id": "9741e7e3d007b8fca8a2ebc2e5118484"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2c7e7e3a617223291f5052fa9ac0d03a.jpg",
@@ -1182,7 +1155,7 @@
     "id": "b21eb67e2bbfb09b0075b630e86f32ed"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b54d57e8e0ac818623218c291ca901f4.jpg",
@@ -1213,7 +1186,7 @@
     "id": "0a89863f5bb1f3c2893465458912f771"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/afb157bf3b28baf60ce1f523a8bcf45a.jpg",
@@ -1240,7 +1213,7 @@
     "id": "5894f909b190fc2c5e5a497d3d8a43e6"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e31119c98841e365b52059a008a20338.jpg",
@@ -1267,7 +1240,7 @@
     "id": "914b764210659530dff3773fac4b0a9c"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6ac703acc15a324e076348f28b753cd1.jpg",
@@ -1298,7 +1271,7 @@
     "id": "8c539dd9e8514fe5a1a1ae3bbb340766"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/5a9395c998f0953ada0e4b294c2826e0.jpg",
@@ -1318,14 +1291,14 @@
       }
     ],
     "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Левая полоса на дороге, обозначенной знаком 5.11.2 «Дорога с полосой для велосипедистов», согласно разметке 1.23.3 отведена для движения велосипедистов, лицам, использующим для передвижения СМИ, мопедов навстречу общему потоку ТС. Другим ТС движение по данной полосе и остановка на ней запрещается.(Пункты 9.9, 12.4 ПДД)",
+    "answer_tip": "Левая полоса на дороге, обозначенной знаком 5.11.2 «Дорога с полосой для велосипедистов», согласно разметке 1.23.3 отведена для движения велосипедистов, лицам, использующим для передвижения СИМ, мопедов навстречу общему потоку ТС. Другим ТС движение по данной полосе и остановка на ней запрещается.(Пункты 9.9, 12.4 ПДД)",
     "topic": [
       "Остановка и стоянка"
     ],
     "id": "5ffa1803a6731c9211f05d97fc83375c"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/9bfc1438303942c67fb84b48deef7542.jpg",
@@ -1352,7 +1325,7 @@
     "id": "9731750ceee00c14575c32e22146ef62"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/94066ff9d7afccd4349557d092cad23e.jpg",

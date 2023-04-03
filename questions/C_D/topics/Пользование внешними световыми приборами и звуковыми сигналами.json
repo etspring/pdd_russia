@@ -336,33 +336,6 @@
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
-    "question": "В темное время суток и в условиях недостаточной видимости опознавательный знак «Автопоезд» должен быть включен:",
-    "answers": [
-      {
-        "answer_text": "Только при движении автопоезда",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Только во время остановки или стоянки",
-        "is_correct": false
-      },
-      {
-        "answer_text": "В обоих перечисленных случаях",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Автопоезд имеет особенности: большие габариты, большую массу, большие инерционные силы перевозимого груза, увеличенный динамический коридор, складывание при торможении, создаёт воздушную волну и т.п. Для выделения от других транспортных средств они обозначаются опознавательным знаком «Автопоезд», который включается всегда при движении, а также в тёмное время суток и в условиях недостаточной видимости, во время остановки и стоянки.(Пункт 19.8 ПДД)",
-    "topic": [
-      "Пользование внешними световыми приборами и звуковыми сигналами"
-    ],
-    "id": "1d42776d8df11abc91eace505bde67e0"
-  },
-  {
-    "title": "Вопрос 14",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
     "question": "В каком случае при движении в светлое время суток недостаточно включения дневных ходовых огней?",
     "answers": [
       {
@@ -386,7 +359,7 @@
     "id": "9f794646f5aa73c955533a26d1227aec"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -413,7 +386,7 @@
     "id": "a09fa579901747647ba1e46ca2360855"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -444,7 +417,7 @@
     "id": "b3410d5fdd6d2cfd0ad7809c42f67d23"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -471,11 +444,11 @@
     "id": "0f290a8c6cc3d9b5ef22d05cfd6b59a6"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
-    "question": "При движении в светлое время суток на транспортном средстве должны быть включены:",
+    "question": "При движении в светлое время суток на транспортном средстве (кроме велосипедов) должны быть включены:",
     "answers": [
       {
         "answer_text": "Только дневные ходовые огни",
@@ -499,10 +472,10 @@
     "topic": [
       "Пользование внешними световыми приборами и звуковыми сигналами"
     ],
-    "id": "442cf868e87c883a373f11daecc7b691"
+    "id": "61b3841f9f7e1d13141b6e94419e9f9c"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -529,7 +502,7 @@
     "id": "cf35ca9e291ba13645e7e8f0ead0c664"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -556,7 +529,7 @@
     "id": "920fbc6a5599d44942b85a6af69dcf35"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -583,7 +556,7 @@
     "id": "64c732605bceabdd67f38e3e26c35fcf"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -610,7 +583,7 @@
     "id": "28da96643006af8596045794844195fb"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -637,34 +610,7 @@
     "id": "e67b7d02b5992076f2007a47f89b858f"
   },
   {
-    "title": "Вопрос 24",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "При остановке или стоянке опознавательный знак «Автопоезд» должен быть включен:",
-    "answers": [
-      {
-        "answer_text": "Только в условиях недостаточной видимости",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Только в темное время суток при отсутствии искусственного освещения",
-        "is_correct": false
-      },
-      {
-        "answer_text": "В темное время суток и в условиях недостаточной видимости независимо от наличия искусственного освещения",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Согласно пункта 19.8 ПДД и пункта 8 «Основных положений по допуску», правильный ответ включает темное время суток, недостаточную видимость и не зависит от искусственного освещения.",
-    "topic": [
-      "Пользование внешними световыми приборами и звуковыми сигналами"
-    ],
-    "id": "6fc23c5ec11f1d98ed5e82c4655864fd"
-  },
-  {
-    "title": "Вопрос 25",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -691,7 +637,7 @@
     "id": "980be5c0911a66315d442f7195362823"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
