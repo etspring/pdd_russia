@@ -30,33 +30,6 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/1d20ef7ba94f4118536364bbeb98ef8c.jpg",
-    "question": "Правая полоса предназначена для движения:",
-    "answers": [
-      {
-        "answer_text": "Любых автобусов",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Всех автобусов и троллейбусов",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Автобусов и троллейбусов, движущихся по установленным маршрутам с обозначенными местами остановок, а также школьных автобусов и легковых такси",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "По крайней правой полосе, обозначенной разметкой 1.23.1 (в виде буквы «А») и знаком 5.14 «Полоса для маршрутных транспортных средств» из перечисленных в ответах ТС имеют право на движение автобусы и троллейбусы, движущиеся по установленным маршрутам с обозначенными местами остановок, относящиеся к маршрутным транспортным средствам, а также школьные автобусы и легковые такси.(Пункт 1.2 ПДД, «Дорожные знаки», «Горизонтальная разметка»)",
-    "topic": [
-      "Приоритет маршрутных транспортных средств"
-    ],
-    "id": "934b2331f4c66f676b0c52e84c0cda9c"
-  },
-  {
-    "title": "Вопрос 3",
-    "ticket_number": null,
-    "ticket_category": "C,D",
     "image": "./images/C_D/a83e88ca9d5dea8411083cacb0d886c2.jpg",
     "question": "Разметкой в виде буквы «А» обозначают:",
     "answers": [
@@ -81,7 +54,7 @@
     "id": "34e7ed01bfe7229f476a69d1edd23185"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/8eece4a5748705f532297e894d014d58.jpg",
@@ -108,7 +81,7 @@
     "id": "841b11e69bb9414f5802ed60bd6b7851"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/21af6276b61d90fe55efd4c5f6a97c7a.jpg",
@@ -143,7 +116,7 @@
     "id": "6204d6bf902a9049cec46d95be676aa9"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/b76e2d2a686866ef72f18a435ae96712.jpg",
@@ -174,7 +147,7 @@
     "id": "c04f04be8b54a9043b80b79d99c92590"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/9747cb52de01410470c852d166b1e32a.jpg",
@@ -201,7 +174,7 @@
     "id": "957e25eaabb31c07d441c1df3d639664"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/fd9de6562e14906dc8545e56eeecebc0.jpg",
@@ -224,7 +197,7 @@
     "id": "21abaf3f3a353c2b05b5f3a8c882c385"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/0bdbcb2313ade7e0a2392f19f01f1bb3.jpg",

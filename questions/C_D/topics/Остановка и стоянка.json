@@ -84,33 +84,6 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/b25332544043453a646cc8799fad995d.jpg",
-    "question": "Разрешено ли Вам произвести остановку в указанном месте?",
-    "answers": [
-      {
-        "answer_text": "Разрешено",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Разрешено только для загрузки или разгрузки транспортного средства",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Запрещено",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Сплошная линия разметки 1.4 жёлтого цвета обозначает места, где запрещена остановка. Применяется самостоятельно или в сочетании со знаком 3.27 «Остановка запрещена», как в данном случае. В указанном месте Вы можете произвести остановку, т. к. остановитесь вне зоны действия знака 3.27, определяемой длиной разметки жёлтого цвета.(«Дорожные знаки», «Горизонтальная разметка»)",
-    "topic": [
-      "Остановка и стоянка"
-    ],
-    "id": "d5d6d55902ffeab56ec9192c60b50f16"
-  },
-  {
-    "title": "Вопрос 5",
-    "ticket_number": null,
-    "ticket_category": "C,D",
     "image": "./images/C_D/86e59f8d04cc053d994cdaa99cb37b73.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
@@ -135,7 +108,7 @@
     "id": "676ff90996e5cef2d40387ffbacd4b0a"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/b22212f047878ba97c2ea3064cc4e978.jpg",
@@ -162,34 +135,7 @@
     "id": "2061f8fab9350ab6d64a2e6d8c3550d1"
   },
   {
-    "title": "Вопрос 7",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/C_D/903b1b231a37e8b221627a7947dc1ad2.jpg",
-    "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по четным числам месяца?",
-    "answers": [
-      {
-        "answer_text": "Разрешено",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Разрешено только после 19 часов",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Запрещено",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Действие запрещающих стоянку знаков начинается от места их установки. Вы же намереваетесь поставить автомобиль на стоянку до знака, т.е. вне его действия. Однозначно разрешено.(«Дорожные знаки», пункт 12.1 ПДД)",
-    "topic": [
-      "Остановка и стоянка"
-    ],
-    "id": "22fd35ae752b3e3db2e4ee8ce3abaf78"
-  },
-  {
-    "title": "Вопрос 8",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/24106323c216b3deb383297948d2ff95.jpg",
@@ -216,7 +162,7 @@
     "id": "04b1a8d935ab3e0efb7dec84e3bdf141"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/1c8e9699fe5b8fdc33e3c03bee751376.jpg",
@@ -243,7 +189,7 @@
     "id": "96c5f0f9f2898962f9b6a3d02e65a644"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/2d0b4dc9b80a16346b62e398612c6e78.jpg",
@@ -270,7 +216,7 @@
     "id": "43396ce85ce09c29c04bf88ea8095aef"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/8b046c1632c65fe025083fccb0f0779e.jpg",
@@ -297,7 +243,7 @@
     "id": "fa6ccd818ef2a77c8a5d811d31e7f6e9"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/421919c32ec5b0e78b25678c08770ef1.jpg",
@@ -308,7 +254,7 @@
         "is_correct": false
       },
       {
-        "answer_text": "Разрешено только после 19 часов",
+        "answer_text": "Разрешено только после 21 часа",
         "is_correct": true
       },
       {
@@ -317,14 +263,14 @@
       }
     ],
     "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Действие происходит в населённом пункте, на дороге, имеющей по одной полосе движения в каждом направлении, без трамвайных путей посередине. На такой дороге можно осуществлять остановку и стоянку не только с правой стороны дороги, но и с левой, если нет запрещающих знаков. В данной же ситуации применены одновременно знаки: с правой стороны 3.29 «Стоянка запрещена по нечётным числам месяца», с левой 3.30 «Стоянка запрещена по четным числам месяца». При парковке автомобиля в таком случае следует учесть, что с 19.00 до 21.00 данные знаки не действуют из-за перестановки транспорта. С 21.00 до 24.00 с правой стороны дороги стоянка запрещена по четным числам месяца, с левой стороны дороги в это же время стоянка запрещена по нечётным числам месяца. Следовательно, в намеченном месте автомобиль можно поставить с 19.00 нечётного числа до 21.00 чётного числа.(«Дорожные знаки», пункт 12.1 ПДД)",
+    "answer_tip": "Действие происходит в населённом пункте, на дороге, имеющей по одной полосе движения в каждом направлении, без трамвайных путей посередине. На такой дороге можно осуществлять остановку и стоянку не только с правой стороны дороги, но и с левой, если нет запрещающих знаков. В данной же ситуации применены одновременно знаки: с правой стороны 3.29 «Стоянка запрещена по нечётным числам месяца», с левой 3.30 «Стоянка запрещена по четным числам месяца» время действия запрета стоянки в указанные знаками дни заканчивается в 21 час. Следовательно, стоянка автомобиля после 21 часа на указанном участке дороги разрешается.Изменение вступило в силу: 1 марта 2023 года.(«Дорожные знаки», пункт 12.1 ПДД)",
     "topic": [
       "Остановка и стоянка"
     ],
-    "id": "4225d8e07b22496e9ed578d40caa6b25"
+    "id": "52292cc09fbd42d2e14f16404561f73a"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/1c185c64e0eac510fe6b6a4c0da69e1a.jpg",
@@ -351,7 +297,7 @@
     "id": "b4292d6a2bcf0bb4fdb19719e68b8c68"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/eadfb24c142502d9414b76637b1f27dd.jpg",
@@ -378,7 +324,7 @@
     "id": "2f0aa9c3cf4836b0610dd55008e81425"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/7a0c6d809a356182944ed3ef6692ed1d.jpg",
@@ -405,7 +351,7 @@
     "id": "7fda8da80f56b714ca665fdcd25df11a"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/1ba54e6b275237d24dc211b9312d0254.jpg",
@@ -432,7 +378,7 @@
     "id": "abd6c8b93de41bf9f1471c054f5e64a5"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/444a7209d9c156c9c61997c0c5a248e0.jpg",
@@ -459,7 +405,7 @@
     "id": "90f617226a0996bd892d6ee2a6d71e6f"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/9f9e708e31125a6ffaa5d62f606e7f12.jpg",
@@ -486,7 +432,7 @@
     "id": "0fa4712a556e14c6e633a42bc5caced7"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/7b1fa83077be8d0ad06fa62a0478be33.jpg",
@@ -513,7 +459,7 @@
     "id": "adf83ab38b8166ce47004ea093a74d9f"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/663995696997424644b8cb9e4c945f26.jpg",
@@ -540,7 +486,7 @@
     "id": "db32b8c05a2b932f451e6934c24f6ebc"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/a9f61decedee3ddbf0cc032876b1cfd8.jpg",
@@ -567,7 +513,7 @@
     "id": "8df94ad9495b3b9395cba882c09045ff"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/93af894326fb1d37019dae180dcf91a7.jpg",
@@ -594,7 +540,7 @@
     "id": "c87b468b76554e6d9ccad3e784097cd0"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/df685837936125d6dd6632e8ecddb3b6.jpg",
@@ -621,7 +567,7 @@
     "id": "43a06f0740a5b23bdc29c0b010158048"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/33b91b6d8a28425de50ba6d1a461d6c8.jpg",
@@ -648,7 +594,7 @@
     "id": "673468ed8f01b7b41af7344961c11ccb"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/de54ae4f9cbb17d5a4ba71b60bd88a00.jpg",
@@ -675,7 +621,7 @@
     "id": "83c795f2d0d72c3c226062d6ce700cc3"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/b7371d714e120e4d9fb118e98bc5b3ee.jpg",
@@ -702,7 +648,7 @@
     "id": "24720e946d8800902286987ee59d35b7"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/f81e4efcdf66e32d71f385141e5e5d26.jpg",
@@ -733,7 +679,7 @@
     "id": "620c7b1982c5fff9ccd7a7f8837ac56f"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/f9d906bcf57cb6f2c2262915a9b6ac75.jpg",
@@ -760,7 +706,7 @@
     "id": "953632eea538d3b7639b27f3fce6427c"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/011cf12571d92d0a0b38ce515a75e254.jpg",
@@ -787,7 +733,7 @@
     "id": "2edb194bcd60dd9021f073603684e7ca"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/e5be6dd0a716870637eff64e9b10050f.jpg",
@@ -818,7 +764,7 @@
     "id": "c6cd83ec4f48783f2d03282f7ba9bb6a"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/f8f25d016ea45192e3edda3fe9f3f1d0.jpg",
@@ -845,7 +791,7 @@
     "id": "30d3e76371c210ab6afca75baeb5938c"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/bbcca8da1fd74ac47ad9b6516c269d25.jpg",
@@ -876,7 +822,7 @@
     "id": "592c5535461a8d7a15d496c3d5862a0e"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/42a0339cdc2059a16c044804ea06e10d.jpg",
@@ -903,7 +849,7 @@
     "id": "36e5aedad346ac99cf5c037f5452cb04"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/28104108323ae78ba08e1c67272846ab.jpg",
@@ -934,7 +880,7 @@
     "id": "b1d99c62c91495a0bf867a8449d50e94"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/fdc8538ea70294153963ac7e41d8127c.jpg",
@@ -961,7 +907,7 @@
     "id": "2c6d002ad797e146bc3e0782b65041ca"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/751ee4e24719690ae05550ccf5d931d5.jpg",
@@ -988,34 +934,34 @@
     "id": "aa78fcc3d67a2ddc3497893642c228e4"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "Где разрешается стоянка в целях длительного отдыха или ночлега на дорогах вне населенного пункта?",
+    "image": "./images/C_D/7df7140512f94181289ec4934de83312.jpg",
+    "question": "Данная горизонтальная разметка синего цвета:",
     "answers": [
       {
-        "answer_text": "Только на хорошо просматриваемом месте на обочине",
+        "answer_text": "Разделяет транспортные\nпотоки попутного направления",
         "is_correct": false
       },
       {
-        "answer_text": "Только на предусмотренных для этого площадках или за пределами дороги",
+        "answer_text": "Обозначает зону парковки, используемую на платной основе",
         "is_correct": true
       },
       {
-        "answer_text": "В любом из перечисленных мест",
+        "answer_text": "Обозначает места, где запрещена стоянка транспортных средств",
         "is_correct": false
       }
     ],
     "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Стоянка с целью длительного отдыха, ночлега и тому подобное вне населенного пункта разрешается только на предусмотренных для этого площадках или за пределами дороги.(Пункт 12.3 ПДД)",
+    "answer_tip": "Разметка 1.7 синего цвета обозначает, что зона парковки используется на платной основе.",
     "topic": [
       "Остановка и стоянка"
     ],
-    "id": "fa5fe0402cb7a1582bbb48579c51abf7"
+    "id": "48f5c4fb143325df6ae82c24a15cc207"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/93d15e493f0c9855a2fb0e28f88a1433.jpg",
@@ -1046,7 +992,7 @@
     "id": "90d3dd0e0dab81ecb54145fcccc53e90"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/ee4a0733433a341c8735860a8da4d112.jpg",
@@ -1073,7 +1019,7 @@
     "id": "7a7f3d5f25f6b1ad3cf4f7a8a549b0c5"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/40a644c98da75ab88abcd3d89d92e54f.jpg",
@@ -1100,7 +1046,7 @@
     "id": "bd17bc717746c9961c20e1d743db48f4"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/7793c6f4b0c03c341ff8311e4d7c3401.jpg",
@@ -1127,7 +1073,7 @@
     "id": "4920a14a52e670f73b6fb2f88c441726"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/35392d75d910f53b96782f7cb735f7c8.jpg",
@@ -1158,7 +1104,7 @@
     "id": "a574c52b462ecc8906d20f77f7a3ee29"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/aa9d0721e059413f70eb7052110fc733.jpg",
@@ -1185,7 +1131,7 @@
     "id": "0cd6099bf230a1e36be1296abb96f764"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/708f22505a34473dec17f7d40831e415.jpg",
@@ -1212,7 +1158,7 @@
     "id": "a1e467acb91b05cc1fc0afd610714f15"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/29218756b0d87d8f7e8bae49dce1bd1c.jpg",
@@ -1243,7 +1189,7 @@
     "id": "da8cbbc25b6b1d2a1e73daa86b7d9ea0"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/8754cd57f409fdde1c687af51024ea92.jpg",
@@ -1274,7 +1220,7 @@
     "id": "d02d851cddd08561e0e88e77916bb347"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -1305,7 +1251,7 @@
     "id": "67e9e600188b90e4c6c8840d0f75aeb5"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/0d3a9ea1109166c23adc8a43a6a86435.jpg",
@@ -1332,7 +1278,7 @@
     "id": "889f18745b966f0d7bc25f977e840673"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/9abdc411d59a321eb181cbedc9880fc5.jpg",
@@ -1359,7 +1305,7 @@
     "id": "b03a65410bc1e7ef71009247c896635c"
   },
   {
-    "title": "Вопрос 50",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/65f22937e71cf798fa76e291f580bf6d.jpg",
@@ -1386,7 +1332,7 @@
     "id": "3bd5fde76ae3cc923aa131a822a04c36"
   },
   {
-    "title": "Вопрос 51",
+    "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/1a36655712ef34fab2757742a9503a6a.jpg",
@@ -1417,7 +1363,7 @@
     "id": "bf9cb79bc06e832480429aa6fb54d5be"
   },
   {
-    "title": "Вопрос 52",
+    "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/4f50a969cc9a21c4d40b51e1499f6c8c.jpg",
@@ -1444,7 +1390,7 @@
     "id": "fc6178a44afea0f9b27abd3554c85a3c"
   },
   {
-    "title": "Вопрос 53",
+    "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/de03e6160ebd0c8b93d0ceb5e94b7408.jpg",
@@ -1471,7 +1417,7 @@
     "id": "bcbe99eb7ca775639a8e34264f501fe8"
   },
   {
-    "title": "Вопрос 54",
+    "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/aa35f2fc1d526cbeb873716e1fc842ae.jpg",
@@ -1498,7 +1444,7 @@
     "id": "cdce46c1a42d190fa62da23b82bcc6c5"
   },
   {
-    "title": "Вопрос 55",
+    "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/9df72cdcf56fb34a10a85e325505f960.jpg",
@@ -1525,7 +1471,7 @@
     "id": "8206dcb11eb7940abab0c932c9731bac"
   },
   {
-    "title": "Вопрос 56",
+    "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/02c91a2936dd268486d2b2dc9f2f2ff3.jpg",
@@ -1556,7 +1502,7 @@
     "id": "7d796ec720745d48640215f005715dc2"
   },
   {
-    "title": "Вопрос 57",
+    "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/a696e15fe77d46c48235c27bf56176b1.jpg",
@@ -1583,7 +1529,7 @@
     "id": "f39b87c9788c194ba2dd5a067acdd40f"
   },
   {
-    "title": "Вопрос 58",
+    "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/589aad105a9776ceda3d23c665682452.jpg",
@@ -1610,7 +1556,7 @@
     "id": "76114a4c1d3ad5f5f23a55299845cb32"
   },
   {
-    "title": "Вопрос 59",
+    "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/6c42baf213b86b0e9651bee9c7f9eac6.jpg",
@@ -1641,7 +1587,7 @@
     "id": "574723fbb679603e95601fc95fd11fa3"
   },
   {
-    "title": "Вопрос 60",
+    "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/7b050b8c7199655066d7c0459088d2f5.jpg",
@@ -1668,7 +1614,7 @@
     "id": "9741e7e3d007b8fca8a2ebc2e5118484"
   },
   {
-    "title": "Вопрос 61",
+    "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/a80500a20464816f273718f778f6bae4.jpg",
@@ -1695,7 +1641,7 @@
     "id": "6a4c96cfb6008a40a9237e8c367ed53e"
   },
   {
-    "title": "Вопрос 62",
+    "title": "Вопрос 60",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/45fbd7f0b116b22d918a5c7702bb3ece.jpg",
@@ -1726,7 +1672,7 @@
     "id": "673cb31df3383f1234452ff04e3718ff"
   },
   {
-    "title": "Вопрос 63",
+    "title": "Вопрос 61",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/1c5fa130c431b51ba67ffe6079d7e81e.jpg",
@@ -1753,7 +1699,7 @@
     "id": "2f50f25a3aba95a2453fbf2b0d0755d8"
   },
   {
-    "title": "Вопрос 64",
+    "title": "Вопрос 62",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/eafcf9f4a79b8f4a54214e71743bcc04.jpg",
@@ -1780,7 +1726,7 @@
     "id": "880921388a75ac43c6e5bd2fb7e82846"
   },
   {
-    "title": "Вопрос 65",
+    "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/57f44be84b8ed50ab9e8e1359f4e640c.jpg",
@@ -1807,7 +1753,7 @@
     "id": "bf97d7ab9d2f4e5d480300265dc78d07"
   },
   {
-    "title": "Вопрос 66",
+    "title": "Вопрос 64",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/6a125e99ddcb0b3c33c31d6a11ee243f.jpg",
@@ -1834,7 +1780,7 @@
     "id": "4061c62551a0e8a1c1f7d6a0420c4ec0"
   },
   {
-    "title": "Вопрос 67",
+    "title": "Вопрос 65",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/c89bf36cb44e5d9b3bb4033e78898d92.jpg",
@@ -1861,7 +1807,7 @@
     "id": "f5d36c60f6be7fa19f1812423343d654"
   },
   {
-    "title": "Вопрос 68",
+    "title": "Вопрос 66",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/a1c774f64f3e12555331efdeda318f80.jpg",
@@ -1888,7 +1834,7 @@
     "id": "03018a402611d50309be83db59abc924"
   },
   {
-    "title": "Вопрос 69",
+    "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -1915,7 +1861,7 @@
     "id": "23c1513fa0166034bce50ea125a8048d"
   },
   {
-    "title": "Вопрос 70",
+    "title": "Вопрос 68",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/0987eee105f8470f19b4dc9ae50d107b.jpg",
@@ -1942,7 +1888,7 @@
     "id": "81c1d2c12026c9fd189eee415c6568cb"
   },
   {
-    "title": "Вопрос 71",
+    "title": "Вопрос 69",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/04678f8d80f5529e460eefba0469b4fe.jpg",
@@ -1969,7 +1915,7 @@
     "id": "bd4f573520417e67f4a9e559f5d4d7cc"
   },
   {
-    "title": "Вопрос 72",
+    "title": "Вопрос 70",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/0bdbcb2313ade7e0a2392f19f01f1bb3.jpg",
@@ -2000,7 +1946,7 @@
     "id": "922e64cb044b50638091daa39f08f777"
   },
   {
-    "title": "Вопрос 73",
+    "title": "Вопрос 71",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/C_D/d9b41ace0fcfb02dfaac7e1d6b62abc6.jpg",
