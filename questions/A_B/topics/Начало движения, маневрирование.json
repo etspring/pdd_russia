@@ -3,33 +3,6 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/725d54cf06b01e98374c9225c8d49798.jpg",
-    "question": "Двигаясь в населенном пункте, вы можете продолжить движение:",
-    "answers": [
-      {
-        "answer_text": "Только в направлении Б",
-        "is_correct": true
-      },
-      {
-        "answer_text": "В направлениях А или Б",
-        "is_correct": false
-      },
-      {
-        "answer_text": "В любом направлении из указанных",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Знак 4.1.4 «Движение прямо или направо» распространяет свое действие на первое пересечение проезжих частей, перед которыми он установлен. От действия знака могут отступать маршрутные транспортные средства. Поэтому для Вас разметка 1.11 (сплошная линия с прерывистой) значения не имеет. (Есть она или нет, к примеру, занесена снегом). Развернуться по траектории «В», Вам нельзя. Нельзя совершить и поворот направо, т. к. вы не находитесь на крайней правой полосе, можете продолжить движение только в направлении «Б».(«Дорожные знаки»)",
-    "topic": [
-      "Начало движения, маневрирование"
-    ],
-    "id": "c8e222d12b27f9800c3612cb0813081a"
-  },
-  {
-    "title": "Вопрос 2",
-    "ticket_number": null,
-    "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
     "question": "Водитель обязан подавать сигналы световыми указателями поворота (рукой):",
     "answers": [
@@ -58,7 +31,7 @@
     "id": "ca976eeda460719cc594c0a40bb82616"
   },
   {
-    "title": "Вопрос 3",
+    "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/73c4c907dba18267314d10a8b09aea23.jpg",
@@ -85,7 +58,7 @@
     "id": "3293326b6507e3a5a7f55c56f210881a"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -112,7 +85,7 @@
     "id": "b5c1dff6251b9488e008ee276d49b97d"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/865e627f03d58132c556e30b336e946a.jpg",
@@ -139,7 +112,7 @@
     "id": "90d2364cae6370fdeb912e5fd283b3b3"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/f5b851c076daed6a37e5d257a1a6ac40.jpg",
@@ -166,7 +139,7 @@
     "id": "9fadeb78415386ced1c7988c64754fa4"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/815b0c662f4110b4065f47e9f0d5b411.jpg",
@@ -193,7 +166,7 @@
     "id": "cb57e6a2fa841818a28e7b2c49adc97b"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -220,7 +193,7 @@
     "id": "648589c1c04f3016a0a9db9432086dd8"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/701cfc285d4031d48072f8b0a1b9de52.jpg",
@@ -247,7 +220,7 @@
     "id": "ddba5acfc28e009636cce621e0b785e4"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -274,7 +247,7 @@
     "id": "4902ccf8d10a66f0cdbc5c01b20ce02d"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d2a625a236c040561c3b816ee1628e8b.jpg",
@@ -301,7 +274,7 @@
     "id": "4a8183284b98e8d591aae99e978c79f9"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2aa10519e6590fdd7a0e4b0130c045ef.jpg",
@@ -328,7 +301,7 @@
     "id": "646c61864ee467f5dff54f05d82bb3a6"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2b0f3c08d7d87bc3b72cc967f4aa8ff9.jpg",
@@ -355,7 +328,7 @@
     "id": "70ff7967e6af90c07cbb6e9416d46874"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -382,7 +355,7 @@
     "id": "7fef027970ac8688559ad8391be9527b"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e528564f75b6d8e88501e68c43f668bc.jpg",
@@ -409,7 +382,7 @@
     "id": "9af41013614f90bb60ae60236606112c"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/5076bba07f9a120d06525208a45f48da.jpg",
@@ -436,7 +409,7 @@
     "id": "5bb243aef7431cd418b53fa1998f5e26"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -463,7 +436,7 @@
     "id": "c0b30cfafb49c881b96acc51adb74b06"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/246b9e4aa52dae7cb8b4ed26216f3d5e.jpg",
@@ -490,7 +463,7 @@
     "id": "043d643bb464d056209bda5e636b9209"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/f713876149d9bf8f88fb53682357348f.jpg",
@@ -517,7 +490,7 @@
     "id": "9e90595d3479ca4f87cfbf95312da7ea"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -544,7 +517,7 @@
     "id": "d963598de0ba5f0b0da32670569e87e5"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6990f25d7841de055ce96398249f4608.jpg",
@@ -571,7 +544,7 @@
     "id": "632584debd56f368e78c4f8ca3bad3ca"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/8dcad54c06148fbc02af406d9b35d7e7.jpg",
@@ -598,7 +571,7 @@
     "id": "cdcd81894d611369779ffd8f740425dc"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/4d340b98b19edf9a412eb8edbdb1f8b3.jpg",
@@ -625,7 +598,7 @@
     "id": "6fb2272d6086b9b0387783e1d46aa3a7"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/70865a506c998edb746739921147e03a.jpg",
@@ -652,7 +625,7 @@
     "id": "30ce8a93cdfab5aa195cc7799394b145"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -679,7 +652,7 @@
     "id": "333911236cfc99151b313df8740cbab3"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -706,7 +679,7 @@
     "id": "b27c8f7165405b0eea9e8c69c5403f28"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/c82b6f0b69a786204d6e3bc86d40ddcf.jpg",
@@ -733,7 +706,7 @@
     "id": "ec0ccb04da9d8a70e08017f0a39061b0"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/232019703b3080a2a564855ccbcd9d7f.jpg",
@@ -760,7 +733,7 @@
     "id": "94280282d9b0fd4a766a52cc6ddeb983"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -787,7 +760,7 @@
     "id": "648574a877bbb62e3b314264a89f7e0c"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d0efc35b84dd44ebda7b22168924ab36.jpg",
@@ -814,7 +787,7 @@
     "id": "361aa35ffcd00ed75c270eb18b2e1307"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/747cba74c18f8bbe9f59fe2db72e841d.jpg",
@@ -841,7 +814,7 @@
     "id": "0e99299f0585ad761c2db06ac5df7b44"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2313c0ee31c57c00b977f13516df9ad9.jpg",
@@ -868,7 +841,7 @@
     "id": "6c2fa98c02de77712ba786713e055f06"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b61a6e1c048076e6b8ba01ef6e3ae2d1.jpg",
@@ -895,7 +868,7 @@
     "id": "14452bb58352a0cd0f19b3f3c48f2459"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/328947fa3921f7c37a9d825b2e8b030b.jpg",
@@ -922,7 +895,7 @@
     "id": "01e543cf4b0d829df5645fc2c4562be7"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/09a7e56d2c58551322f966dfa011da5f.jpg",
@@ -949,7 +922,7 @@
     "id": "ee9dc482c054bd9c183464bac24b25a6"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d834e58783acb06c2377bc9f25facc06.jpg",
@@ -972,7 +945,7 @@
     "id": "9e389e1c16e9167531c08bcf8422cd2c"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/568531e4128e515b517fd19ea3d777e0.jpg",
@@ -999,7 +972,7 @@
     "id": "06a70d602087cfea97f58f5d3eebc8a2"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/a450a0e7eb0e4235fa9bec6c20dfa1ff.jpg",
@@ -1026,7 +999,7 @@
     "id": "17a1d1a9b907bab9cd4c3549e3b51fb3"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/ac77f80c11456ca7928c6c4277516cac.jpg",
@@ -1053,7 +1026,7 @@
     "id": "744b56480eff4d06f68d4d9a77e5c658"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
@@ -1080,7 +1053,7 @@
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/85419ab5a04e09ea28f0c9617b6e8392.jpg",
@@ -1107,7 +1080,7 @@
     "id": "fdbe4495619fe89e09c759e2d45b85c1"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
@@ -1134,7 +1107,7 @@
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6e34e82ac37d347d62466671b1bc5515.jpg",
@@ -1161,7 +1134,7 @@
     "id": "6c30a3fdc531f5746e42aa0c15ae83ce"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2adaa246a624f1f6759b6b1cff797dbd.jpg",
@@ -1188,7 +1161,7 @@
     "id": "1c039b62c895602472e8441ffe43ad14"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/e632b7c72a0749d5dedc7fe5605c70e5.jpg",
@@ -1215,7 +1188,7 @@
     "id": "533edbb5b0d53cc157822bfc4c38474c"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/1164f37fcc05a994db6405a510100b22.jpg",
@@ -1242,7 +1215,7 @@
     "id": "cbce3c78c6539efdb47bc9045d62301d"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/c18b6b32710d9d3be9e9398ea8501c19.jpg",
@@ -1269,7 +1242,7 @@
     "id": "ee8e73a9a85c8b19e396962d1ffe9c84"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b60cc6691fa57d472e10bdc652a5581e.jpg",
@@ -1292,7 +1265,7 @@
     "id": "043130ef77318a9fe9177ed542cfc9b7"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0f78f15e652ec6c7a80c7e8bc69cd08a.jpg",
@@ -1319,7 +1292,7 @@
     "id": "ee126a4230a598c094c68c68686c149d"
   },
   {
-    "title": "Вопрос 50",
+    "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3a89c941df72d7ba6dadfff35c03e40b.jpg",
@@ -1346,7 +1319,7 @@
     "id": "2617be658bb6737ab73c526cd282d467"
   },
   {
-    "title": "Вопрос 51",
+    "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6433c8a4315c9de2ede205e2f3ea9187.jpg",
@@ -1373,7 +1346,7 @@
     "id": "1a342f3a407df4c3154abf8c0e739b0c"
   },
   {
-    "title": "Вопрос 52",
+    "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3c42fb6a0f6a5a8830b3d205bae7f6c3.jpg",
@@ -1400,7 +1373,7 @@
     "id": "6130f16e6e2ae77450efb6f0c4998e38"
   },
   {
-    "title": "Вопрос 53",
+    "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/1dd6b687890715e1401c53ffbccace73.jpg",
@@ -1427,7 +1400,7 @@
     "id": "9f829716fb2580d2d195e6f9b98e65e1"
   },
   {
-    "title": "Вопрос 54",
+    "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/f4bc800015e352a0fe4da2a3c3aed466.jpg",
@@ -1454,7 +1427,7 @@
     "id": "f138f2d78060ee34ddaa4aea06ac6b7b"
   },
   {
-    "title": "Вопрос 55",
+    "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/400b6e6e38f6ca4e3c818f7dffe4074b.jpg",
@@ -1481,7 +1454,7 @@
     "id": "97af027edf5b74eb7fd25f9082223216"
   },
   {
-    "title": "Вопрос 56",
+    "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/265d85a402e37d1bedf446609aaa161b.jpg",
@@ -1508,7 +1481,7 @@
     "id": "7df480a87286bf1d2ab008f718bb3389"
   },
   {
-    "title": "Вопрос 57",
+    "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b95d27c6cd83436b637c2c4275d7841c.jpg",
@@ -1531,7 +1504,7 @@
     "id": "817090ed729b5f85e18039159fd22e48"
   },
   {
-    "title": "Вопрос 58",
+    "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2d04d27d365512103ddad984b4117ebd.jpg",
@@ -1558,7 +1531,7 @@
     "id": "9efe1680c2569184513bcdc684eb56ac"
   },
   {
-    "title": "Вопрос 59",
+    "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/05cb84846907e5244d2b42ae8732cc2e.jpg",
@@ -1581,7 +1554,7 @@
     "id": "7fa50cbef5803e5be9c55787170713c7"
   },
   {
-    "title": "Вопрос 60",
+    "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/75ffa9ae59ac6ee4985e2954c4fd90b1.jpg",
@@ -1604,7 +1577,7 @@
     "id": "066e8516d6848e710ad6d2e1201c00aa"
   },
   {
-    "title": "Вопрос 61",
+    "title": "Вопрос 60",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/1464c9c8b3c83d77349a5129c1a284a8.jpg",
@@ -1635,7 +1608,7 @@
     "id": "efad9b6b062a6b2ddcde1a7df4220dae"
   },
   {
-    "title": "Вопрос 62",
+    "title": "Вопрос 61",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3c97c72379175042c43a75a5b560d084.jpg",
@@ -1662,7 +1635,7 @@
     "id": "63744162ad7f15c3fa7861e2b1070718"
   },
   {
-    "title": "Вопрос 63",
+    "title": "Вопрос 62",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/33c8a5f2cb5d07d786ec8906139722ff.jpg",
@@ -1689,7 +1662,7 @@
     "id": "d40453b7a8fd7cc46de44111d935e0cf"
   },
   {
-    "title": "Вопрос 64",
+    "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1709,14 +1682,14 @@
       }
     ],
     "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Выезжая с прилегающей территории, Вам необходимо уступить дорогу ТС, лицам, использующим для передвижения средства индивидуальной мобильности и пешеходам(Пункт 8.3 ПДД)",
+    "answer_tip": "При выезде на дорогу с прилегающей территории водитель должен уступить дорогу: транспортным средствам, лицам, использующим для передвижения средства индивидуальной мобильности и пешеходам.(Пункт 8.3 ПДД)",
     "topic": [
       "Начало движения, маневрирование"
     ],
     "id": "4fc72669247d8c7d0f5829512604923e"
   },
   {
-    "title": "Вопрос 65",
+    "title": "Вопрос 64",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3a789855313d56b4d6b21a382397f9d1.jpg",
@@ -1739,7 +1712,7 @@
     "id": "531bd2aaafd921b0c11432859488fa13"
   },
   {
-    "title": "Вопрос 66",
+    "title": "Вопрос 65",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/fa8e614c162efa9963c34741f225ae70.jpg",
@@ -1766,7 +1739,7 @@
     "id": "3cfb7001cda943a18b2b1cb5980926de"
   },
   {
-    "title": "Вопрос 67",
+    "title": "Вопрос 66",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/af343153fdc4115986507e1eb8d05d6a.jpg",
@@ -1793,7 +1766,7 @@
     "id": "e25150e8d953d32f233ca128d885b4f0"
   },
   {
-    "title": "Вопрос 68",
+    "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/4e15d45df5db3c7fefd5855eb0fe2f24.jpg",
@@ -1820,7 +1793,7 @@
     "id": "52db334fc6e09a00b53bfafef7fe16c4"
   },
   {
-    "title": "Вопрос 69",
+    "title": "Вопрос 68",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/5f295f34223d32dc21ed8190cbca837e.jpg",
@@ -1847,7 +1820,7 @@
     "id": "529bd4770f0804cf29d5394803603c5c"
   },
   {
-    "title": "Вопрос 70",
+    "title": "Вопрос 69",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/45cbca0db117189d812b04f0754870d2.jpg",
@@ -1878,7 +1851,7 @@
     "id": "f1988d048362094818e2ede4f8bcab04"
   },
   {
-    "title": "Вопрос 71",
+    "title": "Вопрос 70",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/5ece9b9e7d648f3ce4c78e4569a0f68f.jpg",
@@ -1905,7 +1878,7 @@
     "id": "37418b099a680ea57a4e3891fd349d25"
   },
   {
-    "title": "Вопрос 72",
+    "title": "Вопрос 71",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/a39b43925866fd589d602b7340b7ff7c.jpg",
@@ -1932,7 +1905,7 @@
     "id": "fc9c06b46f78ad9a1f2bd9b5925c065d"
   },
   {
-    "title": "Вопрос 73",
+    "title": "Вопрос 72",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0de3a44f154b8a1dc98c83ccb64a0c6c.jpg",
@@ -1959,7 +1932,7 @@
     "id": "461cfbf602ac658c04d0db29322e9b2e"
   },
   {
-    "title": "Вопрос 74",
+    "title": "Вопрос 73",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/693a2649d53e8a112f2358389b9b20f7.jpg",
@@ -1986,7 +1959,7 @@
     "id": "42ef4bc4fc6eee75d4c886c69ae06262"
   },
   {
-    "title": "Вопрос 75",
+    "title": "Вопрос 74",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0ed1092b9a399736ca37393c2963c296.jpg",
@@ -2013,7 +1986,7 @@
     "id": "5838425067692c393ec6f42cf4c8f410"
   },
   {
-    "title": "Вопрос 76",
+    "title": "Вопрос 75",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3967ea92f049121b27547528fd472093.jpg",
@@ -2040,7 +2013,7 @@
     "id": "5ccc967d70f19d41f276ce69b2ad1334"
   },
   {
-    "title": "Вопрос 77",
+    "title": "Вопрос 76",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/09e32bf1387c6f8f4485d63390c6aa13.jpg",
@@ -2067,7 +2040,7 @@
     "id": "8990770b5c14676a3c0265ef49ad17fc"
   },
   {
-    "title": "Вопрос 78",
+    "title": "Вопрос 77",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/9dd03825285f67f4f1fb4962d35c32e3.jpg",
@@ -2094,7 +2067,7 @@
     "id": "65d9f6968baf5b7650a9dc870bbc0e6f"
   },
   {
-    "title": "Вопрос 79",
+    "title": "Вопрос 78",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/520cdde8ace0f46b8eee90f7604cb596.jpg",
@@ -2121,7 +2094,7 @@
     "id": "e79644cf9bb01181aef22d4ea7bdc7f6"
   },
   {
-    "title": "Вопрос 80",
+    "title": "Вопрос 79",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b400f5195566bf810b9cb1c36ee9ecd5.jpg",
@@ -2148,7 +2121,7 @@
     "id": "2f6ba58bcd4597e7b6133c9dbb2cb5c6"
   },
   {
-    "title": "Вопрос 81",
+    "title": "Вопрос 80",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/12a558f5947f8949b9159b01a8186a99.jpg",
@@ -2175,7 +2148,7 @@
     "id": "d205a2066b8627d0da3ef687ba3d2c82"
   },
   {
-    "title": "Вопрос 82",
+    "title": "Вопрос 81",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b52f8913fdd60784ce519a5ec775c75d.jpg",
@@ -2202,7 +2175,7 @@
     "id": "d076db93e865ce173ef802f21efe95df"
   },
   {
-    "title": "Вопрос 83",
+    "title": "Вопрос 82",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/32ef6f3b61534285746eceb37d5ce183.jpg",
@@ -2229,7 +2202,7 @@
     "id": "a397830e8d1ecd3df6062ab68221da55"
   },
   {
-    "title": "Вопрос 84",
+    "title": "Вопрос 83",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/8f0ff8f89e30a8c8a755fa781b2745ae.jpg",
@@ -2256,7 +2229,7 @@
     "id": "b69a025195b78740b40aa0df3cc36778"
   },
   {
-    "title": "Вопрос 85",
+    "title": "Вопрос 84",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/dee7e175465e546b541228e68a67edbc.jpg",
@@ -2283,7 +2256,7 @@
     "id": "af88aaf73d8f72094e4b0a5096a47c39"
   },
   {
-    "title": "Вопрос 86",
+    "title": "Вопрос 85",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/9cd53e74212814d14900204fc64976c1.jpg",
@@ -2310,7 +2283,7 @@
     "id": "9c5ccf7ac0c8810fb6f07fbcebd87f06"
   },
   {
-    "title": "Вопрос 87",
+    "title": "Вопрос 86",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/7b65d963dfd2884d611eaf29258ab2ad.jpg",
@@ -2337,7 +2310,7 @@
     "id": "92356c3a8ebed311599a61484111a14f"
   },
   {
-    "title": "Вопрос 88",
+    "title": "Вопрос 87",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/10c93fd2e8cb0fc0fb705d68be3d970e.jpg",
@@ -2364,7 +2337,7 @@
     "id": "dc592620cb943ceda9402b04b1508ee2"
   },
   {
-    "title": "Вопрос 89",
+    "title": "Вопрос 88",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0669a464a8082da2a46edccdd4558b11.jpg",
@@ -2391,7 +2364,7 @@
     "id": "af5b0face5ae13d0318fce0a78f3a416"
   },
   {
-    "title": "Вопрос 90",
+    "title": "Вопрос 89",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/ed3d718a169c7a7515f31f6994ded365.jpg",
@@ -2422,7 +2395,7 @@
     "id": "8f551124f9d2162abe209cce761d9513"
   },
   {
-    "title": "Вопрос 91",
+    "title": "Вопрос 90",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/2d5fb45e4f325d94099db8c39fd400c0.jpg",
@@ -2449,7 +2422,7 @@
     "id": "ee0e5990842df97eef4aed8a7506ff16"
   },
   {
-    "title": "Вопрос 92",
+    "title": "Вопрос 91",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d378a7ff917731810d151e85331013fb.jpg",
@@ -2476,7 +2449,7 @@
     "id": "11869dc41b6e77d55c2e3d34b3a005d4"
   },
   {
-    "title": "Вопрос 93",
+    "title": "Вопрос 92",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2507,7 +2480,7 @@
     "id": "2f07d432d0a224b7e2428582c05bd903"
   },
   {
-    "title": "Вопрос 94",
+    "title": "Вопрос 93",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/4f47670b39a068656f8884a8f8c10107.jpg",
@@ -2534,7 +2507,7 @@
     "id": "90ad7ea14a576825c99e52345b847cdf"
   },
   {
-    "title": "Вопрос 95",
+    "title": "Вопрос 94",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/b897850c898749bf9318888c7a2f84f8.jpg",
@@ -2565,7 +2538,7 @@
     "id": "98e663d9e71d48aea7658d3add0b8c6d"
   },
   {
-    "title": "Вопрос 96",
+    "title": "Вопрос 95",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/98bb5a44d6b1c4bed7c35142f80aa529.jpg",
@@ -2596,7 +2569,7 @@
     "id": "d3e142c6ed6beed5a5932c97a61b3f43"
   },
   {
-    "title": "Вопрос 97",
+    "title": "Вопрос 96",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/7d95c7e6c210f8819ac26e23be0d98fb.jpg",
@@ -2623,7 +2596,7 @@
     "id": "5aecb82ecc62fdbc9cbb38da332c7ffe"
   },
   {
-    "title": "Вопрос 98",
+    "title": "Вопрос 97",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/998b91ea9075063c5f458d6cf9cccde5.jpg",
@@ -2650,7 +2623,7 @@
     "id": "e0edbc064114032f98e685fd192aaf24"
   },
   {
-    "title": "Вопрос 99",
+    "title": "Вопрос 98",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/0829b48da9a7acb2498ee29a1b7d10ed.jpg",
@@ -2677,7 +2650,7 @@
     "id": "e19196306e3ed1dd1b8233747ccd19dd"
   },
   {
-    "title": "Вопрос 100",
+    "title": "Вопрос 99",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/50e53b449d35319ad1ae0223b174246b.jpg",
@@ -2704,7 +2677,7 @@
     "id": "4d36908846dde1015bae088d4aa6aa9f"
   },
   {
-    "title": "Вопрос 101",
+    "title": "Вопрос 100",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3eb70f430b0427cee6afa9cc3af305e9.jpg",
@@ -2731,7 +2704,7 @@
     "id": "376a1614d403d0b92ddd30408215944a"
   },
   {
-    "title": "Вопрос 102",
+    "title": "Вопрос 101",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/735e8ac5b261318324912e579ade29a1.jpg",
@@ -2758,7 +2731,7 @@
     "id": "2a5158fac700eb172a786bcad80ff1bc"
   },
   {
-    "title": "Вопрос 103",
+    "title": "Вопрос 102",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/f4e8d3b288362f2572ccceb547348cae.jpg",
@@ -2785,7 +2758,7 @@
     "id": "0ad10294b8f9dfc4becccd70d5472c4f"
   },
   {
-    "title": "Вопрос 104",
+    "title": "Вопрос 103",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/9e0b69c07aa6b295b327d32118395f6b.jpg",
@@ -2816,7 +2789,7 @@
     "id": "3b9f8be4dd74e747096b0a71dbfa6c01"
   },
   {
-    "title": "Вопрос 105",
+    "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/1ca7f207d1d6cb37e12f5835c42a041c.jpg",
@@ -2847,7 +2820,7 @@
     "id": "51e5bf80a8517bf0c64c81235a653e4a"
   },
   {
-    "title": "Вопрос 106",
+    "title": "Вопрос 105",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/d0cc50dee93f2a2f9d05a7fa7acda818.jpg",
@@ -2874,7 +2847,7 @@
     "id": "a439fefbdd6228827ef219099dd522a4"
   },
   {
-    "title": "Вопрос 107",
+    "title": "Вопрос 106",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2901,7 +2874,7 @@
     "id": "0f3e9752eb76852048c741a77865ea04"
   },
   {
-    "title": "Вопрос 108",
+    "title": "Вопрос 107",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2928,7 +2901,7 @@
     "id": "4c6d8ce57660925a91be8413497cfa82"
   },
   {
-    "title": "Вопрос 109",
+    "title": "Вопрос 108",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/facc734c174b32a59fc528a68b80feeb.jpg",
@@ -2955,7 +2928,7 @@
     "id": "0bb4ba75bc711b7f5398f4bba2a9c4d9"
   },
   {
-    "title": "Вопрос 110",
+    "title": "Вопрос 109",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/bd57128b5f3c84ab14d95c5342a063f4.jpg",
@@ -2982,7 +2955,7 @@
     "id": "210388eec8e249aeacbe75a2c990eeb5"
   },
   {
-    "title": "Вопрос 111",
+    "title": "Вопрос 110",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/515953587d8936d88cfd30a24c0f6d11.jpg",
@@ -3009,7 +2982,7 @@
     "id": "0630c8d0565877605a1621e241edfd75"
   },
   {
-    "title": "Вопрос 112",
+    "title": "Вопрос 111",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/6b466297702c7b98d6744adb34684f41.jpg",
@@ -3036,7 +3009,7 @@
     "id": "b1f4e326ed2825a9034cfd21f8864dca"
   },
   {
-    "title": "Вопрос 113",
+    "title": "Вопрос 112",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/A_B/3c5564ec4500c90ea9fdfcce769be80f.jpg",
@@ -3063,10 +3036,10 @@
     "id": "b18684295628bf9197e837be8532b67c"
   },
   {
-    "title": "Вопрос 114",
+    "title": "Вопрос 113",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/deb38e770466859245ac47cece618ad8.jpg",
+    "image": "./images/A_B/8eaffcf3aa668202d1a61db01ba76ce4.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -3083,7 +3056,7 @@
       }
     ],
     "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Движение трамвая на этом перекрестке регулируется специальным светофором одноцветной сигнализации с круглыми сигналами бело-лунного цвета, расположенными в виде буквы «Т». При таком сигнале движение трамваю разрешено в прямом направлении (п. 6.8). Зеленый сигнал светофора разрешает Вам движение (п. 6.2), однако с учетом наличия слева трамвайных путей попутного направления, расположенных на одном уровне с проезжей частью, поворот налево при отсутствии соответствующих знаков и разметки должен выполняться с них (п. 8.5). Поэтому нужно пропустить трамвай, перестроиться на трамвайные пути и выполнить с них поворот.",
+    "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо.Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении.Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5).",
     "topic": [
       "Начало движения, маневрирование"
     ],
