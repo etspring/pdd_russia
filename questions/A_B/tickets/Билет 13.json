@@ -333,14 +333,18 @@
     "ticket_number": "Билет 13",
     "ticket_category": "A,B",
     "image": "./images/A_B/657506834f78d08a97983b19a4cfd256.jpg",
-    "question": "Вы намерены проехать перекрёсток в прямом направлении. Ваши действия?",
+    "question": "В данной ситуации Вы не обязаны уступать дорогу трамваю при движении:",
     "answers": [
       {
-        "answer_text": "Проедете перекрёсток первым",
+        "answer_text": "Прямо или направо",
         "is_correct": true
       },
       {
-        "answer_text": "Уступите дорогу трамваю",
+        "answer_text": "Только прямо",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Только направо",
         "is_correct": false
       }
     ],
@@ -349,7 +353,7 @@
     "topic": [
       "Проезд перекрестков"
     ],
-    "id": "bf9e0b2c71461b7d2b4a7567f88ace04"
+    "id": "25b3ae65d4bbdc58906e2bf2311c011b"
   },
   {
     "title": "Вопрос 14",
