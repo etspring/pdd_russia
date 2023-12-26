@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает термин «Ограниченная видимость»?",
     "answers": [
       {
@@ -251,7 +251,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Допускается ли движение автомобилей по тротуарам или пешеходным дорожкам?",
     "answers": [
       {
@@ -444,7 +444,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли перевозить людей на грузовом прицепе?",
     "answers": [
       {
@@ -472,7 +472,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каком из перечисленных случаев разрешается эксплуатация автомобиля?",
     "answers": [
       {
@@ -484,7 +484,7 @@
         "is_correct": false
       },
       {
-        "answer_text": "На задней оси автомобиля установлены шины с восстановленным рисунком протектора",
+        "answer_text": "Зимние шины имеют восстановленные шипы противоскольжения",
         "is_correct": true
       }
     ],
@@ -493,13 +493,13 @@
     "topic": [
       "Неисправности и условия допуска транспортных средств к эксплуатации"
     ],
-    "id": "f45a0a50555b90ac6ffab0b7ab7e4313"
+    "id": "829093aaf38ee04ad212ade05a38e9f8"
   },
   {
     "title": "Вопрос 19",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как влияет длительный разгон транспортного средства с включенной первой передачей на расход топлива?",
     "answers": [
       {
@@ -526,7 +526,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Является ли безопасным движение на грузовом автомобиле в темное время суток с включенным ближним светом фар по неосвещенному участку автомагистрали со скоростью 90 км/ч?",
     "answers": [
       {

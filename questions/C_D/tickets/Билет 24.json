@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При движении на автобусе, оборудованном ремнями безопасности, должны быть пристегнуты:",
     "answers": [
       {
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает мигание желтого сигнала светофора?",
     "answers": [
       {
@@ -449,7 +449,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "На каком расстоянии до встречного транспортного средства следует переключать дальний свет фар на ближний?",
     "answers": [
       {
@@ -476,7 +476,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каком случае разрешается эксплуатация грузового автомобиля?",
     "answers": [
       {
@@ -507,7 +507,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что следует сделать водителю, чтобы предотвратить возникновение заноса при проезде крутого поворота?",
     "answers": [
       {
@@ -534,7 +534,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешено ли давать пострадавшему лекарственные средства при оказании ему первой помощи?",
     "answers": [
       {

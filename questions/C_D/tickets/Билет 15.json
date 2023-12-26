@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какой неподвижный объект, не позволяющий продолжить движение по полосе, не относится к понятию «Препятствие»?",
     "answers": [
       {
@@ -255,7 +255,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "К резкому торможению можно прибегнуть:",
     "answers": [
       {
@@ -282,7 +282,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли на двухполосной дороге выполнять обгон на перекрестках?",
     "answers": [
       {
@@ -345,10 +345,10 @@
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
     "image": "./images/C_D/447d142da8be722d5e5248c78bb5f6b5.jpg",
-    "question": "В каком случае Вы обязаны уступить дорогу трамваю?",
+    "question": "В каком случае Вы обязаны пропустить трамвай?",
     "answers": [
       {
-        "answer_text": "При повороте налево",
+        "answer_text": "При повороте налево, перестроившись на трамвайные пути попутного направления",
         "is_correct": false
       },
       {
@@ -365,7 +365,7 @@
     "topic": [
       "Проезд перекрестков"
     ],
-    "id": "51ebf32b740b7647008449a42e183a59"
+    "id": "0cb2b478dc17e3d0ecb6e342d5fe65bd"
   },
   {
     "title": "Вопрос 14",
@@ -461,7 +461,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Привлечь внимание водителя обгоняемого автомобиля при движении вне населенного пункта в светлое время суток можно:",
     "answers": [
       {
@@ -492,7 +492,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При каком максимальном значении суммарного люфта в рулевом управлении допускается эксплуатация грузового автомобиля?",
     "answers": [
       {
@@ -519,7 +519,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как следует выбирать передачу при торможении двигателем с учетом крутизны спуска?",
     "answers": [
       {
@@ -546,7 +546,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 15",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "О каких травмах у пострадавшего может свидетельствовать поза «лягушки» (ноги согнуты в коленях и разведены, а стопы развернуты подошвами друг к другу) и какую первую помощь необходимо при этом оказать?",
     "answers": [
       {

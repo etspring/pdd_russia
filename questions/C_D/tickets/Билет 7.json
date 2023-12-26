@@ -121,6 +121,10 @@
       {
         "answer_text": "Полосы движения в пределах перекрестка",
         "is_correct": true
+      },
+      {
+        "answer_text": "Предупреждение о приближении к разметке, разделяющей транспортные потоки противоположных или попутных направлений",
+        "is_correct": false
       }
     ],
     "correct_answer": "Правильный ответ: 2",
@@ -128,7 +132,7 @@
     "topic": [
       "Дорожная разметка"
     ],
-    "id": "4139871c62963d1dcf766ee0b4daa7b4"
+    "id": "b14218e9f390466a26a202f5fc743ebb"
   },
   {
     "title": "Вопрос 6",
@@ -161,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Когда следует выключить указатели левого поворота, выполняя обгон?",
     "answers": [
       {
@@ -242,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Каким грузовым автомобилям, перевозящим людей в кузове, разрешается движение вне населенных пунктов со скоростью не более 60 км/час?",
     "answers": [
       {
@@ -354,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/e2df8420edfff761f06e9f0b2c4c2df2.jpg",
+    "image": "./images/C_D/6fcaf8fe4850da4b9f363f33a1f95975.jpg",
     "question": "Разрешено ли Вам выехать на перекресток, за которым образовался затор:",
     "answers": [
       {
@@ -409,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Где могут двигаться пешеходы в жилой зоне?",
     "answers": [
       {
@@ -463,7 +467,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях разрешается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -471,7 +475,7 @@
         "is_correct": false
       },
       {
-        "answer_text": "Нарушена герметичность системы питания (топливной системы)",
+        "answer_text": "Система питания и выпуска отработавших газов негерметичны",
         "is_correct": false
       },
       {
@@ -479,7 +483,7 @@
         "is_correct": true
       },
       {
-        "answer_text": "Уровень внешнего шума превышает установленные нормы",
+        "answer_text": "Уровень шума выпуска отработавших газов превышает установленные нормы",
         "is_correct": false
       }
     ],
@@ -488,13 +492,13 @@
     "topic": [
       "Неисправности и условия допуска транспортных средств к эксплуатации"
     ],
-    "id": "72d058f7007b0ee350186bc5ec229bdf"
+    "id": "7411ed17fa3e4f859c6ffefd8db0b2a0"
   },
   {
     "title": "Вопрос 19",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Двигаться по глубокому снегу на грунтовой дороге следует:",
     "answers": [
       {
@@ -521,7 +525,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какую оптимальную позу следует придать пострадавшему, находящемуся в сознании, при подозрении на травму позвоночника?",
     "answers": [
       {

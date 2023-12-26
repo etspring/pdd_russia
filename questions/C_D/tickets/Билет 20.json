@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие условия являются обязательными для оформления документа о дорожно-транспортном происшествии (ДТП) без участия уполномоченных на то сотрудников полиции?",
     "answers": [
       {
@@ -120,7 +120,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Чем необходимо руководствоваться, если нанесенные на проезжей части белые и оранжевые линии разметки противоречат друг другу?",
     "answers": [
       {
@@ -313,7 +313,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешена ли стоянка автобусам на краю тротуара, граничащего с проезжей частью?",
     "answers": [
       {
@@ -450,7 +450,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Противотуманные фары и задние противотуманные фонари могут быть включены одновременно:",
     "answers": [
       {
@@ -477,7 +477,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие меры административного принуждения предусмотрены за управление транспортным средством, на котором установлены стекла (в том числе покрытые прозрачными цветными пленками), светопропускание которых не соответствует требованиям технического регламента о безопасности колесных транспортных средств?",
     "answers": [
       {
@@ -504,7 +504,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как правильно произвести экстренное торможение, если автомобиль оборудован антиблокировочной тормозной системой?",
     "answers": [
       {
@@ -531,7 +531,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 20",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При движении по какому участку дороги действие сильного бокового ветра наиболее опасно?",
     "answers": [
       {

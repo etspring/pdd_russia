@@ -112,7 +112,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает разметка в виде надписи «СТОП» на проезжей части?",
     "answers": [
       {
@@ -220,7 +220,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/C_D/69b062b40d4304b1244110310a6aaea8.jpg",
+    "image": "./images/C_D/e9de6be95a56dbd3e24fb01ccbdf031d.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -248,7 +248,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "По какой полосе проезжей части разрешено движение в населенном пункте, если по техническим причинам транспортное средство не может развивать скорость более 40 км/ч?",
     "answers": [
       {
@@ -415,7 +415,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие из перечисленных действий запрещены водителям транспортных средств в жилой зоне?",
     "answers": [
       {
@@ -447,7 +447,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какое расстояние должно быть обеспечено между буксирующим и буксируемым транспортными средствами при буксировке на жесткой сцепке?",
     "answers": [
       {
@@ -474,7 +474,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каком случае разрешается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -505,7 +505,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что следует предпринять водителю для предотвращения опасных последствий заноса автомобиля при резком повороте рулевого колеса на скользкой дороге?",
     "answers": [
       {
@@ -532,7 +532,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как следует расположить руки на грудной клетке пострадавшего при проведении сердечно-легочной реанимации?",
     "answers": [
       {

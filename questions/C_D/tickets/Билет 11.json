@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие транспортные средства относятся к маршрутным транспортным средствам?",
     "answers": [
       {
@@ -139,7 +139,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Запрещается выполнять обгон транспортного средства, имеющего нанесенные на наружные поверхности специальные цветографические схемы:",
     "answers": [
       {
@@ -247,7 +247,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях разрешается выезжать за пределы правой полосы, если Вы управляете транспортным средством, скорость которого не должна превышать 40 км/ч?",
     "answers": [
       {
@@ -274,7 +274,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Водитель обгоняемого транспортного средства:",
     "answers": [
       {
@@ -441,7 +441,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Нормы времени управления транспортным средством и отдыха применяются в отношении физических лиц, осуществляющих эксплуатацию:",
     "answers": [
       {
@@ -468,7 +468,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях водители привлекаются к уголовной ответственности за нарушения Правил, повлекшие тяжкие последствия?",
     "answers": [
       {
@@ -526,7 +526,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 11",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какое расстояние проедет транспортное средство за время, равное среднему времени реакции водителя, при скорости движения около 90 км/час?",
     "answers": [
       {

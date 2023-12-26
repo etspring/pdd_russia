@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Водитель обязан подавать сигналы световыми указателями поворота (рукой):",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каких случаях водитель не должен подавать сигнал указателями поворота?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда следует выключить указатели левого поворота, выполняя обгон?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда следует включать указатели поворота?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда может быть прекращена подача сигнала рукой о повороте?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда должна быть прекращена подача сигнала указателями поворота?",
     "answers": [
       {
@@ -493,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Обязан ли водитель подавать сигналы указателями поворота при начале движения в жилой зоне, обозначенной соответствующим знаком?",
     "answers": [
       {
@@ -628,7 +628,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Должны ли водители подавать сигналы указателями поворота при маневрировании на территории автостоянки или АЗС?",
     "answers": [
       {
@@ -655,7 +655,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как следует действовать, выполняя поворот налево на двухполосной дороге?",
     "answers": [
       {
@@ -736,7 +736,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Даёт ли преимущество в движении подача сигнала указателями поворота?",
     "answers": [
       {
@@ -1083,7 +1083,7 @@
     "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
+    "image": "./images/A_B/cfb308f1551f29696d74d47f6e92fedc.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -1665,7 +1665,7 @@
     "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Выезжая с прилегающей территории, необходимо уступить дорогу:",
     "answers": [
       {
@@ -1989,7 +1989,7 @@
     "title": "Вопрос 75",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3967ea92f049121b27547528fd472093.jpg",
+    "image": "./images/A_B/51f0c22d81ae8a16352a0bdaeda1f380.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -2452,7 +2452,7 @@
     "title": "Вопрос 92",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Движение транспортных средств задним ходом разрешается:",
     "answers": [
       {
@@ -2850,7 +2850,7 @@
     "title": "Вопрос 106",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Для обеспечения безопасности при выезде задним ходом с места стоянки, имеющего ограниченную видимость, необходимо:",
     "answers": [
       {
@@ -2877,7 +2877,7 @@
     "title": "Вопрос 107",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Если траектории движения транспортных средств пересекаются, а очерёдность проезда не оговорена Правилами, следует:",
     "answers": [
       {

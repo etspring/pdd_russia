@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает термин «Ограниченная видимость»?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Допускается ли движение автомобилей по тротуарам или пешеходным дорожкам?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Буксировка двухколесного мотоцикла разрешается:",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каком из перечисленных случаев разрешается эксплуатация автомобиля?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как влияет длительный разгон транспортного средства с включенной первой передачей на расход топлива?",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Является ли безопасным движение вне населенного пункта на легковом автомобиле в темное время суток с включенным ближним светом фар по неосвещенному участку дороги со скоростью 90 км/ч?",
     "answers": [
       {

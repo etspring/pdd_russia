@@ -145,7 +145,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 5",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли водителю продолжить движение после переключения зеленого сигнала светофора на желтый, если возможно остановиться перед перекрестком, только применив экстренное торможение?",
     "answers": [
       {
@@ -448,7 +448,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 5",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях разрешено применять звуковые сигналы в населенных пунктах?",
     "answers": [
       {
@@ -475,7 +475,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 5",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Эксплуатация транспортного средства запрещается, если:",
     "answers": [
       {
@@ -502,7 +502,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 5",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как следует поступить водителю при высадке из автомобиля, стоящего у тротуара или на обочине?",
     "answers": [
       {

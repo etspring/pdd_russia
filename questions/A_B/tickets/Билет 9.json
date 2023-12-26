@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какое удостоверение достаточно иметь водителю, управляющему легковым автомобилем с прицепом, разрешенная максимальная масса которого не превышает 750 кг?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда следует включать указатели поворота?",
     "answers": [
       {
@@ -377,7 +377,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/A_B/dd7e958840da9ddd1c102a65d8d5c03f.jpg",
+    "image": "./images/A_B/dff7dd1e093d4c16e86ae031203915c7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -404,7 +404,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Разрешается ли движение задним ходом на автомагистрали?",
     "answers": [
       {
@@ -431,7 +431,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Водителям мопедов разрешено двигаться:",
     "answers": [
       {
@@ -462,7 +462,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Дальнейшее движение транспортного средства (даже к месту стоянки или ремонта) при негорящих (отсутствующих) фарах и задних габаритных огнях запрещается:",
     "answers": [
       {
@@ -516,7 +516,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Вероятность возникновения аварийной ситуации при движении в плотном транспортном потоке будет меньше, если скорость Вашего транспортного средства:",
     "answers": [
       {
