@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Чем необходимо руководствоваться, если значения дорожных знаков и линий горизонтальной разметки противоречат друг другу?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Когда должна быть прекращена подача сигнала указателями поворота?",
     "answers": [
       {
@@ -386,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Если невозможно определить наличие покрытия на дороге (темное время суток, грязь, снег и тому подобное), а знаков приоритета нет, то:",
     "answers": [
       {
@@ -436,7 +436,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какие внешние световые приборы должны быть включены в темное время суток и в условиях недостаточной видимости независимо от освещения дороги, а также в тоннелях на буксируемых механических транспортных средствах?",
     "answers": [
       {
@@ -463,7 +463,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "У водителя, совершившего административное правонарушение, водительское удостоверение изымается:",
     "answers": [
       {
@@ -490,7 +490,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Для прекращения заноса, вызванного торможением, водитель в первую очередь должен:",
     "answers": [
       {
@@ -517,7 +517,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 19",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что необходимо сделать для извлечения инородного тела, попавшего в дыхательные пути пострадавшего?",
     "answers": [
       {

@@ -93,7 +93,7 @@
         "is_correct": false
       },
       {
-        "answer_text": "Движение всех транспортных средств со скоростью более 20 км/ч",
+        "answer_text": "Движение всех транспортных средств со скоростью не более 20 км/ч",
         "is_correct": false
       },
       {
@@ -106,7 +106,7 @@
     "topic": [
       "Дорожные знаки"
     ],
-    "id": "2a3702e66140220ac425c12caf7f51d8"
+    "id": "be0341c28e1e911b2f8c178842bf021e"
   },
   {
     "title": "Вопрос 5",
@@ -247,7 +247,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях разрешается наезжать на прерывистые линии разметки, разделяющие проезжую часть на полосы движения?",
     "answers": [
       {
@@ -436,7 +436,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких из перечисленных случаев запрещена буксировка на гибкой сцепке?",
     "answers": [
       {
@@ -467,7 +467,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При каком максимальном значении суммарного люфта в рулевом управлении допускается эксплуатация автобуса?",
     "answers": [
       {
@@ -494,7 +494,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Исключает ли антиблокировочная тормозная система возможность возникновения заноса или сноса при прохождении поворота?",
     "answers": [
       {
@@ -521,7 +521,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях следует начинать сердечно-легочную реанимацию пострадавшего?",
     "answers": [
       {

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Водительское удостоверение, подтверждающее право на управление транспортными средствами категории «А», подтверждает также право на управление транспортными средствами:",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Разрешается ли Вам пересекать двойную сплошную линию горизонтальной разметки?",
     "answers": [
       {
@@ -258,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Движение в населенном пункте со скоростью более 60 км/ч разрешается:",
     "answers": [
       {
@@ -447,7 +447,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Можно ли использовать в светлое время суток противотуманные фары вместо ближнего света фар?",
     "answers": [
       {
@@ -474,7 +474,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Разрешается ли устанавливать на одну ось легкового автомобиля шины с различными рисунками протектора?",
     "answers": [
       {
@@ -501,7 +501,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В случае потери сцепления колес с дорогой из-за образования «водяного клина» водителю следует:",
     "answers": [
       {
@@ -528,7 +528,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 31",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как влияет утомленное состояние водителя на его внимание и реакцию?",
     "answers": [
       {

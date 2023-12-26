@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каких случаях водитель не должен подавать сигнал указателями поворота?",
     "answers": [
       {
@@ -278,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каком случае водитель может начать обгон, если такой маневр на данном участке дороги не запрещен?",
     "answers": [
       {
@@ -448,7 +448,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какое оборудование должно иметь механическое транспортное средство, используемое для обучения вождению?",
     "answers": [
       {
@@ -479,7 +479,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каких случаях запрещается эксплуатация мотоцикла?",
     "answers": [
       {
@@ -506,7 +506,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "На повороте возник занос задней оси переднеприводного автомобиля. Ваши действия?",
     "answers": [
       {
@@ -537,7 +537,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 3",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какие сведения необходимо сообщить диспетчеру для вызова «Скорой медицинской помощи» при ДТП?",
     "answers": [
       {

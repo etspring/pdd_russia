@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/07f8422f9127d04cf1bdc5f50eb0d009.jpg",
+    "image": "./images/C_D/2e04dac161f63b6e64f6181a32064732.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекресток?",
     "answers": [
       {
@@ -144,7 +144,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Преимущество перед другими участниками движения имеет водитель автомобиля:",
     "answers": [
       {
@@ -422,7 +422,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Подъехав к трамваю попутного направления, остановившемуся у посадочной площадки, которая расположена посередине дороги, водитель должен:",
     "answers": [
       {
@@ -449,7 +449,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какое транспортное средство используется для осуществления организованной перевозки группы детей?",
     "answers": [
       {
@@ -480,7 +480,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Владелец транспортного средства обязан возместить вред, причиненный этим транспортным средством, если не докажет, что вред возник:",
     "answers": [
       {
@@ -507,7 +507,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При движении ночью во время сильной метели наилучшую видимость дороги обеспечивает включение:",
     "answers": [
       {
@@ -534,7 +534,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каких случаях пострадавшего следует извлекать из салона автомобиля?",
     "answers": [
       {

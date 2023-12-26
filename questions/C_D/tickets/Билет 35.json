@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает термин «Недостаточная видимость»?",
     "answers": [
       {
@@ -140,7 +140,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает сочетание красного и желтого сигналов светофора?",
     "answers": [
       {
@@ -221,7 +221,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Для обеспечения безопасности при выезде задним ходом с места стоянки, имеющего ограниченную видимость, необходимо:",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При вынужденной остановке на железнодорожном переезде, если в транспортном средстве находятся пассажиры, водитель должен:",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При остановке и стоянке на неосвещенных участках дорог в темное время суток необходимо:",
     "answers": [
       {
@@ -470,15 +470,15 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "В каком случае разрешается эксплуатация автомобиля?",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "question": "В каком случае разрешается эксплуатация транспортного средства?",
     "answers": [
       {
-        "answer_text": "Неисправны или отсутствуют стеклоочистители",
+        "answer_text": "Неисправны или отсутствуют предусмотренные изготовителем транспортного средства стеклоочистители",
         "is_correct": false
       },
       {
-        "answer_text": "Неисправны или отсутствуют предусмотренные конструкцией стеклоомыватели",
+        "answer_text": "Неисправны или отсутствуют предусмотренные изготовителем транспортного средства стеклоомыватели",
         "is_correct": false
       },
       {
@@ -491,13 +491,13 @@
     "topic": [
       "Неисправности и условия допуска транспортных средств к эксплуатации"
     ],
-    "id": "0af905f648ebfefca13e91c1a4b7e489"
+    "id": "9167b9bebac4cd56ea0d0a218c75eb58"
   },
   {
     "title": "Вопрос 19",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "По какой траектории двигается прицеп грузового автомобиля при прохождении поворота?",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Принято считать, что среднее время реакции водителя составляет:",
     "answers": [
       {

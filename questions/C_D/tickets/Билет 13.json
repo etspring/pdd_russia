@@ -168,7 +168,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Когда может быть прекращена подача сигнала рукой о повороте?",
     "answers": [
       {
@@ -331,14 +331,18 @@
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
     "image": "./images/C_D/f88b5473f105e9981e2261cec5d894ac.jpg",
-    "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
+    "question": "В данной ситуации Вы не обязаны уступать дорогу трамваю при движении:",
     "answers": [
       {
-        "answer_text": "Проедете перекресток первым",
+        "answer_text": "Прямо или направо",
         "is_correct": true
       },
       {
-        "answer_text": "Уступите дорогу трамваю",
+        "answer_text": "Только прямо",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Только направо",
         "is_correct": false
       }
     ],
@@ -347,7 +351,7 @@
     "topic": [
       "Проезд перекрестков"
     ],
-    "id": "e1fac5f8b6d8ec18d45ca799c81b969f"
+    "id": "25b3ae65d4bbdc58906e2bf2311c011b"
   },
   {
     "title": "Вопрос 14",
@@ -435,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Задние противотуманные фонари можно использовать:",
     "answers": [
       {
@@ -462,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При возникновении какой неисправности запрещено дальнейшее движение транспортного средства даже до места ремонта или стоянки?",
     "answers": [
       {
@@ -489,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Двигаясь в прямом направлении, Вы внезапно попали на небольшой участок скользкой дороги. Что следует предпринять?",
     "answers": [
       {
@@ -516,7 +520,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 13",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "На какой срок может быть наложен кровоостанавливающий жгут?",
     "answers": [
       {

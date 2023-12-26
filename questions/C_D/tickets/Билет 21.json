@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли водителю пользоваться телефоном во время движения?",
     "answers": [
       {
@@ -224,7 +224,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Движение транспортных средств задним ходом разрешается:",
     "answers": [
       {
@@ -413,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При выезде из жилой зоны необходимо уступить дорогу:",
     "answers": [
       {
@@ -475,7 +475,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие административные наказания предусмотрены за управление транспортным средством, если обязательное страхование гражданской ответственности владельца этого транспортного средства заведомо отсутствует?",
     "answers": [
       {
@@ -529,7 +529,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Каковы признаки кровотечения из крупной артерии и с чего начинается первая помощь при ее ранении?",
     "answers": [
       {

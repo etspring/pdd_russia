@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какие действия при дорожно-транспортном происшествии должны немедленно осуществить водители, причастные к нему",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Остановка на автомагистрали разрешена:",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какие внешние световые приборы должны использоваться при движении в тёмное время суток на освещённых участках дорог населённого пункта?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "При возникновении какой неисправности запрещается дальнейшее движение транспортного средства даже до места ремонта или стоянки?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Более устойчив против опрокидывания на повороте легковой автомобиль:",
     "answers": [
       {
@@ -528,7 +528,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как оказать первую помощь при отморожении и переохлаждении?",
     "answers": [
       {

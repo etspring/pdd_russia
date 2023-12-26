@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает разметка в виде надписи «СТОП» на проезжей части?",
     "answers": [
       {
@@ -206,6 +206,10 @@
       {
         "answer_text": "Полосы движения в пределах перекрестка",
         "is_correct": true
+      },
+      {
+        "answer_text": "Предупреждение о приближении к разметке, разделяющей транспортные потоки противоположных или попутных направлений",
+        "is_correct": false
       }
     ],
     "correct_answer": "Правильный ответ: 2",
@@ -213,7 +217,7 @@
     "topic": [
       "Дорожная разметка"
     ],
-    "id": "4139871c62963d1dcf766ee0b4daa7b4"
+    "id": "b14218e9f390466a26a202f5fc743ebb"
   },
   {
     "title": "Вопрос 9",
@@ -283,6 +287,10 @@
       {
         "answer_text": "Только вертикальные элементы дорожных сооружений, представляющие опасность для движущихся транспортных средств",
         "is_correct": true
+      },
+      {
+        "answer_text": "Только вертикальные элементы дорожных сооружений на автомагистралях и дорогах, обозначенных знаком 5.3 \"Дорога для автомобилей\"",
+        "is_correct": false
       }
     ],
     "correct_answer": "Правильный ответ: 2",
@@ -290,7 +298,7 @@
     "topic": [
       "Дорожная разметка"
     ],
-    "id": "b7dcb1154bd19106abb2ee4fcdeda593"
+    "id": "0dbf5d2c180d67ab7e79f385ce8005e6"
   },
   {
     "title": "Вопрос 12",
@@ -516,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Чем необходимо руководствоваться, если значения дорожных знаков и линий горизонтальной разметки противоречат друг другу?",
     "answers": [
       {
@@ -543,7 +551,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Чем необходимо руководствоваться, если нанесенные на проезжей части белые и оранжевые линии разметки противоречат друг другу?",
     "answers": [
       {
@@ -597,7 +605,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Допускается ли пересекать сплошную линию разметки обозначающую край проезжей части?",
     "answers": [
       {
@@ -763,7 +771,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Временная горизонтальная разметка имеет:",
     "answers": [
       {
@@ -844,7 +852,7 @@
     "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли Вам пересекать двойную сплошную линию горизонтальной разметки?",
     "answers": [
       {

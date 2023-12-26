@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что называется разрешённой максимальной массой транспортного средства?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Разрешается ли продолжить движение, если регулировщик поднял руку вверх после того, как Вы въехали на перекрёсток?",
     "answers": [
       {
@@ -413,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "При приближении к остановившемуся транспортному средству с включенной аварийной сигнализацией, которое имеет опознавательные знаки «Перевозка детей», водитель должен:",
     "answers": [
       {
@@ -440,7 +440,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каких случаях водители мопедов нарушают Правила?",
     "answers": [
       {
@@ -467,7 +467,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Эксплуатация автомобиля запрещается, если в верхней части ветрового стекла имеется прозрачная цветная плёнка шириной более:",
     "answers": [
       {
@@ -529,7 +529,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Установленный факт употребления водителем вызывающих алкогольное опьянение веществ определяется наличием в его организме абсолютного этилового спирта в концентрации, превышающей:",
     "answers": [
       {

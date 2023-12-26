@@ -3,11 +3,11 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "В каком случае водитель совершит вынужденную остановку?",
     "answers": [
       {
-        "answer_text": "Остановившись непосредственно перед пешеходным переходом,   чтобы уступить дорогу пешеходу",
+        "answer_text": "Остановившись непосредственно перед пешеходным переходом, чтобы уступить дорогу пешеходу",
         "is_correct": false
       },
       {
@@ -24,7 +24,7 @@
     "topic": [
       "Общие положения"
     ],
-    "id": "002298d98c4bfd902da44fc71b9bdef9"
+    "id": "ffd0c95b28a89bd4faff45a8874c4fb3"
   },
   {
     "title": "Вопрос 2",
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что называется разрешённой максимальной массой транспортного средства?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какие транспортные средства относятся к маршрутным транспортным средствам?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает термин «Ограниченная видимость»?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какой неподвижный объект, не позволяющий продолжить движение по полосе, не относится к понятию «Препятствие»?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Являются ли тротуары и обочины частью дороги?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает термин «Обгон»?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает требование уступить дорогу?",
     "answers": [
       {
@@ -609,7 +609,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает термин «Недостаточная видимость»?",
     "answers": [
       {
@@ -636,7 +636,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Главной на перекрестке является:",
     "answers": [
       {
@@ -663,7 +663,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/74b185800c36d3b6228f4bc0dfbad844.jpg",
+    "image": "./images/A_B/53b240fd0dbec8c44f55b5a6f383b102.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекрёсток?",
     "answers": [
       {

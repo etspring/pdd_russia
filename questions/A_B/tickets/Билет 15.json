@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Какой неподвижный объект, не позволяющий продолжить движение по полосе, не относится к понятию «Препятствие»?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "К резкому торможению можно прибегнуть:",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Разрешается ли на двухполосной дороге выполнять обгон на перекрёстках?",
     "answers": [
       {
@@ -460,7 +460,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Привлечь внимание водителя обгоняемого автомобиля при движении вне населенного пункта в светлое время суток можно:",
     "answers": [
       {
@@ -491,7 +491,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Эксплуатация мотоцикла запрещается:",
     "answers": [
       {
@@ -518,7 +518,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как следует выбирать передачу при торможении двигателем с учетом крутизны спуска?",
     "answers": [
       {
@@ -545,7 +545,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "О каких травмах у пострадавшего может свидетельствовать поза «лягушки» (ноги согнуты в коленях и разведены, а стопы развернуты подошвами друг к другу) и какую первую помощь необходимо при этом оказать?",
     "answers": [
       {

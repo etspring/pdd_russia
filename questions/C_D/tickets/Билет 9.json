@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какое удостоверение достаточно иметь водителю, управляющему грузовым автомобилем с разрешенной максимальной массой более 3,5 т, но не более 7,5 т и прицепом, разрешенная максимальная масса которого более 750 кг?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Когда следует включать указатели поворота?",
     "answers": [
       {
@@ -378,7 +378,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/C_D/9f82b084b60ba5ea0e5f0580e7b006e9.jpg",
+    "image": "./images/C_D/e1704a9dc07135eb46aa1eb923ebb18f.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -406,7 +406,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли движение задним ходом на автомагистрали?",
     "answers": [
       {
@@ -434,7 +434,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При каких из перечисленных условий можно перевозить в кузове грузового автомобиля не более 8 человек, включая пассажиров в кабине?",
     "answers": [
       {
@@ -461,7 +461,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Дальнейшее движение транспортного средства (даже к месту стоянки или ремонта) при негорящих (отсутствующих) фарах и задних габаритных огнях запрещается:",
     "answers": [
       {
@@ -515,7 +515,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 9",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Вероятность возникновения аварийной ситуации при движении в плотном транспортном потоке будет меньше, если скорость Вашего транспортного средства:",
     "answers": [
       {

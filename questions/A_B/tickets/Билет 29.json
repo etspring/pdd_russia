@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что означает требование уступить дорогу?",
     "answers": [
       {
@@ -166,7 +166,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Должны ли водители подавать сигналы указателями поворота при маневрировании на территории автостоянки или АЗС?",
     "answers": [
       {
@@ -367,11 +367,15 @@
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
-        "answer_text": "Уступите дорогу трамваю",
+        "answer_text": "Уступите дорогу трамваю, выполнив поворот с левой полосы",
         "is_correct": true
       },
       {
-        "answer_text": "Проедете перекрёсток первым",
+        "answer_text": "Пропустите трамвай, перестроитесь на трамвайные пути попутного направления, после чего выполните поворот",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Проедете перекресток первым",
         "is_correct": false
       }
     ],
@@ -380,7 +384,7 @@
     "topic": [
       "Проезд перекрестков"
     ],
-    "id": "a0c837edb523d8fad9df0cbaf029c280"
+    "id": "e262deeff2618c88ffdc542b5585e189"
   },
   {
     "title": "Вопрос 15",
@@ -440,7 +444,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "При движении в светлое время суток на транспортном средстве должны быть включены:",
     "answers": [
       {
@@ -471,7 +475,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Запрещается эксплуатация легкового автомобиля (категория М1), если остаточная глубина рисунка протектора шин (при отсутствии индикаторов износа) составляет не более:",
     "answers": [
       {
@@ -502,7 +506,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Что следует предпринять для быстрого восстановления эффективности тормозов транспортного средства после проезда через водную преграду?",
     "answers": [
       {
@@ -529,7 +533,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Каковы первоначальные действия при оказании первой помощи в случае ранения, полученного в результате ДТП?",
     "answers": [
       {

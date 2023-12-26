@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Какие из предупреждающих и запрещающих знаков являются временными?",
     "answers": [
       {
@@ -2180,7 +2180,7 @@
         "is_correct": false
       },
       {
-        "answer_text": "Движение всех транспортных средств со скоростью более 20 км/ч",
+        "answer_text": "Движение всех транспортных средств со скоростью не более 20 км/ч",
         "is_correct": false
       },
       {
@@ -2193,7 +2193,7 @@
     "topic": [
       "Дорожные знаки"
     ],
-    "id": "2a3702e66140220ac425c12caf7f51d8"
+    "id": "be0341c28e1e911b2f8c178842bf021e"
   },
   {
     "title": "Вопрос 81",
@@ -2832,7 +2832,7 @@
     "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Где начинают действовать требования Правил, относящиеся к населенным пунктам?",
     "answers": [
       {
@@ -3369,7 +3369,7 @@
     "title": "Вопрос 123",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешена ли стоянка автобусам на краю тротуара, граничащего с проезжей частью?",
     "answers": [
       {
@@ -3462,7 +3462,7 @@
     "title": "Вопрос 126",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
     "answers": [
       {
@@ -3632,7 +3632,7 @@
     "title": "Вопрос 132",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/9f82b084b60ba5ea0e5f0580e7b006e9.jpg",
+    "image": "./images/C_D/e1704a9dc07135eb46aa1eb923ebb18f.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "К категории «В» относятся автомобили:",
     "answers": [
       {
@@ -278,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Запрещается ли выполнять обгон на мостах, путепроводах, эстакадах и под ними?",
     "answers": [
       {
@@ -413,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "На каких участках автомагистрали запрещается движение задним ходом?",
     "answers": [
       {
@@ -440,7 +440,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "На каких дорогах водителям мопедов запрещается поворачивать налево или разворачиваться?",
     "answers": [
       {
@@ -467,11 +467,11 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
-    "question": "При какой неисправности запрещено дальнейшее движение на автомобиле во время дождя или снегопада?",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "question": "При какой неисправности запрещено движение транспортного средства во время дождя или снегопада?",
     "answers": [
       {
-        "answer_text": "Неисправны или отсутствуют предусмотренные изготовителем транспортного средства стеклоочистители",
+        "answer_text": "Не работают в установленном режиме стеклоочистители",
         "is_correct": false
       },
       {
@@ -479,7 +479,7 @@
         "is_correct": true
       },
       {
-        "answer_text": "Неисправны или отсутствуют предусмотренные изготовителем транспортного средства стеклоомыватели",
+        "answer_text": "Не работают стеклоомыватели",
         "is_correct": false
       }
     ],
@@ -488,13 +488,13 @@
     "topic": [
       "Неисправности и условия допуска транспортных средств к эксплуатации"
     ],
-    "id": "691b0423309c532f2ff68672ab78e101"
+    "id": "f5fc8e1b2aea923f81ca170a433914df"
   },
   {
     "title": "Вопрос 19",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "С увеличением скорости движения на повороте величина центробежной силы:",
     "answers": [
       {
@@ -521,7 +521,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
+    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
     "question": "Как оказывается первая помощь при переломах конечностей, если отсутствуют транспортные шины и подручные средства для их изготовления?",
     "answers": [
       {

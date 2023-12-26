@@ -20,6 +20,7 @@
 * topic стал массивом.
 * id - Digest::MD5.hexdigest("#{result['question']}-#{result['answers'].map(&:values).join}" .
 * ticket_number правомерен только для билетов.
+* В некоторых случаях один и тот же вопрос может иметь разные графические материалы.
 
 ```json
   {

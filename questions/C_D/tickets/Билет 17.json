@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Являются ли тротуары и обочины частью дороги?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Разрешается ли водителю движение со слишком малой скоростью?",
     "answers": [
       {
@@ -439,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Можно ли буксировать автомобиль с недействующей тормозной системой, если фактическая масса этого автомобиля превышает половину фактической массы Вашего автомобиля?",
     "answers": [
       {
@@ -466,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При совершении административного правонарушения, влекущего задержание транспортного средства, оно задерживается до:",
     "answers": [
       {
@@ -493,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Как изменяется длина тормозного пути грузового автомобиля при буксировке автомобиля с неисправной тормозной системой?",
     "answers": [
       {
@@ -520,7 +520,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 17",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В темное время суток и в пасмурную погоду скорость встречного автомобиля воспринимается:",
     "answers": [
       {

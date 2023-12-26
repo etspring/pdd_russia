@@ -3,11 +3,11 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В каком случае водитель совершит вынужденную остановку?",
     "answers": [
       {
-        "answer_text": "Остановившись непосредственно перед пешеходным переходом,   чтобы уступить дорогу пешеходу",
+        "answer_text": "Остановившись непосредственно перед пешеходным переходом, чтобы уступить дорогу пешеходу",
         "is_correct": false
       },
       {
@@ -24,7 +24,7 @@
     "topic": [
       "Общие положения"
     ],
-    "id": "63cceab28d1e9cedc62b06941743303c"
+    "id": "520a114a36ed37b0b29cd5bbc32fb6b2"
   },
   {
     "title": "Вопрос 2",
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что означает мигание зеленого сигнала светофора?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Водитель обязан подавать сигналы световыми указателями поворота (рукой):",
     "answers": [
       {
@@ -459,7 +459,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При движении в темное время суток вне населенных пунктов необходимо использовать:",
     "answers": [
       {
@@ -487,7 +487,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "При какой неисправности разрешается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -518,7 +518,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "В случае, когда правые колеса автомобиля наезжают на неукрепленную влажную обочину, рекомендуется:",
     "answers": [
       {
@@ -545,7 +545,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
+    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
     "question": "Что понимается под временем реакции водителя?",
     "answers": [
       {
