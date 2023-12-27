@@ -937,7 +937,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где разрешается стоянка в целях длительного отдыха или ночлега на дорогах вне населенного пункта?",
     "answers": [
       {
@@ -1223,7 +1223,7 @@
     "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешена ли стоянка автобусам на краю тротуара, граничащего с проезжей частью?",
     "answers": [
       {
@@ -1837,7 +1837,7 @@
     "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Остановка на автомагистрали разрешена:",
     "answers": [
       {

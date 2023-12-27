@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что должно иметь решающее значение при выборе водителем скорости движения в тёмное время суток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В случае, когда правые колёса автомобиля наезжают на неукреплённую влажную обочину, рекомендуется:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Исключает ли антиблокировочная тормозная система возможность возникновения заноса или сноса при прохождении поворота?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "На повороте возник занос задней оси переднеприводного автомобиля. Ваши действия?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что следует предпринять водителю для предотвращения опасных последствий заноса автомобиля при резком повороте рулевого колеса на скользкой дороге?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует поступить водителю при высадке из автомобиля, стоящего у тротуара или на обочине?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Двигаться по глубокому снегу на грунтовой дороге следует:",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Более устойчив против опрокидывания на повороте легковой автомобиль:",
     "answers": [
       {
@@ -343,7 +343,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Двигаясь в прямом направлении, Вы внезапно попали на небольшой участок скользкой дороги. Что следует предпринять?",
     "answers": [
       {
@@ -370,7 +370,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как влияет длительный разгон транспортного средства с включенной первой передачей на расход топлива?",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует выбирать передачу при торможении двигателем с учетом крутизны спуска?",
     "answers": [
       {
@@ -451,7 +451,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как изменяется длина тормозного пути легкового автомобиля при движении с прицепом, не имеющим тормозной системы?",
     "answers": [
       {
@@ -478,7 +478,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как водитель должен воздействовать на педаль управления подачей топлива при возникновении заноса, вызванного резким ускорением движения?",
     "answers": [
       {
@@ -505,7 +505,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Для прекращения заноса, вызванного торможением, водитель в первую очередь должен:",
     "answers": [
       {
@@ -532,7 +532,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как правильно произвести экстренное торможение, если автомобиль оборудован антиблокировочной тормозной системой?",
     "answers": [
       {
@@ -586,7 +586,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При каком стиле вождения будет обеспечен наименьший расход топлива?",
     "answers": [
       {
@@ -613,7 +613,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Чем опасно длительное торможение с выключенными передачей или сцеплением на крутом спуске?",
     "answers": [
       {
@@ -640,7 +640,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что следует сделать водителю, чтобы предотвратить возникновение заноса при проезде крутого поворота?",
     "answers": [
       {
@@ -667,7 +667,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как зависит величина тормозного пути транспортного средства от скорости движения?",
     "answers": [
       {
@@ -694,7 +694,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Уменьшение тормозного пути транспортного средства, не оборудованного антиблокировочной тормозной системой, достигается:",
     "answers": [
       {
@@ -721,7 +721,7 @@
     "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Устранение заноса задней оси путем увеличения скорости возможно:",
     "answers": [
       {
@@ -748,7 +748,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что следует предпринять, если на повороте возник занос задней оси заднеприводного автомобиля?",
     "answers": [
       {
@@ -779,7 +779,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что следует предпринять для быстрого восстановления эффективности тормозов транспортного средства после проезда через водную преграду?",
     "answers": [
       {
@@ -806,7 +806,7 @@
     "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Для предупреждения скатывания автомобиля с механической трансмиссией при кратковременной остановке на подъеме следует:",
     "answers": [
       {
@@ -833,7 +833,7 @@
     "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В случае потери сцепления колес с дорогой из-за образования «водяного клина» водителю следует:",
     "answers": [
       {
@@ -887,7 +887,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие действия водителя приведут к уменьшению центробежной силы, возникающей на повороте?",
     "answers": [
       {
@@ -941,7 +941,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "По какой траектории двигается прицеп легкового автомобиля при прохождении поворота?",
     "answers": [
       {
@@ -968,7 +968,7 @@
     "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как правильно произвести экстренное торможение на скользкой дороге, если автомобиль не оборудован антиблокировочной тормозной системой?",
     "answers": [
       {
@@ -995,7 +995,7 @@
     "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "С увеличением скорости движения на повороте величина центробежной силы:",
     "answers": [
       {
@@ -1022,7 +1022,7 @@
     "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При движении ночью во время сильной метели наилучшую видимость дороги обеспечивает включение",
     "answers": [
       {
@@ -1049,7 +1049,7 @@
     "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При трогании на подъеме на автомобиле с механической коробкой передач следует начинать отключать (отпускать) стояночный тормоз:",
     "answers": [
       {
@@ -1076,7 +1076,7 @@
     "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует поступить водителю при посадке в автомобиль, стоящий у тротуара или на обочине?",
     "answers": [
       {
@@ -1103,7 +1103,7 @@
     "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что понимается под временем реакции водителя?",
     "answers": [
       {
@@ -1157,7 +1157,7 @@
     "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Вероятность возникновения аварийной ситуации при движении в плотном транспортном потоке будет меньше, если скорость Вашего транспортного средства:",
     "answers": [
       {
@@ -1184,7 +1184,7 @@
     "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какое расстояние проедет транспортное средство за время, равное среднему времени реакции водителя, при скорости движения около 90 км/час?",
     "answers": [
       {
@@ -1211,7 +1211,7 @@
     "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Является ли безопасным движение вне населенного пункта на легковом автомобиле в темное время суток с включенным ближним светом фар по неосвещенному участку дороги со скоростью 90 км/ч?",
     "answers": [
       {
@@ -1238,7 +1238,7 @@
     "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В тёмное время суток и в пасмурную погоду скорость встречного автомобиля воспринимается:",
     "answers": [
       {
@@ -1265,7 +1265,7 @@
     "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях следует увеличить боковой интервал?",
     "answers": [
       {
@@ -1292,7 +1292,7 @@
     "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При движении по какому участку дороги действие сильного бокового ветра наиболее опасно?",
     "answers": [
       {
@@ -1319,7 +1319,7 @@
     "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Если во время движения по сухой дороге с асфальтобетонным покрытием начал моросить дождь, водителю следует:",
     "answers": [
       {
@@ -1346,7 +1346,7 @@
     "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как изменяется поле зрения водителя с увеличением скорости движения?",
     "answers": [
       {
@@ -1373,7 +1373,7 @@
     "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Минимальной величиной необходимой дистанции при движении по сухой дороге на легковом автомобиле принято считать расстояние, которое автомобиль проедет не менее чем за:",
     "answers": [
       {
@@ -1427,7 +1427,7 @@
     "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае водителю необходимо оценивать обстановку сзади?",
     "answers": [
       {
@@ -1458,7 +1458,7 @@
     "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Зависит ли выбор бокового интервала от скорости движения?",
     "answers": [
       {
@@ -1485,7 +1485,7 @@
     "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как влияет утомленное состояние водителя на его внимание и реакцию?",
     "answers": [
       {
@@ -1512,7 +1512,7 @@
     "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как влияет алкоголь на время реакции водителя?",
     "answers": [
       {
@@ -1539,7 +1539,7 @@
     "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Принято считать, что среднее время реакции водителя составляет:",
     "answers": [
       {
@@ -1566,7 +1566,7 @@
     "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как воспринимается водителем скорость своего автомобиля при длительном движении по равнинной дороге на большой скорости?",
     "answers": [
       {
@@ -1593,7 +1593,7 @@
     "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что понимается под остановочным путем?",
     "answers": [
       {

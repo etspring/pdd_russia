@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "К подкатегории «С1» относятся автомобили (за исключением транспортных средств категории «D»), разрешенная максимальная масса которых:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли Вам пересекать двойную сплошную линию горизонтальной разметки?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Движение в населенном пункте со скоростью более 60 км/ч разрешается:",
     "answers": [
       {
@@ -446,7 +446,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Можно ли использовать в светлое время суток противотуманные фары вместо ближнего света фар?",
     "answers": [
       {
@@ -473,7 +473,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли устанавливать на одну ось грузового автомобиля шины с различными рисунками протектора?",
     "answers": [
       {
@@ -500,7 +500,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В случае потери сцепления колес с дорогой из за образования «водяного клина» водителю следует:",
     "answers": [
       {
@@ -527,7 +527,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как влияет утомленное состояние водителя на его внимание и реакцию?",
     "answers": [
       {

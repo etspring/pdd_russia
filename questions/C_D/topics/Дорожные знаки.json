@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие из предупреждающих и запрещающих знаков являются временными?",
     "answers": [
       {
@@ -2832,7 +2832,7 @@
     "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где начинают действовать требования Правил, относящиеся к населенным пунктам?",
     "answers": [
       {
@@ -3369,7 +3369,7 @@
     "title": "Вопрос 123",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешена ли стоянка автобусам на краю тротуара, граничащего с проезжей частью?",
     "answers": [
       {
@@ -3462,7 +3462,7 @@
     "title": "Вопрос 126",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
     "answers": [
       {

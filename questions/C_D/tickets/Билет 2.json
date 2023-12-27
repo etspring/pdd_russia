@@ -247,7 +247,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях разрешается наезжать на прерывистые линии разметки, разделяющие проезжую часть на полосы движения?",
     "answers": [
       {
@@ -436,7 +436,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких из перечисленных случаев запрещена буксировка на гибкой сцепке?",
     "answers": [
       {
@@ -467,7 +467,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При каком максимальном значении суммарного люфта в рулевом управлении допускается эксплуатация автобуса?",
     "answers": [
       {
@@ -494,7 +494,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Исключает ли антиблокировочная тормозная система возможность возникновения заноса или сноса при прохождении поворота?",
     "answers": [
       {
@@ -521,7 +521,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 2",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях следует начинать сердечно-легочную реанимацию пострадавшего?",
     "answers": [
       {

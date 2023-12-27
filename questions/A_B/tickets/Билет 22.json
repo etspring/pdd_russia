@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие из предупреждающих и запрещающих знаков являются временными?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Допускается ли пересекать сплошную линию разметки, обозначающую край проезжей части?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли использовать для движения трамвайные пути встречного направления?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие ограничения, относящиеся к обгону, действуют на железнодорожных переездах и вблизи них?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Водители должны уступать дорогу другим участникам движения:",
     "answers": [
       {
@@ -439,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие внешние световые приборы следует включать на мотоцикле в светлое время суток?",
     "answers": [
       {
@@ -466,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При каком минимальном значении светопропускания ветрового стекла и стёкол, через которые обеспечивается передняя обзорность для водителя (за исключением оснащённых броневой защитой), разрешается эксплуатация транспортных средств?",
     "answers": [
       {
@@ -493,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При каком стиле вождения будет обеспечен наименьший расход топлива?",
     "answers": [
       {
@@ -520,7 +520,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 22",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Если во время движения по сухой дороге с асфальтобетонным покрытием начал моросить дождь, водителю следует:",
     "answers": [
       {

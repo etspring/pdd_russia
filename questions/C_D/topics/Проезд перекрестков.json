@@ -686,7 +686,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
     "answers": [
       {
@@ -2665,7 +2665,7 @@
     "title": "Вопрос 99",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Если невозможно определить наличие покрытия на дороге (темное время суток, грязь, снег и тому подобное), а знаков приоритета нет, то:",
     "answers": [
       {

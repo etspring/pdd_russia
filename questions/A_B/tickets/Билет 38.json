@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Преимущество перед другими участниками движения имеет водитель автомобиля:",
     "answers": [
       {
@@ -428,7 +428,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Подъехав к трамваю попутного направления, остановившемуся у посадочной площадки, которая расположена посередине дороги, водитель должен:",
     "answers": [
       {
@@ -455,7 +455,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Запрещается перевозка детей в легковом автомобиле без использования соответствующих детских удерживающих систем (устройств):",
     "answers": [
       {
@@ -482,7 +482,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Владелец транспортного средства обязан возместить вред, причинённый этим транспортным средством, если не докажет, что вред возник:",
     "answers": [
       {
@@ -509,7 +509,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При движении ночью во время сильной метели наилучшую видимость дороги обеспечивает включение",
     "answers": [
       {
@@ -536,7 +536,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 38",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях пострадавшего следует извлекать из салона автомобиля",
     "answers": [
       {
