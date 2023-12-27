@@ -168,7 +168,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует действовать, выполняя поворот налево на двухполосной дороге?",
     "answers": [
       {
@@ -276,7 +276,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешено ли выполнить обгон в тоннеле?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае водитель транспортного средства, приближающегося к нерегулируемому пешеходному переходу, обязан уступить дорогу пешеходам?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Должны ли Вы переключить дальний свет на ближний, если водитель встречного транспортного средства периодическим переключением света фар покажет необходимость этого?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какое административное наказание может быть назначено водителю транспортного средства за оставление в нарушение Правил места дорожно-транспортного происшествия, участником которого он является?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Для предупреждения скатывания автомобиля с механической трансмиссией при кратковременной остановке на подъеме следует:",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Зависит ли выбор бокового интервала от скорости движения?",
     "answers": [
       {

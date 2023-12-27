@@ -89,7 +89,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где начинают действовать требования Правил, относящиеся к населенным пунктам?",
     "answers": [
       {
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что означают красный мигающий сигнал или два попеременно мигающих красных сигнала светофора, установленного на железнодорожном переезде?",
     "answers": [
       {
@@ -278,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли обгон на перекрестках?",
     "answers": [
       {
@@ -418,7 +418,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где необходимо остановиться, если сразу за пешеходным переходом образовался затор?",
     "answers": [
       {
@@ -472,7 +472,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае запрещается эксплуатация транспортных средств?",
     "answers": [
       {
@@ -499,7 +499,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Уменьшение тормозного пути транспортного средства, не оборудованного антиблокировочной тормозной системой, достигается:",
     "answers": [
       {
@@ -526,7 +526,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Минимальной величиной необходимой дистанции при движении по сухой дороге на грузовом автомобиле или автобусе принято считать расстояние, которое транспортное средство проедет не менее чем за:",
     "answers": [
       {

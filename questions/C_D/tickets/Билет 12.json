@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях владелец грузового автомобиля с разрешенной максимальной массой более 7,5 т может передавать управление этим транспортным средством в своем присутствии другому лицу, имея страховой полис обязательного страхования гражданской ответственности на бумажном носителе или в виде электронного документа либо его копии на бумажном носителе?",
     "answers": [
       {
@@ -140,7 +140,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какое значение имеет сигнал свистком, подаваемый регулировщиком?",
     "answers": [
       {
@@ -417,7 +417,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли учебная езда на автомагистрали?",
     "answers": [
       {
@@ -445,7 +445,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При движении в темное время суток на неосвещенных участках дорог можно использовать противотуманные фары:",
     "answers": [
       {
@@ -472,7 +472,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При какой неисправности тормозной системы запрещается дальнейшее движение грузового автомобиля и автобуса?",
     "answers": [
       {
@@ -526,7 +526,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует уложить пострадавшего при потере им сознания и наличии дыхания и кровообращения для оказания первой помощи?",
     "answers": [
       {

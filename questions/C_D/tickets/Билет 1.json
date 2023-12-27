@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае водитель совершит вынужденную остановку?",
     "answers": [
       {
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что означает мигание зеленого сигнала светофора?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Водитель обязан подавать сигналы световыми указателями поворота (рукой):",
     "answers": [
       {
@@ -459,7 +459,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При движении в темное время суток вне населенных пунктов необходимо использовать:",
     "answers": [
       {
@@ -487,7 +487,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При какой неисправности разрешается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -518,7 +518,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В случае, когда правые колеса автомобиля наезжают на неукрепленную влажную обочину, рекомендуется:",
     "answers": [
       {
@@ -545,7 +545,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что понимается под временем реакции водителя?",
     "answers": [
       {

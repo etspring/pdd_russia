@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как необходимо обозначить буксируемый автомобиль при отсутствии или неисправности аварийной сигнализации?",
     "answers": [
       {
@@ -420,7 +420,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Сигналом остановки для машиниста поезда служит следующее расположение руки или рук (днем с лоскутом яркой материи либо каким-нибудь хорошо видимым предметом, ночью — с факелом или фонарем):",
     "answers": [
       {
@@ -451,7 +451,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В тоннеле с искусственным освещением должны быть включены:",
     "answers": [
       {
@@ -478,7 +478,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Уголовная ответственность предусмотрена за управление транспортным средством, не повлекшее причинение тяжкого вреда здоровью или смерть человека, лицом, находящимся в состоянии опьянения, если оно ранее было подвергнуто административному наказанию:",
     "answers": [
       {
@@ -532,7 +532,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каким образом проводится сердечно-легочная реанимация пострадавшего?",
     "answers": [
       {

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Главной на перекрестке является:",
     "answers": [
       {
@@ -224,7 +224,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Если траектории движения транспортных средств пересекаются, а очередность проезда не оговорена Правилами, следует:",
     "answers": [
       {
@@ -251,7 +251,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях на дорогах, проезжая часть которых разделена линиями разметки, водители обязаны двигаться строго по полосам?",
     "answers": [
       {
@@ -278,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Водитель обгоняемого транспортного средства:",
     "answers": [
       {
@@ -441,7 +441,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Время управления грузовыми автомобилями, разрешенная максимальная масса которых превышает 3,5 т, и автобусами в течение календарной недели не должно превышать:",
     "answers": [
       {
@@ -472,7 +472,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Административная ответственность установлена за нарушение Правил дорожного движения или правил эксплуатации транспортного средства, повлекшее причинение:",
     "answers": [
       {
@@ -499,7 +499,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как правильно произвести экстренное торможение на скользкой дороге, если автомобиль не оборудован антиблокировочной тормозной системой?",
     "answers": [
       {
@@ -526,7 +526,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как воспринимается водителем скорость своего автомобиля при длительном движении по равнинной дороге на большой скорости?",
     "answers": [
       {

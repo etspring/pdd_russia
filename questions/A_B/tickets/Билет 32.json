@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "По требованию каких лиц водители обязаны проходить освидетельствование на состояние алкогольного опьянения и медицинское освидетельствование на состояние опьянения?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Выезжая с прилегающей территории, необходимо уступить дорогу:",
     "answers": [
       {
@@ -258,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях водителю запрещается движение со скоростью более 50 км/ч?",
     "answers": [
       {
@@ -289,7 +289,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли выполнить обгон на пешеходном переходе?",
     "answers": [
       {
@@ -432,7 +432,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли движение по автомагистрали на транспортном средстве, скорость которого по техническому состоянию менее 40 км/ч?",
     "answers": [
       {
@@ -459,7 +459,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Перевозка груза запрещена, если он:",
     "answers": [
       {
@@ -486,7 +486,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешено ли движение транспортного средства до места ремонта или стоянки в тёмное время суток с не горящими (из-за неисправности) фарами и задними габаритными огнями?",
     "answers": [
       {
@@ -540,7 +540,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как обеспечить восстановление проходимости дыхательных путей пострадавшего при подготовке его к проведению сердечно-легочной реанимации?",
     "answers": [
       {

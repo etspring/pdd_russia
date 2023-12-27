@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Когда следует выключить указатели левого поворота, выполняя обгон?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каким грузовым автомобилям, перевозящим людей в кузове, разрешается движение вне населенных пунктов со скоростью не более 60 км/час?",
     "answers": [
       {
@@ -413,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где могут двигаться пешеходы в жилой зоне?",
     "answers": [
       {
@@ -467,7 +467,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях разрешается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -498,7 +498,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Двигаться по глубокому снегу на грунтовой дороге следует:",
     "answers": [
       {
@@ -525,7 +525,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какую оптимальную позу следует придать пострадавшему, находящемуся в сознании, при подозрении на травму позвоночника?",
     "answers": [
       {

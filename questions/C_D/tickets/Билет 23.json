@@ -166,7 +166,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 23",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Обязан ли водитель подавать сигналы указателями поворота при начале движения в жилой зоне, обозначенной соответствующим знаком?",
     "answers": [
       {
@@ -447,7 +447,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 23",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае при движении в светлое время суток недостаточно включения дневных ходовых огней?",
     "answers": [
       {
@@ -474,7 +474,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 23",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что требуется для возврата водительского удостоверения после истечения срока лишения права управления, назначенного за оставление водителем в нарушение Правил дорожного движения места дорожно-транспортного происшествия, участником которого он являлся?",
     "answers": [
       {
@@ -501,7 +501,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 23",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Чем опасно длительное торможение с выключенными передачей или сцеплением на крутом спуске?",
     "answers": [
       {
@@ -528,7 +528,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 23",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как изменяется поле зрения водителя с увеличением скорости движения?",
     "answers": [
       {

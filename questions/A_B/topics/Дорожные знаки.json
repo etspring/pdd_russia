@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие из предупреждающих и запрещающих знаков являются временными?",
     "answers": [
       {
@@ -2906,7 +2906,7 @@
     "title": "Вопрос 106",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Где начинают действовать требования Правил, относящиеся к населённым пунктам?",
     "answers": [
       {

@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каким транспортным средствам и в каких случаях разрешается движение вне населенных пунктов со скоростью не более 90 км/ч?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
     "answers": [
       {
@@ -454,7 +454,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Привлечь внимание водителя обгоняемого автомобиля при движении в населенном пункте в светлое время суток можно:",
     "answers": [
       {
@@ -485,7 +485,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком случае запрещается эксплуатация транспортного средства?",
     "answers": [
       {
@@ -516,7 +516,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как зависит величина тормозного пути транспортного средства от скорости движения?",
     "answers": [
       {
@@ -543,7 +543,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как остановить кровотечение при ранении вены и некрупных артерий?",
     "answers": [
       {

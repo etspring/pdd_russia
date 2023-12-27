@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При наличии каких условий в случаях вынужденной остановки транспортного средства или дорожно-транспортного происшествия водитель обязан быть одетым в куртку, жилет или жилет-накидку с полосами световозвращающего материала?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Аварийная сигнализация на буксируемом механическом транспортном средстве должна быть включена:",
     "answers": [
       {
@@ -439,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие из перечисленных требований являются обязательными при перевозке детей?",
     "answers": [
       {
@@ -466,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Запрещается эксплуатация легкового автомобиля, если стояночная тормозная система не обеспечивает неподвижное состояние автомобиля в снаряженном состоянии на уклоне:",
     "answers": [
       {
@@ -520,7 +520,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как определить наличие дыхания у потерявшего сознание пострадавшего?",
     "answers": [
       {

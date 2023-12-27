@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каком виде предусмотрено представление для проверки страхового полиса обязательного страхования гражданской ответственности?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие внешние световые приборы должны быть включены на транспортном средстве, имеющем опознавательные знаки «Перевозка детей», при посадке и высадке из него детей?",
     "answers": [
       {
@@ -442,7 +442,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли буксировка в гололедицу, если у буксируемого транспортного средства исправны тормоза и рулевое управление?",
     "answers": [
       {
@@ -469,7 +469,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли устанавливать на транспортном средстве шины с шипами противоскольжения совместно с шинами без шипов противоскольжения?",
     "answers": [
       {
@@ -496,7 +496,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При постановке грузового автомобиля с разрешенной максимальной массой более 3,5 т на стоянку для исключения его самопроизвольного движения на подъеме или спуске следует:",
     "answers": [
       {
@@ -523,7 +523,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что понимается под остановочным путем?",
     "answers": [
       {

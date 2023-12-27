@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "К подкатегории «D1» относятся транспортные средства, предназначенные для перевозки пассажиров и имеющие:",
     "answers": [
       {
@@ -279,7 +279,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Запрещается ли выполнять обгон на мостах, путепроводах, эстакадах и под ними?",
     "answers": [
       {
@@ -414,7 +414,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "На каких участках автомагистрали запрещается движение задним ходом?",
     "answers": [
       {
@@ -442,7 +442,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В светлое время суток включать фары ближнего света или дневные ходовые огни необходимо:",
     "answers": [
       {
@@ -469,7 +469,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При какой неисправности запрещено движение транспортного средства во время дождя или снегопада?",
     "answers": [
       {
@@ -496,7 +496,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "С увеличением скорости движения на повороте величина центробежной силы:",
     "answers": [
       {
@@ -523,7 +523,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fdc9b2cae9872a766d8b7d87d887d3b6.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как оказывается первая помощь при переломах конечностей, если отсутствуют транспортные шины и подручные средства для их изготовления?",
     "answers": [
       {

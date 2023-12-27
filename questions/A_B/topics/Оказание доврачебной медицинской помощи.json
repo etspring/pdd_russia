@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях следует начинать сердечно-легочную реанимацию пострадавшего?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какие сведения необходимо сообщить диспетчеру для вызова «Скорой медицинской помощи» при ДТП?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует расположить руки на грудной клетке пострадавшего при проведении сердечно-легочной реанимации?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какую оптимальную позу следует придать пострадавшему, находящемуся в сознании, при подозрении на травму позвоночника?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как оказать первую помощь при отморожении и переохлаждении?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какова первая помощь при черепно-мозговой травме, сопровождающейся ранением волосистой части головы?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует уложить пострадавшего при потере им сознания и наличии дыхания и кровообращения для оказания первой помощи?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "На какой срок может быть наложен кровоостанавливающий жгут?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "О каких травмах у пострадавшего может свидетельствовать поза «лягушки» (ноги согнуты в коленях и разведены, а стопы развернуты подошвами друг к другу) и какую первую помощь необходимо при этом оказать?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как определить наличие дыхания у потерявшего сознание пострадавшего?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что необходимо сделать для извлечения инородного тела, попавшего в дыхательные пути пострадавшего?",
     "answers": [
       {
@@ -300,7 +300,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каковы признаки кровотечения из крупной артерии и с чего начинается первая помощь при ее ранении?",
     "answers": [
       {
@@ -327,7 +327,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешено ли давать пострадавшему лекарственные средства при оказании ему первой помощи?",
     "answers": [
       {
@@ -354,7 +354,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как остановить кровотечение при ранении вены и некрупных артерий?",
     "answers": [
       {
@@ -381,7 +381,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каковы первоначальные действия при оказании первой помощи в случае ранения, полученного в результате ДТП?",
     "answers": [
       {
@@ -408,7 +408,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как обеспечить восстановление проходимости дыхательных путей пострадавшего при подготовке его к проведению сердечно-легочной реанимации?",
     "answers": [
       {
@@ -435,7 +435,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Каким образом проводится сердечно-легочная реанимация пострадавшего?",
     "answers": [
       {
@@ -462,7 +462,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как оказывается первая помощь при переломах конечностей, если отсутствуют транспортные шины и подручные средства для их изготовления?",
     "answers": [
       {
@@ -489,7 +489,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях пострадавшего следует извлекать из салона автомобиля",
     "answers": [
       {
@@ -516,7 +516,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Какова первая помощь при наличии признаков поверхностного термического ожога (покраснение и отек кожи, образование на месте ожога пузырей, наполненных прозрачной жидкостью, сильная боль)?",
     "answers": [
       {

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Что означает термин «Обгон»?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких из перечисленных случаев разрешается движение в населенных пунктах со скоростью не более 20 км/ч?",
     "answers": [
       {
@@ -439,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешено ли перевозить людей в буксируемом легковом автомобиле?",
     "answers": [
       {
@@ -466,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "За какие административные правонарушения в области дорожного движения предусмотрено наказание в виде обязательных работ?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как водитель должен воздействовать на педаль управления подачей топлива при возникновении заноса, вызванного резким ускорением движения?",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях следует увеличить боковой интервал?",
     "answers": [
       {

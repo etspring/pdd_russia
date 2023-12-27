@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Разрешается ли водителю продолжить движение после переключения зеленого сигнала светофора на желтый, если возможно остановиться перед перекрестком, только применив экстренное торможение?",
     "answers": [
       {
@@ -452,7 +452,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "В каких случаях разрешено применять звуковые сигналы в населённых пунктах?",
     "answers": [
       {
@@ -479,7 +479,7 @@
     "title": "Вопрос 18",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "При каком максимальном значении суммарного люфта в рулевом управлении допускается эксплуатация легкового автомобиля?",
     "answers": [
       {
@@ -506,7 +506,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b07c1b79c62ac104de0e049d6c1c3c2.jpg",
+    "image": "./images/no_image.jpg",
     "question": "Как следует поступить водителю при высадке из автомобиля, стоящего у тротуара или на обочине?",
     "answers": [
       {
