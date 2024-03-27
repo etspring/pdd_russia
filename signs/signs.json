@@ -3,25 +3,25 @@
     "1.1": {
       "number": "1.1",
       "title": "Железнодорожный переезд со шлагбаумом",
-      "image": "./images/signs/1_1.gif",
+      "image": "./images/signs/1_1.svg",
       "description": null
     },
     "1.2": {
       "number": "1.2",
       "title": "Железнодорожный переезд без шлагбаума",
-      "image": "./images/signs/1_2.gif",
+      "image": "./images/signs/1_2.svg",
       "description": null
     },
     "1.3.1": {
       "number": "1.3.1",
       "title": "Однопутная железная дорога",
-      "image": "./images/signs/1_3_1.gif",
+      "image": "./images/signs/1_3_1.svg",
       "description": null
     },
     "1.3.2": {
       "number": "1.3.2",
       "title": "Многопутная железная дорога",
-      "image": "./images/signs/1_3_2.gif",
+      "image": "./images/signs/1_3_2.svg",
       "description": "Обозначение необорудованного шлагбаумом переезда через железную дорогу: 1.3.1 - с одним путем 1.3.2 - с двумя путями и более"
     },
     "1.4.1": {
@@ -63,217 +63,217 @@
     "1.5": {
       "number": "1.5",
       "title": "Пересечение с трамвайной линией",
-      "image": "./images/signs/1_5.gif",
+      "image": "./images/signs/1_5.svg",
       "description": null
     },
     "1.6": {
       "number": "1.6",
       "title": "Пересечение равнозначных дорог",
-      "image": "./images/signs/1_6.gif",
+      "image": "./images/signs/1_6.svg",
       "description": null
     },
     "1.7": {
       "number": "1.7",
       "title": "Пересечение с круговым движением",
-      "image": "./images/signs/1_7.gif",
+      "image": "./images/signs/1_7.svg",
       "description": null
     },
     "1.8": {
       "number": "1.8",
       "title": "Светофорное регулирование",
-      "image": "./images/signs/1_8.gif",
+      "image": "./images/signs/1_8.svg",
       "description": "Перекресток, пешеходный переход или участок дороги, движение на котором регулируется светофором."
     },
     "1.9": {
       "number": "1.9",
       "title": "Разводной мост",
-      "image": "./images/signs/1_9.gif",
+      "image": "./images/signs/1_9.svg",
       "description": "Разводной мост или паромная переправа."
     },
     "1.10": {
       "number": "1.10",
       "title": "Выезд на набережную",
-      "image": "./images/signs/1_10.gif",
+      "image": "./images/signs/1_10.svg",
       "description": "Выезд на набережную или берег."
     },
     "1.11.1": {
       "number": "1.11.1",
       "title": "Опасный поворот",
-      "image": "./images/signs/1_11_1.gif",
+      "image": "./images/signs/1_11_1.svg",
       "description": null
     },
     "1.11.2": {
       "number": "1.11.2",
       "title": "Опасный поворот",
-      "image": "./images/signs/1_11_2.gif",
+      "image": "./images/signs/1_11_2.svg",
       "description": "Закругление дороги малого радиуса или с ограниченной видимостью: 1.11.1 - направо 1.11.2 - налево"
     },
     "1.12.1": {
       "number": "1.12.1",
       "title": "Опасные повороты",
-      "image": "./images/signs/1_12_1.gif",
+      "image": "./images/signs/1_12_1.svg",
       "description": null
     },
     "1.12.2": {
       "number": "1.12.2",
       "title": "Опасные повороты",
-      "image": "./images/signs/1_12_2.gif",
+      "image": "./images/signs/1_12_2.svg",
       "description": "Участок дороги с опасными поворотами: 1.12.1 - с первым поворотом направо 1.12.2 - с первым поворотом налево"
     },
     "1.13": {
       "number": "1.13",
       "title": "Крутой спуск",
-      "image": "./images/signs/1_13.gif",
+      "image": "./images/signs/1_13.svg",
       "description": null
     },
     "1.14": {
       "number": "1.14",
       "title": "Крутой подъем",
-      "image": "./images/signs/1_14.gif",
+      "image": "./images/signs/1_14.svg",
       "description": null
     },
     "1.15": {
       "number": "1.15",
       "title": "Скользкая дорога",
-      "image": "./images/signs/1_15.gif",
+      "image": "./images/signs/1_15.svg",
       "description": "Участок дороги с повышенной скользкостью проезжей части."
     },
     "1.16": {
       "number": "1.16",
       "title": "Неровная дорога",
-      "image": "./images/signs/1_16.gif",
+      "image": "./images/signs/1_16.svg",
       "description": "Участок дороги, имеющий неровности на проезжей части (волнистость, выбоины, неплавные сопряжения с мостами и тому подобное)."
     },
     "1.17": {
       "number": "1.17",
       "title": "Исскуственная неровность",
-      "image": "./images/signs/1_17.gif",
+      "image": "./images/signs/1_17.svg",
       "description": "Участок дороги с искусственной неровностью (неровностями) для принудительного снижения скорости."
     },
     "1.18": {
       "number": "1.18",
       "title": "Выброс гравия",
-      "image": "./images/signs/1_18.gif",
+      "image": "./images/signs/1_18.svg",
       "description": "Участок дороги, на котором возможен выброс гравия, щебня и тому подобного из-под колес транспортных средств."
     },
     "1.19": {
       "number": "1.19",
       "title": "Опасная обочина",
-      "image": "./images/signs/1_19.gif",
+      "image": "./images/signs/1_19.svg",
       "description": "Участок дороги, на котором съезд на обочину опасен."
     },
     "1.20.1": {
       "number": "1.20.1",
       "title": "Сужение дороги с обеих сторон",
-      "image": "./images/signs/1_20_1.gif",
+      "image": "./images/signs/1_20_1.svg",
       "description": null
     },
     "1.20.2": {
       "number": "1.20.2",
       "title": "Сужение дороги справа",
-      "image": "./images/signs/1_20_2.gif",
+      "image": "./images/signs/1_20_2.svg",
       "description": null
     },
     "1.20.3": {
       "number": "1.20.3",
       "title": "Сужение дороги слева",
-      "image": "./images/signs/1_20_3.gif",
+      "image": "./images/signs/1_20_3.svg",
       "description": "1.20.1 - сужение с обеих сторон 1.20.2 - справа 1.20.3 - слева"
     },
     "1.21": {
       "number": "1.21",
       "title": "Двустороннее движение",
-      "image": "./images/signs/1_21.gif",
+      "image": "./images/signs/1_21.svg",
       "description": "Начало участка дороги (проезжей части) с встречным движением."
     },
     "1.22": {
       "number": "1.22",
       "title": "Пешеходный переход",
-      "image": "./images/signs/1_22.gif",
+      "image": "./images/signs/1_22.svg",
       "description": "Пешеходный переход, обозначенный знаками 5.19.1, 5.19.2 и (или) разметкой 1.14.1 и 1.14.2."
     },
     "1.23": {
       "number": "1.23",
       "title": "Дети",
-      "image": "./images/signs/1_23.gif",
+      "image": "./images/signs/1_23.svg",
       "description": "Участок дороги вблизи детского учреждения (школы, оздоровительного лагеря и тому подобного), на проезжей части которого возможно появление детей."
     },
     "1.24": {
       "number": "1.24",
       "title": "Пересечение с велосипедной дорожкой",
-      "image": "./images/signs/1_24.gif",
+      "image": "./images/signs/1_24.svg",
       "description": null
     },
     "1.25": {
       "number": "1.25",
       "title": "Дорожные работы",
-      "image": "./images/signs/1_25.gif",
+      "image": "./images/signs/1_25.svg",
       "description": null
     },
     "1.26": {
       "number": "1.26",
       "title": "Перегон скота",
-      "image": "./images/signs/1_26.gif",
+      "image": "./images/signs/1_26.svg",
       "description": null
     },
     "1.27": {
       "number": "1.27",
       "title": "Дикие животные",
-      "image": "./images/signs/1_27.gif",
+      "image": "./images/signs/1_27.svg",
       "description": null
     },
     "1.28": {
       "number": "1.28",
       "title": "Падение камней",
-      "image": "./images/signs/1_28.gif",
+      "image": "./images/signs/1_28.svg",
       "description": "Участок дороги, на котором возможны обвалы, оползни, падение камней."
     },
     "1.29": {
       "number": "1.29",
       "title": "Боковой ветер",
-      "image": "./images/signs/1_29.gif",
+      "image": "./images/signs/1_29.svg",
       "description": null
     },
     "1.30": {
       "number": "1.30",
       "title": "Низколетящие самолеты",
-      "image": "./images/signs/1_30.gif",
+      "image": "./images/signs/1_30.svg",
       "description": null
     },
     "1.31": {
       "number": "1.31",
       "title": "Тоннель",
-      "image": "./images/signs/1_31.gif",
+      "image": "./images/signs/1_31.svg",
       "description": "Тоннель, в котором отсутствует искусственное освещение, или тоннель, видимость въездного портала которого ограничена."
     },
     "1.32": {
       "number": "1.32",
       "title": "Затор",
-      "image": "./images/signs/1_32.gif",
+      "image": "./images/signs/1_32.svg",
       "description": "Участок дороги, на котором образовался затор."
     },
     "1.33": {
       "number": "1.33",
       "title": "Прочие опасности",
-      "image": "./images/signs/1_33.gif",
+      "image": "./images/signs/1_33.svg",
       "description": "Участок дороги, на котором имеются опасности, не предусмотренные другими предупреждающими знаками."
     },
     "1.34.1": {
       "number": "1.34.1",
       "title": "Направление поворота",
-      "image": "./images/signs/1_34_1.gif",
+      "image": "./images/signs/1_34_1.svg",
       "description": null
     },
     "1.34.2": {
       "number": "1.34.2",
       "title": "Направление поворота",
-      "image": "./images/signs/1_34_2.gif",
+      "image": "./images/signs/1_34_2.svg",
       "description": "Направление движения на закруглении дороги малого радиуса с ограниченной видимостью. Направление объезда ремонтируемого участка дороги."
     },
     "1.34.3": {
       "number": "1.34.3",
       "title": "Направление поворота",
-      "image": "./images/signs/1_34_3.gif",
+      "image": "./images/signs/1_34_3.svg",
       "description": "Направления движения на Т-образном перекрестке или разветвлении дорог. Направления объезда ремонтируемого участка дороги."
     }
   },
