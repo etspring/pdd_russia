@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name=" Слой 1" xmlns="http://www.w3.org/2000/svg" width="127" height="53" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127 53">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #838383;
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="19.79 26.56 102.57 7.19 102.57 45.93 19.79 26.56"/>
+    </clipPath>
+  </defs>
+  <path class="cls-3" d="m0,0h127v53H0V0Z"/>
+  <path class="cls-4" d="m99.58,10.97v31.17l-66.61-15.59,66.61-15.59m3-3.78L19.8,26.56l82.78,19.37V7.19h0Z"/>
+  <g class="cls-1">
+    <g>
+      <polygon class="cls-4" points="86.88 6.84 90.56 11.58 71.21 26.59 88.53 41.11 84.68 45.71 61.66 26.41 86.88 6.84"/>
+      <polygon class="cls-4" points="109.16 6.97 112.84 11.71 93.5 26.72 110.82 41.23 106.96 45.83 83.94 26.54 109.16 6.97"/>
+      <polygon class="cls-4" points="65.37 7.04 69.04 11.78 49.7 26.79 67.02 41.31 63.17 45.91 40.14 26.61 65.37 7.04"/>
+    </g>
+  </g>
+</svg>
