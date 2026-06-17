@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c3634417d8d152602a38565c2bf781dd.jpg",
+    "image": "./tmp/images/C_D/a5818694e383d2f22dd04d221aec43db.jpg",
     "question": "Какие из указанных знаков устанавливают непосредственно перед железнодорожным переездом?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/333cc82bac3c9a2e0696190f6ecafd7e.jpg",
+    "image": "./tmp/images/C_D/8236cc1d720f46c31a16bf3d91f0e800.jpg",
     "question": "Вам разрешено выполнить разворот:",
     "answers": [
       {
@@ -80,8 +80,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Движение на перекрёстке, обозначенном знаком 4.3 «Круговое движение», организовано по кругу в направлении стрелок. Траектория «А» проходит во встречном направлении, что недопустимо. Для разворота следует выехать на перекрёсток и совершить «круг почета». Разворот можно совершить только по траектории «Б».(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Начало движения, маневрирование"
+      "Дорожные знаки"
     ],
     "id": "550c3a59c58a310f2120927430b5ab00"
   },
@@ -89,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/a9f61decedee3ddbf0cc032876b1cfd8.jpg",
+    "image": "./tmp/images/C_D/1056d47dd8d8c1d228da0210960d2324.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку за путепроводом?",
     "answers": [
       {
@@ -108,8 +107,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "В указанном месте стоянка запрещена знаком 3.28 «Стоянка запрещена», действие которого распространяется до ближайшего перекрёстка. Путепровод не может прекращать действие данного знака.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "8df94ad9495b3b9395cba882c09045ff"
   },
@@ -117,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/8e1abea4825b495feb4c7a9a9586b1a8.jpg",
+    "image": "./tmp/images/C_D/5ed17222a36dc16ad64439b361542741.jpg",
     "question": "Разрешается ли Вам перестроиться на полосу с реверсивным движением в данной ситуации?",
     "answers": [
       {
@@ -144,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/01cacdbfa800b00afbeaf9d4e992d979.jpg",
+    "image": "./tmp/images/C_D/0755f11f922ddce0ebf95b64b50550e2.jpg",
     "question": "Вам разрешено движение:",
     "answers": [
       {
@@ -171,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/543a6cfd37995c7c99edb4aeb2e6bd55.jpg",
+    "image": "./tmp/images/C_D/2fae38f621f1b1719231f0de6fd0e24b.jpg",
     "question": "Какие указатели поворота Вы обязаны включить при выполнении разворота по такой траектории?",
     "answers": [
       {
@@ -198,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/830a64e6c48c5d7bffc544bd4624123d.jpg",
+    "image": "./tmp/images/C_D/691dbb68bca3eeff36c8eac179997173.jpg",
     "question": "Ситуация, в которой водитель транспортного средства, движущегося по правой полосе, обязан уступить дорогу при перестроении, показана:",
     "answers": [
       {
@@ -225,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/0a90ab7b3db1f8fe9c25ce224278a8dc.jpg",
+    "image": "./tmp/images/C_D/aec9d842e39c07982adf72eb7dada2a5.jpg",
     "question": "Разрешено ли водителю маломестного автобуса движение задним ходом для посадки пассажира?",
     "answers": [
       {
@@ -252,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/74355db6a6330bda504ba45cf02a27bf.jpg",
+    "image": "./tmp/images/C_D/534458f807c817cc64d58c8699c9808f.jpg",
     "question": "В данной ситуации для того, чтобы продолжить движение в прямом направлении, Вы имеете право:",
     "answers": [
       {
@@ -310,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/eafcf9f4a79b8f4a54214e71743bcc04.jpg",
+    "image": "./tmp/images/C_D/cd02414b08d4f57dbcf50b1d7b7fd7cd.jpg",
     "question": "Можно ли Вам остановиться в тоннеле для посадки пассажира?",
     "answers": [
       {
@@ -337,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/a4942617b650d933c68922b463b70aa5.jpg",
+    "image": "./tmp/images/C_D/dd3dda1dc6b72afb42e1b7b8b6d75e3e.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -364,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c4e9331a7d06bc849d6bc7d49f594cd2.jpg",
+    "image": "./tmp/images/C_D/299e398557ff0769c09ec4012cf25f70.jpg",
     "question": "При движении в каком направлении Вы будете иметь преимущество?",
     "answers": [
       {
@@ -391,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./images/C_D/92878a915a4acfa536b8f7334ec35e52.jpg",
+    "image": "./tmp/images/C_D/8c13a61b32b89bba8e77b39b10a2e2c0.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия?",
     "answers": [
       {
@@ -433,8 +431,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Движение задним ходом на автомагистрали запрещено на всем протяжении дороги.(Пункт 16.1 ПДД)",
     "topic": [
-      "Движение по автомагистралям",
-      "Начало движения, маневрирование"
+      "Движение по автомагистралям"
     ],
     "id": "9bc59bb751bcfea2e5e90395c23b679a"
   },

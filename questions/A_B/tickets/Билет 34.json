@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/bd10a7d4e35d9e14c7f76c98ba4311dd.jpg",
+    "image": "./tmp/images/A_B/53663596fc1130ba5b93f03d614788a4.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d3f85921878a51db1c7197d22f5b8962.jpg",
+    "image": "./tmp/images/A_B/09fb40b461f5d003aeea69cc01ed485d.jpg",
     "question": "На каком расстоянии до скользкого участка дороги устанавливается данный знак в населённом пункте?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/40e68617cce95ec2ae0e7c7e1bf6b529.jpg",
+    "image": "./tmp/images/A_B/8408c56c7e8963c5cb7dd379001d20a9.jpg",
     "question": "Остановка в зоне действия этого знака разрешена:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/35c54aefd134adf49707b153f96b2f55.jpg",
+    "image": "./tmp/images/A_B/0bcfa36f4c69a3a2502725a6e606eb29.jpg",
     "question": "Какие из указанных знаков используются для обозначения кемпинга?",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/83382033528eda1cd21ed53a9d6d939c.jpg",
+    "image": "./tmp/images/A_B/b85a94c4c6006e417495b690e40dea08.jpg",
     "question": "Если реверсивные светофоры выключились, Вам следует:",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/71be6e3e70691947b42589cbe99ced4b.jpg",
+    "image": "./tmp/images/A_B/e914a860e8a271c88f67b8f6505dff1b.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/fa8e614c162efa9963c34741f225ae70.jpg",
+    "image": "./tmp/images/A_B/90a78af0706419c856ec7a5be8a19ce3.jpg",
     "question": "Можно ли водителю легкового автомобиля в данной ситуации начать движение от тротуара?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d0cc50dee93f2a2f9d05a7fa7acda818.jpg",
+    "image": "./tmp/images/A_B/f24c6163a98c2306a769236226ae3f04.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешается ли ему в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/bf2ac58cc3245402a8710905b203f9f9.jpg",
+    "image": "./tmp/images/A_B/751462dccd4f44aa74321458927c3163.jpg",
     "question": "Кто из водителей мопедов занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1d8973c9b7892a5df603b8c4a57e0765.jpg",
+    "image": "./tmp/images/A_B/04244ce5ded19bcb12b27aa60397f8b9.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2c7e7e3a617223291f5052fa9ac0d03a.jpg",
+    "image": "./tmp/images/A_B/dfb41eae0144719e31b97496d96c9178.jpg",
     "question": "Водители каких автомобилей нарушили правила остановки?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a2fc332291bee5203413a0113c388641.jpg",
+    "image": "./tmp/images/A_B/a2390e5b156666dd359c55159c544996.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/74163a8ad5ac65673ea835173fa5feec.jpg",
+    "image": "./tmp/images/A_B/abeb738074f015315eecd58b4cdeaf8d.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -393,7 +393,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8f84380bd94b68627c59fdc5e599e095.jpg",
+    "image": "./tmp/images/A_B/1acad5c62fb91164bdf8366d78d715ef.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -505,7 +505,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8dbb3de365e8c033da2888608c07613c.jpg",
+    "image": "./tmp/images/A_B/00d241fcd8c271950321a415cd900b8f.jpg",
     "question": "При движении по двухполосной дороге за грузовым автомобилем у Вас появилась возможность совершить обгон. Ваши действия?",
     "answers": [
       {

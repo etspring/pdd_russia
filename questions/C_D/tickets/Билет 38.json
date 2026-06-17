@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/07f8422f9127d04cf1bdc5f50eb0d009.jpg",
+    "image": "./tmp/images/C_D/7999c8687ad8c030d4c6b59a59e74fec.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекресток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/0772c1d6e094e2f2d019d3404158bfc2.jpg",
+    "image": "./tmp/images/C_D/3aa2bd4e841302ebd63811efcf297bf1.jpg",
     "question": "Данные знаки предупреждают о приближении:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/7a0c6d809a356182944ed3ef6692ed1d.jpg",
+    "image": "./tmp/images/C_D/f641f887b487c43ca95ad2dc718efcbc.jpg",
     "question": "Разрешено ли Вам выполнить обгон, если Вы управляете автобусом?",
     "answers": [
       {
@@ -76,8 +76,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Знак 3.22 «Обгон грузовым автомобилям запрещен» распространяет свое действие только на грузовые автомобили с р.м.м. более 3,5 т. На автобусы действие данного знака не распространяется.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "7fda8da80f56b714ca665fdcd25df11a"
   },
@@ -85,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/ece06b5a428ff203ccdaeee9194da4cd.jpg",
+    "image": "./tmp/images/C_D/2caca5591be3b1a0c2d7de6ee3973df1.jpg",
     "question": "Вы можете продолжить движение по крайней левой полосе:",
     "answers": [
       {
@@ -112,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/f81e4efcdf66e32d71f385141e5e5d26.jpg",
+    "image": "./tmp/images/C_D/4ed0b831f37d88e8ded2f281fe6c8d41.jpg",
     "question": "Разрешается ли Вам остановка в этом месте?",
     "answers": [
       {
@@ -135,8 +134,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Прерывистая жёлтая линия разметки 1.10 обозначает места, где запрещена стоянка. Ничего противоречащего остановке нет.(«Горизонтальная разметка»)",
     "topic": [
-      "Дорожная разметка",
-      "Остановка и стоянка"
+      "Дорожная разметка"
     ],
     "id": "620c7b1982c5fff9ccd7a7f8837ac56f"
   },
@@ -175,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fa38bf043b0532b675c31603895ca161.jpg",
+    "image": "./tmp/images/C_D/ed5bdc19a5a400558be651e106f7072a.jpg",
     "question": "Вы намерены остановиться сразу за перекрестком. В каком месте необходимо включить указатели правого поворота?",
     "answers": [
       {
@@ -202,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/4dea7eed5803ebd997d8d7a58298ded0.jpg",
+    "image": "./tmp/images/C_D/977249e484288cd7c9b2866f0b5f2a92.jpg",
     "question": "При съезде с дороги на прилегающую справа территорию Вы:",
     "answers": [
       {
@@ -233,7 +231,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/6851f3805d342398ead67be87d82905c.jpg",
+    "image": "./tmp/images/C_D/05387642b0ecab7e2187a1daa1ca9b80.jpg",
     "question": "Разрешено ли Вам выполнить разворот при движении на подъеме?",
     "answers": [
       {
@@ -260,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/8df5a52fe320ef2bc5c5d31ac8b1da19.jpg",
+    "image": "./tmp/images/C_D/25d9b4ffd8599cbb333c870853f9aa53.jpg",
     "question": "С какой максимальной скоростью разрешается продолжить движение при буксировке неисправного механического транспортного средства?",
     "answers": [
       {
@@ -287,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c762d2ac3ab52a62316916b4fa52af94.jpg",
+    "image": "./tmp/images/C_D/bd24d81fcadc2be807c88d445904fc78.jpg",
     "question": "Можно ли Вам начать обгон?",
     "answers": [
       {
@@ -314,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/57f44be84b8ed50ab9e8e1359f4e640c.jpg",
+    "image": "./tmp/images/C_D/5c737cdc38726bc9ea02bd0709ab94b0.jpg",
     "question": "Разрешено ли водителю грузового автомобиля с разрешенной максимальной массой более 3,5 т остановиться в указанном месте?",
     "answers": [
       {
@@ -341,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/f2ed64384075dbd0fea8bd6701fe7204.jpg",
+    "image": "./tmp/images/C_D/5390bd98aa179f97ba119923cfac869f.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -368,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/5b0355e36da1ce69d75589cb5b321617.jpg",
+    "image": "./tmp/images/C_D/4b958a49df4d21b36b17fdce04666541.jpg",
     "question": "При движении в каком направлении Вы обязаны уступить дорогу трамваю?",
     "answers": [
       {
@@ -395,7 +393,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./images/C_D/cc955f85396d821c5c0093fa97f696e5.jpg",
+    "image": "./tmp/images/C_D/b354e33ba5612cb396e0c1fed7d28ef0.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {

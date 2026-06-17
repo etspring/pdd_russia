@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/23aec8182761364dca90c69366d65f96.jpg",
+    "image": "./tmp/images/A_B/fe634d98c2af3212c1a2ea47cadc8465.jpg",
     "question": "В чем особенность скоростного режима на этом участке дороги?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/4139cea6fe6bbabf1df8ece77ba95495.jpg",
+    "image": "./tmp/images/A_B/0627a6bcda807b448e366a938dd7267b.jpg",
     "question": "Какие из указанных знаков запрещают поворот налево?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9f0d677ca3cf88f64be46539e1d28133.jpg",
+    "image": "./tmp/images/A_B/ce1936aeb5dffa195af050ef8d234483.jpg",
     "question": "Можно ли Вам повернуть направо на этом перекрёстке?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b86019ddbb5a253360abb423a619d120.jpg",
+    "image": "./tmp/images/A_B/01ed7477d29b8de10f90ae90ae7d29cb.jpg",
     "question": "Разрешается ли Вам перестроиться?",
     "answers": [
       {
@@ -134,6 +134,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Реверсивные светофоры выключены. Двойная прерывистая линия разметки 1.9 разделяет транспортные потоки противоположных направлений. Прерывистую линию разметки 1.5, находящуюся слева пересекать не запрещается, поэтому Вам можно перестроиться на левую (соседнюю) полосу и продолжить движение по ней.(Пункт 6.7 ПДД)",
     "topic": [
+      "Дорожная разметка",
       "Сигналы светофора и регулировщика"
     ],
     "id": "ac2827faa9de5a0eefb589d08658dad8"
@@ -142,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/642c5103f3dd55db6252e5d1f44520d0.jpg",
+    "image": "./tmp/images/A_B/22d4fb162eef4f41fc16ee622fb96507.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -169,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/701cfc285d4031d48072f8b0a1b9de52.jpg",
+    "image": "./tmp/images/A_B/da037e32c3bdbe5b0b324c94d6036152.jpg",
     "question": "Водитель легкового автомобиля должен выключить указатели левого поворота:",
     "answers": [
       {
@@ -196,7 +197,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
+    "image": "./tmp/images/A_B/ca4b4d8be85e51f1b22bb7d48c33dc7f.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -215,6 +216,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "В случае отсутствия знака 5.15.1 «Направления движения по полосам» следовало бы выполнить поворот налево по траектории «А». Но на перекрёстках, перед которыми и на которых имеются знаки 5.15.1 и 5.15.2, выезд на трамвайные пути запрещён. Поворот налево (разворот) следует произвести по траектории «Б».(«Дорожные знаки», пункт 8.5 ПДД)",
     "topic": [
+      "Дорожные знаки",
       "Начало движения, маневрирование"
     ],
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
@@ -223,7 +225,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b400f5195566bf810b9cb1c36ee9ecd5.jpg",
+    "image": "./tmp/images/A_B/b2595fecbe711e5609a23fc8ac3fc088.jpg",
     "question": "Вы имеете право выполнить разворот:",
     "answers": [
       {
@@ -250,8 +252,8 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0283f188f3eefa7aecda7f3ac5454140.jpg",
-    "question": "Вне населенных пунктов вам можно продолжить движение:",
+    "image": "./tmp/images/A_B/676956abe8a15ebc091b562be321a1b6.jpg",
+    "question": "Вне населенных пунктов Вам можно продолжить движение:",
     "answers": [
       {
         "answer_text": "По любой полосе",
@@ -271,13 +273,13 @@
     "topic": [
       "Расположение транспортных средств на проезжей части"
     ],
-    "id": "58d1089d855a67f2148bbc6fe1a39647"
+    "id": "41063f3865301d9f6cd2820815c39c27"
   },
   {
     "title": "Вопрос 11",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8c603ea35edc08128ebdf41cec0da360.jpg",
+    "image": "./tmp/images/A_B/2e01cd61f2acb8aab7f9fa7a5704f256.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -304,7 +306,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/4bfb3a80e06d09db2710d0fb03606cd7.jpg",
+    "image": "./tmp/images/A_B/2781ab050a7d9185d07f438297f55372.jpg",
     "question": "Нарушил ли водитель грузового автомобиля правила стоянки?",
     "answers": [
       {
@@ -331,7 +333,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f101401b00f168cef0e8dd6b928d3976.jpg",
+    "image": "./tmp/images/A_B/75b894f8b7008cbcdfd01fbe7d086b76.jpg",
     "question": "Кто из водителей, выполняющих поворот, нарушит Правила?",
     "answers": [
       {
@@ -362,7 +364,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/30b317263f24b3d5d9c09f66bb1c0be1.jpg",
+    "image": "./tmp/images/A_B/070caf0f9b5674de0d359942722b1ffe.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -389,7 +391,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./images/A_B/48062235ba530b29f020a2d7032a5bd8.jpg",
+    "image": "./tmp/images/A_B/3b2c8d915bef1709d23d38ab7282c354.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {

@@ -139,33 +139,6 @@
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
-    "question": "Нормы времени управления транспортным средством и отдыха применяются в отношении физических лиц, осуществляющих эксплуатацию:",
-    "answers": [
-      {
-        "answer_text": "Грузовых автомобилей с разрешенной максимальной массой более 3,5 т",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Автобусов",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Всех перечисленных транспортных средств",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Нормы времени управления ТС и отдыха применяются в отношении физических лиц, осуществляющих эксплуатацию грузовых автомобилей, разрешенная максимальная масса которых превышает 3500 килограммов, и автобусов (Пункт 26.4 ПДД). Указанные физические лица по требованию должностных лиц, уполномоченных на осуществление федерального государственного надзора в области безопасности дорожного движения, предоставляют доступ к тахографу и карте водителя, используемой совместно с тахографом, а также осуществляют по требованию этих должностных лиц вывод на печать информации из тахографа.",
-    "topic": [
-      "Пользование внешними световыми приборами и звуковыми сигналами"
-    ],
-    "id": "4a24953814f131c546cd4b292f9212f6"
-  },
-  {
-    "title": "Вопрос 7",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
     "question": "При движении в темное время суток на неосвещенных участках дорог можно использовать противотуманные фары:",
     "answers": [
       {
@@ -189,7 +162,7 @@
     "id": "76e2bc228b6c0bf8b7270bc08737dd4b"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -216,7 +189,7 @@
     "id": "767494244f41aaaeac8a5852e0712bfa"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -247,7 +220,7 @@
     "id": "5c698fc4bf8bcf1f57a983894354a09f"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -274,7 +247,7 @@
     "id": "5ceda2cdaf64800d6c2b95fb92d2f199"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -294,17 +267,17 @@
       }
     ],
     "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "В условиях «недостаточной видимости» - видимости дороги менее 300 м в условиях тумана, дождя, снегопада и т. п., а также в сумерки, согласно пунктов 19.4 и 19.7 ПДД могут применяться противотуманные фары и противотуманные фонари, как раздельно, так и одновременно.(Пункты 19.4, 19.7 ПДД)",
+    "answer_tip": "В условиях «недостаточной видимости» - видимости дороги менее 300 м в условиях тумана, дождя, снегопада и т. п., а также в сумерки, согласно пунктам 19.4 и 19.7 ПДД могут применяться противотуманные фары и противотуманные фонари, как раздельно, так и одновременно.(Пункты 19.4, 19.7 ПДД)",
     "topic": [
       "Пользование внешними световыми приборами и звуковыми сигналами"
     ],
     "id": "3e06d2a0e8d3bec2d10a29e249c73256"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/95b0287f765ddd8997fb0219b7f0952a.jpg",
+    "image": "./tmp/images/C_D/83cf60fede935094f511148b763078b7.jpg",
     "question": "В зоне действия каких знаков Правила разрешают подачу звуковых сигналов только для предотвращения дорожно-транспортного происшествия?",
     "answers": [
       {
@@ -332,7 +305,7 @@
     "id": "1f51d2c50e642e5829277f6a10db2a1c"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -359,7 +332,7 @@
     "id": "9f794646f5aa73c955533a26d1227aec"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -386,7 +359,7 @@
     "id": "a09fa579901747647ba1e46ca2360855"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -417,7 +390,7 @@
     "id": "b3410d5fdd6d2cfd0ad7809c42f67d23"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -444,7 +417,7 @@
     "id": "0f290a8c6cc3d9b5ef22d05cfd6b59a6"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -475,7 +448,7 @@
     "id": "442cf868e87c883a373f11daecc7b691"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -502,7 +475,7 @@
     "id": "cf35ca9e291ba13645e7e8f0ead0c664"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -529,7 +502,7 @@
     "id": "920fbc6a5599d44942b85a6af69dcf35"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -556,7 +529,7 @@
     "id": "64c732605bceabdd67f38e3e26c35fcf"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -583,7 +556,7 @@
     "id": "28da96643006af8596045794844195fb"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -610,7 +583,7 @@
     "id": "e67b7d02b5992076f2007a47f89b858f"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -637,7 +610,7 @@
     "id": "980be5c0911a66315d442f7195362823"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",

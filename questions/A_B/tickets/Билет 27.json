@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6e00c765e08f27fb105ffafa1f8b87cb.jpg",
+    "image": "./tmp/images/A_B/bfd00c3b43a94284ad38f88047d8d7ba.jpg",
     "question": "Какие из указанных знаков используются для обозначения границ искусственной неровности?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/92c47bbf0ca878640288b11f11a663ad.jpg",
+    "image": "./tmp/images/A_B/2e49509e787984ca0063082db570636c.jpg",
     "question": "В данной ситуации остановка:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/21ff4a0e43bb54ae4908b363ee8d830e.jpg",
+    "image": "./tmp/images/A_B/128bde7231003811774957642ea6eac3.jpg",
     "question": "Управляя каким автомобилем, можно осуществить опережение в данной ситуации?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/21d1dbdca228cf2c864a76c875534f4d.jpg",
+    "image": "./tmp/images/A_B/cafc9ae89132d05d9fd2030e8cd30738.jpg",
     "question": "Что обозначает эта разметка:",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/70865a506c998edb746739921147e03a.jpg",
+    "image": "./tmp/images/A_B/366586738300e694793b7f0cdc906a8b.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, который движется по левой полосе, информирует о его намерении:",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/05cb84846907e5244d2b42ae8732cc2e.jpg",
+    "image": "./tmp/images/A_B/79dad66e2d9640f0c61d2ea6b0eb7200.jpg",
     "question": "При перестроении на правую полосу в данной ситуации Вы:",
     "answers": [
       {
@@ -215,7 +215,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0829b48da9a7acb2498ee29a1b7d10ed.jpg",
+    "image": "./tmp/images/A_B/fec448097f59324244c64227328db893.jpg",
     "question": "По какой траектории Вам разрешается выполнить разворот?",
     "answers": [
       {
@@ -242,7 +242,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/c25b5b48b72a9780927878a5eea20343.jpg",
+    "image": "./tmp/images/A_B/4934f70bcd29ddae9caaacf6527c0bd0.jpg",
     "question": "Каковы Ваши действия в данной ситуации?",
     "answers": [
       {
@@ -296,7 +296,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b85658718ed032f21d74082892292800.jpg",
+    "image": "./tmp/images/A_B/22ead417302096226ba4ee3c6078f833.jpg",
     "question": "Разрешается ли водителям транспортных средств остановка в указанных местах?",
     "answers": [
       {
@@ -323,7 +323,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2fc27e8b51d2e03c4f003bf1d74b9c5e.jpg",
+    "image": "./tmp/images/A_B/f923c52afaf03bb3f9b3b99d332fedf3.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/68c21bd8ca46704ed05ae1eea191986e.jpg",
+    "image": "./tmp/images/A_B/e4eb3369cda136acd5ec273e9522f655.jpg",
     "question": "Как Вам следует поступить, двигаясь по перекрестку с круговым движением?",
     "answers": [
       {
@@ -377,7 +377,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/4f4585dffa725aab876a591694287ab0.jpg",
+    "image": "./tmp/images/A_B/65f5072814a069034756981fb36e664d.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -404,7 +404,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/cc304ec70100f050c1abe513d466dd78.jpg",
+    "image": "./tmp/images/A_B/ba519a2c27db2e220ef9a374695a2135.jpg",
     "question": "На каком наименьшем расстоянии до ближайшего рельса Вы должны остановиться?",
     "answers": [
       {
@@ -516,7 +516,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 27",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e40fdb893e4b640927089fdd6ff8065a.jpg",
+    "image": "./tmp/images/A_B/55f854613948e4f6f171a598130b1dfe.jpg",
     "question": "На каком рисунке показано правильное положение рук на рулевом колесе?",
     "answers": [
       {

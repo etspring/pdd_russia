@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/5688949120d0f6dad41a3699c5d53d96.jpg",
+    "image": "./tmp/images/A_B/e3e62b340fb4d5cf100799821d04d7b8.jpg",
     "question": "По какой полосе Вы имеете право двигаться с максимальной разрешенной скоростью вне населенного пункта?",
     "answers": [
       {
@@ -88,8 +88,8 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0283f188f3eefa7aecda7f3ac5454140.jpg",
-    "question": "Вне населенных пунктов вам можно продолжить движение:",
+    "image": "./tmp/images/A_B/676956abe8a15ebc091b562be321a1b6.jpg",
+    "question": "Вне населенных пунктов Вам можно продолжить движение:",
     "answers": [
       {
         "answer_text": "По любой полосе",
@@ -109,13 +109,13 @@
     "topic": [
       "Расположение транспортных средств на проезжей части"
     ],
-    "id": "58d1089d855a67f2148bbc6fe1a39647"
+    "id": "41063f3865301d9f6cd2820815c39c27"
   },
   {
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1b79c9d7afef27d7fe061d3f8bbfaa58.jpg",
+    "image": "./tmp/images/A_B/395283c7cc5760df7e9af648b040541b.jpg",
     "question": "По какой траектории Вам разрешается продолжить движение?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/86331928deadad76d4d7f10f9a3b4b0f.jpg",
+    "image": "./tmp/images/A_B/6e70dbb4e4bc0db0b2e6221ea6a7edaf.jpg",
     "question": "Укажите расстояние, под которым в Правилах понимается дистанция:",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1517fd90f3391baa0f81dd87d68d740b.jpg",
+    "image": "./tmp/images/A_B/cdd6b7ebf95b39f0717b8eb63a12295a.jpg",
     "question": "Разрешается ли Вам, управляя легковым автомобилем, продолжить движение по трамвайным путям попутного направления?",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/bc2d9bc1134da560e69026519debee4f.jpg",
+    "image": "./tmp/images/A_B/efe5336ecc830f437e17cae8d217714c.jpg",
     "question": "Разрешается ли Вам выехать на трамвайные пути встречного направления в данной ситуации?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/8a7f321647d18707691b7fe16a2c19ea.jpg",
+    "image": "./tmp/images/A_B/e01f0943a634ca5c1ef17a273635f81d.jpg",
     "question": "По какой траектории Вы имеете право продолжить движение?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/c25b5b48b72a9780927878a5eea20343.jpg",
+    "image": "./tmp/images/A_B/4934f70bcd29ddae9caaacf6527c0bd0.jpg",
     "question": "Каковы Ваши действия в данной ситуации?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/de4e260e8ae4615986e36735cbc78c9a.jpg",
+    "image": "./tmp/images/A_B/66ec7bf94373057bb49b55f1caa49bed.jpg",
     "question": "Разрешается ли Вам, управляя грузовым автомобилем с разрешённой максимальной массой более 2,5 т, выехать на третью полосу в данной ситуации?",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3176b8d47092f1062bc7c503e56bc3e7.jpg",
+    "image": "./tmp/images/A_B/1ebfab4546de55a042eb8223c79444f4.jpg",
     "question": "Можно ли Вам выехать на крайнюю левую полосу в данной ситуации?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b2e41414ff25e3e972105856d82459c3.jpg",
+    "image": "./tmp/images/A_B/b6f1f39d3333be8dbcfde1f277401c58.jpg",
     "question": "В данной ситуации Вам разрешается движение:",
     "answers": [
       {
@@ -482,7 +482,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/bf2ac58cc3245402a8710905b203f9f9.jpg",
+    "image": "./tmp/images/A_B/751462dccd4f44aa74321458927c3163.jpg",
     "question": "Кто из водителей мопедов занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -536,7 +536,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/7aa701f3bd1edd5b83bd5106d7be4336.jpg",
+    "image": "./tmp/images/A_B/b1a187efed1968679701916c00cb2e11.jpg",
     "question": "Кто из водителей занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -567,7 +567,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/8c603ea35edc08128ebdf41cec0da360.jpg",
+    "image": "./tmp/images/A_B/2e01cd61f2acb8aab7f9fa7a5704f256.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -594,7 +594,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/28b95bf19c3a2d14a7f7bce37d99d1a3.jpg",
+    "image": "./tmp/images/A_B/9ddce914f29ebe2ca60cfc2589524a24.jpg",
     "question": "Можно ли Вам после опережения грузового автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -621,7 +621,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e4f45f7c5c43044accbeda568927b59c.jpg",
+    "image": "./tmp/images/A_B/4c1f97b70634353c06d942ffba2cefe6.jpg",
     "question": "По какой полосе Вам можно продолжить движение в населённом пункте после опережения грузового автомобиля?",
     "answers": [
       {
@@ -648,7 +648,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1d8973c9b7892a5df603b8c4a57e0765.jpg",
+    "image": "./tmp/images/A_B/04244ce5ded19bcb12b27aa60397f8b9.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {

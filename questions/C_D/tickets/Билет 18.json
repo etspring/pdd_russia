@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/e095e18af0ec10999a4f52f4dde67912.jpg",
+    "image": "./tmp/images/C_D/5e89f655686319afa484e7e6925d9014.jpg",
     "question": "Этот дорожный знак предупреждает:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/903b1b231a37e8b221627a7947dc1ad2.jpg",
+    "image": "./tmp/images/C_D/5f6cd6658a59584e04dd2b8beba80a8a.jpg",
     "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по четным числам месяца?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/0de4bdf9edbfba56fc7e7605a61e8bfd.jpg",
+    "image": "./tmp/images/C_D/1aa1fd841f0d70c63288101d85ed212a.jpg",
     "question": "Какие из указанных знаков информируют о том, что на данной дороге действуют требования Правил, устанавливающие порядок движения в населенных пунктах?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/dd1023ef005173cc4d63e7f0eb0bdf0b.jpg",
+    "image": "./tmp/images/C_D/a5d2733aa579196b4ff1b61522b43312.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/0225d1330d5878334b0e23af9038dc63.jpg",
+    "image": "./tmp/images/C_D/ec83112d5603e988f03093e08e49e084.jpg",
     "question": "В каком направлении Вам разрешено движение?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/68188d23e035c5d343b050870143c6c3.jpg",
+    "image": "./tmp/images/C_D/603cdf363e094c0a6855714b6c616e11.jpg",
     "question": "Вы намерены остановиться слева у тротуара. В каком случае Вы обязаны включить на автобусе левые указатели поворота?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/bf1187bad22b605cd3e5af405aa0fe69.jpg",
+    "image": "./tmp/images/C_D/6561485238eeb7359ffa5bd098886f5f.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/1e437cd038f88d410f5140cdcc6ac35a.jpg",
+    "image": "./tmp/images/C_D/54b2548c88cbe4a520f2401af3318dd3.jpg",
     "question": "Управляя автопоездом, имеющим большую длину, Вы имеете право выполнить разворот:",
     "answers": [
       {
@@ -236,7 +236,7 @@
       }
     ],
     "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Если при развороте вне перекрестка ширина проезжей части недостаточна для выполнения из крайнего левого положения, его допускается производить от правого края проезжей части (с правой обочины).Указанный ответ в таблице правильных ответов ГИБДД, является таковым только при одном условии (не оговоренном в вопросе), что ширина проезжей части для данного автопоезда, недостаточна для выполнения разворота из крайнего левого положения.(Пункт 8.11 ПДД)",
+    "answer_tip": "Если при развороте вне перекрестка ширина проезжей части недостаточна для выполнения из крайнего левого положения, его допускается производить от правого края проезжей части (с правой обочины).Указанный ответ в таблице правильных ответов ГИБДД, является таковым только при одном условии (не оговоренном в вопросе), что ширина проезжей части для данного автопоезда, недостаточна для выполнения разворота из крайнего левого положения.(Пункт 8.5 ПДД)",
     "topic": [
       "Начало движения, маневрирование"
     ],
@@ -274,7 +274,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/b85fc1f0f63d0b48d386e81bff9820f1.jpg",
+    "image": "./tmp/images/C_D/d612a5393f80bea01f7338ace495aa2f.jpg",
     "question": "Можно ли водителю грузового автомобиля Б начать обгон?",
     "answers": [
       {
@@ -301,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/29218756b0d87d8f7e8bae49dce1bd1c.jpg",
+    "image": "./tmp/images/C_D/09fc82aa15431be00bc5cb6b9692ce6d.jpg",
     "question": "Кто нарушил правила остановки?",
     "answers": [
       {
@@ -332,7 +332,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/bb1dd94c39679030b9bb2682350579de.jpg",
+    "image": "./tmp/images/C_D/eb3d676047c8ed8549d0353a79cf51e4.jpg",
     "question": "Обязаны ли Вы уступить дорогу легковому автомобилю при повороте направо?",
     "answers": [
       {
@@ -359,7 +359,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/7927650c9a83a552bda68feb512c38e6.jpg",
+    "image": "./tmp/images/C_D/70cc0c1d80eebea083071a491a97b2c2.jpg",
     "question": "Вы намерены выполнить разворот. Ваши возможные действия?",
     "answers": [
       {
@@ -386,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/056b062cba0eab9c30f6cf561317950e.jpg",
+    "image": "./tmp/images/C_D/cfdc3197dd1ee8f2dec6e6fc8776c592.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -409,7 +409,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 18",
     "ticket_category": "C,D",
-    "image": "./images/C_D/9747cb52de01410470c852d166b1e32a.jpg",
+    "image": "./tmp/images/C_D/c808748f21b930a2503d139d2a4a2d8f.jpg",
     "question": "Как следует поступить водителю автобуса, отъезжающего от обозначенного места остановки?",
     "answers": [
       {

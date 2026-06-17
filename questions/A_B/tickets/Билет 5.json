@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ce8143ad50a020d95e71ef301c5b4db8.jpg",
+    "image": "./tmp/images/A_B/8a65f0e96d757575c301c605791bbf9e.jpg",
     "question": "Сколько проезжих частей имеет данная дорога?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/54a3b241d955aedbde9a46400f9265dd.jpg",
+    "image": "./tmp/images/A_B/9e9166157d2fff3c744492a9da0db297.jpg",
     "question": "При наличии какого знака водитель должен уступить дорогу, если встречный разъезд затруднен?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3a5beeaca034a8b445f7031a56cb3fb2.jpg",
+    "image": "./tmp/images/A_B/4b846f2e135f40a84c3f3103b04aa37c.jpg",
     "question": "Разрешена ли Вам стоянка в указанном месте?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/504b46e9c726ae266f448703767c59fd.jpg",
+    "image": "./tmp/images/A_B/2f00753220de4259633b8ecf132ead45.jpg",
     "question": "Нарушил ли водитель грузового автомобиля правила стоянки?",
     "answers": [
       {
@@ -116,7 +116,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6f817d0ef695944185768921913eb549.jpg",
+    "image": "./tmp/images/A_B/92944e57e5fb03e4e46fa5c738e84120.jpg",
     "question": "О чем предупреждает Вас вертикальная разметка, нанесенная на ограждение дороги?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f5b851c076daed6a37e5d257a1a6ac40.jpg",
+    "image": "./tmp/images/A_B/d1460f60edc8d22b7d2c4d4bb2dc06d4.jpg",
     "question": "Поднятая вверх рука водителя мотоцикла является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -197,7 +197,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/568531e4128e515b517fd19ea3d777e0.jpg",
+    "image": "./tmp/images/A_B/6d75e8fd40dc60dc49eeeadd7d4e7793.jpg",
     "question": "В каких направлениях Вам можно продолжить движение по левой полосе на грузовом автомобиле с разрешенной максимальной массой не более 3,5 т?",
     "answers": [
       {
@@ -224,7 +224,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/09e32bf1387c6f8f4485d63390c6aa13.jpg",
+    "image": "./tmp/images/A_B/62265de7eb7923766cf6705093f4beab.jpg",
     "question": "Вам необходимо повернуть на примыкающую справа дорогу. Ваши действия?",
     "answers": [
       {
@@ -251,7 +251,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5fa0335dd123f090cef5df5d9c69ac34.jpg",
+    "image": "./tmp/images/A_B/458eeb250947f0ec1b02e03189ac908f.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле с прицепом вне населенного пункта?",
     "answers": [
       {
@@ -286,7 +286,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5b0fd17cc1af4de1d099c6868930117d.jpg",
+    "image": "./tmp/images/A_B/ec07ac846650d56ca695eeffc21877dd.jpg",
     "question": "Разрешен ли Вам обгон?",
     "answers": [
       {
@@ -313,7 +313,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/456767f8b2e0d39f83d8f9f1b2a378da.jpg",
+    "image": "./tmp/images/A_B/de264528620e431fdb5ca65619e749f0.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -344,7 +344,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/80092d887fe7b764db1e0a7d64742489.jpg",
+    "image": "./tmp/images/A_B/278ba0588ffeb469dbdbb9d29d63e6be.jpg",
     "question": "Вы намерены развернуться. Ваши действия?",
     "answers": [
       {
@@ -371,7 +371,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e320da78c9d6109eca702486f83cf428.jpg",
+    "image": "./tmp/images/A_B/c3ec1ee7f37d113a616f6a89760f867e.jpg",
     "question": "Кому Вы должны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -398,7 +398,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7df7c50058db5aa70e39af72c22dd9ba.jpg",
+    "image": "./tmp/images/A_B/1df00bcd8d9b4f5c8a04625ef4589490.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -425,7 +425,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b8687a08d54c2061c2283d41aef4685.jpg",
+    "image": "./tmp/images/A_B/0c581889c2f25223b2f4b01501c75d7d.jpg",
     "question": "Разрешено ли Вам проехать железнодорожный переезд?",
     "answers": [
       {
@@ -533,7 +533,7 @@
     "title": "Вопрос 20",
     "ticket_number": "Билет 5",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d4a7cf1f7c02eb99ec3ecd045dffecd5.jpg",
+    "image": "./tmp/images/A_B/72ee06a52ab1feea1aa854a87f8ad8b6.jpg",
     "question": "При движении в условиях тумана расстояние до предметов представляется:",
     "answers": [
       {

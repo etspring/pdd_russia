@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/402925527d34bf47e227a9b363d010b6.jpg",
+    "image": "./tmp/images/A_B/63adca206b2578f0601e70df2242f72f.jpg",
     "question": "В какой из дворов Вам можно въехать в данной ситуации?",
     "answers": [
       {
@@ -65,7 +65,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e3d7af2c86be5a6f803a0a2339bc36ae.jpg",
+    "image": "./tmp/images/A_B/e5815c6b3fe21069234ca4e253db60fc.jpg",
     "question": "Какой из указанных знаков запрещает дальнейшее движение всех без исключения транспортных средств?",
     "answers": [
       {
@@ -92,7 +92,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/fba2d0f7ea26784dd789e2bc028155f9.jpg",
+    "image": "./tmp/images/A_B/19cf206a9e546dd612b570d87931818b.jpg",
     "question": "О чём информируют эти знаки?",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/87dd59ca65649fe2e529146193452ff3.jpg",
+    "image": "./tmp/images/A_B/c3e379fb8d35902afe625203c7b1c609.jpg",
     "question": "Разрешена ли Вам остановка в этом месте?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ffbd1df2adfb0a9d3a44338b0d9657cd.jpg",
+    "image": "./tmp/images/A_B/bd09a7a59fb274e96d7e9b545f7365b9.jpg",
     "question": "Как следует поступить водителю при переключении такого сигнала светофора?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b60cc6691fa57d472e10bdc652a5581e.jpg",
+    "image": "./tmp/images/A_B/283fe98b5b3ebea560b73dc7fa1d4d77.jpg",
     "question": "Обязан ли водитель автомобиля, который движется по левой полосе, уступить дорогу в данной ситуации?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/10c93fd2e8cb0fc0fb705d68be3d970e.jpg",
+    "image": "./tmp/images/A_B/3a7ef19c889a7d24cb5854675ce4baf6.jpg",
     "question": "Можно ли Вам на перекрёстке выполнить разворот, двигаясь задним ходом?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/def37a56d498740728e91902c2a75cfc.jpg",
+    "image": "./tmp/images/A_B/1baad27f65eb495699728aa67e6787e9.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов на легковом автомобиле?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b1baa666b73727b83c8918386c1020a5.jpg",
+    "image": "./tmp/images/A_B/39343f9ab0e5791e8e0e0bc50ba08d6d.jpg",
     "question": "Разрешается ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/08103f56e684a60f8501cb3c48ee8528.jpg",
+    "image": "./tmp/images/A_B/7051f2c3b070d857d158a799d49aa768.jpg",
     "question": "В каком из указанных мест Вы можете поставить автомобиль на стоянку?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/17ca1dd7faf1c1ea2680f5d3a1620c56.jpg",
+    "image": "./tmp/images/A_B/054e3aa4320c9f1fb55c7d4d70431ae3.jpg",
     "question": "Вы намерены проехать перекрёсток в прямом направлении. Кому вы должны уступить дорогу?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7b1c408b98194dd5cdadf50edd222bbf.jpg",
+    "image": "./tmp/images/A_B/56990b2d6a2417ea98d2e44dd51c517a.jpg",
     "question": "При въезде на перекрёсток Вы:",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/238e4c24cb2fac30bce698f879249e9f.jpg",
+    "image": "./tmp/images/A_B/804af3c8e80d5e71255e5692c1be7f09.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f9dcfb20a041a7701ee06f6a2ce994e5.jpg",
+    "image": "./tmp/images/A_B/f4cc6710d2a0062c239d65fcf70f7f89.jpg",
     "question": "Разрешено ли Вам остановиться на автомагистрали правее линии, обозначающей край проезжей части?",
     "answers": [
       {
@@ -493,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 16",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f5998a7e83855f3830477470922a72de.jpg",
+    "image": "./tmp/images/A_B/c4067f2016c450c518cb70445c2f00b0.jpg",
     "question": "При повороте направо обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {

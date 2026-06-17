@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/73c4c907dba18267314d10a8b09aea23.jpg",
+    "image": "./tmp/images/A_B/056bd384dd8c5cc7d62ca9efb5b3635d.jpg",
     "question": "Поднятая вверх рука водителя легкового автомобиля является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/865e627f03d58132c556e30b336e946a.jpg",
+    "image": "./tmp/images/A_B/5e38b7b6014086aaab7a94247af210ac.jpg",
     "question": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы при этом включить указатели правого поворота?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f5b851c076daed6a37e5d257a1a6ac40.jpg",
+    "image": "./tmp/images/A_B/d1460f60edc8d22b7d2c4d4bb2dc06d4.jpg",
     "question": "Поднятая вверх рука водителя мотоцикла является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/815b0c662f4110b4065f47e9f0d5b411.jpg",
+    "image": "./tmp/images/A_B/67402dd5cef94de9ddd14031f918f33b.jpg",
     "question": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы включить указатели левого поворота?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/701cfc285d4031d48072f8b0a1b9de52.jpg",
+    "image": "./tmp/images/A_B/da037e32c3bdbe5b0b324c94d6036152.jpg",
     "question": "Водитель легкового автомобиля должен выключить указатели левого поворота:",
     "answers": [
       {
@@ -250,34 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d2a625a236c040561c3b816ee1628e8b.jpg",
-    "question": "Вы намерены произвести разворот на перекрестке. Какие указатели поворота необходимо включить перед въездом на перекресток?",
-    "answers": [
-      {
-        "answer_text": "Правого поворота",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Левого поворота",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Включать указатели поворота нет необходимости",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Въезд на перекрёсток с круговым движением соответствует повороту направо. Соответственно включаете правый указатель поворота. Двигаясь по кругу, Вы не изменяете направление движения. Сигналы не используете. При съезде с перекрёстка опять совершаете правый поворот и опять заблаговременно включаете правый указатель поворота.(«Дорожные знаки», пункт 8.1 ПДД)",
-    "topic": [
-      "Начало движения, маневрирование"
-    ],
-    "id": "4a8183284b98e8d591aae99e978c79f9"
-  },
-  {
-    "title": "Вопрос 11",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/2aa10519e6590fdd7a0e4b0130c045ef.jpg",
+    "image": "./tmp/images/A_B/5c9c045595877bfb317376eb1ed22e4b.jpg",
     "question": "Обязаны ли Вы в данной ситуации подать сигнал правого поворота?",
     "answers": [
       {
@@ -301,10 +274,10 @@
     "id": "646c61864ee467f5dff54f05d82bb3a6"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/2b0f3c08d7d87bc3b72cc967f4aa8ff9.jpg",
+    "image": "./tmp/images/A_B/e3109755ea9ccdc8fcc3ab0d191f00be.jpg",
     "question": "Вы намерены повернуть налево на этом перекрёстке. В какой момент следует включить указатели левого поворота?",
     "answers": [
       {
@@ -328,7 +301,7 @@
     "id": "70ff7967e6af90c07cbb6e9416d46874"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -355,10 +328,10 @@
     "id": "7fef027970ac8688559ad8391be9527b"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e528564f75b6d8e88501e68c43f668bc.jpg",
+    "image": "./tmp/images/A_B/510933a6cce0ae310914989b94e2809f.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, информирует Вас:",
     "answers": [
       {
@@ -382,10 +355,10 @@
     "id": "9af41013614f90bb60ae60236606112c"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/5076bba07f9a120d06525208a45f48da.jpg",
+    "image": "./tmp/images/A_B/481eb4761b11fa391effc915b7961d82.jpg",
     "question": "Вы намерены остановиться слева у тротуара. В каком случае Вы обязаны включить указатели поворота?",
     "answers": [
       {
@@ -409,7 +382,7 @@
     "id": "5bb243aef7431cd418b53fa1998f5e26"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -436,10 +409,10 @@
     "id": "c0b30cfafb49c881b96acc51adb74b06"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/246b9e4aa52dae7cb8b4ed26216f3d5e.jpg",
+    "image": "./tmp/images/A_B/718a0815508f2026efb5b6e3e50d21b3.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем легкового автомобиля, информирует Вас:",
     "answers": [
       {
@@ -463,10 +436,10 @@
     "id": "043d643bb464d056209bda5e636b9209"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f713876149d9bf8f88fb53682357348f.jpg",
+    "image": "./tmp/images/A_B/09653a34df290b18dfc448243ba6f8a5.jpg",
     "question": "Обязаны ли Вы в данной ситуации включить указатели левого поворота?",
     "answers": [
       {
@@ -490,7 +463,7 @@
     "id": "9e90595d3479ca4f87cfbf95312da7ea"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -517,10 +490,10 @@
     "id": "d963598de0ba5f0b0da32670569e87e5"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6990f25d7841de055ce96398249f4608.jpg",
+    "image": "./tmp/images/A_B/0cee6bc2ebb60871df5553950468134e.jpg",
     "question": "Какую ошибку совершает водитель, въезжающий во двор?",
     "answers": [
       {
@@ -544,10 +517,10 @@
     "id": "632584debd56f368e78c4f8ca3bad3ca"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/8dcad54c06148fbc02af406d9b35d7e7.jpg",
+    "image": "./tmp/images/A_B/b51a4aae971e2e4d56ed95675d5bee0b.jpg",
     "question": "Обязаны ли Вы включить указатели поворота в данной ситуации?",
     "answers": [
       {
@@ -571,10 +544,10 @@
     "id": "cdcd81894d611369779ffd8f740425dc"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/4d340b98b19edf9a412eb8edbdb1f8b3.jpg",
+    "image": "./tmp/images/A_B/2fbbdc8c5853d04180283664b6ac211e.jpg",
     "question": "Какие световые сигналы Вы обязаны подать в данной ситуации?",
     "answers": [
       {
@@ -598,10 +571,10 @@
     "id": "6fb2272d6086b9b0387783e1d46aa3a7"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/70865a506c998edb746739921147e03a.jpg",
+    "image": "./tmp/images/A_B/366586738300e694793b7f0cdc906a8b.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, который движется по левой полосе, информирует о его намерении:",
     "answers": [
       {
@@ -625,7 +598,7 @@
     "id": "30ce8a93cdfab5aa195cc7799394b145"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -652,7 +625,7 @@
     "id": "333911236cfc99151b313df8740cbab3"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -679,10 +652,10 @@
     "id": "b27c8f7165405b0eea9e8c69c5403f28"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/c82b6f0b69a786204d6e3bc86d40ddcf.jpg",
+    "image": "./tmp/images/A_B/f4e461a0f679168f1834457c92fc5812.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем легкового автомобиля, информирует Вас:",
     "answers": [
       {
@@ -706,10 +679,10 @@
     "id": "ec0ccb04da9d8a70e08017f0a39061b0"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/232019703b3080a2a564855ccbcd9d7f.jpg",
+    "image": "./tmp/images/A_B/75ed3adc188e4b6ae888a02ce9c6ea00.jpg",
     "question": "Обязаны ли Вы включить указатели правого поворота перед въездом на этот перекрёсток?",
     "answers": [
       {
@@ -733,7 +706,7 @@
     "id": "94280282d9b0fd4a766a52cc6ddeb983"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -760,10 +733,10 @@
     "id": "648574a877bbb62e3b314264a89f7e0c"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d0efc35b84dd44ebda7b22168924ab36.jpg",
+    "image": "./tmp/images/A_B/1a6faf68a2b426bcfdeaafcbbed148a8.jpg",
     "question": "Согнутая в локте рука водителя автомобиля является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -787,10 +760,10 @@
     "id": "361aa35ffcd00ed75c270eb18b2e1307"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/747cba74c18f8bbe9f59fe2db72e841d.jpg",
+    "image": "./tmp/images/A_B/441176c5ff812a0e245d29ff86b5c6bf.jpg",
     "question": "Какие указатели поворота Вы обязаны включить при выполнении разворота по такой траектории?",
     "answers": [
       {
@@ -814,10 +787,10 @@
     "id": "0e99299f0585ad761c2db06ac5df7b44"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/2313c0ee31c57c00b977f13516df9ad9.jpg",
+    "image": "./tmp/images/A_B/fa75f8104dbc241e26ff9d02c494497f.jpg",
     "question": "Вы намерены остановиться сразу за перекрестком. В каком месте необходимо включить указатели правого поворота?",
     "answers": [
       {
@@ -841,10 +814,10 @@
     "id": "6c2fa98c02de77712ba786713e055f06"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b61a6e1c048076e6b8ba01ef6e3ae2d1.jpg",
+    "image": "./tmp/images/A_B/88c67278a384a1480c233064b422753d.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -868,10 +841,10 @@
     "id": "14452bb58352a0cd0f19b3f3c48f2459"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/328947fa3921f7c37a9d825b2e8b030b.jpg",
+    "image": "./tmp/images/A_B/7b0c61a7cd4860ebbf1505764eacdddf.jpg",
     "question": "Двигаясь по левой полосе, водитель намерен перестроиться на правую. На каком из рисунков показана ситуация, в которой он обязан уступить дорогу?",
     "answers": [
       {
@@ -895,10 +868,10 @@
     "id": "01e543cf4b0d829df5645fc2c4562be7"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/09a7e56d2c58551322f966dfa011da5f.jpg",
+    "image": "./tmp/images/A_B/2f78aae0e3dbe337b480963d13bdf433.jpg",
     "question": "Вам разрешено выполнить поворот направо:",
     "answers": [
       {
@@ -922,10 +895,10 @@
     "id": "ee9dc482c054bd9c183464bac24b25a6"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d834e58783acb06c2377bc9f25facc06.jpg",
+    "image": "./tmp/images/A_B/d86d780f6f47f0fe15f745b005102d20.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -945,10 +918,10 @@
     "id": "9e389e1c16e9167531c08bcf8422cd2c"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/568531e4128e515b517fd19ea3d777e0.jpg",
+    "image": "./tmp/images/A_B/6d75e8fd40dc60dc49eeeadd7d4e7793.jpg",
     "question": "В каких направлениях Вам можно продолжить движение по левой полосе на грузовом автомобиле с разрешенной максимальной массой не более 3,5 т?",
     "answers": [
       {
@@ -972,10 +945,10 @@
     "id": "06a70d602087cfea97f58f5d3eebc8a2"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/a450a0e7eb0e4235fa9bec6c20dfa1ff.jpg",
+    "image": "./tmp/images/A_B/07ec0b700df76a521a86f2dcacd4a2ac.jpg",
     "question": "Кто должен уступить дорогу при взаимном перестроении?",
     "answers": [
       {
@@ -999,10 +972,10 @@
     "id": "17a1d1a9b907bab9cd4c3549e3b51fb3"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/ac77f80c11456ca7928c6c4277516cac.jpg",
+    "image": "./tmp/images/A_B/bb8d48ffe1c551493b0bc469ffee165d.jpg",
     "question": "Обязан ли водитель легкового автомобиля уступить дорогу водителю грузового автомобиля?",
     "answers": [
       {
@@ -1026,10 +999,10 @@
     "id": "744b56480eff4d06f68d4d9a77e5c658"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
+    "image": "./tmp/images/A_B/ca4b4d8be85e51f1b22bb7d48c33dc7f.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -1053,10 +1026,10 @@
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/85419ab5a04e09ea28f0c9617b6e8392.jpg",
+    "image": "./tmp/images/A_B/c97c2bf55ea570e8ce7f15418ae380ea.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -1080,10 +1053,10 @@
     "id": "fdbe4495619fe89e09c759e2d45b85c1"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e5c4d4989ef9427567d3944a43de239c.jpg",
+    "image": "./tmp/images/A_B/ca4b4d8be85e51f1b22bb7d48c33dc7f.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -1107,10 +1080,10 @@
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6e34e82ac37d347d62466671b1bc5515.jpg",
+    "image": "./tmp/images/A_B/ed06e082fe821ba9c70cc2354d2cfe42.jpg",
     "question": "По какой траектории Вам разрешено выполнить поворот направо?",
     "answers": [
       {
@@ -1134,10 +1107,10 @@
     "id": "6c30a3fdc531f5746e42aa0c15ae83ce"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/2adaa246a624f1f6759b6b1cff797dbd.jpg",
+    "image": "./tmp/images/A_B/00005e96c400d7ce874e99b3ba6e9171.jpg",
     "question": "Кто должен уступить дорогу при одновременном перестроении?",
     "answers": [
       {
@@ -1161,10 +1134,10 @@
     "id": "1c039b62c895602472e8441ffe43ad14"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e632b7c72a0749d5dedc7fe5605c70e5.jpg",
+    "image": "./tmp/images/A_B/e7eeb2a53414e00a347ab93fa97c1ff0.jpg",
     "question": "Из какой полосы разрешено въехать на данный перекрёсток?",
     "answers": [
       {
@@ -1188,10 +1161,10 @@
     "id": "533edbb5b0d53cc157822bfc4c38474c"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1164f37fcc05a994db6405a510100b22.jpg",
+    "image": "./tmp/images/A_B/eeef0f3ae9619d30274cf9dfc42604b2.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -1215,10 +1188,10 @@
     "id": "cbce3c78c6539efdb47bc9045d62301d"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/c18b6b32710d9d3be9e9398ea8501c19.jpg",
+    "image": "./tmp/images/A_B/06118b455622a160430299f15b7ed1b8.jpg",
     "question": "По какой траектории Вам разрешено продолжить движение налево?",
     "answers": [
       {
@@ -1242,10 +1215,10 @@
     "id": "ee8e73a9a85c8b19e396962d1ffe9c84"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b60cc6691fa57d472e10bdc652a5581e.jpg",
+    "image": "./tmp/images/A_B/283fe98b5b3ebea560b73dc7fa1d4d77.jpg",
     "question": "Обязан ли водитель автомобиля, который движется по левой полосе, уступить дорогу в данной ситуации?",
     "answers": [
       {
@@ -1265,10 +1238,10 @@
     "id": "043130ef77318a9fe9177ed542cfc9b7"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0f78f15e652ec6c7a80c7e8bc69cd08a.jpg",
+    "image": "./tmp/images/A_B/3e910b3949595b683f89350b8c5c492b.jpg",
     "question": "Разрешено ли Вам выполнить поворот направо в данной ситуации?",
     "answers": [
       {
@@ -1292,10 +1265,10 @@
     "id": "ee126a4230a598c094c68c68686c149d"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3a89c941df72d7ba6dadfff35c03e40b.jpg",
+    "image": "./tmp/images/A_B/f97d6de7b1ea560fe3243ca7be2f89e6.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -1319,10 +1292,10 @@
     "id": "2617be658bb6737ab73c526cd282d467"
   },
   {
-    "title": "Вопрос 50",
+    "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6433c8a4315c9de2ede205e2f3ea9187.jpg",
+    "image": "./tmp/images/A_B/75b0ea9fc631a80dcfa0d61e3b204164.jpg",
     "question": "Вам можно выполнить поворот налево:",
     "answers": [
       {
@@ -1346,10 +1319,10 @@
     "id": "1a342f3a407df4c3154abf8c0e739b0c"
   },
   {
-    "title": "Вопрос 51",
+    "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3c42fb6a0f6a5a8830b3d205bae7f6c3.jpg",
+    "image": "./tmp/images/A_B/21867d8d22c6637f3b1240a449e99846.jpg",
     "question": "Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -1373,10 +1346,10 @@
     "id": "6130f16e6e2ae77450efb6f0c4998e38"
   },
   {
-    "title": "Вопрос 52",
+    "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1dd6b687890715e1401c53ffbccace73.jpg",
+    "image": "./tmp/images/A_B/e9682cd496bb121c19c5996703fe2fb4.jpg",
     "question": "При повороте налево для въезда во двор Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -1400,10 +1373,10 @@
     "id": "9f829716fb2580d2d195e6f9b98e65e1"
   },
   {
-    "title": "Вопрос 53",
+    "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f4bc800015e352a0fe4da2a3c3aed466.jpg",
+    "image": "./tmp/images/A_B/a1e70c47febfb764aa6803d9d9a8127f.jpg",
     "question": "По какой траектории Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -1427,10 +1400,10 @@
     "id": "f138f2d78060ee34ddaa4aea06ac6b7b"
   },
   {
-    "title": "Вопрос 54",
+    "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/400b6e6e38f6ca4e3c818f7dffe4074b.jpg",
+    "image": "./tmp/images/A_B/5582e30fc1c4b4e19e88e8a4d050e950.jpg",
     "question": "По какой траектории Вам разрешено продолжить движение?",
     "answers": [
       {
@@ -1454,10 +1427,10 @@
     "id": "97af027edf5b74eb7fd25f9082223216"
   },
   {
-    "title": "Вопрос 55",
+    "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/265d85a402e37d1bedf446609aaa161b.jpg",
+    "image": "./tmp/images/A_B/83152b033d7c1255157bf4d76db44d4f.jpg",
     "question": "Должны ли Вы уступить дорогу грузовому автомобилю в данной ситуации?",
     "answers": [
       {
@@ -1481,10 +1454,10 @@
     "id": "7df480a87286bf1d2ab008f718bb3389"
   },
   {
-    "title": "Вопрос 56",
+    "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b95d27c6cd83436b637c2c4275d7841c.jpg",
+    "image": "./tmp/images/A_B/d9966800f06931b39b868671b9be8a32.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -1504,10 +1477,10 @@
     "id": "817090ed729b5f85e18039159fd22e48"
   },
   {
-    "title": "Вопрос 57",
+    "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/2d04d27d365512103ddad984b4117ebd.jpg",
+    "image": "./tmp/images/A_B/9a1ef9363316c96d930f5c421f287184.jpg",
     "question": "В каких направлениях Вам можно продолжить движение по второй полосе?",
     "answers": [
       {
@@ -1531,10 +1504,10 @@
     "id": "9efe1680c2569184513bcdc684eb56ac"
   },
   {
-    "title": "Вопрос 58",
+    "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/05cb84846907e5244d2b42ae8732cc2e.jpg",
+    "image": "./tmp/images/A_B/79dad66e2d9640f0c61d2ea6b0eb7200.jpg",
     "question": "При перестроении на правую полосу в данной ситуации Вы:",
     "answers": [
       {
@@ -1554,10 +1527,10 @@
     "id": "7fa50cbef5803e5be9c55787170713c7"
   },
   {
-    "title": "Вопрос 59",
+    "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/75ffa9ae59ac6ee4985e2954c4fd90b1.jpg",
+    "image": "./tmp/images/A_B/b59a5f20c8537cdfb816e42ec6262f3a.jpg",
     "question": "Кто имеет преимущество в движении?",
     "answers": [
       {
@@ -1577,10 +1550,10 @@
     "id": "066e8516d6848e710ad6d2e1201c00aa"
   },
   {
-    "title": "Вопрос 60",
+    "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1464c9c8b3c83d77349a5129c1a284a8.jpg",
+    "image": "./tmp/images/A_B/2b190e18ab82f0d00b3818e99e5455a4.jpg",
     "question": "Кто из водителей нарушает правила поворота на перекрёстке?",
     "answers": [
       {
@@ -1608,10 +1581,10 @@
     "id": "efad9b6b062a6b2ddcde1a7df4220dae"
   },
   {
-    "title": "Вопрос 61",
+    "title": "Вопрос 60",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3c97c72379175042c43a75a5b560d084.jpg",
+    "image": "./tmp/images/A_B/e0338c42548e2631e749e3c9c2a25bcf.jpg",
     "question": "Вы намерены начать движение от тротуара. Должны ли Вы уступить дорогу мотоциклу, выполняющему разворот?",
     "answers": [
       {
@@ -1635,10 +1608,10 @@
     "id": "63744162ad7f15c3fa7861e2b1070718"
   },
   {
-    "title": "Вопрос 62",
+    "title": "Вопрос 61",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/33c8a5f2cb5d07d786ec8906139722ff.jpg",
+    "image": "./tmp/images/A_B/24b78b72438c94384d0d36d776fbaf0f.jpg",
     "question": "В каком направлении разрешено продолжить движение водителю легкового автомобиля?",
     "answers": [
       {
@@ -1662,7 +1635,7 @@
     "id": "d40453b7a8fd7cc46de44111d935e0cf"
   },
   {
-    "title": "Вопрос 63",
+    "title": "Вопрос 62",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1689,10 +1662,10 @@
     "id": "4fc72669247d8c7d0f5829512604923e"
   },
   {
-    "title": "Вопрос 64",
+    "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3a789855313d56b4d6b21a382397f9d1.jpg",
+    "image": "./tmp/images/A_B/6d5ddb3ca7fc6951bd54a6ca35f81c1a.jpg",
     "question": "Разрешается ли Вам выполнить поворот направо по указанной траектории в данной ситуации?",
     "answers": [
       {
@@ -1712,10 +1685,10 @@
     "id": "531bd2aaafd921b0c11432859488fa13"
   },
   {
-    "title": "Вопрос 65",
+    "title": "Вопрос 64",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/fa8e614c162efa9963c34741f225ae70.jpg",
+    "image": "./tmp/images/A_B/90a78af0706419c856ec7a5be8a19ce3.jpg",
     "question": "Можно ли водителю легкового автомобиля в данной ситуации начать движение от тротуара?",
     "answers": [
       {
@@ -1739,10 +1712,10 @@
     "id": "3cfb7001cda943a18b2b1cb5980926de"
   },
   {
-    "title": "Вопрос 66",
+    "title": "Вопрос 65",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/af343153fdc4115986507e1eb8d05d6a.jpg",
+    "image": "./tmp/images/A_B/6190bc41cf35aeaad345dc8b9bc71f32.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте во двор?",
     "answers": [
       {
@@ -1766,10 +1739,10 @@
     "id": "e25150e8d953d32f233ca128d885b4f0"
   },
   {
-    "title": "Вопрос 67",
+    "title": "Вопрос 66",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/4e15d45df5db3c7fefd5855eb0fe2f24.jpg",
+    "image": "./tmp/images/A_B/7c5ca1447d5a1b802cbadc2bde37f01d.jpg",
     "question": "Вам можно продолжить движение при повороте налево:",
     "answers": [
       {
@@ -1793,10 +1766,10 @@
     "id": "52db334fc6e09a00b53bfafef7fe16c4"
   },
   {
-    "title": "Вопрос 68",
+    "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/5f295f34223d32dc21ed8190cbca837e.jpg",
+    "image": "./tmp/images/A_B/58bf997069583bcb3c2cb52207a1ec09.jpg",
     "question": "Ситуация, в которой водитель транспортного средства, движущегося по правой полосе, обязан уступить дорогу при перестроении, показана:",
     "answers": [
       {
@@ -1820,10 +1793,10 @@
     "id": "529bd4770f0804cf29d5394803603c5c"
   },
   {
-    "title": "Вопрос 69",
+    "title": "Вопрос 68",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/45cbca0db117189d812b04f0754870d2.jpg",
+    "image": "./tmp/images/A_B/c881197c5cd96923a52707555cb63418.jpg",
     "question": "При съезде с дороги на прилегающую справа территорию, Вы:",
     "answers": [
       {
@@ -1851,10 +1824,10 @@
     "id": "f1988d048362094818e2ede4f8bcab04"
   },
   {
-    "title": "Вопрос 70",
+    "title": "Вопрос 69",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/5ece9b9e7d648f3ce4c78e4569a0f68f.jpg",
+    "image": "./tmp/images/A_B/716c4ba57b41e562a3698b7eb438c821.jpg",
     "question": "Водитель автомобиля, выполняющий перестроение на правую полосу, в данной ситуации:",
     "answers": [
       {
@@ -1878,10 +1851,10 @@
     "id": "37418b099a680ea57a4e3891fd349d25"
   },
   {
-    "title": "Вопрос 71",
+    "title": "Вопрос 70",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/a39b43925866fd589d602b7340b7ff7c.jpg",
+    "image": "./tmp/images/A_B/5ee8c65679223bab5ebedddce4c3d9af.jpg",
     "question": "На перекрестке Вы намерены повернуть направо. Как Вам следует поступить?",
     "answers": [
       {
@@ -1905,10 +1878,10 @@
     "id": "fc9c06b46f78ad9a1f2bd9b5925c065d"
   },
   {
-    "title": "Вопрос 72",
+    "title": "Вопрос 71",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0de3a44f154b8a1dc98c83ccb64a0c6c.jpg",
+    "image": "./tmp/images/A_B/c0f5b66440bbbb5ef724b14a3e98d98a.jpg",
     "question": "По какой траектории Вам разрешено выполнить разворот?",
     "answers": [
       {
@@ -1932,10 +1905,10 @@
     "id": "461cfbf602ac658c04d0db29322e9b2e"
   },
   {
-    "title": "Вопрос 73",
+    "title": "Вопрос 72",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/693a2649d53e8a112f2358389b9b20f7.jpg",
+    "image": "./tmp/images/A_B/ad7a2c5003f9650296f28a6113d987e2.jpg",
     "question": "Можно ли Вам выполнить разворот в этом месте?",
     "answers": [
       {
@@ -1959,10 +1932,10 @@
     "id": "42ef4bc4fc6eee75d4c886c69ae06262"
   },
   {
-    "title": "Вопрос 74",
+    "title": "Вопрос 73",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0ed1092b9a399736ca37393c2963c296.jpg",
+    "image": "./tmp/images/A_B/d4ff087cfb95881dec3aa70522d052e3.jpg",
     "question": "Разрешается ли Вам выполнить разворот на перекрестке по указанной траектории?",
     "answers": [
       {
@@ -1986,10 +1959,10 @@
     "id": "5838425067692c393ec6f42cf4c8f410"
   },
   {
-    "title": "Вопрос 75",
+    "title": "Вопрос 74",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3967ea92f049121b27547528fd472093.jpg",
+    "image": "./tmp/images/A_B/7916c31108d2769e5350012fa7340065.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -2013,10 +1986,10 @@
     "id": "5ccc967d70f19d41f276ce69b2ad1334"
   },
   {
-    "title": "Вопрос 76",
+    "title": "Вопрос 75",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/09e32bf1387c6f8f4485d63390c6aa13.jpg",
+    "image": "./tmp/images/A_B/62265de7eb7923766cf6705093f4beab.jpg",
     "question": "Вам необходимо повернуть на примыкающую справа дорогу. Ваши действия?",
     "answers": [
       {
@@ -2040,10 +2013,10 @@
     "id": "8990770b5c14676a3c0265ef49ad17fc"
   },
   {
-    "title": "Вопрос 77",
+    "title": "Вопрос 76",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/9dd03825285f67f4f1fb4962d35c32e3.jpg",
+    "image": "./tmp/images/A_B/9e99baaf53ce7e82404d92b4db81ac8a.jpg",
     "question": "В каких направлениях Вам можно продолжить движение?",
     "answers": [
       {
@@ -2067,10 +2040,10 @@
     "id": "65d9f6968baf5b7650a9dc870bbc0e6f"
   },
   {
-    "title": "Вопрос 78",
+    "title": "Вопрос 77",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/520cdde8ace0f46b8eee90f7604cb596.jpg",
+    "image": "./tmp/images/A_B/58b79b143d70ec88f4430ddf181f81c1.jpg",
     "question": "Разрешен ли Вам разворот на этом участке дороги?",
     "answers": [
       {
@@ -2094,10 +2067,10 @@
     "id": "e79644cf9bb01181aef22d4ea7bdc7f6"
   },
   {
-    "title": "Вопрос 79",
+    "title": "Вопрос 78",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b400f5195566bf810b9cb1c36ee9ecd5.jpg",
+    "image": "./tmp/images/A_B/b2595fecbe711e5609a23fc8ac3fc088.jpg",
     "question": "Вы имеете право выполнить разворот:",
     "answers": [
       {
@@ -2121,10 +2094,10 @@
     "id": "2f6ba58bcd4597e7b6133c9dbb2cb5c6"
   },
   {
-    "title": "Вопрос 80",
+    "title": "Вопрос 79",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/12a558f5947f8949b9159b01a8186a99.jpg",
+    "image": "./tmp/images/A_B/90c13551c9ff4196693f79f2f35fc695.jpg",
     "question": "Разрешено ли Вам выполнить разворот в этом месте?",
     "answers": [
       {
@@ -2148,10 +2121,10 @@
     "id": "d205a2066b8627d0da3ef687ba3d2c82"
   },
   {
-    "title": "Вопрос 81",
+    "title": "Вопрос 80",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b52f8913fdd60784ce519a5ec775c75d.jpg",
+    "image": "./tmp/images/A_B/f79acf7ab537bdcd96d364ac0f006f93.jpg",
     "question": "Водитель легкового автомобиля в данной ситуации:",
     "answers": [
       {
@@ -2175,10 +2148,10 @@
     "id": "d076db93e865ce173ef802f21efe95df"
   },
   {
-    "title": "Вопрос 82",
+    "title": "Вопрос 81",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/32ef6f3b61534285746eceb37d5ce183.jpg",
+    "image": "./tmp/images/A_B/2209ef91559468533059d190421abedc.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -2202,10 +2175,10 @@
     "id": "a397830e8d1ecd3df6062ab68221da55"
   },
   {
-    "title": "Вопрос 83",
+    "title": "Вопрос 82",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/8f0ff8f89e30a8c8a755fa781b2745ae.jpg",
+    "image": "./tmp/images/A_B/bebd9c1c4c8d439c2dddf5d4058756ed.jpg",
     "question": "Разрешено ли Вам выполнить разворот на мосту по указанной траектории?",
     "answers": [
       {
@@ -2229,10 +2202,10 @@
     "id": "b69a025195b78740b40aa0df3cc36778"
   },
   {
-    "title": "Вопрос 84",
+    "title": "Вопрос 83",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/dee7e175465e546b541228e68a67edbc.jpg",
+    "image": "./tmp/images/A_B/c7adaf64a528ed13768d744c7ecb17a8.jpg",
     "question": "Разрешается ли Вам выполнить разворот на этом участке дороги?",
     "answers": [
       {
@@ -2256,10 +2229,10 @@
     "id": "af88aaf73d8f72094e4b0a5096a47c39"
   },
   {
-    "title": "Вопрос 85",
+    "title": "Вопрос 84",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/9cd53e74212814d14900204fc64976c1.jpg",
+    "image": "./tmp/images/A_B/110970890e562a4ebbdea227c31e53e9.jpg",
     "question": "Можно ли Вам развернуться в этом месте?",
     "answers": [
       {
@@ -2283,10 +2256,10 @@
     "id": "9c5ccf7ac0c8810fb6f07fbcebd87f06"
   },
   {
-    "title": "Вопрос 86",
+    "title": "Вопрос 85",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/7b65d963dfd2884d611eaf29258ab2ad.jpg",
+    "image": "./tmp/images/A_B/881a159469ff66a410ac8b82048ab12d.jpg",
     "question": "Как Вам следует действовать, выезжая с места стоянки одновременно с другим автомобилем?",
     "answers": [
       {
@@ -2310,10 +2283,10 @@
     "id": "92356c3a8ebed311599a61484111a14f"
   },
   {
-    "title": "Вопрос 87",
+    "title": "Вопрос 86",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/10c93fd2e8cb0fc0fb705d68be3d970e.jpg",
+    "image": "./tmp/images/A_B/3a7ef19c889a7d24cb5854675ce4baf6.jpg",
     "question": "Можно ли Вам на перекрёстке выполнить разворот, двигаясь задним ходом?",
     "answers": [
       {
@@ -2337,10 +2310,10 @@
     "id": "dc592620cb943ceda9402b04b1508ee2"
   },
   {
-    "title": "Вопрос 88",
+    "title": "Вопрос 87",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0669a464a8082da2a46edccdd4558b11.jpg",
+    "image": "./tmp/images/A_B/180b887bec2b664b24136f5c3c17a4be.jpg",
     "question": "Можно ли Вам выполнить разворот по данной траектории?",
     "answers": [
       {
@@ -2364,10 +2337,10 @@
     "id": "af5b0face5ae13d0318fce0a78f3a416"
   },
   {
-    "title": "Вопрос 89",
+    "title": "Вопрос 88",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/ed3d718a169c7a7515f31f6994ded365.jpg",
+    "image": "./tmp/images/A_B/0c8c2be3ded60432df6dea9aa6ecd489.jpg",
     "question": "По какой траектории Вы имеете право выполнить разворот?",
     "answers": [
       {
@@ -2395,10 +2368,10 @@
     "id": "8f551124f9d2162abe209cce761d9513"
   },
   {
-    "title": "Вопрос 90",
+    "title": "Вопрос 89",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/2d5fb45e4f325d94099db8c39fd400c0.jpg",
+    "image": "./tmp/images/A_B/fac649c5df4fb9cebcc8a6dd00069084.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешено ли в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -2422,10 +2395,10 @@
     "id": "ee0e5990842df97eef4aed8a7506ff16"
   },
   {
-    "title": "Вопрос 91",
+    "title": "Вопрос 90",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d378a7ff917731810d151e85331013fb.jpg",
+    "image": "./tmp/images/A_B/77f12edd9ee98dad4f4cde155d396b9d.jpg",
     "question": "Разрешается ли Вам выполнить разворот с заездом во двор задним ходом?",
     "answers": [
       {
@@ -2449,7 +2422,7 @@
     "id": "11869dc41b6e77d55c2e3d34b3a005d4"
   },
   {
-    "title": "Вопрос 92",
+    "title": "Вопрос 91",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2480,10 +2453,10 @@
     "id": "2f07d432d0a224b7e2428582c05bd903"
   },
   {
-    "title": "Вопрос 93",
+    "title": "Вопрос 92",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/4f47670b39a068656f8884a8f8c10107.jpg",
+    "image": "./tmp/images/A_B/2a413ab78252966f842e0d7f04fb3aee.jpg",
     "question": "Разрешено ли водителю движение задним ходом на путепроводе для посадки пассажира?",
     "answers": [
       {
@@ -2507,10 +2480,10 @@
     "id": "90ad7ea14a576825c99e52345b847cdf"
   },
   {
-    "title": "Вопрос 94",
+    "title": "Вопрос 93",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b897850c898749bf9318888c7a2f84f8.jpg",
+    "image": "./tmp/images/A_B/ee36f8d480f28468d973a743415fb234.jpg",
     "question": "На этом участке дороги Вам запрещается:",
     "answers": [
       {
@@ -2538,10 +2511,10 @@
     "id": "98e663d9e71d48aea7658d3add0b8c6d"
   },
   {
-    "title": "Вопрос 95",
+    "title": "Вопрос 94",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/98bb5a44d6b1c4bed7c35142f80aa529.jpg",
+    "image": "./tmp/images/A_B/bc2ed62a79378aff27f959abacd9e041.jpg",
     "question": "Разрешается ли Вам выполнить разворот?",
     "answers": [
       {
@@ -2569,10 +2542,10 @@
     "id": "d3e142c6ed6beed5a5932c97a61b3f43"
   },
   {
-    "title": "Вопрос 96",
+    "title": "Вопрос 95",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/7d95c7e6c210f8819ac26e23be0d98fb.jpg",
+    "image": "./tmp/images/A_B/fe3eaff857135935edb0cecfccda09c4.jpg",
     "question": "Водитель случайно проехал перекрёсток. Разрешено ли ему в этой ситуации использовать задний ход, чтобы затем продолжить движение налево?",
     "answers": [
       {
@@ -2596,10 +2569,10 @@
     "id": "5aecb82ecc62fdbc9cbb38da332c7ffe"
   },
   {
-    "title": "Вопрос 97",
+    "title": "Вопрос 96",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/998b91ea9075063c5f458d6cf9cccde5.jpg",
+    "image": "./tmp/images/A_B/199270266c6583f2097536378e7a8422.jpg",
     "question": "Разрешен ли Вам разворот в этом месте?",
     "answers": [
       {
@@ -2623,10 +2596,10 @@
     "id": "e0edbc064114032f98e685fd192aaf24"
   },
   {
-    "title": "Вопрос 98",
+    "title": "Вопрос 97",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0829b48da9a7acb2498ee29a1b7d10ed.jpg",
+    "image": "./tmp/images/A_B/fec448097f59324244c64227328db893.jpg",
     "question": "По какой траектории Вам разрешается выполнить разворот?",
     "answers": [
       {
@@ -2650,10 +2623,10 @@
     "id": "e19196306e3ed1dd1b8233747ccd19dd"
   },
   {
-    "title": "Вопрос 99",
+    "title": "Вопрос 98",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/50e53b449d35319ad1ae0223b174246b.jpg",
+    "image": "./tmp/images/A_B/6ca82dbd12bc1bdc5aeea4e2c64f23ec.jpg",
     "question": "Разрешено ли водителю движение задним ходом для посадки пассажира на этом участке дороги?",
     "answers": [
       {
@@ -2677,10 +2650,10 @@
     "id": "4d36908846dde1015bae088d4aa6aa9f"
   },
   {
-    "title": "Вопрос 100",
+    "title": "Вопрос 99",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3eb70f430b0427cee6afa9cc3af305e9.jpg",
+    "image": "./tmp/images/A_B/af49eb514420907e99da93d881127fed.jpg",
     "question": "Разрешено ли водителю движение задним ходом при отсутствии других участников движения?",
     "answers": [
       {
@@ -2704,10 +2677,10 @@
     "id": "376a1614d403d0b92ddd30408215944a"
   },
   {
-    "title": "Вопрос 101",
+    "title": "Вопрос 100",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/735e8ac5b261318324912e579ade29a1.jpg",
+    "image": "./tmp/images/A_B/5a026616260e7f2e677a6fbb4ff35ca3.jpg",
     "question": "Разрешено ли водителю легкового автомобиля движение задним ходом для посадки пассажира в тоннеле?",
     "answers": [
       {
@@ -2731,10 +2704,10 @@
     "id": "2a5158fac700eb172a786bcad80ff1bc"
   },
   {
-    "title": "Вопрос 102",
+    "title": "Вопрос 101",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f4e8d3b288362f2572ccceb547348cae.jpg",
+    "image": "./tmp/images/A_B/5323e28f2c3c32bd4f6264e66d2c2b5a.jpg",
     "question": "Вам можно продолжить движение на перекрестке:",
     "answers": [
       {
@@ -2758,10 +2731,10 @@
     "id": "0ad10294b8f9dfc4becccd70d5472c4f"
   },
   {
-    "title": "Вопрос 103",
+    "title": "Вопрос 102",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/9e0b69c07aa6b295b327d32118395f6b.jpg",
+    "image": "./tmp/images/A_B/d02cfed703748e33a7afa1a0f8367126.jpg",
     "question": "Разрешено ли выполнить разворот на участке дороги, обозначенном этим знаком?",
     "answers": [
       {
@@ -2789,10 +2762,10 @@
     "id": "3b9f8be4dd74e747096b0a71dbfa6c01"
   },
   {
-    "title": "Вопрос 104",
+    "title": "Вопрос 103",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1ca7f207d1d6cb37e12f5835c42a041c.jpg",
+    "image": "./tmp/images/A_B/36d2b096d6f946a4f8f4f97c9ed8d417.jpg",
     "question": "Можно ли Вам выполнить разворот?",
     "answers": [
       {
@@ -2820,10 +2793,10 @@
     "id": "51e5bf80a8517bf0c64c81235a653e4a"
   },
   {
-    "title": "Вопрос 105",
+    "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d0cc50dee93f2a2f9d05a7fa7acda818.jpg",
+    "image": "./tmp/images/A_B/f24c6163a98c2306a769236226ae3f04.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешается ли ему в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -2847,7 +2820,7 @@
     "id": "a439fefbdd6228827ef219099dd522a4"
   },
   {
-    "title": "Вопрос 106",
+    "title": "Вопрос 105",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2874,7 +2847,7 @@
     "id": "0f3e9752eb76852048c741a77865ea04"
   },
   {
-    "title": "Вопрос 107",
+    "title": "Вопрос 106",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -2901,10 +2874,10 @@
     "id": "4c6d8ce57660925a91be8413497cfa82"
   },
   {
-    "title": "Вопрос 108",
+    "title": "Вопрос 107",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/facc734c174b32a59fc528a68b80feeb.jpg",
+    "image": "./tmp/images/A_B/b40665f3c57c64cadc21bcc067206786.jpg",
     "question": "Разрешено ли водителю легкового автомобиля движение задним ходом для посадки пассажира?",
     "answers": [
       {
@@ -2928,10 +2901,10 @@
     "id": "0bb4ba75bc711b7f5398f4bba2a9c4d9"
   },
   {
-    "title": "Вопрос 109",
+    "title": "Вопрос 108",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/bd57128b5f3c84ab14d95c5342a063f4.jpg",
+    "image": "./tmp/images/A_B/5710461b98d391d77c6f420ca1b7eca1.jpg",
     "question": "Разрешено ли Вам выполнить разворот при движении на подъеме?",
     "answers": [
       {
@@ -2955,10 +2928,10 @@
     "id": "210388eec8e249aeacbe75a2c990eeb5"
   },
   {
-    "title": "Вопрос 110",
+    "title": "Вопрос 109",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/515953587d8936d88cfd30a24c0f6d11.jpg",
+    "image": "./tmp/images/A_B/4aacf47a11907c2dd07b7b9d220445bb.jpg",
     "question": "Разрешается ли Вам выполнить разворот в указанном месте?",
     "answers": [
       {
@@ -2982,10 +2955,10 @@
     "id": "0630c8d0565877605a1621e241edfd75"
   },
   {
-    "title": "Вопрос 111",
+    "title": "Вопрос 110",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b466297702c7b98d6744adb34684f41.jpg",
+    "image": "./tmp/images/A_B/1e2a27deee4fa012f29891218b1209a9.jpg",
     "question": "Кто должен уступить дорогу при одновременном развороте?",
     "answers": [
       {
@@ -3009,10 +2982,10 @@
     "id": "b1f4e326ed2825a9034cfd21f8864dca"
   },
   {
-    "title": "Вопрос 112",
+    "title": "Вопрос 111",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/3c5564ec4500c90ea9fdfcce769be80f.jpg",
+    "image": "./tmp/images/A_B/103564bb06931ec6d4bdfbbe9e5ab59d.jpg",
     "question": "В данной ситуации для того, чтобы продолжить движение в прямом направлении, Вы имеете право:",
     "answers": [
       {
@@ -3034,32 +3007,5 @@
       "Начало движения, маневрирование"
     ],
     "id": "b18684295628bf9197e837be8532b67c"
-  },
-  {
-    "title": "Вопрос 113",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/8eaffcf3aa668202d1a61db01ba76ce4.jpg",
-    "question": "Вы намерены повернуть налево. Ваши действия?",
-    "answers": [
-      {
-        "answer_text": "Проедете перекресток первым",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Уступите дорогу трамваю, выполнив поворот с проезжей части",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Пропустите трамвай, перестроитесь на трамвайные пути попутного направления и выполните с них поворот",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо.Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении.Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5).",
-    "topic": [
-      "Начало движения, маневрирование"
-    ],
-    "id": "122a15b1675d4d194f6692702d285d63"
   }
 ]

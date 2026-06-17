@@ -3,34 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b3a74b94c2d1a5e62810fe9f84bc6895.jpg",
-    "question": "На грузовом автомобиле с разрешенной максимальной массой не более 3,5 т можно двигаться со скоростью:",
-    "answers": [
-      {
-        "answer_text": "Не более 50 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не более 70 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не более 90 км/ч",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Табличка под знаком 8.4.1 «Вид транспортного средства» распространяет действие знака на грузовые автомобили, в том числе с прицепом, с разрешённой максимальной массой более 3,5 т. Ваш автомобиль к ним не относится, продолжаете движение с разрешённой Вам скоростью – не более 90 км/ч, так как действие происходит вне населённого пункта.(«Дорожные знаки», пункт 10.3 ПДД)",
-    "topic": [
-      "Скорость движения"
-    ],
-    "id": "acc3cf4d8390ed91b089ca684a848df3"
-  },
-  {
-    "title": "Вопрос 2",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/5fa0335dd123f090cef5df5d9c69ac34.jpg",
+    "image": "./tmp/images/A_B/458eeb250947f0ec1b02e03189ac908f.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле с прицепом вне населенного пункта?",
     "answers": [
       {
@@ -62,10 +35,10 @@
     "id": "bd5b66aaf952ac25586fcf5bcf0c0232"
   },
   {
-    "title": "Вопрос 3",
+    "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/912c11e435dbe941191ac47cac98bb96.jpg",
+    "image": "./tmp/images/A_B/9fdc600503b4f05c05e7df5cf3fcbb1b.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле?",
     "answers": [
       {
@@ -89,7 +62,7 @@
     "id": "98fb437543d9b1d123cf0cebeec7be6e"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -116,10 +89,10 @@
     "id": "7c8e23258835ca5d1fa92749145c3e80"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/1e705619216f7727620196fe657675dd.jpg",
+    "image": "./tmp/images/A_B/f52e2b73b76be2ec32fc256ac518d7ba.jpg",
     "question": "С какой скоростью Вы имеете право продолжить движение в населённом пункте по правой полосе?",
     "answers": [
       {
@@ -143,10 +116,10 @@
     "id": "433127439544633941d7e20012cc1963"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d5f5cc042021c3819994fe9387b44c98.jpg",
+    "image": "./tmp/images/A_B/8bfd4d2363109db847731ea78ddf4e65.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле?",
     "answers": [
       {
@@ -174,7 +147,7 @@
     "id": "0de0d49f52dfe615b1a7b6d0c6eecea7"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -201,10 +174,10 @@
     "id": "5e9ef5b54f8dd2fe12d16f9e7217162e"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/def37a56d498740728e91902c2a75cfc.jpg",
+    "image": "./tmp/images/A_B/1baad27f65eb495699728aa67e6787e9.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов на легковом автомобиле?",
     "answers": [
       {
@@ -228,7 +201,7 @@
     "id": "cae870309f61865420a0d4aafa053f27"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -255,7 +228,7 @@
     "id": "159d35f7ff679a73cd0ed696f47ed166"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -282,37 +255,10 @@
     "id": "436379949744538dd8cbb56476fa02db"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/c98167548f6dad5417b3e5aa77e6db07.jpg",
-    "question": "С какой скоростью Вы имеете право продолжить движение в населённом пункте по левой полосе?",
-    "answers": [
-      {
-        "answer_text": "Не более 40 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не более 60 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не менее 40 км/ч и не более 60 км/ч",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Разрешённая скорость движения в населённом пункте не более 60 км/ч. Вы выезжаете на полосу, над которой установлен знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», которая указывает полосу, на которую распространяется действие данного знака. Поэтому движение по данной полосе разрешается со скоростью не менее 40 км/ч, но и не превышающей 60 км/ч.(Пункт 10.2 ПДД, «Дорожные знаки»)",
-    "topic": [
-      "Скорость движения"
-    ],
-    "id": "dd0383ec40c74757c842c3059403a79e"
-  },
-  {
-    "title": "Вопрос 12",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/ae0505a16e8e36975ab06f95b77a4d81.jpg",
+    "image": "./tmp/images/A_B/4b1997147f2bc048613f58cf4beae76e.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов на грузовом автомобиле с разрешенной максимальной массой не более 3,5 т?",
     "answers": [
       {
@@ -336,7 +282,7 @@
     "id": "2aaad977776d463acd527d72291df2a9"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -363,7 +309,7 @@
     "id": "23a5f6a3e229490930b1f271980d3fd1"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -390,7 +336,7 @@
     "id": "5f4816df95a04dcbf3aba86cb227681f"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -421,10 +367,10 @@
     "id": "9a9ea9f90567fa78a04caa8bdb214261"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/18bc26934d95932c68b43565bc570e0b.jpg",
+    "image": "./tmp/images/A_B/24ff076c0d82588cc7587da59ece6658.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешённой максимальной массой не более 3,5 т после въезда на примыкающую слева дорогу?",
     "answers": [
       {
@@ -448,10 +394,10 @@
     "id": "e5e87b0df4853f7e8586081e7d837917"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/9adf205146d665e1b2453537ac79f612.jpg",
+    "image": "./tmp/images/A_B/69393c59f9440c94c7a8f1f6f94b4877.jpg",
     "question": "С какой максимальной скоростью разрешается продолжить движение при буксировке неисправного механического транспортного средства?",
     "answers": [
       {
@@ -475,10 +421,10 @@
     "id": "b332d62ba55928a1b99154207a758311"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/7dfc987548310102696e4dce45b97bfb.jpg",
+    "image": "./tmp/images/A_B/eaa1c8a2b4160f83617852816bd9210d.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле с прицепом?",
     "answers": [
       {
@@ -506,7 +452,7 @@
     "id": "43895c0492b3f74a7b646741b44fd221"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",

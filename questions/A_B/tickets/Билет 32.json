@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9e18d0d4efbabdcddae4738b159c6b3d.jpg",
+    "image": "./tmp/images/A_B/3a19cfb5f3ee5877f9f2e297d5174331.jpg",
     "question": "Какие из указанных знаков информируют о том, что на перекрёстке необходимо уступить дорогу транспортным средствам, приближающимся слева?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/881f2638f5669baec1bbc3c9cc73b35f.jpg",
+    "image": "./tmp/images/A_B/a6881bb0c337d4dbe9fd4554e6143941.jpg",
     "question": "Разрешено ли Вам при управлении легковым автомобилем с прицепом продолжить движение в прямом направлении?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/591bb1f7ed9e6de766dcb13966bc70ad.jpg",
+    "image": "./tmp/images/A_B/264f3775340a77f2e2875123b15ed32f.jpg",
     "question": "Вам разрешается движение:",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0a8c64af8a46c7ceb8e9dbc0943bb56a.jpg",
+    "image": "./tmp/images/A_B/9f0e30f8f0ec826616664206aad36fa9.jpg",
     "question": "О чем информирует Вас увеличение длины штриха прерывистой линии разметки?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a531057131b6da9200c63e8c277fcc41.jpg",
+    "image": "./tmp/images/A_B/93a4b9e65043969be0412dfa800272ca.jpg",
     "question": "Можно ли Вам перестроиться на соседнюю полосу?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/232019703b3080a2a564855ccbcd9d7f.jpg",
+    "image": "./tmp/images/A_B/75ed3adc188e4b6ae888a02ce9c6ea00.jpg",
     "question": "Обязаны ли Вы включить указатели правого поворота перед въездом на этот перекрёсток?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9e0b69c07aa6b295b327d32118395f6b.jpg",
+    "image": "./tmp/images/A_B/d02cfed703748e33a7afa1a0f8367126.jpg",
     "question": "Разрешено ли выполнить разворот на участке дороги, обозначенном этим знаком?",
     "answers": [
       {
@@ -316,7 +316,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7a679f4c406644c20c7274dda0e67f67.jpg",
+    "image": "./tmp/images/A_B/e7b1a424d7e17aa156d3b2e3b63f5c55.jpg",
     "question": "В каком месте Вам можно остановиться?",
     "answers": [
       {
@@ -347,7 +347,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a15be16d01a1b86b2da2cef9be0e6396.jpg",
+    "image": "./tmp/images/A_B/2960a6bb454d2ea6865249fbd2097a2c.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -374,7 +374,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b81f985c93326a84af3790ca710901d3.jpg",
+    "image": "./tmp/images/A_B/fdac7c4cdd2775d2f7b7ce3bca884581.jpg",
     "question": "Вы намерены развернуться. Ваши действия?",
     "answers": [
       {
@@ -401,7 +401,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/76e8ace06d939a11ad53700fa4151134.jpg",
+    "image": "./tmp/images/A_B/873841a3a5b66455e9834991362bd0d0.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -513,7 +513,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 32",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a562f95287af8bdc6a4e848cbb5b7bda.jpg",
+    "image": "./tmp/images/A_B/a234558e9a77b59862c0dbf9f1bc710a.jpg",
     "question": "При повороте налево обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {

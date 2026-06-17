@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/c2975107ea070a3ffd8713df2de2354f.jpg",
+    "image": "./tmp/images/A_B/fa95504c99b22003e1d8d4eeb91371cf.jpg",
     "question": "В случае остановки на подъеме(спуске) при наличии обочины можно предотвратить самопроизвольное скатывание автомобиля на проезжую часть, повернув его передние колеса в положение:",
     "answers": [
       {
@@ -258,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/bd83abc7aad58c5bfeb5453bc59852d9.jpg",
+    "image": "./tmp/images/A_B/7f58ff99768859f04d709b433bf54b2c.jpg",
     "question": "Способ разворота с использованием прилегающей территории слева, обеспечивающий безопасность движения, показан:",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e89185b8691dc7965ad22c76db00759f.jpg",
+    "image": "./tmp/images/A_B/b0f9cd909eda01f378df4fe47e313f83.jpg",
     "question": "В случае остановки на подъеме (спуске) при наличии тротуара можно предотвратить самопроизвольное скатывание автомобиля, повернув его передние колеса в положение:",
     "answers": [
       {
@@ -316,7 +316,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f688bc3a0ec802b68e3d83de9a0df096.jpg",
+    "image": "./tmp/images/A_B/f1ae00af856347d7c91178969d1fc0f2.jpg",
     "question": "Способ разворота с использованием прилегающей территории справа, обеспечивающий безопасность движения, показан:",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/f5998a7e83855f3830477470922a72de.jpg",
+    "image": "./tmp/images/A_B/c4067f2016c450c518cb70445c2f00b0.jpg",
     "question": "При повороте направо обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {
@@ -559,7 +559,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/13ec3f53b512d18199b2abd748af58b7.jpg",
+    "image": "./tmp/images/A_B/4679dd0586b45a443a3a8d7d24faf583.jpg",
     "question": "В месте выезда из лесистого участка, где установлен знак «Боковой ветер» Вам следует?",
     "answers": [
       {
@@ -860,7 +860,7 @@
     "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/a562f95287af8bdc6a4e848cbb5b7bda.jpg",
+    "image": "./tmp/images/A_B/a234558e9a77b59862c0dbf9f1bc710a.jpg",
     "question": "При повороте налево обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {
@@ -914,7 +914,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/8dbb3de365e8c033da2888608c07613c.jpg",
+    "image": "./tmp/images/A_B/00d241fcd8c271950321a415cd900b8f.jpg",
     "question": "При движении по двухполосной дороге за грузовым автомобилем у Вас появилась возможность совершить обгон. Ваши действия?",
     "answers": [
       {
@@ -1130,7 +1130,7 @@
     "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/d4a7cf1f7c02eb99ec3ecd045dffecd5.jpg",
+    "image": "./tmp/images/A_B/72ee06a52ab1feea1aa854a87f8ad8b6.jpg",
     "question": "При движении в условиях тумана расстояние до предметов представляется:",
     "answers": [
       {
@@ -1400,7 +1400,7 @@
     "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/e40fdb893e4b640927089fdd6ff8065a.jpg",
+    "image": "./tmp/images/A_B/55f854613948e4f6f171a598130b1dfe.jpg",
     "question": "На каком рисунке показано правильное положение рук на рулевом колесе?",
     "answers": [
       {
