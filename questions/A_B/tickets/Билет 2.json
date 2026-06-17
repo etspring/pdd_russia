@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1871b903ddd6b18d2bc45133234dd7fa.jpg",
+    "image": "./tmp/images/A_B/2f4527c7c81ab8b6fb653f610e2048d5.jpg",
     "question": "Сколько полос для движения имеет данная дорога?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f8b4d6d9f328835e3543d6ac0b5b992d.jpg",
+    "image": "./tmp/images/A_B/62120b92eee47f0f7f93a4a0e6b511db.jpg",
     "question": "Можно ли Вам въехать на мост первым?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/77fa304dc7de7bbe2eb0b0a0a1f5e0ed.jpg",
+    "image": "./tmp/images/A_B/50c2c2643d3cb55e84c8d935d5341641.jpg",
     "question": "Разрешено ли Вам произвести остановку для посадки пассажира?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0f751e9c5e75d0a7097691d052ed3a95.jpg",
+    "image": "./tmp/images/A_B/b778004a4a07aa59a8b820f4cfefb715.jpg",
     "question": "Что запрещено в зоне действия этого знака?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/bbec994b533287b90e72eb935af6e333.jpg",
+    "image": "./tmp/images/A_B/bd96a6a5f556fdb9dc8deda5d2ed91d2.jpg",
     "question": "Разрешен ли Вам выезд на полосу с реверсивным движением, если реверсивный светофор выключен?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d67f11a6e67191503276e8e32a58f4f4.jpg",
+    "image": "./tmp/images/A_B/3204448b33920d56f0bb20f8c93c7602.jpg",
     "question": "Информационная световая секция в виде силуэта пешехода и стрелки с мигающим сигналом бело-лунного цвета, расположенная под светофором, информирует водителя о том, что:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/73c4c907dba18267314d10a8b09aea23.jpg",
+    "image": "./tmp/images/A_B/056bd384dd8c5cc7d62ca9efb5b3635d.jpg",
     "question": "Поднятая вверх рука водителя легкового автомобиля является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/328947fa3921f7c37a9d825b2e8b030b.jpg",
+    "image": "./tmp/images/A_B/7b0c61a7cd4860ebbf1505764eacdddf.jpg",
     "question": "Двигаясь по левой полосе, водитель намерен перестроиться на правую. На каком из рисунков показана ситуация, в которой он обязан уступить дорогу?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/693a2649d53e8a112f2358389b9b20f7.jpg",
+    "image": "./tmp/images/A_B/ad7a2c5003f9650296f28a6113d987e2.jpg",
     "question": "Можно ли Вам выполнить разворот в этом месте?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ddd733bef00665b6608b3e08d9008821.jpg",
+    "image": "./tmp/images/A_B/ce4c3f12105972df6afa34c3fe195cce.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a3c10883d8f389574cb255f4d33864b0.jpg",
+    "image": "./tmp/images/A_B/e3c1380d39f5b919f5b08dbc2f84b99a.jpg",
     "question": "Разрешается ли Вам остановиться в указанном месте?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d2f620a80735b4205843f9b3d26cecc6.jpg",
+    "image": "./tmp/images/A_B/ca189392fa0cc995b8577f98759c0d37.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы должны уступить дорогу?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/effa4b8d198a74e7eeb2460bffca22dc.jpg",
+    "image": "./tmp/images/A_B/95bf8fd71b886d7d91a86034d6fc0127.jpg",
     "question": "В каком случае Вы имеете преимущество?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ac0d572e2be79ff28310b579eba034eb.jpg",
+    "image": "./tmp/images/A_B/57811bd8a072d3384e72c8f6d41c5ae6.jpg",
     "question": "Обязан ли водитель мотоцикла уступить Вам дорогу?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 2",
     "ticket_category": "A,B",
-    "image": "./images/A_B/07bad44c13de4e79e02eda779e92eab6.jpg",
+    "image": "./tmp/images/A_B/93ed874db92e063f72ab89cbac66a6e3.jpg",
     "question": "Разрешается ли водителю выполнить объезд грузового автомобиля?",
     "answers": [
       {

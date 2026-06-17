@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a6581948fd1281ca73b9d604a3ab9fe4.jpg",
+    "image": "./tmp/images/A_B/1b18851688d7a470f91f263463c1f5e5.jpg",
     "question": "Вам разрешено продолжить движение на перекрёстке?",
     "answers": [
       {
@@ -65,7 +65,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b151bd850a7eb12a96a3a4054cc98ea9.jpg",
+    "image": "./tmp/images/A_B/819573dac8230ad8b798243050d8de8c.jpg",
     "question": "Какие из указанных знаков разрешают разворот?",
     "answers": [
       {
@@ -92,7 +92,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d45d8113cd910c59a0150fe80b274dfc.jpg",
+    "image": "./tmp/images/A_B/f22a5d221a22c6ceb53bfbe376535d41.jpg",
     "question": "Поставить на стоянку указанным на табличке способом можно:",
     "answers": [
       {
@@ -111,8 +111,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Табличка 8.6.3 «Способ постановки транспортного средства на стоянку» указывает, как должны располагаться легковые автомобили и мотоциклы на краю тротуара в месте, обозначенном знаком 6.4 «Парковка (парковочное место)».(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "b8d1716fa37db5d9a7cef3d5ca070175"
   },
@@ -120,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/52373814fec06d28a820803472e97d36.jpg",
+    "image": "./tmp/images/A_B/65b8e8af7dacc6c5d42cd4feee546de9.jpg",
     "question": "Разметкой в виде буквы «А» обозначают?",
     "answers": [
       {
@@ -147,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/600ab149171da16a6ac1ae93254db49a.jpg",
+    "image": "./tmp/images/A_B/edebcc416f353ff162af02b4fdd5d168.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -174,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1cb33c7b6f1803fa0c5f6f0c38454cfe.jpg",
+    "image": "./tmp/images/A_B/194dc17228fcf44ddc2c546ec5b0fa2a.jpg",
     "question": "Какой опознавательный знак должен быть закреплен на задней части буксируемого механического транспортного средства при отсутствии или неисправности аварийной сигнализации?",
     "answers": [
       {
@@ -201,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a39b43925866fd589d602b7340b7ff7c.jpg",
+    "image": "./tmp/images/A_B/5ee8c65679223bab5ebedddce4c3d9af.jpg",
     "question": "На перекрестке Вы намерены повернуть направо. Как Вам следует поступить?",
     "answers": [
       {
@@ -228,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6b466297702c7b98d6744adb34684f41.jpg",
+    "image": "./tmp/images/A_B/1e2a27deee4fa012f29891218b1209a9.jpg",
     "question": "Кто должен уступить дорогу при одновременном развороте?",
     "answers": [
       {
@@ -255,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7aa701f3bd1edd5b83bd5106d7be4336.jpg",
+    "image": "./tmp/images/A_B/b1a187efed1968679701916c00cb2e11.jpg",
     "question": "Кто из водителей занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -286,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/16a0636cf86df70b567201832c9fd9dd.jpg",
+    "image": "./tmp/images/A_B/f482e6b1f946d165c5175ba0920b1424.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -313,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9bfc1438303942c67fb84b48deef7542.jpg",
+    "image": "./tmp/images/A_B/17fece159fe0d5e8da81f34da10e1132.jpg",
     "question": "Нарушил ли водитель автомобиля правила остановки?",
     "answers": [
       {
@@ -340,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/c0287ade19f8188c803ec16d54557dc3.jpg",
+    "image": "./tmp/images/A_B/ab15c282ba2680fb766363a747e78647.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -371,7 +370,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/dbbcca4938d90636c630cfcb94670373.jpg",
+    "image": "./tmp/images/A_B/8e00d1f2ee0a66a6b4877d9d355b3130.jpg",
     "question": "При движении прямо Вы:",
     "answers": [
       {
@@ -402,7 +401,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7f4f1b8b2f32f862293979c54ea03682.jpg",
+    "image": "./tmp/images/A_B/f25949e3461116a96ffc0e076b14fba1.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -429,7 +428,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 40",
     "ticket_category": "A,B",
-    "image": "./images/A_B/031ee339b5c4588d0f70898f99180468.jpg",
+    "image": "./tmp/images/A_B/780e98a255f8bbfd9863bae2439131f9.jpg",
     "question": "Можно ли Вам въехать на железнодорожный переезд?",
     "answers": [
       {

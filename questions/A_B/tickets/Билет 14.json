@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/4ccdddd3c39cafc8b550561ba057ba10.jpg",
+    "image": "./tmp/images/A_B/5fa93e03816d37f915755f4424de502f.jpg",
     "question": "О чем предупреждают Вас эти знаки:",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/90b40555c5539d69ab7a6d381386e445.jpg",
+    "image": "./tmp/images/A_B/ee95593e916c838c0f51ef24bf6d7690.jpg",
     "question": "Какие из указанных знаков разрешают движение грузовым автомобилям с разрешённой максимальной массой не более 3,5 т?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/37a2e2cad7d52d8d5d2fe12956f3f5e3.jpg",
+    "image": "./tmp/images/A_B/8cadfda81d838ebbb15125cdf5671717.jpg",
     "question": "Вам можно продолжить движение по крайней левой полосе на легковом автомобиле:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e67a843e51d4890c4c5e1ff3bdfa12ac.jpg",
+    "image": "./tmp/images/A_B/c00c84dbff477b2ad94dd1f2864f8616.jpg",
     "question": "В каком из указанных мест Вам разрешено пересечь сплошную линию разметки и остановиться?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0700dacc27c1af557dcf4ea1eece9898.jpg",
+    "image": "./tmp/images/A_B/370093f7566f4388cfb6882f5bbe739a.jpg",
     "question": "Должны ли Вы остановиться по требованию регулировщика в указанном им месте?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e528564f75b6d8e88501e68c43f668bc.jpg",
+    "image": "./tmp/images/A_B/510933a6cce0ae310914989b94e2809f.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, информирует Вас:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1164f37fcc05a994db6405a510100b22.jpg",
+    "image": "./tmp/images/A_B/eeef0f3ae9619d30274cf9dfc42604b2.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9cd53e74212814d14900204fc64976c1.jpg",
+    "image": "./tmp/images/A_B/110970890e562a4ebbdea227c31e53e9.jpg",
     "question": "Можно ли Вам развернуться в этом месте?",
     "answers": [
       {
@@ -242,6 +242,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Табличка под знаком 8.2.1 «Зона действия» указывает протяжённость опасных поворотов, о которых предупреждает знак 1.12.1 «Опасные повороты», и который устанавливается вне населённых пунктов за 150 – 300 м до опасного участка. При развороте Вы не должны оказаться в месте с видимостью дороги хотя бы в одном направлении менее 100 м. У Вас ещё есть небольшое расстояние, на котором можете совершить разворот.(«Дорожные знаки», пункт 8.11 ПДД)",
     "topic": [
+      "Дорожные знаки",
       "Начало движения, маневрирование"
     ],
     "id": "9c5ccf7ac0c8810fb6f07fbcebd87f06"
@@ -277,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b28b2b40d3f03f5c2ffd3ecde7541ea5.jpg",
+    "image": "./tmp/images/A_B/c5ea880f030435b742063e9ec1df5060.jpg",
     "question": "В данной ситуации, Вы:",
     "answers": [
       {
@@ -304,7 +305,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b4505e7eecfe9ff9672af15cc58a9105.jpg",
+    "image": "./tmp/images/A_B/c3d84ee81fe34e2fef4b105ace9a7be1.jpg",
     "question": "Разрешено ли Вам остановиться на мосту в этом месте?",
     "answers": [
       {
@@ -331,7 +332,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/dd15c5c92a1b7c94fdb3e7dc31b52742.jpg",
+    "image": "./tmp/images/A_B/bff4727fa6500313bd26fd78563198a8.jpg",
     "question": "При включении зелёного сигнала светофора Вы должны уступить дорогу:",
     "answers": [
       {
@@ -358,7 +359,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/11f039da164d6a869116a1ecf0aa5a18.jpg",
+    "image": "./tmp/images/A_B/7007660de6bacd1e11b44719f5d1cffb.jpg",
     "question": "Вы намерены проехать перекрёсток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -385,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/84e8cb2bde0226c0b037e892ac66149a.jpg",
+    "image": "./tmp/images/A_B/9bed4a7d8ba912c4167daeb398f80416.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -412,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 14",
     "ticket_category": "A,B",
-    "image": "./images/A_B/51759c26b47f5e5951180e6f1fb45fba.jpg",
+    "image": "./tmp/images/A_B/7f3116ac451cee6376e19c9268bec96f.jpg",
     "question": "Кто из водителей нарушает правила разворота на автомагистрали?",
     "answers": [
       {

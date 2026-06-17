@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/919811cb2c098e041409bed71fdc5544.jpg",
+    "image": "./tmp/images/C_D/5a8499429f6b0df70f0e4644d4d8967b.jpg",
     "question": "Выезд из двора или c другой прилегающей территории:",
     "answers": [
       {
@@ -22,7 +22,6 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "«Прилегающая территория» - территория, непосредственно прилегающая к дороге и не предназначенная для сквозного движения транспортных средств (дворы, жилые массивы, автостоянки, АЗС, предприятия и тому подобное). Выезд из двора или с другой прилегающей территории перекрестком не считается.(Пункт 1.2 ПДД)",
     "topic": [
-      "Движение в жилых зонах",
       "Общие положения"
     ],
     "id": "469976892617e2522d6fcc7338a654f8"
@@ -31,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/feeebab9558f9155dea1b1da34ad5786.jpg",
+    "image": "./tmp/images/C_D/67a216a2e57d41e09a7b3022babea88b.jpg",
     "question": "Какие из указанных знаков требуют обязательной остановки?",
     "answers": [
       {
@@ -62,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/b2c4e65db2c734606941e6c022525c30.jpg",
+    "image": "./tmp/images/C_D/b7bf48ba1948eb0dbe6151c57f9c76aa.jpg",
     "question": "В зоне действия этого знака разрешается использовать звуковой сигнал:",
     "answers": [
       {
@@ -116,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c6b51ef5d62a5b9d39c18112120f7f76.jpg",
+    "image": "./tmp/images/C_D/21a5ac1dd3caa95ed0e2675f78e9be73.jpg",
     "question": "Такой вертикальной разметкой обозначают боковые поверхности ограждений:",
     "answers": [
       {
@@ -170,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c968e1d12edf100e4b2abc6a792ad6f4.jpg",
+    "image": "./tmp/images/C_D/51f4c62203bdab4e8836a0def3c9c6fb.jpg",
     "question": "Какие световые сигналы Вы обязаны подать в данной ситуации?",
     "answers": [
       {
@@ -197,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/b89a2de3ae5bf091ffa9f0e541179043.jpg",
+    "image": "./tmp/images/C_D/f80a372e10192b32243a976fa32d8bde.jpg",
     "question": "В каких направлениях Вам можно продолжить движение по второй полосе?",
     "answers": [
       {
@@ -224,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/3a3040ed39754a507bec84aecacb0dc8.jpg",
+    "image": "./tmp/images/C_D/46d7e256781ce9a769aa642c0748c753.jpg",
     "question": "Разрешен ли Вам разворот в этом месте?",
     "answers": [
       {
@@ -251,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c8094372eac12e59a0a618b1fbbd2cfa.jpg",
+    "image": "./tmp/images/C_D/c262e4443a6fb432315efda0d3176743.jpg",
     "question": "По какой траектории Вы имеете право продолжить движение?",
     "answers": [
       {
@@ -309,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/de03e6160ebd0c8b93d0ceb5e94b7408.jpg",
+    "image": "./tmp/images/C_D/dd1287541dae98592be4fab120e282eb.jpg",
     "question": "Водители каких транспортных средств нарушили правила остановки?",
     "answers": [
       {
@@ -336,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/a555210497c1185e73097d3c4366c183.jpg",
+    "image": "./tmp/images/C_D/22f342671ee7c1b29cb012cb090e4df0.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -363,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/64dd4e87e151537666f26f6cd974622b.jpg",
+    "image": "./tmp/images/C_D/d9c18d5a7fded8cde1f7e5dbc997de3a.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -390,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/2e9c329aa12a4a2dbaba8e30d149338f.jpg",
+    "image": "./tmp/images/C_D/b449e581bf4eb8a7bd44ed7890b8b1b2.jpg",
     "question": "При движении прямо Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -409,7 +408,6 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Перекрёсток неравнозначный. Главная дорога меняет направление. Преимущество имеют транспортные средства, находящиеся на главной дороге. После их проезда проезжают транспортные средства, находящиеся на второстепенной дороге, которые между собой руководствуются «правилом правой руки», т.е. у кого помеха справа, тот и уступает. Помеха справа у мотоциклиста, он уступает Вам. Транспортные средства проедут перекрёсток в следующем порядке: автобус, легковой автомобиль, Вы, мотоциклист.(«Дорожные знаки», пункты 13.9, 13.10 ПДД)",
     "topic": [
-      "Дорожные знаки",
       "Проезд перекрестков"
     ],
     "id": "a25bfae6f7d0801513bb98210e2ce440"
@@ -445,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./images/C_D/d73cedf438c8a1f96a9328e785d386fe.jpg",
+    "image": "./tmp/images/C_D/1903cadd4f57d1a9ad9be04276ba65df.jpg",
     "question": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов?",
     "answers": [
       {

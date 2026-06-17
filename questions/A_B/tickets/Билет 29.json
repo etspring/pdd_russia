@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/99e59a6b98fa301f860b6565c84b8150.jpg",
+    "image": "./tmp/images/A_B/daca31e7d650c64c5c9a692ba4c9f35b.jpg",
     "question": "Какие из указанных знаков предоставляют право преимущественного проезда нерегулируемых перекрестков?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/73f3b5299584c45589bcfcd949f03e07.jpg",
+    "image": "./tmp/images/A_B/f1dee8377b36e002f1430d493667e317.jpg",
     "question": "Разрешено ли Вам выполнить обгон?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/952de68c6a21c16013dd07686568477f.jpg",
+    "image": "./tmp/images/A_B/ecba808ab2a7bb4fabcf47bae3101bf5.jpg",
     "question": "Можно ли водителю поставить грузовой автомобиль на стоянку в этом месте указанным способом?",
     "answers": [
       {
@@ -103,8 +103,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Водителям грузовых автомобилей при наличии знака 6.4 «Парковка (парковочное место)» с одной из табличек 8.6.2, 8.6.3 и 8.6.6 - 8.6.9 «Способ постановки транспортных средств на стоянку» стоять в зоне действия этого знака нельзя. Не допускает стоянку на краю тротуара любым грузовым автомобилям и пункт 12.2 ПДД и в иных местах, не обозначенных знаками. Поэтому ответ однозначен – водитель грузовика нарушает Правила.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "d7543b23770c93ca52abfc74ab301c9f"
   },
@@ -112,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0c3649d70b8e069ac13386976bd29e81.jpg",
+    "image": "./tmp/images/A_B/4d989e03727e81102bd2fe3c46846791.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -139,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7ae9b7b0d982731511e27ceaee9764a2.jpg",
+    "image": "./tmp/images/A_B/222a00fb21ed44ee5e24afdd5a11c279.jpg",
     "question": "В каком месте Вы должны остановиться?",
     "answers": [
       {
@@ -193,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1464c9c8b3c83d77349a5129c1a284a8.jpg",
+    "image": "./tmp/images/A_B/2b190e18ab82f0d00b3818e99e5455a4.jpg",
     "question": "Кто из водителей нарушает правила поворота на перекрёстке?",
     "answers": [
       {
@@ -224,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3eb70f430b0427cee6afa9cc3af305e9.jpg",
+    "image": "./tmp/images/A_B/af49eb514420907e99da93d881127fed.jpg",
     "question": "Разрешено ли водителю движение задним ходом при отсутствии других участников движения?",
     "answers": [
       {
@@ -251,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3176b8d47092f1062bc7c503e56bc3e7.jpg",
+    "image": "./tmp/images/A_B/1ebfab4546de55a042eb8223c79444f4.jpg",
     "question": "Можно ли Вам выехать на крайнюю левую полосу в данной ситуации?",
     "answers": [
       {
@@ -278,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/328c10153f93fc5212d3d691bc74479a.jpg",
+    "image": "./tmp/images/A_B/e7c7b6ee2c57d3152ef0224e5f71ae9e.jpg",
     "question": "Разрешается ли Вам выполнить обгон?",
     "answers": [
       {
@@ -305,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ec86d9e4bba13f88a707b9303dbb3327.jpg",
+    "image": "./tmp/images/A_B/6ea7ccc14b1b4a5b6899743c84e35945.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -336,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/776ffb02265e620cb05901b5818b520b.jpg",
+    "image": "./tmp/images/A_B/b48264def0e6cf92c90fb630ce171ec1.jpg",
     "question": "При выполнении какого маневра водитель легкового автомобиля имеет преимущество в движении?",
     "answers": [
       {
@@ -363,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/65bc169b36cdfc3af1aad956a5a5b5a3.jpg",
+    "image": "./tmp/images/A_B/6adb300933d6c34fcb64da883ddf87fa.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -390,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/762991bf5f396b227bed4d0559d890d5.jpg",
+    "image": "./tmp/images/A_B/f4094947622fc0baaa9efa9939b883f8.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -417,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a5c3ed06da826a9d024036e2b40b7e43.jpg",
+    "image": "./tmp/images/A_B/2a819c2bba2b9e23a80c581150c4c8b1.jpg",
     "question": "Можно ли Вам, управляя грузовым автомобилем, осуществить опережение в данной ситуации?",
     "answers": [
       {

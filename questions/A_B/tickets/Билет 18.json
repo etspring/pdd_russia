@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/01f38fb5663e0faba3f49f8268bd9a1d.jpg",
+    "image": "./tmp/images/A_B/71123967a72be5e833c4c07d6e032da5.jpg",
     "question": "Этот дорожный знак предупреждает:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/414d75d3838abf8463898b052c56b8cb.jpg",
+    "image": "./tmp/images/A_B/846c8b354f8b1b45decc147e626b88f3.jpg",
     "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по четным числам месяца?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/73d83dad405bf9f9ed42d4637e65b9ce.jpg",
+    "image": "./tmp/images/A_B/512d836ab11553d0ee9b2b2edcc7f33e.jpg",
     "question": "Какие из указанных знаков информируют о том, что на данной дороге действуют требования Правил, устанавливающие порядок движения в населённых пунктах?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/10a274ab099e40365080243b9fdce1cd.jpg",
+    "image": "./tmp/images/A_B/07dc747460fb962f1072f42bf65801c2.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/86a74963fe21960b481c30d4f15316cb.jpg",
+    "image": "./tmp/images/A_B/90cf47a07eb8456fcc68b5a8bf95d60c.jpg",
     "question": "В каком направлении Вам разрешено движение?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5076bba07f9a120d06525208a45f48da.jpg",
+    "image": "./tmp/images/A_B/481eb4761b11fa391effc915b7961d82.jpg",
     "question": "Вы намерены остановиться слева у тротуара. В каком случае Вы обязаны включить указатели поворота?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3a89c941df72d7ba6dadfff35c03e40b.jpg",
+    "image": "./tmp/images/A_B/f97d6de7b1ea560fe3243ca7be2f89e6.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/ed3d718a169c7a7515f31f6994ded365.jpg",
+    "image": "./tmp/images/A_B/0c8c2be3ded60432df6dea9aa6ecd489.jpg",
     "question": "По какой траектории Вы имеете право выполнить разворот?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/30c2da37d1fa7b6066d868d270790224.jpg",
+    "image": "./tmp/images/A_B/9ab7f6f961a97d3c826f82778be33852.jpg",
     "question": "Можно ли водителю легкового автомобиля начать обгон?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0ebce77b27ae28cb85b1ef9ead273cac.jpg",
+    "image": "./tmp/images/A_B/37e9ec547fc12c941e97fa799dda3cf2.jpg",
     "question": "Кто нарушил правила остановки?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a926e2a439dd3ef6d65198b969d5625d.jpg",
+    "image": "./tmp/images/A_B/45b281dc1b13554e5fc159a0d9de44e4.jpg",
     "question": "Обязаны ли Вы уступить дорогу легковому автомобилю при повороте направо?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2e09e33eff9895baa99769e1239e883f.jpg",
+    "image": "./tmp/images/A_B/b05cefed96cf58dd9c4205ca9aff1ffa.jpg",
     "question": "Вы намерены выполнить разворот. Ваши возможные действия?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/609b0f853107093d74ec48509823337e.jpg",
+    "image": "./tmp/images/A_B/bd477805ae436ec00059e96cc680c99e.jpg",
     "question": "Вы намерены проехать перекрёсток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 18",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8dc5731d542ec2b1a792b4ae919793a1.jpg",
+    "image": "./tmp/images/A_B/285d82c90ca0bb420e2b78d21a30a3b7.jpg",
     "question": "Обязаны ли Вы уступить дорогу маршрутному транспортному средству, отъезжающему от тротуара, где нет обозначенного места остановки ?",
     "answers": [
       {

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/d33742963cc5d72f75fc9a9e65e8612e.jpg",
+    "image": "./tmp/images/C_D/740d181ba7252733d09fed9d34352282.jpg",
     "question": "Сколько перекрестков изображено на рисунке?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/8c1576d91349d58558d93fd65d91bc21.jpg",
+    "image": "./tmp/images/C_D/1e6ab659c89febdf4757cfdca3970c59.jpg",
     "question": "В каком случае из перечисленных при перевозке крупногабаритного груза Вам запрещено продолжить движение в прямом направлении?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/9f9e708e31125a6ffaa5d62f606e7f12.jpg",
+    "image": "./tmp/images/C_D/39483415c903584c04cac1617be90fc3.jpg",
     "question": "Что означают эти дорожные знаки?",
     "answers": [
       {
@@ -103,8 +103,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Табличка 8.5.1 «Субботние, воскресные и праздничные дни» указывает, что знак, с которым она применяется, действует только в вышеперечисленные дни.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "0fa4712a556e14c6e633a42bc5caced7"
   },
@@ -139,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/bfad45ee882583607f70886c4df7281b.jpg",
+    "image": "./tmp/images/C_D/5ecbb580206d5d7540ef65b31a3f3ccb.jpg",
     "question": "В данной ситуации водитель автомобиля с включенными проблесковыми маячками:",
     "answers": [
       {
@@ -166,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/894a147ea181615ab1a09f76a58e80f2.jpg",
+    "image": "./tmp/images/C_D/e1ee9e21aba5871f03c624d9aa0b6d1e.jpg",
     "question": "Обязаны ли Вы в данной ситуации включить указатели левого поворота?",
     "answers": [
       {
@@ -193,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/68bb1d75ba1a9ee2afc8290285e4fced.jpg",
+    "image": "./tmp/images/C_D/ad3190c251a042372e746f53b4fdbabd.jpg",
     "question": "По какой траектории Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -220,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/01768a7239c6db99fd9aef57efe02af6.jpg",
+    "image": "./tmp/images/C_D/6cef84a5dc9be0d1b53a8db1791cd86d.jpg",
     "question": "Разрешено ли водителю движение задним ходом на путепроводе для посадки пассажира?",
     "answers": [
       {
@@ -297,7 +296,6 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Обгон запрещен на железнодорожных переездах и ближе чем за 100 метров перед ними.(Пункт 11.4 ПДД)",
     "topic": [
-      "Движение через железнодорожные пути",
       "Обгон, опережение, встречный разъезд"
     ],
     "id": "c76672a1ac57d76ee82de1ca1d1efc80"
@@ -306,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/9abdc411d59a321eb181cbedc9880fc5.jpg",
+    "image": "./tmp/images/C_D/a4da054987231aeef81635da8f396921.jpg",
     "question": "Разрешено ли водителю грузового автомобиля остановиться в этом месте?",
     "answers": [
       {
@@ -333,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/7166b559f21cedffc4cea5ea548f8c56.jpg",
+    "image": "./tmp/images/C_D/89c560d0d88f229bbe7eb9f5ffa3a8f2.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -360,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/f8f12b3b3b01ee303de888791b4c0575.jpg",
+    "image": "./tmp/images/C_D/fda952ff4d22738ce8f6910af85c096c.jpg",
     "question": "В каком случае Вы должны уступить дорогу трамваю?",
     "answers": [
       {
@@ -387,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./images/C_D/1a0a45cd60c62e2b965b01df1bcb2b36.jpg",
+    "image": "./tmp/images/C_D/5f3ead8e3cf340c21f6ccc2affa00948.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {

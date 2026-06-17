@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0935c1587cf1ad38e08e888fceff382f.jpg",
+    "image": "./tmp/images/A_B/7f3bd2ceb5f1c8308e7400952349dbbd.jpg",
     "question": "При повороте направо Вы:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/401b32d6422ac7a76bf7588cf75e1a2f.jpg",
+    "image": "./tmp/images/A_B/1cb41057ffe33092d2ec61764a6aa9ee.jpg",
     "question": "Как Вы должны поступить в данной ситуации?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/60576ad098e1256f40f78f971738c9ad.jpg",
+    "image": "./tmp/images/A_B/4b3b7de29f1e2e718dd75b50ec2d84dd.jpg",
     "question": "В данной ситуации водитель автомобиля с включенными проблесковыми маячками:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/09c20b040fda57302b263f0c92375d47.jpg",
+    "image": "./tmp/images/A_B/76cbfd366a7834e8431d643a4436c713.jpg",
     "question": "Как следует поступить водителю легкового автомобиля при приближении автомобиля оперативной службы?",
     "answers": [
       {
@@ -196,34 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/b0ba587013475581dd72731cbc816d54.jpg",
-    "question": "При движении в каком направлении Вы должны уступить дорогу автомобилю с включенными проблесковым маячком и специальным звуковым сигналом?",
-    "answers": [
-      {
-        "answer_text": "Только налево",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Налево и в обратном направлении",
-        "is_correct": false
-      },
-      {
-        "answer_text": "В любом",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Вы обязаны обеспечить беспрепятственный проезд перекрёстка «оперативнику» с включенными специальными сигналами независимо от направления его движения. Сделать это необходимо при движении в любом направлении.(Пункты 3.1, 3.2 ПДД)",
-    "topic": [
-      "Применение специальных сигналов"
-    ],
-    "id": "e636c28bb84f0b1776a2da35ad1fe4f4"
-  },
-  {
-    "title": "Вопрос 9",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/A_B/6d10de1adbad3dfa4e761a78b170d887.jpg",
+    "image": "./tmp/images/A_B/678b198be74cff406a7cf4e21e6f00b4.jpg",
     "question": "В каком случае Вы должны будете уступить дорогу автомобилю ДПС?",
     "answers": [
       {

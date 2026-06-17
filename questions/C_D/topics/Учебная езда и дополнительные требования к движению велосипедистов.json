@@ -3,65 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "Какие из перечисленных действий запрещены водителям транспортных средств в жилой зоне?",
-    "answers": [
-      {
-        "answer_text": "Сквозное движение",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Учебная езда",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Стоянка с работающим двигателем",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Все перечисленные действия",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 4",
-    "answer_tip": "Все действия, перечисленные в ответах, в жилой зоне, на дворовых территориях запрещены.(Пункты 17.2, 17.4 ПДД)",
-    "topic": [
-      "Учебная езда и дополнительные требования к движению велосипедистов"
-    ],
-    "id": "624dc4ae70755f13b23f630a4cfb0a8f"
-  },
-  {
-    "title": "Вопрос 2",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "Разрешается ли учебная езда на автомагистрали?",
-    "answers": [
-      {
-        "answer_text": "Запрещается",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается только по крайней правой полосе",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Учебная езда на автомагистрали, обозначенной знаком 5.1 \"Автомагистраль\" разрешена с 2020 года(Пункт 16.1 ПДД).",
-    "topic": [
-      "Учебная езда и дополнительные требования к движению велосипедистов"
-    ],
-    "id": "b488af899e21064b5ce905c3587b3b20"
-  },
-  {
-    "title": "Вопрос 3",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/C_D/0a8a263a6a9fc8e1519cb04b39f3e6d9.jpg",
+    "image": "./tmp/images/C_D/c97f145eb39f20e18d8da7cd36fdf531.jpg",
     "question": "Разрешено ли обучать вождению на этой дороге?",
     "answers": [
       {
@@ -85,7 +27,7 @@
     "id": "ea4d4f17b1c5900ee71a3509435aa262"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",

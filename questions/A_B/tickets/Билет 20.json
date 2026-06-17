@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0c412b262aaa742de73313de9d5cd245.jpg",
+    "image": "./tmp/images/A_B/6de829904f7ac74354a62773f3358df0.jpg",
     "question": "Можно ли Вам за перекрёстком въехать во двор?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/caba243f0898a9ed727e68868e95441e.jpg",
+    "image": "./tmp/images/A_B/d1c06ba860a212c5f47ba4b5499e3b53.jpg",
     "question": "Разрешается ли Вам остановка за знаком?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2f384d485a0ebe68e54fc16481e92e43.jpg",
+    "image": "./tmp/images/A_B/ecdf3ea1f761231b7af85e3a765fddff.jpg",
     "question": "Какие из указанных знаков запрещают дальнейшее движение без остановки?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2ca11d0dccb59f266b9fb6e526961521.jpg",
+    "image": "./tmp/images/A_B/92281cfd89fecafa87944fcdaa8c5a5d.jpg",
     "question": "Вы намеревались проехать перекрёсток в прямом направлении. Как следует поступить, если Вы не успели заранее перестроиться на левую полосу?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b03abac1933f69c66b9737d4644af87c.jpg",
+    "image": "./tmp/images/A_B/20fd015a2ad992d7534e16d81993e880.jpg",
     "question": "Какой знак используется для обозначения транспортного средства при вынужденной остановке в местах, где с учетом условий видимости оно не может быть своевременно замечено другими водителями?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3c42fb6a0f6a5a8830b3d205bae7f6c3.jpg",
+    "image": "./tmp/images/A_B/21867d8d22c6637f3b1240a449e99846.jpg",
     "question": "Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d378a7ff917731810d151e85331013fb.jpg",
+    "image": "./tmp/images/A_B/77f12edd9ee98dad4f4cde155d396b9d.jpg",
     "question": "Разрешается ли Вам выполнить разворот с заездом во двор задним ходом?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/86331928deadad76d4d7f10f9a3b4b0f.jpg",
+    "image": "./tmp/images/A_B/6e70dbb4e4bc0db0b2e6221ea6a7edaf.jpg",
     "question": "Укажите расстояние, под которым в Правилах понимается дистанция:",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d4dd33fd3bc937cc4a7afa64f5bf5cac.jpg",
+    "image": "./tmp/images/A_B/78bd378f97d1c266f638139db5e130aa.jpg",
     "question": "Можно ли Вам начать обгон грузового автомобиля в данной ситуации?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d5026d02d7f19eb9e5ffb5034c748542.jpg",
+    "image": "./tmp/images/A_B/e975432b4875d31688be635533065bfd.jpg",
     "question": "Какой автомобиль разрешено поставить на стоянку указанным на табличке способом?",
     "answers": [
       {
@@ -331,8 +331,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "В местах, обозначенных знаком 6.4 «Парковка (парковочное место)» совместно с одной из табличек 8.6.2 – 8.6.9 «Способ постановки транспортного средства на стоянку», разрешена стоянка легковых автомобилей и мотоциклов только так, как указано на табличке. Всем остальным придётся подыскивать другое место стоянки.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "530be726bc320d2cbdb970ab6ee5b6f9"
   },
@@ -340,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e2b9425804c73c5ca16eb6277d7a44d2.jpg",
+    "image": "./tmp/images/A_B/7628e0f2e5f21407f883a25e2d554655.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -367,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d7c90e14e7bec22a2c8515b5cc3fd16d.jpg",
+    "image": "./tmp/images/A_B/050fa6a1b80d7a04eb54a5bf29933ac9.jpg",
     "question": "При повороте направо Вам следует:",
     "answers": [
       {
@@ -390,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6213aca51e52eb845a5608a69d366076.jpg",
+    "image": "./tmp/images/A_B/7280d7ef8d6cbad26dd14c5e46de77f6.jpg",
     "question": "Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -417,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0eeec7de547a46b1794c4ed0270ae8ef.jpg",
+    "image": "./tmp/images/A_B/1127fcc7a528c0bee0cbdb4b2a95e4f4.jpg",
     "question": "В данной ситуации Вы должны остановиться:",
     "answers": [
       {
@@ -461,7 +460,7 @@
       }
     ],
     "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "В условиях «недостаточной видимости» - видимости дороги менее 300 м в условиях тумана, дождя, снегопада и т. п., а также в сумерки, согласно пунктов 19.4 и 19.7 ПДД могут применяться противотуманные фары и задние противотуманные фонари, как раздельно, так и одновременно.(Пункты 19.4, 19.7 ПДД)",
+    "answer_tip": "В условиях «недостаточной видимости» - видимости дороги менее 300 м в условиях тумана, дождя, снегопада и т. п., а также в сумерки, согласно пунктам 19.4 и 19.7 ПДД могут применяться противотуманные фары и задние противотуманные фонари, как раздельно, так и одновременно.(Пункты 19.4, 19.7 ПДД)",
     "topic": [
       "Пользование внешними световыми приборами и звуковыми сигналами"
     ],

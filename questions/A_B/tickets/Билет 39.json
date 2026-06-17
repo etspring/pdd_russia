@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a112b25aeaf6f2f2523c0c26ecf7f102.jpg",
+    "image": "./tmp/images/A_B/fe20c6b992abe03b62c1a51dfc91e3bd.jpg",
     "question": "Этот знак предупреждает о приближении к тоннелю, в котором:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/62edd3fce902d3b7c87869e4562c141b.jpg",
+    "image": "./tmp/images/A_B/91d9540b9115f281745e70badb2f9ec9.jpg",
     "question": "Вы имеете право продолжить движение на перекрестке:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/21465116866437deb217fe91f1fa4576.jpg",
+    "image": "./tmp/images/A_B/e7437f306d0107423fe7d6317cb8f918.jpg",
     "question": "Какие из указанных знаков разрешают выполнить поворот налево?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b2cb71bd032148c7945b4b8d3816e499.jpg",
+    "image": "./tmp/images/A_B/6da58f10de901739f194719230b308d2.jpg",
     "question": "При наличии данной разметки, нанесенной на полосе движения, Вам разрешено выполнить:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5935ab466e699e045bc2eba3e38979a2.jpg",
+    "image": "./tmp/images/A_B/85eedcdc30047b73a7d73930e986690c.jpg",
     "question": "Вам можно двигаться:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5ece9b9e7d648f3ce4c78e4569a0f68f.jpg",
+    "image": "./tmp/images/A_B/716c4ba57b41e562a3698b7eb438c821.jpg",
     "question": "Водитель автомобиля, выполняющий перестроение на правую полосу, в данной ситуации:",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/515953587d8936d88cfd30a24c0f6d11.jpg",
+    "image": "./tmp/images/A_B/4aacf47a11907c2dd07b7b9d220445bb.jpg",
     "question": "Разрешается ли Вам выполнить разворот в указанном месте?",
     "answers": [
       {
@@ -242,6 +242,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Впереди поворот. Разворот можете осуществлять, если видимость дороги не менее 100 м.(Пункт 8.11 ПДД)",
     "topic": [
+      "Дорожные знаки",
       "Начало движения, маневрирование"
     ],
     "id": "0630c8d0565877605a1621e241edfd75"
@@ -250,7 +251,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/7dfc987548310102696e4dce45b97bfb.jpg",
+    "image": "./tmp/images/A_B/eaa1c8a2b4160f83617852816bd9210d.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле с прицепом?",
     "answers": [
       {
@@ -281,7 +282,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a2beca70b6c74b6081c7f918ea881df2.jpg",
+    "image": "./tmp/images/A_B/336675400d05b883d52c81e929bc254e.jpg",
     "question": "По какой траектории водителю мотоцикла можно выполнить обгон?",
     "answers": [
       {
@@ -308,7 +309,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5a9395c998f0953ada0e4b294c2826e0.jpg",
+    "image": "./tmp/images/A_B/25c8b455006f6387ad1824db3d4e3d0d.jpg",
     "question": "Разрешается ли Вам остановка в указанном месте?",
     "answers": [
       {
@@ -335,7 +336,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/77c8e3a311319e8e3a8063e6308c7ba8.jpg",
+    "image": "./tmp/images/A_B/4605d7cf7c5281b866eaf4a69b70b81a.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -362,7 +363,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/d1c8cf4e98294d96c1248065fa90d102.jpg",
+    "image": "./tmp/images/A_B/8aca522ff6bd95681a675f2e9c36c3e7.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -385,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/60974448467920683882fc52599c1b81.jpg",
+    "image": "./tmp/images/A_B/6bbcd0aafba71114df720d0dc6ec5012.jpg",
     "question": "Кому Вы должны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -412,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 39",
     "ticket_category": "A,B",
-    "image": "./images/A_B/569f8ee1d44c45befdc45ff17bd0944e.jpg",
+    "image": "./tmp/images/A_B/247d5cb4f05456d8d2c4e03120bfff84.jpg",
     "question": "Нарушил ли водитель Правила при вынужденной остановке на автомагистрали?",
     "answers": [
       {

@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/11f56b9ba2361a1b1d8bd8ceea375a45.jpg",
+    "image": "./tmp/images/A_B/deca07dc7e390cfad2d7955fe5072caa.jpg",
     "question": "Какие из указанных знаков устанавливают непосредственно перед железнодорожным переездом?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6bcdfd8e25658f9be9a0537b526600fa.jpg",
+    "image": "./tmp/images/A_B/ba027eca7e0cd1486e26fbf3aa4914ea.jpg",
     "question": "Вам разрешено выполнить разворот:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e1143edefb135690a12cda3b172f30d9.jpg",
+    "image": "./tmp/images/A_B/02cc6e5021a85602b4df5ede2ffaf3b9.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку за путепроводом?",
     "answers": [
       {
@@ -107,8 +107,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "В указанном месте стоянка запрещена знаком 3.28 «Стоянка запрещена», действие которого распространяется до ближайшего перекрёстка. Путепровод не может прекращать действие данного знака.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Остановка и стоянка"
+      "Дорожные знаки"
     ],
     "id": "8df94ad9495b3b9395cba882c09045ff"
   },
@@ -116,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8decd27c3f379a7a0d897f3db9383c21.jpg",
+    "image": "./tmp/images/A_B/5ee41a0764989b0650d717aa675b0629.jpg",
     "question": "Разрешается ли Вам перестроиться на полосу с реверсивным движением в данной ситуации?",
     "answers": [
       {
@@ -143,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b45b27937aae64fc0f6f881d4750c144.jpg",
+    "image": "./tmp/images/A_B/9ac656b412f3b8f9fd136e8aac6036ab.jpg",
     "question": "Вам разрешено движение:",
     "answers": [
       {
@@ -170,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/747cba74c18f8bbe9f59fe2db72e841d.jpg",
+    "image": "./tmp/images/A_B/441176c5ff812a0e245d29ff86b5c6bf.jpg",
     "question": "Какие указатели поворота Вы обязаны включить при выполнении разворота по такой траектории?",
     "answers": [
       {
@@ -197,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5f295f34223d32dc21ed8190cbca837e.jpg",
+    "image": "./tmp/images/A_B/58bf997069583bcb3c2cb52207a1ec09.jpg",
     "question": "Ситуация, в которой водитель транспортного средства, движущегося по правой полосе, обязан уступить дорогу при перестроении, показана:",
     "answers": [
       {
@@ -224,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/facc734c174b32a59fc528a68b80feeb.jpg",
+    "image": "./tmp/images/A_B/b40665f3c57c64cadc21bcc067206786.jpg",
     "question": "Разрешено ли водителю легкового автомобиля движение задним ходом для посадки пассажира?",
     "answers": [
       {
@@ -251,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/3c5564ec4500c90ea9fdfcce769be80f.jpg",
+    "image": "./tmp/images/A_B/103564bb06931ec6d4bdfbbe9e5ab59d.jpg",
     "question": "В данной ситуации для того, чтобы продолжить движение в прямом направлении, Вы имеете право:",
     "answers": [
       {
@@ -309,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e31119c98841e365b52059a008a20338.jpg",
+    "image": "./tmp/images/A_B/f0652fc42b4b3c405ee354d92e767715.jpg",
     "question": "Можно ли Вам остановиться в тоннеле для посадки пассажира?",
     "answers": [
       {
@@ -336,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2548a3e2d33e7256a79e40f77c44a97e.jpg",
+    "image": "./tmp/images/A_B/9da29a419e61a567c908c12b1ecb6455.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -363,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/0480b81d241c1f0751d06f108b3892ce.jpg",
+    "image": "./tmp/images/A_B/b8aec086f181a7f329b85819de8000be.jpg",
     "question": "При движении в каком направлении Вы будете иметь преимущество?",
     "answers": [
       {
@@ -390,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 37",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f45f35b2cdd40c77dfabee9aefc91699.jpg",
+    "image": "./tmp/images/A_B/3e2f749db6998ba17193fb8933771822.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия:",
     "answers": [
       {

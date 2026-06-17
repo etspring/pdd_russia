@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fcd94e9c6f1cd1bbc189f8821f9ea5a1.jpg",
+    "image": "./tmp/images/C_D/7742f7f3fc4c9567cdab897ee38763a1.jpg",
     "question": "Сколько полос для движения имеет данная дорога?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/8dd338c801af96476e67e8abdb0a7b1d.jpg",
+    "image": "./tmp/images/C_D/134ce19f0f6ed70a2a0d74be3649729d.jpg",
     "question": "Выезжая с грунтовой дороги на перекресток, Вы попадаете:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/419e11c07fbb0904b3b5a6b7ce436bca.jpg",
+    "image": "./tmp/images/C_D/07f6fd7642f9890aea4f459e97906a30.jpg",
     "question": "Сколько полос для движения имеет проезжая часть данной дороги?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/2c50aed47e101fbe5456381ee609a546.jpg",
+    "image": "./tmp/images/C_D/c5184aac09f9ef91c412c766ebb1357a.jpg",
     "question": "Сколько проезжих частей имеет данная дорога?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/76878233c8a8bc7bacfcf642332135ee.jpg",
+    "image": "./tmp/images/C_D/66adbe455cdccc852e3a007ed086dd89.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/158a55c932fd7ac3ca5ee08fffd54bbc.jpg",
+    "image": "./tmp/images/C_D/39c76eed9a0919682cb60810cfdb790a.jpg",
     "question": "Соответствуют ли действия водителя Правилам, если он движется посередине дороги?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/fcd94e9c6f1cd1bbc189f8821f9ea5a1.jpg",
+    "image": "./tmp/images/C_D/7742f7f3fc4c9567cdab897ee38763a1.jpg",
     "question": "Сколько проезжих частей имеет данная дорога?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/d33742963cc5d72f75fc9a9e65e8612e.jpg",
+    "image": "./tmp/images/C_D/740d181ba7252733d09fed9d34352282.jpg",
     "question": "Сколько перекрестков изображено на рисунке?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/07f8422f9127d04cf1bdc5f50eb0d009.jpg",
+    "image": "./tmp/images/C_D/7999c8687ad8c030d4c6b59a59e74fec.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекресток?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/dad09aad1a325d604f823b0bbbb42200.jpg",
+    "image": "./tmp/images/C_D/ffd0dd28c2c892c9cd8e862f3b44ece8.jpg",
     "question": "На каком рисунке изображена дорога с разделительной полосой?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/919811cb2c098e041409bed71fdc5544.jpg",
+    "image": "./tmp/images/C_D/5a8499429f6b0df70f0e4644d4d8967b.jpg",
     "question": "Выезд из двора или c другой прилегающей территории:",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/ef2d2f4ce7d93bdd4914c41e6987198d.jpg",
+    "image": "./tmp/images/C_D/0d00f34df794392edb6b80ab0fd33ab9.jpg",
     "question": "На каком рисунке изображен перекресток?",
     "answers": [
       {
@@ -551,7 +551,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/6ec1d1367ac24ad74e76d6e567bb3ffa.jpg",
+    "image": "./tmp/images/C_D/cfa81f05a1bd6d9bfa632f560a9d9810.jpg",
     "question": "Какой маневр намеревается выполнить водитель маломестного автобуса?",
     "answers": [
       {
@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/38f51350a99dd120762f7f9ed34578a3.jpg",
+    "image": "./tmp/images/C_D/a5ef7d102bccec2bad319bbb83b9689b.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -663,7 +663,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/07f8422f9127d04cf1bdc5f50eb0d009.jpg",
+    "image": "./tmp/images/C_D/7999c8687ad8c030d4c6b59a59e74fec.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекресток?",
     "answers": [
       {
@@ -685,36 +685,5 @@
       "Общие положения"
     ],
     "id": "21e54fddd1ab30f78f4db2b1261e32e6"
-  },
-  {
-    "title": "Вопрос 26",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/C_D/4bc0ac488dd832bece556ef2b85a436b.jpg",
-    "question": "Вам разрешено продолжить движение на маршрутном транспортном средстве:",
-    "answers": [
-      {
-        "answer_text": "Только прямо",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Прямо или налево",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Прямо или в обратном направлении",
-        "is_correct": false
-      },
-      {
-        "answer_text": "В любом направлении",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 4",
-    "answer_tip": "От действия знака 4.1.1 «Движение прямо» отступают маршрутные транспортные средства. Поэтому Вам, водителю такого ТС, на перекрестке разрешается движение в любом направлении в соответствии с установленным маршрутом движения.(«Дорожные знаки»)",
-    "topic": [
-      "Общие положения"
-    ],
-    "id": "d12d3079e706fa43f9d053ae5a99887a"
   }
 ]

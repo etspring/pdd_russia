@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/feb5faa25f4add77ca9e542f6e7ddbab.jpg",
+    "image": "./tmp/images/C_D/0ad6ce14f138a654a0e40b459e7fc4be.jpg",
     "question": "При повороте направо Вы:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/313c67faeadba13f0ff3c61982f9008f.jpg",
+    "image": "./tmp/images/C_D/c6361ce3b963717813b654fa74534a4c.jpg",
     "question": "Как Вы должны поступить в данной ситуации?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/bfad45ee882583607f70886c4df7281b.jpg",
+    "image": "./tmp/images/C_D/5ecbb580206d5d7540ef65b31a3f3ccb.jpg",
     "question": "В данной ситуации водитель автомобиля с включенными проблесковыми маячками:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/7d892a10a0bfb1bc37e144e8aa22d500.jpg",
+    "image": "./tmp/images/C_D/89dace2e50e0a6398338b59d0242545a.jpg",
     "question": "Как следует поступить водителю грузового автомобиля при приближении автомобиля оперативной службы?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/074e6a073f458409c2981fb14381052c.jpg",
+    "image": "./tmp/images/C_D/7c85ecf74736642df9f7e98d6065291f.jpg",
     "question": "При движении в каком направлении Вы должны уступить дорогу автомобилю с включенными проблесковым маячком и специальным звуковым сигналом?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./images/C_D/579d49f17afacae9a569c358e74bf3ba.jpg",
+    "image": "./tmp/images/C_D/0282a5489044c0d82ffc7f1a7f73664b.jpg",
     "question": "В каком случае Вы должны будете уступить дорогу автомобилю ДПС?",
     "answers": [
       {

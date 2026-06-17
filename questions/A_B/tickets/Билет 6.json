@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/c41efe94d0ad813cd4fcd63cff2553a5.jpg",
+    "image": "./tmp/images/A_B/705ea1757e06ef9e81706829873e69b0.jpg",
     "question": "Вам разрешено продолжить движение?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/2d4752b12702549f18b106d303f9d550.jpg",
+    "image": "./tmp/images/A_B/e3d0e7e10e87c5c9f9f090948d0b2d6c.jpg",
     "question": "Какие из указанных знаков разрешают проезд на автомобиле к месту проживания или работы?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/51c764b043333b277cef40fa8d1e62fa.jpg",
+    "image": "./tmp/images/A_B/0cc785f3e18e50aed7d96ed417621d6b.jpg",
     "question": "Что обозначают эти дорожные знаки?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8f56e3b61d4e053f2af24af9878a6f82.jpg",
+    "image": "./tmp/images/A_B/707c25a6636465703859d65a19f17467.jpg",
     "question": "Разметка в виде треугольника на полосе движения:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/815b0c662f4110b4065f47e9f0d5b411.jpg",
+    "image": "./tmp/images/A_B/67402dd5cef94de9ddd14031f918f33b.jpg",
     "question": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы включить указатели левого поворота?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a450a0e7eb0e4235fa9bec6c20dfa1ff.jpg",
+    "image": "./tmp/images/A_B/07ec0b700df76a521a86f2dcacd4a2ac.jpg",
     "question": "Кто должен уступить дорогу при взаимном перестроении?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/9dd03825285f67f4f1fb4962d35c32e3.jpg",
+    "image": "./tmp/images/A_B/9e99baaf53ce7e82404d92b4db81ac8a.jpg",
     "question": "В каких направлениях Вам можно продолжить движение?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/912c11e435dbe941191ac47cac98bb96.jpg",
+    "image": "./tmp/images/A_B/9fdc600503b4f05c05e7df5cf3fcbb1b.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на легковом автомобиле?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/68cadb0bc1911d5e5dc75f3e2ce15694.jpg",
+    "image": "./tmp/images/A_B/2c632a143fabe9f28ca7a0f519a81991.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/45a39cf318af16d3e7d4c3aba37e4323.jpg",
+    "image": "./tmp/images/A_B/5e6dbeeb9b41abad12630205d16cdc49.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/8eaffcf3aa668202d1a61db01ba76ce4.jpg",
+    "image": "./tmp/images/A_B/53da52510fb507e8efa0aee9eaeea5cd.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -350,7 +350,6 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо.Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении.Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5).",
     "topic": [
-      "Начало движения, маневрирование",
       "Сигналы светофора и регулировщика"
     ],
     "id": "122a15b1675d4d194f6692702d285d63"
@@ -359,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5b920a5d15ec9a4b3dbd200f36baee31.jpg",
+    "image": "./tmp/images/A_B/abccdd1a61adca84507de5e69eb62f6d.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -386,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/6d10de1adbad3dfa4e761a78b170d887.jpg",
+    "image": "./tmp/images/A_B/678b198be74cff406a7cf4e21e6f00b4.jpg",
     "question": "В каком случае Вы должны будете уступить дорогу автомобилю ДПС?",
     "answers": [
       {
@@ -498,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 6",
     "ticket_category": "A,B",
-    "image": "./images/A_B/c2975107ea070a3ffd8713df2de2354f.jpg",
+    "image": "./tmp/images/A_B/fa95504c99b22003e1d8d4eeb91371cf.jpg",
     "question": "В случае остановки на подъеме(спуске) при наличии обочины можно предотвратить самопроизвольное скатывание автомобиля на проезжую часть, повернув его передние колеса в положение:",
     "answers": [
       {

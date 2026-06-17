@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/0211b865b53f26534158a13f8886262f.jpg",
+    "image": "./tmp/images/A_B/f5ca6643a552a6d9be297bf3b319f853.jpg",
     "question": "С какой максимальной скоростью можно продолжить движение за знаком?",
     "answers": [
       {
@@ -177,7 +177,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./images/A_B/02a115a72436b6ccb3f33d666fb792f6.jpg",
+    "image": "./tmp/images/A_B/7fc13b6c30b99305790e5ec6c9c9f0ca.jpg",
     "question": "Вы обязаны уступить дорогу грузовому автомобилю:",
     "answers": [
       {

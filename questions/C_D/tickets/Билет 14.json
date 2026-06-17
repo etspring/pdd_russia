@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/6c6214c6b1b4138c0df86e7361e5aeb5.jpg",
+    "image": "./tmp/images/C_D/3fffc0569bc24609206f0cb5c56ed286.jpg",
     "question": "О чем предупреждают Вас эти знаки?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/90332b16c5fd1ded27df87ccbcb3d53d.jpg",
+    "image": "./tmp/images/C_D/6c7f9d54e957a74f7f9c5ea2371aa6e7.jpg",
     "question": "Какие из указанных знаков разрешают движение грузовым автомобилям с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/8513efc9e6ba6b162afe62ffe5e2a6f3.jpg",
+    "image": "./tmp/images/C_D/46349847a83ea069dec62550f5b46696.jpg",
     "question": "Вам можно продолжить движение по крайней левой полосе на автобусе:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/33b91b6d8a28425de50ba6d1a461d6c8.jpg",
+    "image": "./tmp/images/C_D/41c07cf5a72ac8cf1e4aa02d27fe942f.jpg",
     "question": "В каком из указанных мест Вам разрешено пересечь сплошную линию разметки и остановиться?",
     "answers": [
       {
@@ -134,8 +134,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "На данной дороге две смежные проезжие части. Между ними разделительная полоса. С левого края проезжей части нанесена разметка 1.2, которая обозначает край проезжей части.Разделительная полоса не предназначена для движения и остановки транспортных средств. (Место «А»). В месте «Б» - Вам можно останавливаться. Линия разметки 1.2 в данном случае обозначает край проезжей части. В такой ситуации ее допускается пересекать для остановки ТС на обочине и при выезде с нее в местах, где разрешена остановка или стоянка.(Пункт 1.2 термин «Разделительная полоса», «Горизонтальная разметка»)",
     "topic": [
-      "Дорожная разметка",
-      "Остановка и стоянка"
+      "Дорожная разметка"
     ],
     "id": "673468ed8f01b7b41af7344961c11ccb"
   },
@@ -143,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/0ecd66acb57205e7cf50e8c82a2226b7.jpg",
+    "image": "./tmp/images/C_D/1cacf52585aa8f072e8aaffce583646f.jpg",
     "question": "Должны ли Вы остановиться по требованию регулировщика в указанном им месте?",
     "answers": [
       {
@@ -170,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/6f0c1da85e9c4f6f424d2c282730e9b0.jpg",
+    "image": "./tmp/images/C_D/f86eb3db11bd21c638e447b3a07c4132.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, информирует Вас:",
     "answers": [
       {
@@ -197,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/873c887cb121fe48e519adf53a722c9c.jpg",
+    "image": "./tmp/images/C_D/26f6887d2fa75df98001f3fe66f4e146.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -224,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/1359a5bf465257f23a83825541241e05.jpg",
+    "image": "./tmp/images/C_D/0ca34b24f519891874b43f32a859e0db.jpg",
     "question": "Можно ли Вам развернуться в этом месте?",
     "answers": [
       {
@@ -278,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/27852c80799929ffd4c9cf57971a894b.jpg",
+    "image": "./tmp/images/C_D/8edf02a0101d9f1523db21c66c36dc98.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -305,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/7793c6f4b0c03c341ff8311e4d7c3401.jpg",
+    "image": "./tmp/images/C_D/109bddcb80ecc054a04583f2b5a167fb.jpg",
     "question": "Разрешено ли Вам остановиться на мосту в указанном месте?",
     "answers": [
       {
@@ -332,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/c0a0f6b9038331e04ba2836d9cc64eb7.jpg",
+    "image": "./tmp/images/C_D/f86cb115f7b029d1836b2d774f05fd43.jpg",
     "question": "При включении зеленого сигнала светофора Вы должны уступить дорогу:",
     "answers": [
       {
@@ -359,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/b754576af24772bc29d3f544688a8fed.jpg",
+    "image": "./tmp/images/C_D/0c421fa52b2be0f69b412177c28cfbfb.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -386,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/4694d3150a88e3151bd720f60e1ed72a.jpg",
+    "image": "./tmp/images/C_D/1fb7cba01392e80e45fce7898411d59b.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -413,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./images/C_D/264268ea01cdb97ffeba18b36ca41728.jpg",
+    "image": "./tmp/images/C_D/88b0099a2a8cd8df80ab23cedf8cb570.jpg",
     "question": "Кто из водителей нарушает правила разворота на автомагистрали?",
     "answers": [
       {
@@ -463,7 +462,6 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Ни при каких обстоятельствах перевозка людей в прицепе не допускается.(Пункт 22.8 ПДД)",
     "topic": [
-      "Буксировка механических транспортных средств",
       "Перевозка людей и грузов"
     ],
     "id": "15742b350f791d40077cf97e3da1a5a9"

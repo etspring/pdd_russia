@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/6ec1d1367ac24ad74e76d6e567bb3ffa.jpg",
+    "image": "./tmp/images/C_D/cfa81f05a1bd6d9bfa632f560a9d9810.jpg",
     "question": "Какой маневр намеревается выполнить водитель маломестного автобуса?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/880a2f036cc4cd8f50c2a339b9bb87a3.jpg",
+    "image": "./tmp/images/C_D/d174613aa91f518de3c9a96d3d8947f4.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/f756c25e31e493b1698f716767636468.jpg",
+    "image": "./tmp/images/C_D/a5d5936b2e603d19c4bb3ae2a746f0ca.jpg",
     "question": "Действие данных знаков распространяется:",
     "answers": [
       {
@@ -76,8 +76,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Табличка 8.4.1 «Вид транспортного средства» распространяет действие знака на грузовые автомобили, в том числе с прицепом, с разрешённой максимальной массой более 3,5 т.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки",
-      "Скорость движения"
+      "Дорожные знаки"
     ],
     "id": "9887b3df5538f7331315d931603a240e"
   },
@@ -85,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/76237c12ff4775c335a34505b2da7b56.jpg",
+    "image": "./tmp/images/C_D/e664f786683a87f6c5842ca59a1d5c1d.jpg",
     "question": "Какой из знаков указывает протяженность зоны для разворота?",
     "answers": [
       {
@@ -112,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/1f265116dcd243f3fa81384f4ffaf435.jpg",
+    "image": "./tmp/images/C_D/e2829dbfc9caf5e0b54eb1a12d489c7d.jpg",
     "question": "Данная разметка обозначает:",
     "answers": [
       {
@@ -193,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/fa67eb2569c3ac60b3ba71bbc76146fa.jpg",
+    "image": "./tmp/images/C_D/d4e1c3529985b0e012dea282ed642f9a.jpg",
     "question": "Разрешается ли Вам выполнить поворот направо по указанной траектории в данной ситуации?",
     "answers": [
       {
@@ -216,7 +215,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/9bb2d0ceaf8450790ecc280c27819b3e.jpg",
+    "image": "./tmp/images/C_D/f336490a3a506ffb6ad257f4363cd03a.jpg",
     "question": "Можно ли Вам выполнить разворот?",
     "answers": [
       {
@@ -278,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/116f4835b913dfa0a3a85b7ec71125b3.jpg",
+    "image": "./tmp/images/C_D/cdebebc9545378cceff7b2d7a35b079f.jpg",
     "question": "Разрешается ли Вам обогнать грузовой автомобиль в конце подъема?",
     "answers": [
       {
@@ -305,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/7b050b8c7199655066d7c0459088d2f5.jpg",
+    "image": "./tmp/images/C_D/65ba71d35003ac2bd315a44b2dd593e5.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте при наличии узкой обочины?",
     "answers": [
       {
@@ -332,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/2e2c9e83aab422557b144347fea2aab2.jpg",
+    "image": "./tmp/images/C_D/bcabe4df95ac407e7b41fd28d7c76e73.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -355,7 +354,6 @@
     "correct_answer": "Правильный ответ: 4",
     "answer_tip": "Для поворота направо Вы должны пересечь трамвайные пути. Оба трамвая так же, как и Вы, имеют право на движение, они двигаются «по рукам регулировщика». Вы им уступаете, так как при одновременном праве на движение трамвай имеет преимущество перед безрельсовыми транспортными средствами.(Пункты 6.10, 13.6 ПДД)",
     "topic": [
-      "Проезд перекрестков",
       "Сигналы светофора и регулировщика"
     ],
     "id": "db69c9046428c97a3a7750a59524771b"
@@ -364,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/19fdf17128bd8759bfa2dfbb7c56cd73.jpg",
+    "image": "./tmp/images/C_D/0ff9554e56b456c1b208caec2b526f17.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -391,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/919d5e93fdd0a1ab7ce1ad551a0b464a.jpg",
+    "image": "./tmp/images/C_D/02450fa779ad6af1705c16131fc4b123.jpg",
     "question": "Вы обязаны уступить дорогу при движении прямо:",
     "answers": [
       {
@@ -410,7 +408,6 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Перекрёсток неравнозначный. Главная дорога меняет направление. Преимущество имеют транспортные средства, находящиеся на главной дороге, которые между собой руководствуются «правилом правой руки». Вы находитесь на второстепенной дороге, уступаете дорогу обоим транспортным средствам.(«Дорожные знаки» 2.4, 8.13; пункты 13.9, 13.10, 13.11 ПДД)",
     "topic": [
-      "Дорожные знаки",
       "Проезд перекрестков"
     ],
     "id": "31944f0af0f56b7e2e18a5224f459ef4"
@@ -419,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./images/C_D/843fcb6d7282850073177a618bf7986c.jpg",
+    "image": "./tmp/images/C_D/802364f24612fe8fa77d0d3d03c8643e.jpg",
     "question": "Кто из водителей нарушает Правила?",
     "answers": [
       {

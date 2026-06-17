@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/74b185800c36d3b6228f4bc0dfbad844.jpg",
+    "image": "./tmp/images/A_B/d71a18fedca81d266e1296bc8d0f5095.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекрёсток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/5c9712e0ce29dcfa5a66f316de8382b0.jpg",
+    "image": "./tmp/images/A_B/2a04745663ab451e03b3f64ead45f503.jpg",
     "question": "Данный дорожный знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/08ce3d58f673e7f662a6d9c06de7a9c9.jpg",
+    "image": "./tmp/images/A_B/b3d1825d05722bca8153950cf0cbb09b.jpg",
     "question": "Эти знаки обязывают соблюдать дистанцию:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/14d625173f147d87b21123ff143ab856.jpg",
+    "image": "./tmp/images/A_B/59cc4e25a40e9cb0b008b2155de31e15.jpg",
     "question": "В каких направлениях Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/f0786637b0a0eded6f0b89858be4f026.jpg",
+    "image": "./tmp/images/A_B/06c51f39b0bcc111695f708480e26181.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/1b1b13b54e45b710fdf0dfb250ff892c.jpg",
+    "image": "./tmp/images/A_B/c96ce24eb93b8bba98b54c0a2ae02784.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/400b6e6e38f6ca4e3c818f7dffe4074b.jpg",
+    "image": "./tmp/images/A_B/5582e30fc1c4b4e19e88e8a4d050e950.jpg",
     "question": "По какой траектории Вам разрешено продолжить движение?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b897850c898749bf9318888c7a2f84f8.jpg",
+    "image": "./tmp/images/A_B/ee36f8d480f28468d973a743415fb234.jpg",
     "question": "На этом участке дороги Вам запрещается:",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/bc2d9bc1134da560e69026519debee4f.jpg",
+    "image": "./tmp/images/A_B/efe5336ecc830f437e17cae8d217714c.jpg",
     "question": "Разрешается ли Вам выехать на трамвайные пути встречного направления в данной ситуации?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/e652931cb78ed7925703d4d13b813e1d.jpg",
+    "image": "./tmp/images/A_B/0664e0bd8304a5c92934542283587ea7.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/011c87847a6e97caf914b64e369dcc10.jpg",
+    "image": "./tmp/images/A_B/82b5f44b2e91297a798580d477c53275.jpg",
     "question": "На каком расстоянии от знака Вам разрешено поставить автомобиль на стоянку?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/b31567d201933f7a654ffa51951f3c60.jpg",
+    "image": "./tmp/images/A_B/b4770066cde1a575b0f0e6c8d2467b40.jpg",
     "question": "Как следует поступить в этой ситуации, если Вам необходимо повернуть направо?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/55c56f2a24223c48a426dbe65d07e5dc.jpg",
+    "image": "./tmp/images/A_B/c18f1618492b65e8153db958f03b383c.jpg",
     "question": "Вы намерены проехать перекрёсток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -381,7 +381,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/a8966c5a12e4f0d1b72cbfefc7864d74.jpg",
+    "image": "./tmp/images/A_B/293cdf0b7c4dda6d38a0a354411be5a5.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -404,7 +404,6 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Перекрёсток неравнозначный. Главная дорога меняет направление. Транспортные средства, находящиеся на главной дороге, имеют преимущество, между собой руководствуются «правилом правой руки». У Вас помеха справа – уступаете автобусу.(Пункты 13.9, 13.10, 13.11 ПДД)",
     "topic": [
-      "Дорожные знаки",
       "Проезд перекрестков"
     ],
     "id": "1d5e655583f8405445497ef4e373949e"
@@ -413,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./images/A_B/94066ff9d7afccd4349557d092cad23e.jpg",
+    "image": "./tmp/images/A_B/bdfac7b05e63274427dcaa208f44f9eb.jpg",
     "question": "Кто из водителей правильно остановился для высадки пассажиров?",
     "answers": [
       {
