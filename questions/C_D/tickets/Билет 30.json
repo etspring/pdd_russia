@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0d00f34df794392edb6b80ab0fd33ab9.jpg",
+    "image": "./images/C_D/2e0d2021854cf15893d8d8d1b46bb657.jpg",
     "question": "На каком рисунке изображен перекресток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86078836df13f0cab223328463aba00e.jpg",
+    "image": "./images/C_D/b7451bedff503a5f7d2e9d0602f77c58.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -58,7 +58,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f74ac4dd69eaf0c4a5b5ef40d78d64c8.jpg",
+    "image": "./images/C_D/c2706b8f4fc5575f2f4c6bdaabab1683.jpg",
     "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по нечетным числам месяца?",
     "answers": [
       {
@@ -85,7 +85,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4f897694a120ecfcd67ff46b5cb96af7.jpg",
+    "image": "./images/C_D/7fb5daf36fcaa16a49ac25573afa2393.jpg",
     "question": "Какие из указанных знаков обозначают участки, на которых водитель обязан уступать дорогу пешеходам, находящимся на проезжей части?",
     "answers": [
       {
@@ -112,7 +112,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/49fc0c31a0bc5c83847c8221d1f003fb.jpg",
+    "image": "./images/C_D/165e1d1e65a1f2e236458c24172b9f12.jpg",
     "question": "Что обозначает разметка А 100, нанесенная на проезжую часть дороги?",
     "answers": [
       {
@@ -139,7 +139,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/044dbb945899b2f37b1bd42d50a93b25.jpg",
+    "image": "./images/C_D/69911a1d7474ab0ae5ed26d3bb1848a6.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -193,7 +193,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed121bc1f4a6216ba2da612d23ae4a9d.jpg",
+    "image": "./images/C_D/6447713d1fff982569c21d6a678f1a03.jpg",
     "question": "Вы намерены начать движение от тротуара. Должны ли Вы уступить дорогу мотоциклу, выполняющему разворот?",
     "answers": [
       {
@@ -220,7 +220,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1f42f8c92a60c26e71f0c0714b6ad924.jpg",
+    "image": "./images/C_D/bb262ce567e426d3aaf628916ec39208.jpg",
     "question": "Разрешено ли водителю маломестного автобуса движение задним ходом для посадки пассажира в тоннеле?",
     "answers": [
       {
@@ -247,7 +247,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/269fcbde0aad41e24033cef3dca523fc.jpg",
+    "image": "./images/C_D/554c99bbd97db977cff33a7a05ccd717.jpg",
     "question": "Разрешается ли Вам двигаться на грузовом автомобиле по этой полосе?",
     "answers": [
       {
@@ -301,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2b970a427358956c8dd99af2bd59b70f.jpg",
+    "image": "./images/C_D/b49a07cf2950a11d1f587e1c44bdb6b7.jpg",
     "question": "Водитель грузового автомобиля нарушил правила остановки:",
     "answers": [
       {
@@ -328,7 +328,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6933bb6cdf1c55ddb1403eed3bc25b35.jpg",
+    "image": "./images/C_D/2749368f1370fa634e5613551b69c305.jpg",
     "question": "В каком случае Вы обязаны уступить дорогу грузовому автомобилю?",
     "answers": [
       {
@@ -355,7 +355,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f7c8287fd6b8db67290151edfc94e885.jpg",
+    "image": "./images/C_D/b1f8dd7179ed5a76010b6736d5f49116.jpg",
     "question": "Вы намерены продолжить движение прямо при желтом мигающем сигнале светофора. Ваши действия?",
     "answers": [
       {
@@ -382,7 +382,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 30",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0f1f87b794eeebd69100f07bc9c6bf4e.jpg",
+    "image": "./images/C_D/744a7ffa6772fde2c305a0ebec83411c.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {

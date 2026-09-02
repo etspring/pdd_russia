@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fa4002eff9852f90abc70ce9fb51ee57.jpg",
+    "image": "./images/A_B/1836bc6d861ff73eadb457e58b3bb199.jpg",
     "question": "На каком рисунке изображён автомобиль, водитель которого не нарушает правил перевозки грузов?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/dfaf7f6d3b2ec79469379798121e5e20.jpg",
+    "image": "./images/A_B/e7c5f3a7d0ab3c66cf89303195e0a90e.jpg",
     "question": "На каком рисунке изображён автомобиль, водитель которого нарушает правила перевозки грузов?",
     "answers": [
       {

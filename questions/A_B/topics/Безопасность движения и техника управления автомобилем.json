@@ -4,33 +4,6 @@
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
-    "question": "Что должно иметь решающее значение при выборе водителем скорости движения в тёмное время суток?",
-    "answers": [
-      {
-        "answer_text": "Предельные ограничения скорости, установленные Правилами",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Максимальная конструктивная скорость, установленная технической характеристикой используемого транспортного средства",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Условия видимости",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Очень важным моментом при движении в ночное время является выбор скорости движения. При этом следует учитывать главное условие – расстояние видимости водителем дороги должно превышать величину остановочного пути.(«Техника управления автомобилем». Езда ночью)",
-    "topic": [
-      "Безопасность движения и техника управления автомобилем"
-    ],
-    "id": "bbff6b07958968588de3f04b33a8573a"
-  },
-  {
-    "title": "Вопрос 2",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
     "question": "В случае, когда правые колёса автомобиля наезжают на неукреплённую влажную обочину, рекомендуется:",
     "answers": [
       {
@@ -54,7 +27,7 @@
     "id": "e9f447c2c017515177c3654a447cc12f"
   },
   {
-    "title": "Вопрос 3",
+    "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -81,7 +54,7 @@
     "id": "bf71aa93589aba17af3a541f758980b2"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -112,7 +85,7 @@
     "id": "7dfc1d82db1362b0f6fcb67c9c1caf55"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -139,7 +112,7 @@
     "id": "eccbae78adadb9a45e19292abefc501f"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -166,10 +139,10 @@
     "id": "3363151e1f25d7698a72ee5ab190f1d8"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fa95504c99b22003e1d8d4eeb91371cf.jpg",
+    "image": "./images/A_B/8ae9917170cf20076e25cee59b3480f3.jpg",
     "question": "В случае остановки на подъеме(спуске) при наличии обочины можно предотвратить самопроизвольное скатывание автомобиля на проезжую часть, повернув его передние колеса в положение:",
     "answers": [
       {
@@ -197,7 +170,7 @@
     "id": "3c0e879b932d3546d1616091fd318aee"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -224,7 +197,7 @@
     "id": "816f15bad5e7b34d3af386e568b88ebb"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -255,10 +228,10 @@
     "id": "974b4b2de934d3dd899bf3a765fd2071"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7f58ff99768859f04d709b433bf54b2c.jpg",
+    "image": "./images/A_B/47b02aa5f0cb93993c4a861de8d38488.jpg",
     "question": "Способ разворота с использованием прилегающей территории слева, обеспечивающий безопасность движения, показан:",
     "answers": [
       {
@@ -282,10 +255,10 @@
     "id": "edc92ea41cf45fed074c3f7e0a4bb05c"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b0f9cd909eda01f378df4fe47e313f83.jpg",
+    "image": "./images/A_B/49c31036d1e626f5652dd1227e4ba585.jpg",
     "question": "В случае остановки на подъеме (спуске) при наличии тротуара можно предотвратить самопроизвольное скатывание автомобиля, повернув его передние колеса в положение:",
     "answers": [
       {
@@ -313,10 +286,10 @@
     "id": "22c5a58dcd71e105cff3976b223c3f2e"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f1ae00af856347d7c91178969d1fc0f2.jpg",
+    "image": "./images/A_B/a5921b53da7c236a2e1cfe3e8f99ba9a.jpg",
     "question": "Способ разворота с использованием прилегающей территории справа, обеспечивающий безопасность движения, показан:",
     "answers": [
       {
@@ -340,7 +313,7 @@
     "id": "6ee380e47bee3d5f38528cf87ca8f9f8"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -367,7 +340,7 @@
     "id": "42aab7498b42e8a510b9a68b7b8bb9b1"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -394,7 +367,7 @@
     "id": "c8606085eeafe66637244e52c8bf47e3"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -421,10 +394,10 @@
     "id": "3952975be53a41080f30b2a9ba0ebf96"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c4067f2016c450c518cb70445c2f00b0.jpg",
+    "image": "./images/A_B/b064eae2b99b3fd0c4cef706f7743277.jpg",
     "question": "При повороте направо обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {
@@ -448,7 +421,7 @@
     "id": "9d295c89848340457a68a871da59cafc"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -475,7 +448,7 @@
     "id": "2dc86caab9376fc36694f339ff959935"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -502,7 +475,7 @@
     "id": "b106f219e0a3da187bdf4f9c18bc8abd"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -529,7 +502,7 @@
     "id": "1656362f178c7e8643bfdccec968cd27"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -556,10 +529,10 @@
     "id": "fadddd0bb3e52ae22fe26516a9793d85"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4679dd0586b45a443a3a8d7d24faf583.jpg",
+    "image": "./images/A_B/a0cc2f63dbfdaba1dcbcdc35b38f2884.jpg",
     "question": "В месте выезда из лесистого участка, где установлен знак «Боковой ветер» Вам следует?",
     "answers": [
       {
@@ -583,7 +556,7 @@
     "id": "d1da8cceb97eece49feaf2998f8235fa"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -610,7 +583,7 @@
     "id": "313b35a9339b10c665f7569ed610b9e3"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -637,7 +610,7 @@
     "id": "9962394ed588b26beb9b4db1daeb02d6"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -664,7 +637,7 @@
     "id": "249591c9328ceabc21144eff04eaade5"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -691,7 +664,7 @@
     "id": "a9abe4631ca18a998d99fcb341100dd3"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -718,7 +691,7 @@
     "id": "6a6d764b8978e8b0d2108868c597fc4f"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -745,7 +718,7 @@
     "id": "7640da82ece531b89a264edf2af1c4b7"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -776,7 +749,7 @@
     "id": "7148dea7a2f786c2d3cd01452ad3a92f"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -803,7 +776,7 @@
     "id": "579b49ea17cefa8e43f32d1be917ae8f"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -830,7 +803,7 @@
     "id": "95796450d2254b5dadb138b864f41d4d"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -857,10 +830,10 @@
     "id": "4a9b6cd3fe2e2b891b82435041d6056e"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/a234558e9a77b59862c0dbf9f1bc710a.jpg",
+    "image": "./images/A_B/857524d703181eba31a9e0b667a62be0.jpg",
     "question": "При повороте налево обеспечение безопасности движения достигается путем выполнения поворота по траектории, которая показана:",
     "answers": [
       {
@@ -884,7 +857,7 @@
     "id": "a58afb66c3e2dd7c9958b8cba0d14eec"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -911,10 +884,10 @@
     "id": "5ae646e33214c44a431197eabd0a629d"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/00d241fcd8c271950321a415cd900b8f.jpg",
+    "image": "./images/A_B/88fd80e2855cc6f506e689cf14463385.jpg",
     "question": "При движении по двухполосной дороге за грузовым автомобилем у Вас появилась возможность совершить обгон. Ваши действия?",
     "answers": [
       {
@@ -938,7 +911,7 @@
     "id": "2c89f94cd878850827e8c0511a4938cb"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -965,7 +938,7 @@
     "id": "3c8d7daa6df847843bfdbbb3d0e7b484"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -992,7 +965,7 @@
     "id": "a6726b6609bbfaa15373792767b3b0df"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1019,7 +992,7 @@
     "id": "55652f4f32e9b025c8d044638de3a803"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1046,7 +1019,7 @@
     "id": "3f0196f281b456988a057a38b8c06988"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1073,7 +1046,7 @@
     "id": "ac70a1e665460f4f341127d541b97c89"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1100,7 +1073,7 @@
     "id": "16c70e320af6a0c36d6402f0c17f2528"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1127,10 +1100,10 @@
     "id": "2ca7a8b0ecb5bf4207bcf6e9d307d3c6"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/72ee06a52ab1feea1aa854a87f8ad8b6.jpg",
+    "image": "./images/A_B/6eaba39aaeeba9b4324aa241027addac.jpg",
     "question": "При движении в условиях тумана расстояние до предметов представляется:",
     "answers": [
       {
@@ -1154,7 +1127,7 @@
     "id": "b73628a49139f30754367dd503c9c6c5"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1181,7 +1154,7 @@
     "id": "ebf6778724b14b2fb53787fe04a1323e"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1208,7 +1181,7 @@
     "id": "4ee475919d4e46ac553ba6b031c03359"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1235,7 +1208,7 @@
     "id": "0f723efbbe7483a75cff412c7acc68e5"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1262,7 +1235,7 @@
     "id": "57f6870bcf31eb1f6270b0787ff86114"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1289,7 +1262,7 @@
     "id": "8a8bfb3db54b34018794ac2c7639e5aa"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1316,7 +1289,7 @@
     "id": "4a3ff98c6f1b7a4e4e7c5f3057a476fb"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1343,7 +1316,7 @@
     "id": "b2e2eb60f400f1196263e1e2895d7714"
   },
   {
-    "title": "Вопрос 50",
+    "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1370,7 +1343,7 @@
     "id": "231bdd8797092d819b0cdf318e2bda42"
   },
   {
-    "title": "Вопрос 51",
+    "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1397,10 +1370,10 @@
     "id": "4ccb8ce62e426d6ee62eb435bf9cdf91"
   },
   {
-    "title": "Вопрос 52",
+    "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/55f854613948e4f6f171a598130b1dfe.jpg",
+    "image": "./images/A_B/cd36f4f2af7c0829f1de2eaf6b52c0a5.jpg",
     "question": "На каком рисунке показано правильное положение рук на рулевом колесе?",
     "answers": [
       {
@@ -1424,7 +1397,7 @@
     "id": "d991aefa57aec6ae1c50d8f7156306d6"
   },
   {
-    "title": "Вопрос 53",
+    "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1455,7 +1428,7 @@
     "id": "6e003db10d17210597b2aede8d0c75d0"
   },
   {
-    "title": "Вопрос 54",
+    "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1482,7 +1455,7 @@
     "id": "3bbbfdcc96348d10e76a06fe2d4a0b34"
   },
   {
-    "title": "Вопрос 55",
+    "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1509,7 +1482,7 @@
     "id": "55c5757aa8500b43fd35c75d5c07984d"
   },
   {
-    "title": "Вопрос 56",
+    "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1536,7 +1509,7 @@
     "id": "4d9c041c3c917f6a9192ce0c070fcb3c"
   },
   {
-    "title": "Вопрос 57",
+    "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1563,7 +1536,7 @@
     "id": "6910486e2e4c30c7d91b0e539794e7b6"
   },
   {
-    "title": "Вопрос 58",
+    "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -1590,7 +1563,7 @@
     "id": "e8f0a723d9a3108c273722a1dbb4e30d"
   },
   {
-    "title": "Вопрос 59",
+    "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",

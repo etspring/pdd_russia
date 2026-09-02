@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/daca31e7d650c64c5c9a692ba4c9f35b.jpg",
+    "image": "./images/A_B/e9f6e5f98c107b3ed637df1adf7cd45b.jpg",
     "question": "Какие из указанных знаков предоставляют право преимущественного проезда нерегулируемых перекрестков?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f1dee8377b36e002f1430d493667e317.jpg",
+    "image": "./images/A_B/91594fed324d4d09c35ef97a7082804c.jpg",
     "question": "Разрешено ли Вам выполнить обгон?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ecba808ab2a7bb4fabcf47bae3101bf5.jpg",
+    "image": "./images/A_B/cef6162c50954866c186174de4bfc23a.jpg",
     "question": "Можно ли водителю поставить грузовой автомобиль на стоянку в этом месте указанным способом?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4d989e03727e81102bd2fe3c46846791.jpg",
+    "image": "./images/A_B/67f1e2c8be367342f8bd7244a6b4ffc2.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/222a00fb21ed44ee5e24afdd5a11c279.jpg",
+    "image": "./images/A_B/637177ad30b40e595fdf03dbec9c5746.jpg",
     "question": "В каком месте Вы должны остановиться?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2b190e18ab82f0d00b3818e99e5455a4.jpg",
+    "image": "./images/A_B/276140bf9eac66a81a59431ed657f82c.jpg",
     "question": "Кто из водителей нарушает правила поворота на перекрёстке?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/af49eb514420907e99da93d881127fed.jpg",
+    "image": "./images/A_B/c8eca9bae5d72aba5b721691aaec8db2.jpg",
     "question": "Разрешено ли водителю движение задним ходом при отсутствии других участников движения?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1ebfab4546de55a042eb8223c79444f4.jpg",
+    "image": "./images/A_B/89d5e2a6c3f63c1cca698f88cc444e66.jpg",
     "question": "Можно ли Вам выехать на крайнюю левую полосу в данной ситуации?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e7c7b6ee2c57d3152ef0224e5f71ae9e.jpg",
+    "image": "./images/A_B/7d05bad54781ac4515cccb5d7bd30fdc.jpg",
     "question": "Разрешается ли Вам выполнить обгон?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6ea7ccc14b1b4a5b6899743c84e35945.jpg",
+    "image": "./images/A_B/193a512a378c227e3e76b4df6d65fb04.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b48264def0e6cf92c90fb630ce171ec1.jpg",
+    "image": "./images/A_B/15ae98164a7d97a2b18008c577f85e5c.jpg",
     "question": "При выполнении какого маневра водитель легкового автомобиля имеет преимущество в движении?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6adb300933d6c34fcb64da883ddf87fa.jpg",
+    "image": "./images/A_B/f702b9b337103d828e139bf657eb41c9.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f4094947622fc0baaa9efa9939b883f8.jpg",
+    "image": "./images/A_B/a84a02372aae261efb3ff35a2420ef56.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 29",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2a819c2bba2b9e23a80c581150c4c8b1.jpg",
+    "image": "./images/A_B/923a316ab723710a1c2bbb488303d650.jpg",
     "question": "Можно ли Вам, управляя грузовым автомобилем, осуществить опережение в данной ситуации?",
     "answers": [
       {
@@ -435,7 +435,8 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "На любых дорогах, имеющих для движения в данном направлении три полосы и более, занимать крайнюю левую полосу разрешается только при интенсивном движении, когда заняты другие полосы, а также для поворота налево или разворота, а грузовым автомобилям с р.м.м. более 2,5 т - только для поворота налево или разворота.Осуществить опережение можно, если р.м.м. грузового автомобиля не более 2,5 т.(Пункт 9.4 ПДД)",
     "topic": [
-      "Движение по автомагистралям"
+      "Движение по автомагистралям",
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "10cb8c080b8864b0f54fe9a476a9b5d9"
   },

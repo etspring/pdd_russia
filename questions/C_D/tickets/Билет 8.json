@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1a7dbcb7b6dac73175a0351a6447eaaf.jpg",
+    "image": "./images/C_D/0d8c198404ac7150a17bed58b6966639.jpg",
     "question": "В чем особенность скоростного режима на этом участке дороги?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e99f35568ef66cc25761b5d0f4f62000.jpg",
+    "image": "./images/C_D/39ecd2a7f554a15597338d2cf5211020.jpg",
     "question": "Какие из указанных знаков запрещают поворот налево?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b033071f9d291c40b966b0c9104cf0a2.jpg",
+    "image": "./images/C_D/c4dac553e048d7f1aabdd6276af27592.jpg",
     "question": "Можно ли Вам повернуть направо на этом перекрестке?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ae2252d8032bea954f63fab1b847f41c.jpg",
+    "image": "./images/C_D/d45b9eb6db30ccd5ffe157d4c8cab995.jpg",
     "question": "Разрешается ли Вам перестроиться?",
     "answers": [
       {
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cd2f65263931ff69a787ba32370afcd5.jpg",
+    "image": "./images/C_D/df1170f72cba60a7a8ed3ca60dd642ca.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a22726571bf4bbf8c849341905ccb1b3.jpg",
+    "image": "./images/C_D/132ad597616c77730e691ac9df8c00f6.jpg",
     "question": "Водитель автобуса должен выключить указатели левого поворота:",
     "answers": [
       {
@@ -197,7 +197,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/20d068565c7fd5a3bf80c49925a8653a.jpg",
+    "image": "./images/C_D/4f5e78d8977ecb8ecf3008ea1d799aa6.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -255,7 +255,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/960a1a113760e7de01f74035a6076421.jpg",
+    "image": "./images/C_D/8704475f0c00e7ade52df7b237841296.jpg",
     "question": "Вне населенных пунктов Вам можно продолжить движение:",
     "answers": [
       {
@@ -282,7 +282,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/25a1130fbd7d2a7b3a45cff707cd0ea8.jpg",
+    "image": "./images/C_D/c521e6ab522b19e89bbe1a953302a789.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -301,7 +301,8 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Вне населённого пункта именно в такой ситуации при наличии двух полос в данном направлении разрешается оставаться на левой полосе, чтобы не осуществлять лишние маневры во время опережения. При этом Вы не должны создавать помехи транспортным средствам, движущимся за Вами с более высокой скоростью.(Пункт 9.4 ПДД).",
     "topic": [
-      "Обгон, опережение, встречный разъезд"
+      "Обгон, опережение, встречный разъезд",
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "d81b730e232ceee0cde358cc15fc3b72"
   },
@@ -309,7 +310,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b1532de63a11df66888161daaa59f383.jpg",
+    "image": "./images/C_D/24816343bc46465398eb78a4a4fb7fab.jpg",
     "question": "Кто из водителей правильно поставил автомобиль на стоянку?",
     "answers": [
       {
@@ -336,7 +337,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cf9904b4bd5a89bdd12756049f640d9a.jpg",
+    "image": "./images/C_D/56c3eb4d17233b7fa5e72997c33ab2fd.jpg",
     "question": "Кто из водителей, выполняющих поворот, нарушит Правила?",
     "answers": [
       {
@@ -367,7 +368,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3ef646b939ac10a3921b8b2c60ae548a.jpg",
+    "image": "./images/C_D/fec97e4c27255a0094fdca51f0b048b5.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -394,7 +395,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 8",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/725480a88995ce5886a901b5d912e90f.jpg",
+    "image": "./images/C_D/cb9df27b985a7ac79dc5fd5384969487.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {

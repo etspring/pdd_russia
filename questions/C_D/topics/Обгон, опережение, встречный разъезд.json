@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/33c8878ad4c9af7c8e011b32ff3add40.jpg",
+    "image": "./images/C_D/07f6de9548f6aaa36f87d6e4b7e6d448.jpg",
     "question": "Можно ли водителю автобуса выполнить опережение грузовых автомобилей вне населенного пункта по такой траектории?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/00c2ad2f7c749518097769b65ab2de24.jpg",
+    "image": "./images/C_D/f8c0e675edd7b42b9b30657e6b7c3f8f.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/57576e67a841dcb7a839ca06fd544e45.jpg",
+    "image": "./images/C_D/d098d67c848b450b49f9e6e76d90d3f0.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/619d053486b7a0f1d266c3622747868c.jpg",
+    "image": "./images/C_D/64774ed5aae8807795aa9c11c1ae8fff.jpg",
     "question": "Разрешен ли Вам обгон?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5594072abd6fc6705c68759cda4aeb83.jpg",
+    "image": "./images/C_D/23492ea8827dc67aa631a58bbe1993c1.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6aba76bcd81cc25247538483464f36c3.jpg",
+    "image": "./images/C_D/0f95d10974b7bc276ce92153fc582d79.jpg",
     "question": "Разрешается ли Вам в конце подъема перестроиться на среднюю полосу для опережения грузового автомобиля?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/25a1130fbd7d2a7b3a45cff707cd0ea8.jpg",
+    "image": "./images/C_D/c521e6ab522b19e89bbe1a953302a789.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/172a00eff5461ccb684d5ccd0cbb5b88.jpg",
+    "image": "./images/C_D/70bb67ce8c8e32693112c1a1337d08dd.jpg",
     "question": "Можно ли Вам после опережения грузового автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6b2609779b58e84936c4e5de79c7b2e0.jpg",
+    "image": "./images/C_D/d5f40701a1f61ab61bda049cb7cc8e67.jpg",
     "question": "Можно ли Вам обогнать трактор?",
     "answers": [
       {
@@ -300,7 +300,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f4fde793ad07512d1d74d08eea8cfeff.jpg",
+    "image": "./images/C_D/1a44095a73c9dd9394cb966074c641f6.jpg",
     "question": "Разрешено ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -327,7 +327,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7161279c35bbda3603359fbbd53bebc0.jpg",
+    "image": "./images/C_D/76db15c803d020600344d62bf17a853f.jpg",
     "question": "Сколько транспортных средств Вам можно обогнать одновременно после проезда пешеходного перехода?",
     "answers": [
       {
@@ -354,7 +354,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8edf02a0101d9f1523db21c66c36dc98.jpg",
+    "image": "./images/C_D/3e8c6516cc1383f6f8b57dcf851d6c41.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9da3465506733d7b08f3b0f4a44667d5.jpg",
+    "image": "./images/C_D/3f95971b353e842fba0f92a042e730ac.jpg",
     "question": "Разрешается ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -439,7 +439,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/649b6d2f89e6b6f60bc6af6cf9c6a8d4.jpg",
+    "image": "./images/C_D/bb0dc2bc3fdf11aaaed257281c6248e9.jpg",
     "question": "Можно ли Вам начать обгон в населенном пункте?",
     "answers": [
       {
@@ -466,7 +466,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d612a5393f80bea01f7338ace495aa2f.jpg",
+    "image": "./images/C_D/58edbef80b84a35974d3622beb42fe1e.jpg",
     "question": "Можно ли водителю грузового автомобиля Б начать обгон?",
     "answers": [
       {
@@ -493,7 +493,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5ac0def922dac33b13c6de80d781a838.jpg",
+    "image": "./images/C_D/f379c28ebb0fdbd309051b449993115e.jpg",
     "question": "По какой полосе Вам можно продолжить движение в населенном пункте после опережения грузового автомобиля?",
     "answers": [
       {
@@ -520,7 +520,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a4395ab1ba213309a4fb71c1e7bb475a.jpg",
+    "image": "./images/C_D/6d5ec22080306f27c34e542a1a0846e2.jpg",
     "question": "Можно ли Вам начать обгон грузового автомобиля в данной ситуации?",
     "answers": [
       {
@@ -547,7 +547,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0979dad230f33599c8aa708f8c54c184.jpg",
+    "image": "./images/C_D/553734d4089e6614ccde6f45504df3be.jpg",
     "question": "Вы можете начать обгон:",
     "answers": [
       {
@@ -601,7 +601,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5539a90ba68122a144b1c36bb189bf6.jpg",
+    "image": "./images/C_D/b631218875c943afa2b79b766b4377c8.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -628,7 +628,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/243806759a4e5ed6fc0ff6898cecddee.jpg",
+    "image": "./images/C_D/f5b3405ac601922fd487265dafa62bfe.jpg",
     "question": "Разрешено ли Вам выполнить обгон?",
     "answers": [
       {
@@ -655,7 +655,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/590aed1fb6b29802905bf4a14fe791e9.jpg",
+    "image": "./images/C_D/895dc7da322ad5f6bc9161427d061169.jpg",
     "question": "Можно ли Вам выполнить обгон?",
     "answers": [
       {
@@ -740,7 +740,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a32b4bbd748872203fef9d06d75930e4.jpg",
+    "image": "./images/C_D/f4edebcdc589c0b12d26bb21c98a6817.jpg",
     "question": "Можно ли Вам обогнать трактор, управляя грузовым автомобилем с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -767,7 +767,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8d268fd190a6a3caf2fa6673d0143e88.jpg",
+    "image": "./images/C_D/fadc95737fd64cd5d9a715e9772041c9.jpg",
     "question": "Разрешается ли Вам выполнить обгон?",
     "answers": [
       {
@@ -821,7 +821,7 @@
     "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1d04a26e264b3303690b00f840a9ebde.jpg",
+    "image": "./images/C_D/500499bca5f75763d2cb682a1c5bafcd.jpg",
     "question": "В данной ситуации преимущество имеет:",
     "answers": [
       {
@@ -875,7 +875,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cdebebc9545378cceff7b2d7a35b079f.jpg",
+    "image": "./images/C_D/517a013a491c0c29a7852ef3b11d762c.jpg",
     "question": "Разрешается ли Вам обогнать грузовой автомобиль в конце подъема?",
     "answers": [
       {
@@ -902,7 +902,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1515aeace7b500c5caddeef4562ecd85.jpg",
+    "image": "./images/C_D/2c37f766679a2c1f4dd25d65665bd90c.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {
@@ -929,7 +929,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4d0911f298b4be037611c0635f771222.jpg",
+    "image": "./images/C_D/bc7f3371883845d3f992d552116125f7.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -1014,7 +1014,7 @@
     "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bd24d81fcadc2be807c88d445904fc78.jpg",
+    "image": "./images/C_D/4dc6a884008251abedccac7c0c7ff992.jpg",
     "question": "Можно ли Вам начать обгон?",
     "answers": [
       {
@@ -1041,7 +1041,7 @@
     "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/276f4cfd4225d1eb448b789cda14ad96.jpg",
+    "image": "./images/C_D/60c6684aa5d33ebd6d0ab09520ae2246.jpg",
     "question": "По какой траектории водителю маломестного автобуса можно выполнить обгон?",
     "answers": [
       {
@@ -1068,7 +1068,7 @@
     "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df131d252b43972d98d91844849d5ab2.jpg",
+    "image": "./images/C_D/022e0b90c87deecb0518db4810730acf.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {

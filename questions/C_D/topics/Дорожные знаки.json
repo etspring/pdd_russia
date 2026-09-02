@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/68dec8423a428d04976c71ec222829b8.jpg",
+    "image": "./images/C_D/64d8285a0217655d0e680f1a171a4cbf.jpg",
     "question": "Разрешен ли Вам поворот на дорогу с грунтовым покрытием?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/382dd7313947dd180149404896a15a4c.jpg",
+    "image": "./images/C_D/9dc2ce7c09014b9a2467b0b6ba9d1cb2.jpg",
     "question": "Можно ли Вам въехать на мост первым?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4878fe767096d5979f4ebd5f82f77af7.jpg",
+    "image": "./images/C_D/916dec9ed0fff702c5aa3b63cdfd457a.jpg",
     "question": "Где Вы должны остановиться?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c44b2661c2f232325a5c2eac76abd57c.jpg",
+    "image": "./images/C_D/c13833d734d5a34211d98d7920f65f33.jpg",
     "question": "Эти знаки предупреждают Вас:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/917c7a6b7eb76ea73ac6182702ef0a91.jpg",
+    "image": "./images/C_D/52301c4f3413f9c8fc720f4f8af2d0b8.jpg",
     "question": "При наличии какого знака водитель должен уступить дорогу, если встречный разъезд затруднен?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e5d78b9e4d67a140a734c7530472e78a.jpg",
+    "image": "./images/C_D/7ea0bb0a5e4e852b7eaa5f24d9e4b99e.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/607d13bc8a0603a945a91ad60f58eb94.jpg",
+    "image": "./images/C_D/eb1d8f1439b4ca1e4d32c84a2047cee3.jpg",
     "question": "О чем информируют Вас эти дорожные знаки?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1a7dbcb7b6dac73175a0351a6447eaaf.jpg",
+    "image": "./images/C_D/0d8c198404ac7150a17bed58b6966639.jpg",
     "question": "В чем особенность скоростного режима на этом участке дороги?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/31864bdd748ef442a5488bf2b78eed84.jpg",
+    "image": "./images/C_D/9a004621af90797b78c749da1cef43d7.jpg",
     "question": "Знаки предупреждают Вас о том, что:",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b8ed4d669a77cf1537bad75f18cb36b6.jpg",
+    "image": "./images/C_D/aa95b40988457cb065924aebf15844a5.jpg",
     "question": "Какие из указанных знаков распространяют свое действие только на период времени, когда покрытие проезжей части влажное?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a561e952b2751be2729bbb2d4d1cb9d2.jpg",
+    "image": "./images/C_D/e1f2d0a1d0cb37eddb85151772013a2a.jpg",
     "question": "Двигаясь в населенном пункте, Вы можете продолжить движение:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9978a0a6480315997c1fe77490a770b1.jpg",
+    "image": "./images/C_D/f22f0ec540f47e00455d4baa5c768315.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/38ce3d722b35261039232ff28e4d77fc.jpg",
+    "image": "./images/C_D/69b0eedefbf56dab0a1777046b566296.jpg",
     "question": "Как следует поступить, если Вам необходимо развернуться?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3fffc0569bc24609206f0cb5c56ed286.jpg",
+    "image": "./images/C_D/9cf2fc2933fcbcaf6bea4d46599d8f5d.jpg",
     "question": "О чем предупреждают Вас эти знаки?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/67fd757b059b93f0e441d2fd38160874.jpg",
+    "image": "./images/C_D/16b04ac1334ebb6be4a9c855cacb3ee5.jpg",
     "question": "Вам можно продолжить движение на перекрестке:",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cfd78ebb9d23ade7f605d041810d937e.jpg",
+    "image": "./images/C_D/6157a7f6e86370c3475feef82cfbb07d.jpg",
     "question": "В какой из дворов Вам можно въехать в данной ситуации?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e758f9d79aaa044832192090973d0f32.jpg",
+    "image": "./images/C_D/cda631631389663d61931c8e9cf6af30.jpg",
     "question": "На каком расстоянии до неровного участка дороги устанавливается этот знак вне населенного пункта?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5e89f655686319afa484e7e6925d9014.jpg",
+    "image": "./images/C_D/10bc4df55c5da05e511936bb51b4012f.jpg",
     "question": "Этот дорожный знак предупреждает:",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/283701d341a778cf99b8af5a7fa3dcb1.jpg",
+    "image": "./images/C_D/762fbf627c51ea032016da7cf058fb22.jpg",
     "question": "В каких направлениях Вам можно продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9a4f76df265638b3c9f6fbb2f6874158.jpg",
+    "image": "./images/C_D/412c9ee8efe1ba6db2ea347c3996b107.jpg",
     "question": "Можно ли Вам за перекрестком въехать во двор?",
     "answers": [
       {
@@ -551,7 +551,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/aae177d74ffe43e5dd26046e84bc1ac3.jpg",
+    "image": "./images/C_D/1038985e3e83fe5c44e7a98a925aa007.jpg",
     "question": "Этот знак предупреждает о приближении к перекрестку, на котором Вы:",
     "answers": [
       {
@@ -605,7 +605,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b0783d4fb502bc14d83e0c53ee4893c8.jpg",
+    "image": "./images/C_D/a050601ca4c7ab614b7b6f851c75171a.jpg",
     "question": "Данный дорожный знак:",
     "answers": [
       {
@@ -632,7 +632,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/602f48e63f236b4808e9b0666af4a76b.jpg",
+    "image": "./images/C_D/cbc7618c5feb97ba456e459a2712dc61.jpg",
     "question": "Эти знаки предупреждают Вас:",
     "answers": [
       {
@@ -659,7 +659,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/319b30966f36da9586970aedc8fc2fa9.jpg",
+    "image": "./images/C_D/fc004fc51999918b4d2f8cdec15b87ea.jpg",
     "question": "Вам разрешено продолжить движение на грузовом автомобиле, имеющем разрешенную максимальную массу более 3,5 т, с прицепом:",
     "answers": [
       {
@@ -686,7 +686,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/67a216a2e57d41e09a7b3022babea88b.jpg",
+    "image": "./images/C_D/92a1a8d5f5b80ffbe253406d76946a10.jpg",
     "question": "Какие из указанных знаков требуют обязательной остановки?",
     "answers": [
       {
@@ -717,7 +717,7 @@
     "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1e19a01c882d8e6ca78bb7ebc409df8c.jpg",
+    "image": "./images/C_D/1a79499440359c5795dbe36617db7829.jpg",
     "question": "Какие из указанных знаков используются для обозначения границ искусственной неровности?",
     "answers": [
       {
@@ -744,7 +744,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b8a2948200eabee9b673dca879089834.jpg",
+    "image": "./images/C_D/8593ad5644ad3ed6725226b0c3c5ec63.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -771,7 +771,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/81e32eb8f7fc134b9f5925f87d861e22.jpg",
+    "image": "./images/C_D/ae067f3fcbeacd52effe9d2dc2d27232.jpg",
     "question": "Какие из указанных знаков предоставляют право преимущественного проезда нерегулируемых перекрестков?",
     "answers": [
       {
@@ -798,7 +798,7 @@
     "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86078836df13f0cab223328463aba00e.jpg",
+    "image": "./images/C_D/b7451bedff503a5f7d2e9d0602f77c58.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -825,7 +825,7 @@
     "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4653fd17fc3cb78ae32816e6142c882f.jpg",
+    "image": "./images/C_D/ec7ea706dcd3274cb73764cd916f9e87.jpg",
     "question": "Какие из указанных знаков информируют о приближении к началу участка дороги со встречным движением?",
     "answers": [
       {
@@ -852,7 +852,7 @@
     "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c37ad2cfecb6929601959486ac3ce3c8.jpg",
+    "image": "./images/C_D/d4a641e3f2f27d9895c03ece67d7c3aa.jpg",
     "question": "Какие из указанных знаков информируют о том, что на перекрестке необходимо уступить дорогу транспортным средствам, приближающимся слева?",
     "answers": [
       {
@@ -883,7 +883,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d174613aa91f518de3c9a96d3d8947f4.jpg",
+    "image": "./images/C_D/80a02c822dd7961ea63a9f134f26ce95.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -910,7 +910,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/754c88f15255c9f0b6e39e40abb4fb9b.jpg",
+    "image": "./images/C_D/5f89a34283b22090707b858ea30167e4.jpg",
     "question": "На каком расстоянии до скользкого участка дороги устанавливается данный знак в населенном пункте?",
     "answers": [
       {
@@ -937,7 +937,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fdaa642114a9f7dd5804a506d2b32065.jpg",
+    "image": "./images/C_D/cbbc6afb3a95c968e167e7af5bbe41ed.jpg",
     "question": "Вы можете продолжить движение на следующем перекрестке:",
     "answers": [
       {
@@ -964,7 +964,7 @@
     "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d004d3d85b9d480e1d2a42d986213c62.jpg",
+    "image": "./images/C_D/c57da784f4fa4d6a14cf07cb0a37d02d.jpg",
     "question": "Разрешается ли Вам въехать на мост одновременно с водителем мотоцикла?",
     "answers": [
       {
@@ -991,7 +991,7 @@
     "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5818694e383d2f22dd04d221aec43db.jpg",
+    "image": "./images/C_D/dccb29ca8976f987d1080c0b6e3c377d.jpg",
     "question": "Какие из указанных знаков устанавливают непосредственно перед железнодорожным переездом?",
     "answers": [
       {
@@ -1022,7 +1022,7 @@
     "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3aa2bd4e841302ebd63811efcf297bf1.jpg",
+    "image": "./images/C_D/235d2ce2e02d449a6c5ca8d42a27f79f.jpg",
     "question": "Данные знаки предупреждают о приближении:",
     "answers": [
       {
@@ -1049,7 +1049,7 @@
     "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/377d5c145e5e59821ca4658cbd862d16.jpg",
+    "image": "./images/C_D/c788c9532ff26a91b68bbeb48d73eccb.jpg",
     "question": "Этот знак предупреждает о приближении к тоннелю, в котором:",
     "answers": [
       {
@@ -1076,7 +1076,7 @@
     "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4df91e11d37a7cd96fc35f791b5fc81e.jpg",
+    "image": "./images/C_D/de0dce93b6baa40c4dd1c4441bca017e.jpg",
     "question": "Вам разрешено продолжить движение на маршрутном транспортном средстве:",
     "answers": [
       {
@@ -1107,7 +1107,7 @@
     "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5b8a4071a2da3938a3449113b4007c32.jpg",
+    "image": "./images/C_D/ee41d3237ff27ef3779dfd7434301194.jpg",
     "question": "Можно ли остановиться для посадки пассажира за знаком?",
     "answers": [
       {
@@ -1134,7 +1134,7 @@
     "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/23b6dd5efa9a81b595cdf76448b8392f.jpg",
+    "image": "./images/C_D/3fcb034785ae69b78acb7e212346c173.jpg",
     "question": "Разрешается ли Вам продолжить движение в прямом направлении на транспортном средстве подкатегории «С1» без прицепа?",
     "answers": [
       {
@@ -1161,7 +1161,7 @@
     "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/516d3759e58587e3a380b94f60eee6fd.jpg",
+    "image": "./images/C_D/1494ee76cecf61b17b8f0b9419b26bc4.jpg",
     "question": "Вам необходимо двигаться со скоростью не более 40 км/ч:",
     "answers": [
       {
@@ -1188,7 +1188,7 @@
     "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4c49a1c6d080a202e8535c4d32054ca9.jpg",
+    "image": "./images/C_D/43c39cc59abccfc2aea6ca30d03f69dc.jpg",
     "question": "Какой из указанных знаков распространяет своё действие только на ту полосу, над которой он установлен?",
     "answers": [
       {
@@ -1215,7 +1215,7 @@
     "title": "Вопрос 45",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a10d5734894043ac06eac44b14f535a5.jpg",
+    "image": "./images/C_D/1f55e277009bc67b3cd6790641c46f89.jpg",
     "question": "Разрешена ли Вам стоянка в указанном месте?",
     "answers": [
       {
@@ -1242,7 +1242,7 @@
     "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/58b2eb474347c1fb2823a27bfcd87958.jpg",
+    "image": "./images/C_D/f27660ee733f0838139767a303e3c7a5.jpg",
     "question": "Какие из указанных знаков разрешают проезд на автомобиле к месту проживания или работы?",
     "answers": [
       {
@@ -1273,7 +1273,7 @@
     "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/879e35dec5eabd3dff276c1ec95a6f54.jpg",
+    "image": "./images/C_D/e08b1c1464838e659cbdea0600cfd5b7.jpg",
     "question": "Разрешено ли Вам произвести остановку в указанном месте?",
     "answers": [
       {
@@ -1300,7 +1300,7 @@
     "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e99f35568ef66cc25761b5d0f4f62000.jpg",
+    "image": "./images/C_D/39ecd2a7f554a15597338d2cf5211020.jpg",
     "question": "Какие из указанных знаков запрещают поворот налево?",
     "answers": [
       {
@@ -1331,7 +1331,7 @@
     "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ac4b81dba0242922a6c285722918ca9c.jpg",
+    "image": "./images/C_D/88749f5b5d17cfcf056ab47eaadeb327.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -1358,7 +1358,7 @@
     "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/67c83646bb7a8f088785144eb5e4f77f.jpg",
+    "image": "./images/C_D/85b078b40242e898855510ccd7240fef.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -1385,7 +1385,7 @@
     "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/36ae4c1c13b2722a9547f33e640565e1.jpg",
+    "image": "./images/C_D/6581d9252c0c4904775a62155632c0f8.jpg",
     "question": "Этот знак указывает:",
     "answers": [
       {
@@ -1412,7 +1412,7 @@
     "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed409837e18efe9221ecf44e2d876564.jpg",
+    "image": "./images/C_D/89ba055334e8648bf33b9f7244c7e85a.jpg",
     "question": "В каких направлениях Вам можно продолжить движение на грузовом автомобиле?",
     "answers": [
       {
@@ -1439,7 +1439,7 @@
     "title": "Вопрос 53",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/70acf27986e39b26d2563329a9b97bc0.jpg",
+    "image": "./images/C_D/121272681bfc61334f3e1e5de438cbfe.jpg",
     "question": "Разрешена ли Вам стоянка в указанном месте?",
     "answers": [
       {
@@ -1466,7 +1466,7 @@
     "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6c7f9d54e957a74f7f9c5ea2371aa6e7.jpg",
+    "image": "./images/C_D/f1d8a21fa7a744e76d3749f90763583c.jpg",
     "question": "Какие из указанных знаков разрешают движение грузовым автомобилям с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -1493,7 +1493,7 @@
     "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bda6bad3fdecb9d7db16c6b6c78cea3f.jpg",
+    "image": "./images/C_D/701ca08435aa147c295e9f69827609d2.jpg",
     "question": "В зоне действия этих знаков стоянка запрещена:",
     "answers": [
       {
@@ -1520,7 +1520,7 @@
     "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a6617e04c9eebff6d1d42102d7877d64.jpg",
+    "image": "./images/C_D/3814da819032669aa4a402cd7123e901.jpg",
     "question": "Какой из указанных знаков запрещает дальнейшее движение всех без исключения транспортных средств?",
     "answers": [
       {
@@ -1547,7 +1547,7 @@
     "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a6f6bb27f5248e473e3a6d5e19e1381b.jpg",
+    "image": "./images/C_D/8e94fa5f2bb0c4398b3811dbf4ca73ab.jpg",
     "question": "Данный знак запрещает движение:",
     "answers": [
       {
@@ -1574,7 +1574,7 @@
     "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5f6cd6658a59584e04dd2b8beba80a8a.jpg",
+    "image": "./images/C_D/ba96a8fec8673f52724a29e10574dd93.jpg",
     "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по четным числам месяца?",
     "answers": [
       {
@@ -1601,7 +1601,7 @@
     "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6196695a5e568691b14bc7726e1b5cef.jpg",
+    "image": "./images/C_D/c64ff87ed19dfddd5ec118718ad6a531.jpg",
     "question": "Разрешено ли осуществлять посадку (высадку) пассажиров либо загрузку (разгрузку) транспортного средства в зоне действия этого знака?",
     "answers": [
       {
@@ -1628,7 +1628,7 @@
     "title": "Вопрос 60",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d9185710b3db0cbe1cc4bd309488e497.jpg",
+    "image": "./images/C_D/6d7fc593fcfd4fdd4b36665cff7f95c2.jpg",
     "question": "Разрешается ли Вам остановка за знаком?",
     "answers": [
       {
@@ -1655,7 +1655,7 @@
     "title": "Вопрос 61",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3a5ec3e80c6c5a1fe352c33ac87f0221.jpg",
+    "image": "./images/C_D/705a3418dd8144ca9ef72c201fa3d177.jpg",
     "question": "Данный знак запрещает движение:",
     "answers": [
       {
@@ -1682,7 +1682,7 @@
     "title": "Вопрос 62",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1e6ab659c89febdf4757cfdca3970c59.jpg",
+    "image": "./images/C_D/c2699c6d5d70950e9ee1165072f7f4a1.jpg",
     "question": "В каком случае из перечисленных при перевозке крупногабаритного груза Вам запрещено продолжить движение в прямом направлении?",
     "answers": [
       {
@@ -1709,7 +1709,7 @@
     "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4c709f4ceb2408b7893024fcf6646c2a.jpg",
+    "image": "./images/C_D/a49842bef5839c22258628723e3af256.jpg",
     "question": "Эти знаки обязывают соблюдать дистанцию:",
     "answers": [
       {
@@ -1736,7 +1736,7 @@
     "title": "Вопрос 64",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c55698e7f825a23f65d10cb071642eb5.jpg",
+    "image": "./images/C_D/04cd308b312b469eb81441dac4e981c1.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -1763,7 +1763,7 @@
     "title": "Вопрос 65",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bc3d65021c97912687fc59cbdbbad7f1.jpg",
+    "image": "./images/C_D/2fb3aeccd375d807f82659ae076cba67.jpg",
     "question": "Какие из указанных знаков отменяют все ограничения, введенные ранее запрещающими знаками?",
     "answers": [
       {
@@ -1794,7 +1794,7 @@
     "title": "Вопрос 66",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b7bf48ba1948eb0dbe6151c57f9c76aa.jpg",
+    "image": "./images/C_D/b25e9a1e8ff5f3718b2d64c586ec2b6a.jpg",
     "question": "В зоне действия этого знака разрешается использовать звуковой сигнал:",
     "answers": [
       {
@@ -1821,7 +1821,7 @@
     "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ac7b6df01b673bc953f0994a5ca45ce9.jpg",
+    "image": "./images/C_D/bc0c4288c11fa0ff74ff2eea02f54e39.jpg",
     "question": "Данный знак запрещает движение транспортным средствам, которые:",
     "answers": [
       {
@@ -1848,7 +1848,7 @@
     "title": "Вопрос 68",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fbd4f38527a64bea00293893733beded.jpg",
+    "image": "./images/C_D/88e946330904c8fcc0670392c917a5a1.jpg",
     "question": "Можно ли проехать по мосту этому автопоезду, если фактическая масса автомобиля 8 т, а прицепа 5 т?",
     "answers": [
       {
@@ -1875,7 +1875,7 @@
     "title": "Вопрос 69",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bf5e6c5b2037cbd0859e2d5df7012387.jpg",
+    "image": "./images/C_D/ac59be31df4d36acf912ba12124349fb.jpg",
     "question": "Разрешено ли Вам выполнить обгон, если Вы управляете грузовым автомобилем с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -1902,7 +1902,7 @@
     "title": "Вопрос 70",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f74ac4dd69eaf0c4a5b5ef40d78d64c8.jpg",
+    "image": "./images/C_D/c2706b8f4fc5575f2f4c6bdaabab1683.jpg",
     "question": "Разрешено ли Вам ставить автомобиль на стоянку в этом месте по нечетным числам месяца?",
     "answers": [
       {
@@ -1929,7 +1929,7 @@
     "title": "Вопрос 71",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5e186ae0ed20cb597e88f1df76f300f0.jpg",
+    "image": "./images/C_D/b7fc89a4d64479602cdebc1e22ef41e6.jpg",
     "question": "Вам разрешено продолжить движение на грузовом автомобиле с разрешенной максимальной массой 12 т при фактической массе 8 т:",
     "answers": [
       {
@@ -1960,7 +1960,7 @@
     "title": "Вопрос 72",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bd40ced3a358bcb5b4b7f0f00c777ba0.jpg",
+    "image": "./images/C_D/b8d5a1547f67557880138db94a744d79.jpg",
     "question": "Разрешено ли Вам продолжить движение в прямом направлении на грузовом автомобиле с прицепом?",
     "answers": [
       {
@@ -1987,7 +1987,7 @@
     "title": "Вопрос 73",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5d5936b2e603d19c4bb3ae2a746f0ca.jpg",
+    "image": "./images/C_D/52592f1c3ece78f91e2c8e4e988f918d.jpg",
     "question": "Действие данных знаков распространяется:",
     "answers": [
       {
@@ -2014,7 +2014,7 @@
     "title": "Вопрос 74",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/19a5ace2b88bfb6fda946199da871825.jpg",
+    "image": "./images/C_D/67e31fc6501ffee4bc253d6ce2a29fa0.jpg",
     "question": "Этот знак запрещает движение транспортных средств:",
     "answers": [
       {
@@ -2041,7 +2041,7 @@
     "title": "Вопрос 75",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/97f7c27ff3cc9f5d93eef02ef1344421.jpg",
+    "image": "./images/C_D/6ca00a62c2179ca87d84e0f0312d2df0.jpg",
     "question": "Какие из указанных знаков разрешают движение со скоростью 60 км/ч?",
     "answers": [
       {
@@ -2068,7 +2068,7 @@
     "title": "Вопрос 76",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a57abc3498d81f0dd7f0cea2bd9c01a0.jpg",
+    "image": "./images/C_D/d57be658b942fbe8c4dd2d58cdcbfd8e.jpg",
     "question": "Водители каких маломестных автобусов нарушили правила стоянки?",
     "answers": [
       {
@@ -2095,7 +2095,7 @@
     "title": "Вопрос 77",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8236cc1d720f46c31a16bf3d91f0e800.jpg",
+    "image": "./images/C_D/d86fe664309990acbb296479eb70ae19.jpg",
     "question": "Вам разрешено выполнить разворот:",
     "answers": [
       {
@@ -2122,7 +2122,7 @@
     "title": "Вопрос 78",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f641f887b487c43ca95ad2dc718efcbc.jpg",
+    "image": "./images/C_D/c2b3e0a0bc5c8d011f519810fec8745f.jpg",
     "question": "Разрешено ли Вам выполнить обгон, если Вы управляете автобусом?",
     "answers": [
       {
@@ -2149,7 +2149,7 @@
     "title": "Вопрос 79",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ce8417a79de6f8d6807ba8fa01904aad.jpg",
+    "image": "./images/C_D/35952925db52515eaff92baa5b6638f6.jpg",
     "question": "Вы имеете право продолжить движение на перекрестке:",
     "answers": [
       {
@@ -2176,7 +2176,7 @@
     "title": "Вопрос 80",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bb93d55a7503598a5ae03494df5f45f4.jpg",
+    "image": "./images/C_D/ca682e236cc2cff98027ade955d7ff20.jpg",
     "question": "Какие из указанных знаков разрешают разворот?",
     "answers": [
       {
@@ -2203,7 +2203,7 @@
     "title": "Вопрос 81",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bb3d737cd0fd4f5841b09a8435c818e8.jpg",
+    "image": "./images/C_D/354997311b70650e18427cd8fcc34795.jpg",
     "question": "Каким транспортным средствам разрешается продолжить движение только направо?",
     "answers": [
       {
@@ -2230,7 +2230,7 @@
     "title": "Вопрос 82",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c7c3cc6b8d93d3f99ea648e7b2b6d503.jpg",
+    "image": "./images/C_D/dca648e27de4cab3864fa78042ba2a2e.jpg",
     "question": "Что запрещено в зоне действия этого знака?",
     "answers": [
       {
@@ -2257,7 +2257,7 @@
     "title": "Вопрос 83",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/565dc1f3fa05b95eb54a96f3a584672f.jpg",
+    "image": "./images/C_D/0ce243944dc2ffa89bf41874ce1f9ad2.jpg",
     "question": "Какой из указанных знаков устанавливается в начале дороги с односторонним движением?",
     "answers": [
       {
@@ -2288,7 +2288,7 @@
     "title": "Вопрос 84",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/85e77b1e13c8de6b7ed873bad9312b85.jpg",
+    "image": "./images/C_D/00f4f549a66615e2d0a8333addeed31d.jpg",
     "question": "Вы буксируете неисправный автомобиль. По какой полосе Вам можно продолжить движение в населенном пункте?",
     "answers": [
       {
@@ -2315,7 +2315,7 @@
     "title": "Вопрос 85",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c81fcde408fe5234e975bebfeb706450.jpg",
+    "image": "./images/C_D/a7f093d46731af42885563bde9d01426.jpg",
     "question": "Нарушил ли водитель грузового автомобиля правила стоянки?",
     "answers": [
       {
@@ -2342,7 +2342,7 @@
     "title": "Вопрос 86",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/027ac4e5f70a9cec978fd2661e119904.jpg",
+    "image": "./images/C_D/4afd3e389e8b3c04a5c6fa4ef2f707cd.jpg",
     "question": "Что обозначают эти дорожные знаки?",
     "answers": [
       {
@@ -2369,7 +2369,7 @@
     "title": "Вопрос 87",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/42c2d866320f5e511f1d939e385041c9.jpg",
+    "image": "./images/C_D/8cdac83b8f290771ba5360d5b63d1704.jpg",
     "question": "Действие каких знаков из указанных распространяется только до ближайшего по ходу движения перекрестка?",
     "answers": [
       {
@@ -2396,7 +2396,7 @@
     "title": "Вопрос 88",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b033071f9d291c40b966b0c9104cf0a2.jpg",
+    "image": "./images/C_D/c4dac553e048d7f1aabdd6276af27592.jpg",
     "question": "Можно ли Вам повернуть направо на этом перекрестке?",
     "answers": [
       {
@@ -2423,7 +2423,7 @@
     "title": "Вопрос 89",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e539b446d2e355215e1c3af7dcb934a6.jpg",
+    "image": "./images/C_D/feb815dd2b417708673243823d5579ae.jpg",
     "question": "Управляя каким автомобилем Вы обязаны выполнить требования данного знака?",
     "answers": [
       {
@@ -2450,7 +2450,7 @@
     "title": "Вопрос 90",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6aca0fe836e3e45d30756524e865e93b.jpg",
+    "image": "./images/C_D/751f2f3152129803cda712bde13cf52c.jpg",
     "question": "Вы управляете грузовым автомобилем с разрешенной максимальной массой более 3,5 т. В каком направлении Вам разрешено дальнейшее движение?",
     "answers": [
       {
@@ -2477,7 +2477,7 @@
     "title": "Вопрос 91",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ae2e76a7161bad420fce58f8c42e03aa.jpg",
+    "image": "./images/C_D/95acfc746521ac01bd114d6a2f15b010.jpg",
     "question": "До какого места действует требование данного знака?",
     "answers": [
       {
@@ -2504,7 +2504,7 @@
     "title": "Вопрос 92",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/13fe0e7776cf96516e2dfba64a2e8bf3.jpg",
+    "image": "./images/C_D/e4a440743a1b0ad0ad02eb2e1856c51c.jpg",
     "question": "Каким транспортным средствам запрещена стоянка в выходные и праздничные дни?",
     "answers": [
       {
@@ -2531,7 +2531,7 @@
     "title": "Вопрос 93",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/51cea150023cf94a9b86fd210d057a54.jpg",
+    "image": "./images/C_D/2716d1c0ff2f6d91557823c8b6e96536.jpg",
     "question": "Эта табличка распространяет действие установленного с ней знака:",
     "answers": [
       {
@@ -2558,7 +2558,7 @@
     "title": "Вопрос 94",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/46349847a83ea069dec62550f5b46696.jpg",
+    "image": "./images/C_D/08ee98de6fc2480f92fbc62f257e6773.jpg",
     "question": "Вам можно продолжить движение по крайней левой полосе на автобусе:",
     "answers": [
       {
@@ -2585,7 +2585,7 @@
     "title": "Вопрос 95",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/29b47ddc7d8a2c2f30202650e0decce0.jpg",
+    "image": "./images/C_D/839dfc4aeedaa0cd5eb64b2213f64db3.jpg",
     "question": "Какие из указанных табличек указывают протяженность зоны действия знаков, с которыми они применяются?",
     "answers": [
       {
@@ -2612,7 +2612,7 @@
     "title": "Вопрос 96",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7eab670ebf096c83a0ce9870bc9edb31.jpg",
+    "image": "./images/C_D/6f2705bc954a81bf38972acfdb64f6b9.jpg",
     "question": "О чем информируют эти знаки?",
     "answers": [
       {
@@ -2639,7 +2639,7 @@
     "title": "Вопрос 97",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/33ff7f3341ece81a5ed9aabfa6926038.jpg",
+    "image": "./images/C_D/ca3430a820a9d6824b733cf91ba627eb.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -2666,7 +2666,7 @@
     "title": "Вопрос 98",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1aa1fd841f0d70c63288101d85ed212a.jpg",
+    "image": "./images/C_D/7ee6a5ef81c9e4bbc8e144f9a451f683.jpg",
     "question": "Какие из указанных знаков информируют о том, что на данной дороге действуют требования Правил, устанавливающие порядок движения в населенных пунктах?",
     "answers": [
       {
@@ -2693,7 +2693,7 @@
     "title": "Вопрос 99",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e06f8a7b0354b7c671a59af09e78073.jpg",
+    "image": "./images/C_D/7d5fd29449bcb4d5e18522dd7f70df02.jpg",
     "question": "Какие из указанных знаков разрешают выполнить разворот?",
     "answers": [
       {
@@ -2720,7 +2720,7 @@
     "title": "Вопрос 100",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ab9a76b701bf341c60230fd08d4aac3f.jpg",
+    "image": "./images/C_D/9b24e2f372bb5e16d0dde34601f12bc9.jpg",
     "question": "Какие из указанных знаков запрещают дальнейшее движение без остановки?",
     "answers": [
       {
@@ -2751,7 +2751,7 @@
     "title": "Вопрос 101",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/11cf7288cfcff3feb8be4cae7c402937.jpg",
+    "image": "./images/C_D/9dd48b272c3cf1c20e7c14fb0219eb80.jpg",
     "question": "Какой из указанных знаков информирует о начале дороги с реверсивным движением?",
     "answers": [
       {
@@ -2778,7 +2778,7 @@
     "title": "Вопрос 102",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/39483415c903584c04cac1617be90fc3.jpg",
+    "image": "./images/C_D/f9d16b6828686c7decfcd5c71d9b33c2.jpg",
     "question": "Что означают эти дорожные знаки?",
     "answers": [
       {
@@ -2805,7 +2805,7 @@
     "title": "Вопрос 103",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ce6108f11f16827e593af90fe6fa3002.jpg",
+    "image": "./images/C_D/f3bfe4953d2805521e5c93369798638e.jpg",
     "question": "В каких направлениях Вам разрешено продолжить движение?",
     "answers": [
       {
@@ -2832,7 +2832,7 @@
     "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dc2b044eca0c4b41eba91b0c18fb1d52.jpg",
+    "image": "./images/C_D/f77b00829dd36e4aba884f7c84828b46.jpg",
     "question": "Какие из указанных знаков обязывают водителя грузового автомобиля с разрешенной максимальной массой более 3,5 т повернуть направо?",
     "answers": [
       {
@@ -2863,7 +2863,7 @@
     "title": "Вопрос 105",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5e1aff244b33563e654fa800f718fc61.jpg",
+    "image": "./images/C_D/cb828f8ab8f13d0b17b7b09698f290a6.jpg",
     "question": "Этот знак указывает, что:",
     "answers": [
       {
@@ -2917,7 +2917,7 @@
     "title": "Вопрос 107",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f68752a4dfe0bd24f1ad763bd9eba059.jpg",
+    "image": "./images/C_D/2122fc846cd8e38e036fa96cf95ac234.jpg",
     "question": "Управляя каким транспортным средством можно опередить легковой автомобиль?",
     "answers": [
       {
@@ -2944,7 +2944,7 @@
     "title": "Вопрос 108",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fe714a13e5c2e056925738d913700aea.jpg",
+    "image": "./images/C_D/c708cbf2f8364b883b86f68624746894.jpg",
     "question": "Какие из указанных знаков используются для обозначения номера, присвоенного дороге (маршруту)?",
     "answers": [
       {
@@ -2975,7 +2975,7 @@
     "title": "Вопрос 109",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/61a68e228932c7731b67fb1a99b0cfc3.jpg",
+    "image": "./images/C_D/90f3cf00f9a2249d61f0ad268fde8d8a.jpg",
     "question": "Можно ли водителю поставить грузовой автомобиль на стоянку в этом месте указанным способом?",
     "answers": [
       {
@@ -3002,7 +3002,7 @@
     "title": "Вопрос 110",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4f897694a120ecfcd67ff46b5cb96af7.jpg",
+    "image": "./images/C_D/7fb5daf36fcaa16a49ac25573afa2393.jpg",
     "question": "Какие из указанных знаков обозначают участки, на которых водитель обязан уступать дорогу пешеходам, находящимся на проезжей части?",
     "answers": [
       {
@@ -3029,7 +3029,7 @@
     "title": "Вопрос 111",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6193884298f780d4a7c797f2e31bf2fe.jpg",
+    "image": "./images/C_D/2cb2bf3bc488ee1d0fbe780b8b71aaae.jpg",
     "question": "О чем информирует Вас данный дорожный знак с желтым фоном?",
     "answers": [
       {
@@ -3056,7 +3056,7 @@
     "title": "Вопрос 112",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b022fe1c915fa79e86b3c718c82fd04c.jpg",
+    "image": "./images/C_D/15279e3d92ec54e0bc0768433d45c431.jpg",
     "question": "Вам разрешается движение:",
     "answers": [
       {
@@ -3087,7 +3087,7 @@
     "title": "Вопрос 113",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e664f786683a87f6c5842ca59a1d5c1d.jpg",
+    "image": "./images/C_D/1471a2c7c271823c71f5189898413801.jpg",
     "question": "Какой из знаков указывает протяженность зоны для разворота?",
     "answers": [
       {
@@ -3114,7 +3114,7 @@
     "title": "Вопрос 114",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/91c3953572dc0d9a64f453cdeb047e5b.jpg",
+    "image": "./images/C_D/9d70cf4071a5d68bd6da57b1b7401616.jpg",
     "question": "Какие из указанных знаков используются для обозначения кемпинга?",
     "answers": [
       {
@@ -3145,7 +3145,7 @@
     "title": "Вопрос 115",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7e2c52547053772c75304dc5a32f76bb.jpg",
+    "image": "./images/C_D/f20b05aaf45ebf53da76d608362c4ceb.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -3172,7 +3172,7 @@
     "title": "Вопрос 116",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86fac834bee0daaa1473b229f30f0599.jpg",
+    "image": "./images/C_D/71cb9185fe78f3a4073b5464f4c87882.jpg",
     "question": "Какие из указанных табличек распространяют действие установленных с ними знаков на грузовые автомобили с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -3203,7 +3203,7 @@
     "title": "Вопрос 117",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1056d47dd8d8c1d228da0210960d2324.jpg",
+    "image": "./images/C_D/1a44f58acac0d05e9c540afbafca80f4.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку за путепроводом?",
     "answers": [
       {
@@ -3230,7 +3230,7 @@
     "title": "Вопрос 118",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2caca5591be3b1a0c2d7de6ee3973df1.jpg",
+    "image": "./images/C_D/26ff1ce5049cf24cd7810b35525181a6.jpg",
     "question": "Вы можете продолжить движение по крайней левой полосе:",
     "answers": [
       {
@@ -3257,7 +3257,7 @@
     "title": "Вопрос 119",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dbd9990bb9f75cc84e89118c1897635a.jpg",
+    "image": "./images/C_D/15dd73077c410846444fa5801b819c52.jpg",
     "question": "Какие из указанных знаков разрешают выполнить поворот налево?",
     "answers": [
       {
@@ -3288,7 +3288,7 @@
     "title": "Вопрос 120",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7946b8ec42e5eb15b287acd3d8f7e665.jpg",
+    "image": "./images/C_D/9fbeed74c3de99430b89b5f2a23097a8.jpg",
     "question": "Запрещается ставить на стоянку указанным на табличке способом:",
     "answers": [
       {
@@ -3315,7 +3315,7 @@
     "title": "Вопрос 121",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5d00f239427732dd36fe4a826257c4f8.jpg",
+    "image": "./images/C_D/832419833f12e93275c0600587d0a7e5.jpg",
     "question": "Можно ли Вам остановиться в этом месте для посадки или высадки пассажиров?",
     "answers": [
       {
@@ -3337,144 +3337,5 @@
       "Дорожные знаки"
     ],
     "id": "43a06f0740a5b23bdc29c0b010158048"
-  },
-  {
-    "title": "Вопрос 122",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ffe0218ec6d267eda4adad8ee09dc99b.jpg",
-    "question": "Обязаны ли Вы в данной ситуации подать сигнал правого поворота?",
-    "answers": [
-      {
-        "answer_text": "Обязаны",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Обязаны только в темное время суток",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не обязаны",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Вы будете перестраиваться. Перед перестроением следует подать сигнал правого поворота.(«Дорожные знаки», «Горизонтальная разметка» 1.19, пункт 8.1 ПДД)",
-    "topic": [
-      "Дорожные знаки"
-    ],
-    "id": "646c61864ee467f5dff54f05d82bb3a6"
-  },
-  {
-    "title": "Вопрос 123",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bf61776d372ad74c66fd58d39bd56260.jpg",
-    "question": "С какой скоростью Вы можете продолжить движение вне населенного пункта по левой полосе на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
-    "answers": [
-      {
-        "answer_text": "Не более 50 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не менее 50 км/ч и не более 70 км/ч",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Не менее 50 км/ч и не более 90 км/ч",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Над левой полосой висит знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», указывающей полосу движения, на которую распространяется действие знака. Скорость движения на грузовом автомобиле с р.м.м которого более 3,5 т по левой полосе не должна быть менее 50 км/ч и не должна превышать допустимой для дорог вне населённых пунктов, т.е. не более 70 км/ч.(«Дорожные знаки», пункт 10.3 ПДД)",
-    "topic": [
-      "Дорожные знаки"
-    ],
-    "id": "c09a7e5e6146d492094bf20fe29318e6"
-  },
-  {
-    "title": "Вопрос 124",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9e276c7b97f4aad9c0ff3894fdb36879.jpg",
-    "question": "С какой скоростью Вы имеете право продолжить движение в населенном пункте по левой полосе?",
-    "answers": [
-      {
-        "answer_text": "Не более 40 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не более 60 км/ч",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Не менее 40 км/ч и не более 60 км/ч",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Разрешённая скорость движения в населённом пункте не более 60 км/ч. Вы выезжаете на полосу, над которой установлен знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», которая указывает полосу, на которую распространяется действие данного знака. Поэтому движение по данной полосе разрешается со скоростью не менее 40 км/ч, но и не превышающей 60 км/ч.(Пункт 10.2 ПДД, «Дорожные знаки»)",
-    "topic": [
-      "Дорожные знаки"
-    ],
-    "id": "6a7b8f14ca54811527e31b60a303d204"
-  },
-  {
-    "title": "Вопрос 125",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ddbebe9520a8bb5b065f123c7c367ec7.jpg",
-    "question": "В каких направлениях Вам разрешается продолжить движение по крайней левой полосе на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
-    "answers": [
-      {
-        "answer_text": "Только налево",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Налево и в обратном направлении",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Прямо, налево и в обратном направлении",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "При наличии трёх полос и более в данном направлении водитель грузовика, разрешённая максимальная масса которого более 2,5 т, может выезжать на крайнюю левую полосу только для поворота налево и разворота. Данные знаки особых предписаний, разрешающие поворот налево из крайней левой полосы, разрешают и разворот. Вам, при управлении грузовым автомобилем р.м.м. которого более 3,5 т, можно с данной полосы повернуть налево или развернуться для движения в обратном направлении.(«Дорожные знаки», пункт 9.4 ПДД)",
-    "topic": [
-      "Дорожные знаки"
-    ],
-    "id": "9ba1f452021e914fa92774f0562c7be5"
-  },
-  {
-    "title": "Вопрос 126",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
-    "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
-    "answers": [
-      {
-        "answer_text": "Знаков приоритета",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Запрещающих знаков",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Предписывающих знаков",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Всех перечисленных знаков",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Движение регулируется: регулировщиком, сигналами светофора, знаками приоритета, разметкой, дорожным покрытием, «правилом правой руки». По вышеперечисленному «принципу приоритетности регулирования дорожного движения» знаки приоритета работают (т.е. ими мы руководствуемся) в том случае, когда отсутствует регулировщик, светофор выключен, неисправен, переведён в «жёлтый мигающий режим».(«Дорожные знаки», пункты 6.15 и 13.3 ПДД)",
-    "topic": [
-      "Дорожные знаки"
-    ],
-    "id": "11f95f78b08a1345c915bf497456c7a7"
   }
 ]

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/53663596fc1130ba5b93f03d614788a4.jpg",
+    "image": "./images/A_B/ab1142d189b2746eabcc2adf3379e2a4.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/09fb40b461f5d003aeea69cc01ed485d.jpg",
+    "image": "./images/A_B/c1dbd3c763b3b01aed53cc50825ce6ef.jpg",
     "question": "На каком расстоянии до скользкого участка дороги устанавливается данный знак в населённом пункте?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8408c56c7e8963c5cb7dd379001d20a9.jpg",
+    "image": "./images/A_B/b11fc12b0e7c5f25732966491aeabaaa.jpg",
     "question": "Остановка в зоне действия этого знака разрешена:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0bcfa36f4c69a3a2502725a6e606eb29.jpg",
+    "image": "./images/A_B/bfc6b246398485efb7b4aded81e62326.jpg",
     "question": "Какие из указанных знаков используются для обозначения кемпинга?",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b85a94c4c6006e417495b690e40dea08.jpg",
+    "image": "./images/A_B/d931271f88fac8231702feb4e4c804ca.jpg",
     "question": "Если реверсивные светофоры выключились, Вам следует:",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e914a860e8a271c88f67b8f6505dff1b.jpg",
+    "image": "./images/A_B/afd0a990f2af7ce7b9de6e8f84b7e13b.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/90a78af0706419c856ec7a5be8a19ce3.jpg",
+    "image": "./images/A_B/2264b3d6f6fed61105053390747e2581.jpg",
     "question": "Можно ли водителю легкового автомобиля в данной ситуации начать движение от тротуара?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f24c6163a98c2306a769236226ae3f04.jpg",
+    "image": "./images/A_B/b5da8459005ef7535ac949409b02e831.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешается ли ему в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/751462dccd4f44aa74321458927c3163.jpg",
+    "image": "./images/A_B/238ed5cba9edb20e7428ae83917ccb93.jpg",
     "question": "Кто из водителей мопедов занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/04244ce5ded19bcb12b27aa60397f8b9.jpg",
+    "image": "./images/A_B/1347da88620c7eb2247ec3c4a530d0da.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {
@@ -300,6 +300,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Средняя полоса в данной ситуации используется для движения в обоих направлениях. Она предназначена только для обгона, объезда, поворота налево или разворота. Закончив обгон, необходимо перестроиться на крайнюю правую полосу. (Пункт 9.3 ПДД). Дальнейшее движение Вы осуществляете согласно пункту 9.4 ПДД. «Вне населённых пунктов водители транспортных средств должны вести их по возможности ближе к правому краю проезжей части». У Вас такая возможность есть.",
     "topic": [
+      "Обгон, опережение, встречный разъезд",
       "Расположение транспортных средств на проезжей части"
     ],
     "id": "f5405e4ab81d2c0b7c27cd460818e86b"
@@ -308,7 +309,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/dfb41eae0144719e31b97496d96c9178.jpg",
+    "image": "./images/A_B/0de69b765c21d00f18efd15a7049c262.jpg",
     "question": "Водители каких автомобилей нарушили правила остановки?",
     "answers": [
       {
@@ -339,7 +340,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/a2390e5b156666dd359c55159c544996.jpg",
+    "image": "./images/A_B/ca1e7e46303c0d26feee56027dae91bd.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -366,7 +367,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/abeb738074f015315eecd58b4cdeaf8d.jpg",
+    "image": "./images/A_B/f2acc4df8b21866cd7e2e5ba86a05fb4.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -393,7 +394,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1acad5c62fb91164bdf8366d78d715ef.jpg",
+    "image": "./images/A_B/dfb6b7ef98191c5796293d1005d4f0c0.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -505,7 +506,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 34",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/00d241fcd8c271950321a415cd900b8f.jpg",
+    "image": "./images/A_B/88fd80e2855cc6f506e689cf14463385.jpg",
     "question": "При движении по двухполосной дороге за грузовым автомобилем у Вас появилась возможность совершить обгон. Ваши действия?",
     "answers": [
       {

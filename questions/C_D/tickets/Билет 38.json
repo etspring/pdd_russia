@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7999c8687ad8c030d4c6b59a59e74fec.jpg",
+    "image": "./images/C_D/ab48ea973c89c04d3d2825134c9e91ad.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекресток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3aa2bd4e841302ebd63811efcf297bf1.jpg",
+    "image": "./images/C_D/235d2ce2e02d449a6c5ca8d42a27f79f.jpg",
     "question": "Данные знаки предупреждают о приближении:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f641f887b487c43ca95ad2dc718efcbc.jpg",
+    "image": "./images/C_D/c2b3e0a0bc5c8d011f519810fec8745f.jpg",
     "question": "Разрешено ли Вам выполнить обгон, если Вы управляете автобусом?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2caca5591be3b1a0c2d7de6ee3973df1.jpg",
+    "image": "./images/C_D/26ff1ce5049cf24cd7810b35525181a6.jpg",
     "question": "Вы можете продолжить движение по крайней левой полосе:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4ed0b831f37d88e8ded2f281fe6c8d41.jpg",
+    "image": "./images/C_D/d7a238aa63531f05c21f643a4735f3e4.jpg",
     "question": "Разрешается ли Вам остановка в этом месте?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed5bdc19a5a400558be651e106f7072a.jpg",
+    "image": "./images/C_D/c293e5e3c31cb903e2dac410c6dc0afe.jpg",
     "question": "Вы намерены остановиться сразу за перекрестком. В каком месте необходимо включить указатели правого поворота?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/977249e484288cd7c9b2866f0b5f2a92.jpg",
+    "image": "./images/C_D/a3e614fdc1c05169e26eb0dde0de2388.jpg",
     "question": "При съезде с дороги на прилегающую справа территорию Вы:",
     "answers": [
       {
@@ -231,7 +231,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/05387642b0ecab7e2187a1daa1ca9b80.jpg",
+    "image": "./images/C_D/dc071a108fa19424f6f24f8e7b8e5e98.jpg",
     "question": "Разрешено ли Вам выполнить разворот при движении на подъеме?",
     "answers": [
       {
@@ -258,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/25d9b4ffd8599cbb333c870853f9aa53.jpg",
+    "image": "./images/C_D/414e8a83ee782c6aa532243ae06381e1.jpg",
     "question": "С какой максимальной скоростью разрешается продолжить движение при буксировке неисправного механического транспортного средства?",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bd24d81fcadc2be807c88d445904fc78.jpg",
+    "image": "./images/C_D/4dc6a884008251abedccac7c0c7ff992.jpg",
     "question": "Можно ли Вам начать обгон?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5c737cdc38726bc9ea02bd0709ab94b0.jpg",
+    "image": "./images/C_D/e1a1f7d0e311426735f96e241c1b059d.jpg",
     "question": "Разрешено ли водителю грузового автомобиля с разрешенной максимальной массой более 3,5 т остановиться в указанном месте?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5390bd98aa179f97ba119923cfac869f.jpg",
+    "image": "./images/C_D/b81e3c8c981aa42f00faea52ffec8e0d.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4b958a49df4d21b36b17fdce04666541.jpg",
+    "image": "./images/C_D/742e545ebeab2be91eeec0e8ec05ad6a.jpg",
     "question": "При движении в каком направлении Вы обязаны уступить дорогу трамваю?",
     "answers": [
       {
@@ -393,7 +393,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 38",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b354e33ba5612cb396e0c1fed7d28ef0.jpg",
+    "image": "./images/C_D/7ae1eddc0812edb5cd947eae0146733a.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {

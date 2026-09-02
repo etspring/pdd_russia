@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d004d3d85b9d480e1d2a42d986213c62.jpg",
+    "image": "./images/C_D/c57da784f4fa4d6a14cf07cb0a37d02d.jpg",
     "question": "Разрешается ли Вам въехать на мост одновременно с водителем мотоцикла?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a57abc3498d81f0dd7f0cea2bd9c01a0.jpg",
+    "image": "./images/C_D/d57be658b942fbe8c4dd2d58cdcbfd8e.jpg",
     "question": "Водители каких маломестных автобусов нарушили правила стоянки?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86fac834bee0daaa1473b229f30f0599.jpg",
+    "image": "./images/C_D/71cb9185fe78f3a4073b5464f4c87882.jpg",
     "question": "Какие из указанных табличек распространяют действие установленных с ними знаков на грузовые автомобили с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/61dcefa1bdfb13e25019eba8c37dea58.jpg",
+    "image": "./images/C_D/60196e508118518c1679c8cbb24a43e3.jpg",
     "question": "Правая полоса предназначена для движения:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/89dace2e50e0a6398338b59d0242545a.jpg",
+    "image": "./images/C_D/60a78a73f52cbed27bbb03b8e517a5b6.jpg",
     "question": "Как следует поступить водителю грузового автомобиля при приближении автомобиля оперативной службы?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bf50543e7c3bc678fc887fe39088eb95.jpg",
+    "image": "./images/C_D/c646e6799cc0925847186206b50fe6bd.jpg",
     "question": "Согнутая в локте рука водителя автомобиля является сигналом, информирующим Вас о его намерении:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3c5971f65dbd2594f18c6b0d8a3b737c.jpg",
+    "image": "./images/C_D/18e908943de6ed50fb3471dad9ffdf19.jpg",
     "question": "Вам можно продолжить движение при повороте налево:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ceadd589cd64f92a41d1171f65793565.jpg",
+    "image": "./images/C_D/090115ea13dd63273fa91fe6e16282a3.jpg",
     "question": "Разрешена ли Вам остановка на грузовом автомобиле с разрешенной максимальной массой более 3,5 т в указанном месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/18294a8d41305eb771ed834e16861124.jpg",
+    "image": "./images/C_D/edbf12df26314ec5d1565f2573195d4b.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Со стороны вытянутой правой руки регулировщика безрельсовым транспортным средствам движение разрешается только направо. При этом разворачивающийся автомобиль, руководствуясь «правилом правой руки», уступает Вам дорогу.(Пункт 6.10 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "6bd322a1a33eae11f34384124eff1fc3"
   },
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/571a44582659ced54d23dd2345245a81.jpg",
+    "image": "./images/C_D/5efb9a9fba195da252907b9b0d4ff73b.jpg",
     "question": "В каком случае Вы должны пропустить трамвай?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d00c5a2f3b84737307143b1966646c54.jpg",
+    "image": "./images/C_D/9f39ffd3f6f0941e1d24a687bf064f6f.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 36",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/feb57e2a7bfc9e983b83a8d4ea8fc822.jpg",
+    "image": "./images/C_D/aa9c5308fef8647862704f3473f2c408.jpg",
     "question": "Вы обязаны уступить дорогу грузовому автомобилю:",
     "answers": [
       {

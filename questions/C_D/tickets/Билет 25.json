@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ffd0dd28c2c892c9cd8e862f3b44ece8.jpg",
+    "image": "./images/C_D/63d57228f234be6e1cc0318df2310b40.jpg",
     "question": "На каком рисунке изображена дорога с разделительной полосой?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/319b30966f36da9586970aedc8fc2fa9.jpg",
+    "image": "./images/C_D/fc004fc51999918b4d2f8cdec15b87ea.jpg",
     "question": "Вам разрешено продолжить движение на грузовом автомобиле, имеющем разрешенную максимальную массу более 3,5 т, с прицепом:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bc3d65021c97912687fc59cbdbbad7f1.jpg",
+    "image": "./images/C_D/2fb3aeccd375d807f82659ae076cba67.jpg",
     "question": "Какие из указанных знаков отменяют все ограничения, введенные ранее запрещающими знаками?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5e1aff244b33563e654fa800f718fc61.jpg",
+    "image": "./images/C_D/cb828f8ab8f13d0b17b7b09698f290a6.jpg",
     "question": "Этот знак указывает, что:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fe0e7cf2aa5e230f5ff8f1f8e862909e.jpg",
+    "image": "./images/C_D/18ab83913ee1ebf9311d7fb277447824.jpg",
     "question": "Какой маневр Вам запрещается выполнить при наличии данной линии разметки?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e9e67733a9e1aa5be02f6cb9e1cb7988.jpg",
+    "image": "./images/C_D/c5fcbbe17095f9654e19f20e019dbdc4.jpg",
     "question": "Сигналы такого светофора распространяются:",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a7d7640c02415e3f5165b6bd5a3cdbe0.jpg",
+    "image": "./images/C_D/9fcea4b96db1f3186a85172b43c750cf.jpg",
     "question": "Обязаны ли Вы включить указатели поворота в данной ситуации?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/aaeed01c55f9bd35b24387fb80663ae1.jpg",
+    "image": "./images/C_D/08f5700357a8abc2e550f4979ef2e405.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/411e9bdae212f26d8dbd094f5f61840b.jpg",
+    "image": "./images/C_D/faaa2386828174a6dc281b3691b178a1.jpg",
     "question": "Водитель случайно проехал перекресток. Разрешено ли ему в этой ситуации использовать задний ход, чтобы затем продолжить движение налево?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/590aed1fb6b29802905bf4a14fe791e9.jpg",
+    "image": "./images/C_D/895dc7da322ad5f6bc9161427d061169.jpg",
     "question": "Можно ли Вам выполнить обгон?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e151b975e12438db22cd6c3be5a6f3d9.jpg",
+    "image": "./images/C_D/0dfd4669132120f844cf23b547ee92e9.jpg",
     "question": "Разрешена ли остановка в этом месте?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Движение регулируется: регулировщиком, сигналами светофора, знаками приоритета, разметкой, дорожным покрытием, «правилом правой руки». По вышеперечисленному «принципу приоритетности регулирования дорожного движения» знаки приоритета работают (т.е. ими мы руководствуемся) в том случае, когда отсутствует регулировщик, светофор выключен, неисправен, переведён в «жёлтый мигающий режим».(«Дорожные знаки», пункты 6.15 и 13.3 ПДД)",
     "topic": [
-      "Дорожные знаки"
+      "Проезд перекрестков"
     ],
     "id": "11f95f78b08a1345c915bf497456c7a7"
   },
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fc228e90c7f0e134eba5be918232030e.jpg",
+    "image": "./images/C_D/9c41f730c8fdd83282753c2d53a01c58.jpg",
     "question": "При повороте направо Вы должны уступить дорогу:",
     "answers": [
       {
@@ -393,7 +393,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b2a82ce42c0cb687d92ad73fec792c8f.jpg",
+    "image": "./images/C_D/dac2347a438ecc459297c0695965d134.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 25",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ce55c8b4c4dc23ca7db5b3fa61978175.jpg",
+    "image": "./images/C_D/29a76d0e0163eae8bb43eb06d925b5e1.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {

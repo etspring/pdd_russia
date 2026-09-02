@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5a8499429f6b0df70f0e4644d4d8967b.jpg",
+    "image": "./images/C_D/0a5624673e34f5cc82aba44d874d4b1f.jpg",
     "question": "Выезд из двора или c другой прилегающей территории:",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/67a216a2e57d41e09a7b3022babea88b.jpg",
+    "image": "./images/C_D/92a1a8d5f5b80ffbe253406d76946a10.jpg",
     "question": "Какие из указанных знаков требуют обязательной остановки?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b7bf48ba1948eb0dbe6151c57f9c76aa.jpg",
+    "image": "./images/C_D/b25e9a1e8ff5f3718b2d64c586ec2b6a.jpg",
     "question": "В зоне действия этого знака разрешается использовать звуковой сигнал:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/21a5ac1dd3caa95ed0e2675f78e9be73.jpg",
+    "image": "./images/C_D/ae0a2d414e3f340d72ba0637fe974db1.jpg",
     "question": "Такой вертикальной разметкой обозначают боковые поверхности ограждений:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/51f4c62203bdab4e8836a0def3c9c6fb.jpg",
+    "image": "./images/C_D/ea0044376ed5b4a071183c7b4fb4e034.jpg",
     "question": "Какие световые сигналы Вы обязаны подать в данной ситуации?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f80a372e10192b32243a976fa32d8bde.jpg",
+    "image": "./images/C_D/59fb2c6c77b040e28f2f8db83fbf2bc6.jpg",
     "question": "В каких направлениях Вам можно продолжить движение по второй полосе?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/46d7e256781ce9a769aa642c0748c753.jpg",
+    "image": "./images/C_D/d369f90bf1cc83feb109fca284ec3658.jpg",
     "question": "Разрешен ли Вам разворот в этом месте?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c262e4443a6fb432315efda0d3176743.jpg",
+    "image": "./images/C_D/1dd4914f9e5464cdba7807cbd54a5f09.jpg",
     "question": "По какой траектории Вы имеете право продолжить движение?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dd1287541dae98592be4fab120e282eb.jpg",
+    "image": "./images/C_D/367dd225c306080837490347a462fcc0.jpg",
     "question": "Водители каких транспортных средств нарушили правила остановки?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/22f342671ee7c1b29cb012cb090e4df0.jpg",
+    "image": "./images/C_D/19c40927b65e0cf67c60ab4efe740703.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d9c18d5a7fded8cde1f7e5dbc997de3a.jpg",
+    "image": "./images/C_D/5643a59bbae5686ed6a105286df96bec.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b449e581bf4eb8a7bd44ed7890b8b1b2.jpg",
+    "image": "./images/C_D/29ab59055db4e504be77830e8d02e58a.jpg",
     "question": "При движении прямо Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 26",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1903cadd4f57d1a9ad9be04276ba65df.jpg",
+    "image": "./images/C_D/3c43f17ba6b7fda23a0992b491341439.jpg",
     "question": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов?",
     "answers": [
       {

@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f087605a10f5220aeeefa5b456b7720f.jpg",
+    "image": "./images/A_B/e7e38eff20d0ea733bacf1bde14f44f3.jpg",
     "question": "Знаки предупреждают Вас о том, что:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/12c36ffbe10523b2714faa02f5a3ec86.jpg",
+    "image": "./images/A_B/eb09c4386eb4a744e6067700d3df0a2c.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b5386a5233577406d8b7a3a38e953e5c.jpg",
+    "image": "./images/A_B/dd7a50b827a857d28a2f0fda6762a106.jpg",
     "question": "Какие из указанных знаков запрещают движение транспортных средств, скорость которых по технической характеристике или их состоянию менее 40 км/ч?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bc0243aba1d9bf525cad2e0f5d121834.jpg",
+    "image": "./images/A_B/456928a5b1c55e064fd17a5aafa7ae6c.jpg",
     "question": "Можно ли Вам выполнить обгон при наличии данной разметки?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8df6c9c4313831708334de45de124841.jpg",
+    "image": "./images/A_B/ee673152b841b2bd913859fa464d81d7.jpg",
     "question": "В каких направлениях регулировщик разрешает Вам движение?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c97c2bf55ea570e8ce7f15418ae380ea.jpg",
+    "image": "./images/A_B/e9ffc878350ed49018c41a5cae562116.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/90c13551c9ff4196693f79f2f35fc695.jpg",
+    "image": "./images/A_B/b0f59d043954eef36a5134e93a18eaed.jpg",
     "question": "Разрешено ли Вам выполнить разворот в этом месте?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/395283c7cc5760df7e9af648b040541b.jpg",
+    "image": "./images/A_B/45915d157d147b29a5c8852e27b5b12d.jpg",
     "question": "По какой траектории Вам разрешается продолжить движение?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9ddce914f29ebe2ca60cfc2589524a24.jpg",
+    "image": "./images/A_B/b9a20ddec49762a76dbc953653f2c5b9.jpg",
     "question": "Можно ли Вам после опережения грузового автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -292,6 +292,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "По завершении опережения водителю следует перестроиться на ранее занимаемую полосу. В данном случае на правую. Вне населённого пункта водители должны вести транспортные средства по возможности ближе к правому краю проезжей части. У вас такая возможность есть, продолжаете движение только по крайней правой полосе.(Пункт 9.4 ПДД)",
     "topic": [
+      "Обгон, опережение, встречный разъезд",
       "Расположение транспортных средств на проезжей части"
     ],
     "id": "42cdc7ca04c27fd094b2fce5ad1f8454"
@@ -300,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/5d8a85fe9b47035f433c8e23536510ca.jpg",
+    "image": "./images/A_B/b6e5f3ba9f9afbcae78109ce329c67f4.jpg",
     "question": "Разрешено ли Вам остановиться на легковом автомобиле в указанном месте?",
     "answers": [
       {
@@ -327,7 +328,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6e8d6d737a0317392069551067c63e4c.jpg",
+    "image": "./images/A_B/8d551ae854c70525ae0b81030510b82b.jpg",
     "question": "Разрешено ли Вам выехать на перекресток, за которым образовался затор?",
     "answers": [
       {
@@ -354,7 +355,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/5f02f4854b6500e8fdbf3a08aebd3b88.jpg",
+    "image": "./images/A_B/6d43c29227c0dc8faf0d168aefd21b0d.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -377,7 +378,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d7c78352991d85f5f085f3928555c2db.jpg",
+    "image": "./images/A_B/b7851e3c6f96315434aee3ebcf212d4e.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -489,7 +490,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 9",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7f58ff99768859f04d709b433bf54b2c.jpg",
+    "image": "./images/A_B/47b02aa5f0cb93993c4a861de8d38488.jpg",
     "question": "Способ разворота с использованием прилегающей территории слева, обеспечивающий безопасность движения, показан:",
     "answers": [
       {

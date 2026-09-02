@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ee0d244d3c2b013d4d5aaae5794d71b8.jpg",
+    "image": "./images/A_B/dd8203f0d904884a7b4286e1e7e8b3ae.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7f3116ac451cee6376e19c9268bec96f.jpg",
+    "image": "./images/A_B/65b7c83ba3834eb5d4b748a5ceb38dbb.jpg",
     "question": "Кто из водителей нарушает правила разворота на автомагистрали?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f4cc6710d2a0062c239d65fcf70f7f89.jpg",
+    "image": "./images/A_B/978cfd6e52e645d6a52f6d6b4f4550e6.jpg",
     "question": "Разрешено ли Вам остановиться на автомагистрали правее линии, обозначающей край проезжей части?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/cae168a2b9a2358f11e1f9a1307f14c5.jpg",
+    "image": "./images/A_B/1700573fd4504bad982ffbc43cd47f3d.jpg",
     "question": "Где Вам разрешается остановиться при движении по автомагистрали?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2a819c2bba2b9e23a80c581150c4c8b1.jpg",
+    "image": "./images/A_B/923a316ab723710a1c2bbb488303d650.jpg",
     "question": "Можно ли Вам, управляя грузовым автомобилем, осуществить опережение в данной ситуации?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/03c640de7c55ddb3e38e0088cbb01885.jpg",
+    "image": "./images/A_B/48683300ab735c46a6c798ed7a278304.jpg",
     "question": "Разрешено ли обучать вождению на этой дороге?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/cdffa9648ae12d2812ccd0deab497a0f.jpg",
+    "image": "./images/A_B/56adb1108e7bd50d29259d26cd288b0d.jpg",
     "question": "Кто из водителей нарушает Правила?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/247d5cb4f05456d8d2c4e03120bfff84.jpg",
+    "image": "./images/A_B/1d71cb4b86b6f26dc8be22fbec29edc4.jpg",
     "question": "Нарушил ли водитель Правила при вынужденной остановке на автомагистрали?",
     "answers": [
       {

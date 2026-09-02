@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3fffc0569bc24609206f0cb5c56ed286.jpg",
+    "image": "./images/C_D/9cf2fc2933fcbcaf6bea4d46599d8f5d.jpg",
     "question": "О чем предупреждают Вас эти знаки?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6c7f9d54e957a74f7f9c5ea2371aa6e7.jpg",
+    "image": "./images/C_D/f1d8a21fa7a744e76d3749f90763583c.jpg",
     "question": "Какие из указанных знаков разрешают движение грузовым автомобилям с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/46349847a83ea069dec62550f5b46696.jpg",
+    "image": "./images/C_D/08ee98de6fc2480f92fbc62f257e6773.jpg",
     "question": "Вам можно продолжить движение по крайней левой полосе на автобусе:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/41c07cf5a72ac8cf1e4aa02d27fe942f.jpg",
+    "image": "./images/C_D/0f7dbd69163b95b9e3973380727f075e.jpg",
     "question": "В каком из указанных мест Вам разрешено пересечь сплошную линию разметки и остановиться?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1cacf52585aa8f072e8aaffce583646f.jpg",
+    "image": "./images/C_D/c524279a1dab8cbf3522983b173d925f.jpg",
     "question": "Должны ли Вы остановиться по требованию регулировщика в указанном им месте?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f86eb3db11bd21c638e447b3a07c4132.jpg",
+    "image": "./images/C_D/ff95190d6fc5886fdc3f816ec50992cd.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем мотоцикла, информирует Вас:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/26f6887d2fa75df98001f3fe66f4e146.jpg",
+    "image": "./images/C_D/2ca51cb04b68b4d1e97d7d8802a70b85.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0ca34b24f519891874b43f32a859e0db.jpg",
+    "image": "./images/C_D/46ad7e8ff01fe76f546406ebb21ee011.jpg",
     "question": "Можно ли Вам развернуться в этом месте?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8edf02a0101d9f1523db21c66c36dc98.jpg",
+    "image": "./images/C_D/3e8c6516cc1383f6f8b57dcf851d6c41.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/109bddcb80ecc054a04583f2b5a167fb.jpg",
+    "image": "./images/C_D/38a923f05790dd4a87cd11056d78232b.jpg",
     "question": "Разрешено ли Вам остановиться на мосту в указанном месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f86cb115f7b029d1836b2d774f05fd43.jpg",
+    "image": "./images/C_D/c3d7274e131a8d3e0d6462cd062a6002.jpg",
     "question": "При включении зеленого сигнала светофора Вы должны уступить дорогу:",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0c421fa52b2be0f69b412177c28cfbfb.jpg",
+    "image": "./images/C_D/a9b88243e51762198cae0dad8f870e01.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1fb7cba01392e80e45fce7898411d59b.jpg",
+    "image": "./images/C_D/e7a9eb3c4676df7793b8a249cae523fb.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 14",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/88b0099a2a8cd8df80ab23cedf8cb570.jpg",
+    "image": "./images/C_D/da2734be3abaaad4e22044674b6ae5c7.jpg",
     "question": "Кто из водителей нарушает правила разворота на автомагистрали?",
     "answers": [
       {

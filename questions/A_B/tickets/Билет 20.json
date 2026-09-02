@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6de829904f7ac74354a62773f3358df0.jpg",
+    "image": "./images/A_B/ae89439e6c015db12c499331fbfe5096.jpg",
     "question": "Можно ли Вам за перекрёстком въехать во двор?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d1c06ba860a212c5f47ba4b5499e3b53.jpg",
+    "image": "./images/A_B/65318d29fd97d6681495b3fca96ca45e.jpg",
     "question": "Разрешается ли Вам остановка за знаком?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ecdf3ea1f761231b7af85e3a765fddff.jpg",
+    "image": "./images/A_B/cd835d0cddccd1737752e60201a0b28e.jpg",
     "question": "Какие из указанных знаков запрещают дальнейшее движение без остановки?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/92281cfd89fecafa87944fcdaa8c5a5d.jpg",
+    "image": "./images/A_B/add540b1d3208d5d3c841249960fa8b0.jpg",
     "question": "Вы намеревались проехать перекрёсток в прямом направлении. Как следует поступить, если Вы не успели заранее перестроиться на левую полосу?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/20fd015a2ad992d7534e16d81993e880.jpg",
+    "image": "./images/A_B/ae1a65bfbe7bb47645dbf19714215b07.jpg",
     "question": "Какой знак используется для обозначения транспортного средства при вынужденной остановке в местах, где с учетом условий видимости оно не может быть своевременно замечено другими водителями?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/21867d8d22c6637f3b1240a449e99846.jpg",
+    "image": "./images/A_B/1059ec5b3538b5f35026b445987327b3.jpg",
     "question": "Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/77f12edd9ee98dad4f4cde155d396b9d.jpg",
+    "image": "./images/A_B/0ad34aa1528fe34878b70f1cf2e30c5c.jpg",
     "question": "Разрешается ли Вам выполнить разворот с заездом во двор задним ходом?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6e70dbb4e4bc0db0b2e6221ea6a7edaf.jpg",
+    "image": "./images/A_B/4749ce21920b56b5cdea52e06560a46f.jpg",
     "question": "Укажите расстояние, под которым в Правилах понимается дистанция:",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/78bd378f97d1c266f638139db5e130aa.jpg",
+    "image": "./images/A_B/86c258b9e6553ea18429f6f1edb6e343.jpg",
     "question": "Можно ли Вам начать обгон грузового автомобиля в данной ситуации?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e975432b4875d31688be635533065bfd.jpg",
+    "image": "./images/A_B/6789b1f3ee8de8d3e57b1fbd9db55c32.jpg",
     "question": "Какой автомобиль разрешено поставить на стоянку указанным на табличке способом?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "В местах, обозначенных знаком 6.4 «Парковка (парковочное место)» совместно с одной из табличек 8.6.2 – 8.6.9 «Способ постановки транспортного средства на стоянку», разрешена стоянка легковых автомобилей и мотоциклов только так, как указано на табличке. Всем остальным придётся подыскивать другое место стоянки.(«Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки"
+      "Остановка и стоянка"
     ],
     "id": "530be726bc320d2cbdb970ab6ee5b6f9"
   },
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7628e0f2e5f21407f883a25e2d554655.jpg",
+    "image": "./images/A_B/1441e9d88c6f16b875fc1f41b904b169.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/050fa6a1b80d7a04eb54a5bf29933ac9.jpg",
+    "image": "./images/A_B/a24148e3eea117cbcb4ce355005f53ee.jpg",
     "question": "При повороте направо Вам следует:",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7280d7ef8d6cbad26dd14c5e46de77f6.jpg",
+    "image": "./images/A_B/f27f00a3c24b56428689ba809ea4f523.jpg",
     "question": "Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 20",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1127fcc7a528c0bee0cbdb4b2a95e4f4.jpg",
+    "image": "./images/A_B/beadb4f6bd352d2fbf0ac84f6c65d45b.jpg",
     "question": "В данной ситуации Вы должны остановиться:",
     "answers": [
       {

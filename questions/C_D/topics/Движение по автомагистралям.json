@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3a2596475cb344e3b4160ac18056ee4a.jpg",
+    "image": "./images/C_D/70a3aabd986e5c1d6d146f940de567c3.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/88b0099a2a8cd8df80ab23cedf8cb570.jpg",
+    "image": "./images/C_D/da2734be3abaaad4e22044674b6ae5c7.jpg",
     "question": "Кто из водителей нарушает правила разворота на автомагистрали?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4fcfdc8a057f02b047164d8488daf49f.jpg",
+    "image": "./images/C_D/1e95e349803bb8f16f372fb524314155.jpg",
     "question": "Разрешено ли Вам остановиться на автомагистрали правее линии, обозначающей край проезжей части?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f131ff13e38000f86c41cd2f83e40ac5.jpg",
+    "image": "./images/C_D/1ffbeb59a25f2f7d327d13364bc18899.jpg",
     "question": "Где Вам разрешается остановиться при движении по автомагистрали?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/db13cbc52e3478466fb7c7ce53a9db54.jpg",
+    "image": "./images/C_D/a2d5c669bb96280af2304c445472cf93.jpg",
     "question": "Можно ли Вам, управляя грузовым автомобилем с разрешенной максимальной массой более 3,5 т, осуществить опережение в данной ситуации?",
     "answers": [
       {
@@ -223,6 +223,33 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
+    "image": "./images/C_D/b479ba9aa3f0dc9cc2436e1a2f4cdc57.jpg",
+    "question": "Разрешено ли обучать вождению на этой дороге?",
+    "answers": [
+      {
+        "answer_text": "Запрещено",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Разрешено, только при движении по крайней правой полосе проезжей части",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Разрешено",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Движение происходит согласно знаку 5.1 по автомагистрали. Учебная езда на ней не запрещена, т.е. разрешена.(«Дорожные знаки», пункт 16.1 ПДД).",
+    "topic": [
+      "Движение по автомагистралям"
+    ],
+    "id": "ea4d4f17b1c5900ee71a3509435aa262"
+  },
+  {
+    "title": "Вопрос 10",
+    "ticket_number": null,
+    "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
     "question": "Разрешается ли движение по автомагистрали на транспортном средстве, скорость которого по техническому состоянию менее 40 км/ч?",
     "answers": [
@@ -247,10 +274,10 @@
     "id": "d303667a7da1561a95d785aeb013ac46"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/802364f24612fe8fa77d0d3d03c8643e.jpg",
+    "image": "./images/C_D/43d739919c9ec83313f72ba02061d88c.jpg",
     "question": "Кто из водителей нарушает Правила?",
     "answers": [
       {
@@ -274,7 +301,7 @@
     "id": "9f13ced150b28fcf0d7dd4e45d431595"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -301,10 +328,10 @@
     "id": "9bc59bb751bcfea2e5e90395c23b679a"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dbf3975679a0def55a718070c2ad1e64.jpg",
+    "image": "./images/C_D/f8a23f7e5d87e203599a4908fb7dd922.jpg",
     "question": "Нарушил ли водитель Правила при вынужденной остановке на автомагистрали?",
     "answers": [
       {

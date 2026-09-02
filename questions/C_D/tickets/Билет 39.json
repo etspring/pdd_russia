@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/377d5c145e5e59821ca4658cbd862d16.jpg",
+    "image": "./images/C_D/c788c9532ff26a91b68bbeb48d73eccb.jpg",
     "question": "Этот знак предупреждает о приближении к тоннелю, в котором:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ce8417a79de6f8d6807ba8fa01904aad.jpg",
+    "image": "./images/C_D/35952925db52515eaff92baa5b6638f6.jpg",
     "question": "Вы имеете право продолжить движение на перекрестке:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dbd9990bb9f75cc84e89118c1897635a.jpg",
+    "image": "./images/C_D/15dd73077c410846444fa5801b819c52.jpg",
     "question": "Какие из указанных знаков разрешают выполнить поворот налево?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/14185d062bd64b99b26fcae3c4f71878.jpg",
+    "image": "./images/C_D/7510818e72ad217df170b4790e83c404.jpg",
     "question": "При наличии данной разметки, нанесенной на полосе движения, Вам разрешено выполнить:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0fb109b75ab137e142d8b71175297e59.jpg",
+    "image": "./images/C_D/1097deaf679352ac005d85ff5f7be7e0.jpg",
     "question": "Вам можно двигаться:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/387948bfe2d9e4d8beb20fa98ebca337.jpg",
+    "image": "./images/C_D/5f636cc6bb71fd25dc1ac65c855cdd4c.jpg",
     "question": "Водитель маломестного автобуса, выполняющий перестроение на правую полосу, в данной ситуации:",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8ee6a6d59842379e80ac6f46e0a97164.jpg",
+    "image": "./images/C_D/aeea5e686863167891de8f7b64d7a540.jpg",
     "question": "Разрешается ли Вам выполнить разворот в указанном месте?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1f544ddbd213c5f434d09481fa1adc1f.jpg",
+    "image": "./images/C_D/f35fdf52df27d8bf12081b14de6f30c8.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/276f4cfd4225d1eb448b789cda14ad96.jpg",
+    "image": "./images/C_D/60c6684aa5d33ebd6d0ab09520ae2246.jpg",
     "question": "По какой траектории водителю маломестного автобуса можно выполнить обгон?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/11166c383b6ccaebcb3fe016cd4caac4.jpg",
+    "image": "./images/C_D/60d2c9ccfb7ab0efedcff41639b5aac2.jpg",
     "question": "Разрешается ли Вам остановка в указанном месте?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/70e61f8302e24c7c8360860f28296b9a.jpg",
+    "image": "./images/C_D/c64f3051f345b70b39858b9d13ea1997.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cbc4f419164379738b289e9be85f9335.jpg",
+    "image": "./images/C_D/93d99e1c215a3b15a0924f4e638dc9ae.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/949b28733ea07e453d07f448b4656688.jpg",
+    "image": "./images/C_D/f46e7fb3b5a004560e6597968d1682f0.jpg",
     "question": "Кому Вы должны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 39",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dbf3975679a0def55a718070c2ad1e64.jpg",
+    "image": "./images/C_D/f8a23f7e5d87e203599a4908fb7dd922.jpg",
     "question": "Нарушил ли водитель Правила при вынужденной остановке на автомагистрали?",
     "answers": [
       {

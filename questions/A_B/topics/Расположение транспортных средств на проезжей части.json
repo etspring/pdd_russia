@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e3e62b340fb4d5cf100799821d04d7b8.jpg",
+    "image": "./images/A_B/6ee83f48f012a4403432e26f3817fd69.jpg",
     "question": "По какой полосе Вы имеете право двигаться с максимальной разрешенной скоростью вне населенного пункта?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/676956abe8a15ebc091b562be321a1b6.jpg",
+    "image": "./images/A_B/9e1619e71879ded26e33fbd774c08a9c.jpg",
     "question": "Вне населенных пунктов Вам можно продолжить движение:",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/395283c7cc5760df7e9af648b040541b.jpg",
+    "image": "./images/A_B/45915d157d147b29a5c8852e27b5b12d.jpg",
     "question": "По какой траектории Вам разрешается продолжить движение?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6e70dbb4e4bc0db0b2e6221ea6a7edaf.jpg",
+    "image": "./images/A_B/4749ce21920b56b5cdea52e06560a46f.jpg",
     "question": "Укажите расстояние, под которым в Правилах понимается дистанция:",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/cdd6b7ebf95b39f0717b8eb63a12295a.jpg",
+    "image": "./images/A_B/ea227ad0aef92863dc229b443624759e.jpg",
     "question": "Разрешается ли Вам, управляя легковым автомобилем, продолжить движение по трамвайным путям попутного направления?",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/efe5336ecc830f437e17cae8d217714c.jpg",
+    "image": "./images/A_B/d4837025fa1254957ced8f9eda1263c6.jpg",
     "question": "Разрешается ли Вам выехать на трамвайные пути встречного направления в данной ситуации?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e01f0943a634ca5c1ef17a273635f81d.jpg",
+    "image": "./images/A_B/e3c49ee300e9b4575eb4c2136a5f872c.jpg",
     "question": "По какой траектории Вы имеете право продолжить движение?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4934f70bcd29ddae9caaacf6527c0bd0.jpg",
+    "image": "./images/A_B/acaf957a051ae0e117e7477b5ead3ddc.jpg",
     "question": "Каковы Ваши действия в данной ситуации?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/66ec7bf94373057bb49b55f1caa49bed.jpg",
+    "image": "./images/A_B/1af94c38c42d6968189e392ed1af3797.jpg",
     "question": "Разрешается ли Вам, управляя грузовым автомобилем с разрешённой максимальной массой более 2,5 т, выехать на третью полосу в данной ситуации?",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1ebfab4546de55a042eb8223c79444f4.jpg",
+    "image": "./images/A_B/89d5e2a6c3f63c1cca698f88cc444e66.jpg",
     "question": "Можно ли Вам выехать на крайнюю левую полосу в данной ситуации?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b6f1f39d3333be8dbcfde1f277401c58.jpg",
+    "image": "./images/A_B/deb2a5c554299bfc5ae55a7f33a0ed6e.jpg",
     "question": "В данной ситуации Вам разрешается движение:",
     "answers": [
       {
@@ -482,7 +482,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/751462dccd4f44aa74321458927c3163.jpg",
+    "image": "./images/A_B/238ed5cba9edb20e7428ae83917ccb93.jpg",
     "question": "Кто из водителей мопедов занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -536,7 +536,34 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b1a187efed1968679701916c00cb2e11.jpg",
+    "image": "./images/A_B/f518c4ee7f2b322f459fe5396822eb17.jpg",
+    "question": "В данной ситуации для того, чтобы продолжить движение в прямом направлении, Вы имеете право:",
+    "answers": [
+      {
+        "answer_text": "Объехать грузовой автомобиль справа",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Продолжить движение только после того, как грузовой автомобиль выполнит поворот налево",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Выполнить любое из перечисленных действий",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "В данной ситуации Ваше право выбирать:или объехать грузовой автомобиль справа;или дождаться освобождения полосы, на которой Вы находитесь, чтобы без лишних перестроений продолжить дальнейшее движение.(Пункты ПДД: 1.2 термины «Перестроение», Опережение», 8.4)",
+    "topic": [
+      "Расположение транспортных средств на проезжей части"
+    ],
+    "id": "b18684295628bf9197e837be8532b67c"
+  },
+  {
+    "title": "Вопрос 21",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/410b2d6082cda0d05614d2f72b1fe9bf.jpg",
     "question": "Кто из водителей занял правильное положение на полосе движения?",
     "answers": [
       {
@@ -564,10 +591,10 @@
     "id": "f94e80e332142df4a8a060f2e6df253b"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2e01cd61f2acb8aab7f9fa7a5704f256.jpg",
+    "image": "./images/A_B/80633f49e4a75fe76131152f7db34a89.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -591,10 +618,10 @@
     "id": "d81b730e232ceee0cde358cc15fc3b72"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9ddce914f29ebe2ca60cfc2589524a24.jpg",
+    "image": "./images/A_B/b9a20ddec49762a76dbc953653f2c5b9.jpg",
     "question": "Можно ли Вам после опережения грузового автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -618,10 +645,10 @@
     "id": "42cdc7ca04c27fd094b2fce5ad1f8454"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4c1f97b70634353c06d942ffba2cefe6.jpg",
+    "image": "./images/A_B/8777a9f7fed961f9be599dd3ecc6ff38.jpg",
     "question": "По какой полосе Вам можно продолжить движение в населённом пункте после опережения грузового автомобиля?",
     "answers": [
       {
@@ -645,10 +672,10 @@
     "id": "6fcf9e9e13a2602cfb9273eb8fcf070c"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/04244ce5ded19bcb12b27aa60397f8b9.jpg",
+    "image": "./images/A_B/1347da88620c7eb2247ec3c4a530d0da.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {
@@ -670,5 +697,59 @@
       "Расположение транспортных средств на проезжей части"
     ],
     "id": "f5405e4ab81d2c0b7c27cd460818e86b"
+  },
+  {
+    "title": "Вопрос 26",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/923a316ab723710a1c2bbb488303d650.jpg",
+    "question": "Можно ли Вам, управляя грузовым автомобилем, осуществить опережение в данной ситуации?",
+    "answers": [
+      {
+        "answer_text": "Можно",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Можно, если разрешенная максимальная масса автомобиля не более 2,5 т",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Нельзя",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "На любых дорогах, имеющих для движения в данном направлении три полосы и более, занимать крайнюю левую полосу разрешается только при интенсивном движении, когда заняты другие полосы, а также для поворота налево или разворота, а грузовым автомобилям с р.м.м. более 2,5 т - только для поворота налево или разворота.Осуществить опережение можно, если р.м.м. грузового автомобиля не более 2,5 т.(Пункт 9.4 ПДД)",
+    "topic": [
+      "Расположение транспортных средств на проезжей части"
+    ],
+    "id": "10cb8c080b8864b0f54fe9a476a9b5d9"
+  },
+  {
+    "title": "Вопрос 27",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/56adb1108e7bd50d29259d26cd288b0d.jpg",
+    "question": "Кто из водителей нарушает Правила?",
+    "answers": [
+      {
+        "answer_text": "Водители грузового автомобиля с разрешенной максимальной массой 3 т и мопеда",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Только водитель мопеда",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Никто не нарушает",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 1",
+    "answer_tip": "Движение по автомагистрали на мопедах запрещено. Запрещается и движение грузовым автомобилям с р.м.м более 2,5 т по любой дороге, имеющей три полосы движения в данном направлении по крайней левой полосе. Нарушают правила водители грузового автомобиля и мопеда.(Пункты 9.4, 16.1 ПДД)",
+    "topic": [
+      "Расположение транспортных средств на проезжей части"
+    ],
+    "id": "7ff5e1de92c7433368dbf4dcdb17de60"
   }
 ]

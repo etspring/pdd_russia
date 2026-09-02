@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/93ed874db92e063f72ab89cbac66a6e3.jpg",
+    "image": "./images/A_B/46329eabfd62ae43ef94b81c633ee7c3.jpg",
     "question": "Разрешается ли водителю выполнить объезд грузового автомобиля?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0c581889c2f25223b2f4b01501c75d7d.jpg",
+    "image": "./images/A_B/8e7f2fa0dd61f101a01f2b1d158cbb41.jpg",
     "question": "Разрешено ли Вам проехать железнодорожный переезд?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/229c3026c1f37997a9e315a0a4985df1.jpg",
+    "image": "./images/A_B/a484f530c7afda9da8895894ead766c6.jpg",
     "question": "Разрешён ли Вам въезд на железнодорожный переезд в данной ситуации?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1127fcc7a528c0bee0cbdb4b2a95e4f4.jpg",
+    "image": "./images/A_B/beadb4f6bd352d2fbf0ac84f6c65d45b.jpg",
     "question": "В данной ситуации Вы должны остановиться:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/635a08d453bf4cca5a1c13b83cb67407.jpg",
+    "image": "./images/A_B/0996590e6c8295e5186f3011c4836236.jpg",
     "question": "В данной ситуации Вы должны остановиться:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0003ed7b24de9fef2e180ed01d3ab04b.jpg",
+    "image": "./images/A_B/1f5530e492c5d88ebfe05c2999afaee6.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ba519a2c27db2e220ef9a374695a2135.jpg",
+    "image": "./images/A_B/07b949e5682ca65128ddf8aae67830c6.jpg",
     "question": "На каком наименьшем расстоянии до ближайшего рельса Вы должны остановиться?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/780e98a255f8bbfd9863bae2439131f9.jpg",
+    "image": "./images/A_B/7cb2b0ba2077f38786d5f48326fce9b2.jpg",
     "question": "Можно ли Вам въехать на железнодорожный переезд?",
     "answers": [
       {

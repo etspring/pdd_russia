@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e5d78b9e4d67a140a734c7530472e78a.jpg",
+    "image": "./images/C_D/7ea0bb0a5e4e852b7eaa5f24d9e4b99e.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/58b2eb474347c1fb2823a27bfcd87958.jpg",
+    "image": "./images/C_D/f27660ee733f0838139767a303e3c7a5.jpg",
     "question": "Какие из указанных знаков разрешают проезд на автомобиле к месту проживания или работы?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/027ac4e5f70a9cec978fd2661e119904.jpg",
+    "image": "./images/C_D/4afd3e389e8b3c04a5c6fa4ef2f707cd.jpg",
     "question": "Что обозначают эти дорожные знаки?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b1c796308166d7fe727e1e004b556c1e.jpg",
+    "image": "./images/C_D/a2a17c364cf1e3b7eb55b5844c4f3729.jpg",
     "question": "Разметка в виде треугольника на полосе движения:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5cb616a3d2b91f26c44799de88eee7ea.jpg",
+    "image": "./images/C_D/83922e77b8e6d7d2c1eb603d4da66aa9.jpg",
     "question": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы включить указатели левого поворота?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/421911aba0f2769845fbeb2f7eb8c99e.jpg",
+    "image": "./images/C_D/79f329db325956761edd0b5ddd2266ad.jpg",
     "question": "Кто должен уступить дорогу при взаимном перестроении?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/42bf68caabb51e3e22fc2966e0b37d24.jpg",
+    "image": "./images/C_D/be7aa1ce430444ebcd35f0c1f1683aed.jpg",
     "question": "В каких направлениях Вам можно продолжить движение?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/606f4daecb2810f54758f2f855219341.jpg",
+    "image": "./images/C_D/df75c0022af4792cb423c691806ebe1b.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на автобусе, в котором места для сидения пассажиров\nоборудованы ремнями безопасности, предназначенном для перевозки исключительно сидящих пассажиров?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5594072abd6fc6705c68759cda4aeb83.jpg",
+    "image": "./images/C_D/23492ea8827dc67aa631a58bbe1993c1.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/406b6f091288f5bd57a6d9036619168e.jpg",
+    "image": "./images/C_D/e042e74e4148ac6314c30adae8e20f6a.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/da76b585fbfa7ecd005f2f09860232e7.jpg",
+    "image": "./images/C_D/59e528616ee765aea133354b0409b27a.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо. Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении. Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5 ПДД).",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "9dfa3c0c25b1d3b12a305dfae1e87aca"
   },
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d80bcc20ae9fbba879250a997e9d3ffa.jpg",
+    "image": "./images/C_D/79ed94bdd010103374766b39c8cf17b1.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0282a5489044c0d82ffc7f1a7f73664b.jpg",
+    "image": "./images/C_D/d080334034f911acf6742e60eb2e025b.jpg",
     "question": "В каком случае Вы должны будете уступить дорогу автомобилю ДПС?",
     "answers": [
       {
@@ -404,7 +404,8 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "В данном случае Вы должны уступить дорогу «оперативнику», если на данном автомобиле одновременно будут включены проблесковые маячки синего цвета и специальный звуковой сигнал.(Пункт 3.2 ПДД)",
     "topic": [
-      "Применение специальных сигналов"
+      "Применение специальных сигналов",
+      "Проезд перекрестков"
     ],
     "id": "8c3616674b46014b2338c7c719b2bc8d"
   },
@@ -501,7 +502,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 6",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/811ba327945dcb8847a1f0745cb20e7c.jpg",
+    "image": "./images/C_D/662e7d9f0f3d1e8650ee6a999f3dde21.jpg",
     "question": "В случае остановки на подъеме (спуске) при наличии обочины можно предотвратить самопроизвольное скатывание автобуса на проезжую часть, повернув его передние колеса в положение:",
     "answers": [
       {

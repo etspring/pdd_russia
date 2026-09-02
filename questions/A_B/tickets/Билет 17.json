@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0840b0fda75dd87411fbcf09bcf4e30c.jpg",
+    "image": "./images/A_B/ef5959510522ccf4803d7e919676876b.jpg",
     "question": "На каком расстоянии до неровного участка дороги устанавливается этот знак вне населённого пункта?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/04a499aef4a99122c25194f6d9a1d1e4.jpg",
+    "image": "./images/A_B/ba5e85a244fd48c61dae3f0bac01741e.jpg",
     "question": "Требования каких знаков из указанных вступают в силу непосредственно в том месте, где они установлены?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/eed27a5c4392a2a306d80c471ac0090f.jpg",
+    "image": "./images/A_B/a51b71ddfe5aef6cb58925e233a914a9.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d9702034dbea45f1737f278b9fa39b0f.jpg",
+    "image": "./images/A_B/7a9b6b82d619194349873911b83d9c8c.jpg",
     "question": "Можно ли Вам выполнить обгон при наличии данной разметки?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d47f6e9e06d5ef0a6603506db204101d.jpg",
+    "image": "./images/A_B/bbb5f402cb1117567a5466ca4c37e6fc.jpg",
     "question": "В каком месте Вам следует остановиться?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/365f9b3d36543de124b483e97eed0487.jpg",
+    "image": "./images/A_B/966528e99ac2d288009c3dc2db00c21a.jpg",
     "question": "На каком расстоянии от транспортного средства должен быть выставлен знак аварийной остановки в данной ситуации?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/3e910b3949595b683f89350b8c5c492b.jpg",
+    "image": "./images/A_B/c424ea1274cec6b363ae0fe42eca4559.jpg",
     "question": "Разрешено ли Вам выполнить поворот направо в данной ситуации?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/180b887bec2b664b24136f5c3c17a4be.jpg",
+    "image": "./images/A_B/bd56feaf584b5386233b5affc44fe880.jpg",
     "question": "Можно ли Вам выполнить разворот по данной траектории?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/501d2aa50518d03d5cd41f8d17ac414a.jpg",
+    "image": "./images/A_B/59a28432a9c8f52b69fc843864e0fa84.jpg",
     "question": "Можно ли Вам начать обгон в населённом пункте?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c6c9239f7674b9fc1e812fff5dbd3270.jpg",
+    "image": "./images/A_B/9a0b87370c8fe847f649fa1b83d2bf04.jpg",
     "question": "В каком месте на данном участке дороги Вам разрешено поставить автомобиль на длительную стоянку?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f9c1eef00972d0e04906bd6364f50b1f.jpg",
+    "image": "./images/A_B/4477cc68a2aa12783d987a4fbdd28b76.jpg",
     "question": "Обязаны ли Вы уступить дорогу автобусу?",
     "answers": [
       {
@@ -354,7 +354,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/02d4a9e3555f8d7cacc5e5570ecabc45.jpg",
+    "image": "./images/A_B/3e2c43d40ea41d74582a59f496fcb4ad.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -381,7 +381,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9a204ce32204d02becd1e89b21be5486.jpg",
+    "image": "./images/A_B/2b304e6eef9c908a95c76aaa3da9b934.jpg",
     "question": "После въезда на этот перекресток:",
     "answers": [
       {
@@ -408,7 +408,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 17",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/656b5c5a80472af7c484466e837a8f2d.jpg",
+    "image": "./images/A_B/c8d1360df0c6937615d1b738f8c54f11.jpg",
     "question": "Кто из водителей должен уступить дорогу трамваю?",
     "answers": [
       {

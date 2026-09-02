@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6af656ebd51a7f8be1441b0bb493631d.jpg",
+    "image": "./images/A_B/ea8d1c792f89ff002b5dacbf9a655d99.jpg",
     "question": "Вам можно продолжить движение на перекрёстке:",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/58441561ca6c27342e1da74c2b111e71.jpg",
+    "image": "./images/A_B/a0c75c0f6d56c0a0e7b60d0a668adc9e.jpg",
     "question": "Этот дорожный знак:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b0f10ecb909c1aa8d723f94a9ee05060.jpg",
+    "image": "./images/A_B/0c80b739f4270a6db216620eacbdfea2.jpg",
     "question": "Какие из указанных табличек указывают протяжённость зоны действия знаков, с которыми они применяются?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f1d506fbfb636f628b8c24f2f408f7d6.jpg",
+    "image": "./images/A_B/7c49675253fb73e1a6104c352308b002.jpg",
     "question": "Разрешён ли Вам такой маневр при выключенных реверсивных светофорах?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6528b4c265bbe0daee96037fba4dcb1b.jpg",
+    "image": "./images/A_B/b07fa3971dc3a23f264b83d331d93422.jpg",
     "question": "При таких сигналах светофора и жесте регулировщика Вы должны:",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fc1e5f78d8da6944c860bb3894c8cd9c.jpg",
+    "image": "./images/A_B/ea1e6f2135d6811e8e38a370d6a2d5ed.jpg",
     "question": "Обязан ли в этой ситуации водитель, остановившийся из-за неисправности, выставить знак аварийной остановки?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/06118b455622a160430299f15b7ed1b8.jpg",
+    "image": "./images/A_B/20c907fb71465605f29c18bb7e3a462e.jpg",
     "question": "По какой траектории Вам разрешено продолжить движение налево?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/881a159469ff66a410ac8b82048ab12d.jpg",
+    "image": "./images/A_B/9bce735f86be672278b4164db4323c7b.jpg",
     "question": "Как Вам следует действовать, выезжая с места стоянки одновременно с другим автомобилем?",
     "answers": [
       {
@@ -312,7 +312,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/55cc0dc729f219ee17533d2fc66fe85d.jpg",
+    "image": "./images/A_B/abc093216287c340a96712cbf68cf6e1.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -343,7 +343,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/73fd1e6efeb884c39fff83400864dff5.jpg",
+    "image": "./images/A_B/661ef6e93f80ff30cd7a06f1c153fe88.jpg",
     "question": "В каком случае Вы обязаны пропустить трамвай?",
     "answers": [
       {
@@ -370,7 +370,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/08f998d8404bfa602bad7d564d8eac56.jpg",
+    "image": "./images/A_B/6da6afbea02355b57c608447098bd93a.jpg",
     "question": "При движении в прямом направлении, Вам следует:",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e855bd199d285681d32fa62d04edecea.jpg",
+    "image": "./images/A_B/84d6672b1d79532a86d19be3dc72d81d.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -416,7 +416,6 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Перекрёсток неравнозначный. Главная дорога меняет направление. Транспортные средства, находящиеся на главной дороге, имеют преимущество, между собой руководствуются «правилом правой руки». У Вас помеха справа, уступаете автобусу. Легковой автомобиль проедет последним, так как находится на второстепенной дороге.(Пункты 13.9, 13.10, 13.11 ПДД)",
     "topic": [
-      "Дорожные знаки",
       "Проезд перекрестков"
     ],
     "id": "1ff83cfa25d8634e88ee581fe7e7ba35"
@@ -425,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 15",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e6f55295f6328f28da2d2e44fa11feae.jpg",
+    "image": "./images/A_B/499046a03788b4899c74e1b183df8833.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {

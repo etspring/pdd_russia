@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/847b3703a156153b2fb43ca17b376159.jpg",
+    "image": "./images/C_D/f0d88bfde95cc1608a53a5ae20bdbdd8.jpg",
     "question": "На каком рисунке изображен автомобиль, водитель которого не нарушает правил перевозки грузов?",
     "answers": [
       {
@@ -116,37 +116,6 @@
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
-    "question": "Разрешается ли перевозка людей в буксируемом на жесткой сцепке автобусе?",
-    "answers": [
-      {
-        "answer_text": "Разрешается",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается только в светлое время суток",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается только в автобусе, имеющем не более 16 сидячих мест",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Запрещается",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 4",
-    "answer_tip": "В буксируемом автобусе, независимо от типа сцепки перевозка людей запрещается.(Пункт 20.2 ПДД)",
-    "topic": [
-      "Перевозка людей и грузов"
-    ],
-    "id": "09a854801d4739307b21851a7da9d889"
-  },
-  {
-    "title": "Вопрос 6",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./images/no_image.jpg",
     "question": "В каких случаях число перевозимых людей не должно превышать количества оборудованных для сидения мест?",
     "answers": [
       {
@@ -170,10 +139,10 @@
     "id": "bed58e56abce448a3d581568099f745f"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1903cadd4f57d1a9ad9be04276ba65df.jpg",
+    "image": "./images/C_D/3c43f17ba6b7fda23a0992b491341439.jpg",
     "question": "На каком рисунке изображен автомобиль, водитель которого нарушает правила перевозки грузов?",
     "answers": [
       {
@@ -197,7 +166,7 @@
     "id": "9332c006db2e485b585c6d034055a320"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -224,7 +193,7 @@
     "id": "02f642e05d8f7b4141b3200865efa52b"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",

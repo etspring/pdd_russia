@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/aae177d74ffe43e5dd26046e84bc1ac3.jpg",
+    "image": "./images/C_D/1038985e3e83fe5c44e7a98a925aa007.jpg",
     "question": "Этот знак предупреждает о приближении к перекрестку, на котором Вы:",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3a5ec3e80c6c5a1fe352c33ac87f0221.jpg",
+    "image": "./images/C_D/705a3418dd8144ca9ef72c201fa3d177.jpg",
     "question": "Данный знак запрещает движение:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/11cf7288cfcff3feb8be4cae7c402937.jpg",
+    "image": "./images/C_D/9dd48b272c3cf1c20e7c14fb0219eb80.jpg",
     "question": "Какой из указанных знаков информирует о начале дороги с реверсивным движением?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1eaa6eb0f195c223487ba2be5e887d5e.jpg",
+    "image": "./images/C_D/49504a09c80fb304c435a0734b17d1af.jpg",
     "question": "Эта вертикальная разметка:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f3cbc3a30433e1b2dfb43361e8c6073e.jpg",
+    "image": "./images/C_D/9aa62feb989e98d385d8972257f9abfa.jpg",
     "question": "Разрешено ли Вам за перекрестком выехать на полосу с реверсивным движением?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/300448ba37db614147f7f78ed5c443f5.jpg",
+    "image": "./images/C_D/5227c616dd372884bc1c92f25cddf04e.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем легкового автомобиля, информирует Вас:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/19ca8c0490d3761b03de8e4af11fbe3f.jpg",
+    "image": "./images/C_D/4c09bca27c4f8cdc888fdc0465660ee8.jpg",
     "question": "При повороте налево для въезда во двор Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ddbebe9520a8bb5b065f123c7c367ec7.jpg",
+    "image": "./images/C_D/46b6f1bcfbb0a3364894f8600060a32b.jpg",
     "question": "В каких направлениях Вам разрешается продолжить движение по крайней левой полосе на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "При наличии трёх полос и более в данном направлении водитель грузовика, разрешённая максимальная масса которого более 2,5 т, может выезжать на крайнюю левую полосу только для поворота налево и разворота. Данные знаки особых предписаний, разрешающие поворот налево из крайней левой полосы, разрешают и разворот. Вам, при управлении грузовым автомобилем р.м.м. которого более 3,5 т, можно с данной полосы повернуть налево или развернуться для движения в обратном направлении.(«Дорожные знаки», пункт 9.4 ПДД)",
     "topic": [
-      "Дорожные знаки"
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "9ba1f452021e914fa92774f0562c7be5"
   },
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0979dad230f33599c8aa708f8c54c184.jpg",
+    "image": "./images/C_D/553734d4089e6614ccde6f45504df3be.jpg",
     "question": "Вы можете начать обгон:",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ab7b239f0713a047d2519b9252d57339.jpg",
+    "image": "./images/C_D/8977d7aa17da4d4d702f449276faf594.jpg",
     "question": "В каком месте Вам следует поставить автомобиль на стоянку с правой стороны дороги?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/360f42fe410a1522e3b814faf79e514e.jpg",
+    "image": "./images/C_D/ac54d0d531661d53cce8bd6d1ab49903.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c9eee3959c3e511e8361808a4b387351.jpg",
+    "image": "./images/C_D/a78f84b0399b7b86c65e34f0cc0d8cf3.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e013c3de98efc36b5fcb62dad55061cf.jpg",
+    "image": "./images/C_D/62229592c92555e4da2ca2499af52e3f.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/83cf60fede935094f511148b763078b7.jpg",
+    "image": "./images/C_D/ee420cb95ac52e2558bdf3e030646a40.jpg",
     "question": "В зоне действия каких знаков Правила разрешают подачу звуковых сигналов только для предотвращения дорожно-транспортного происшествия?",
     "answers": [
       {
@@ -501,7 +501,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 21",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/90725bf2c5216de47ef8b61813ea78e7.jpg",
+    "image": "./images/C_D/412cfaa9296d7606626c3f4cdcfc72d9.jpg",
     "question": "В месте выезда из лесистого участка, где установлен знак «Боковой ветер», Вам следует:",
     "answers": [
       {

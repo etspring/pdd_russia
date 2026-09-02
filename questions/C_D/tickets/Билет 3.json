@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/134ce19f0f6ed70a2a0d74be3649729d.jpg",
+    "image": "./images/C_D/b4a508ac29f804f4c866edd05eceeb9a.jpg",
     "question": "Выезжая с грунтовой дороги на перекресток, Вы попадаете:",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4878fe767096d5979f4ebd5f82f77af7.jpg",
+    "image": "./images/C_D/916dec9ed0fff702c5aa3b63cdfd457a.jpg",
     "question": "Где Вы должны остановиться?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/516d3759e58587e3a380b94f60eee6fd.jpg",
+    "image": "./images/C_D/1494ee76cecf61b17b8f0b9419b26bc4.jpg",
     "question": "Вам необходимо двигаться со скоростью не более 40 км/ч:",
     "answers": [
       {
@@ -85,7 +85,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/565dc1f3fa05b95eb54a96f3a584672f.jpg",
+    "image": "./images/C_D/0ce243944dc2ffa89bf41874ce1f9ad2.jpg",
     "question": "Какой из указанных знаков устанавливается в начале дороги с односторонним движением?",
     "answers": [
       {
@@ -116,7 +116,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5d00f239427732dd36fe4a826257c4f8.jpg",
+    "image": "./images/C_D/832419833f12e93275c0600587d0a7e5.jpg",
     "question": "Можно ли Вам остановиться в этом месте для посадки или высадки пассажиров?",
     "answers": [
       {
@@ -145,7 +145,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0ad6ce14f138a654a0e40b459e7fc4be.jpg",
+    "image": "./images/C_D/96980444b192a423b7a3ee206c894e50.jpg",
     "question": "При повороте направо Вы:",
     "answers": [
       {
@@ -199,7 +199,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2fba1629119caa2826615365c2f52eb7.jpg",
+    "image": "./images/C_D/6ea9447328523bb1fcaa023f16fb4da9.jpg",
     "question": "Вам разрешено выполнить поворот направо на маломестном автобусе:",
     "answers": [
       {
@@ -226,7 +226,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4b838bddebdfe8957b7f285bb36e036a.jpg",
+    "image": "./images/C_D/abbec23615f997a7a495d8550ffd5ff2.jpg",
     "question": "Разрешается ли Вам выполнить разворот на перекрестке по указанной траектории?",
     "answers": [
       {
@@ -253,7 +253,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d2c0cea9b2f0097e8527984096acadcd.jpg",
+    "image": "./images/C_D/4afb6a6f1f70a723888e6b2ce1fa689e.jpg",
     "question": "По какой полосе Вы имеете право двигаться с максимальной разрешенной скоростью вне населенных пунктов?",
     "answers": [
       {
@@ -307,7 +307,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/10adfa6bc44c84bfa86ab4d27144c209.jpg",
+    "image": "./images/C_D/7e7b6ce005942fb76ad4db9bbb79f4b5.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -338,7 +338,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/371dc02545bd2d3b46614f247bf9f6d3.jpg",
+    "image": "./images/C_D/03ae8097bedc50c6d8b476ff17bedfe8.jpg",
     "question": "При движении прямо Вы:",
     "answers": [
       {
@@ -365,7 +365,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e2258083b9937068c5ff4720468bc5d4.jpg",
+    "image": "./images/C_D/081491a08eac60b3ee75900a35c30426.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -392,7 +392,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b013ad7bc09176648d56f8a8537ce50b.jpg",
+    "image": "./images/C_D/7106ccc33eea4b1c7256362de3967bd7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -423,7 +423,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 3",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3a2596475cb344e3b4160ac18056ee4a.jpg",
+    "image": "./images/C_D/70a3aabd986e5c1d6d146f940de567c3.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -442,8 +442,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "На автомагистрали остановка и стоянка вне мест, специально отведённых и обозначенных соответствующими знаками, запрещена. Оба водителя нарушают правила.(«Дорожные знаки», пункты 12.1, 16.1 ПДД)",
     "topic": [
-      "Движение по автомагистралям",
-      "Остановка и стоянка"
+      "Движение по автомагистралям"
     ],
     "id": "03018a402611d50309be83db59abc924"
   },

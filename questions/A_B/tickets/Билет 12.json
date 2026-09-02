@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8e3438e4fd537aca0ebbe87960e26ed4.jpg",
+    "image": "./images/A_B/476598346b5b4c7f0364ce916d3a2ffa.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9ae284ff98281fd62270ea980c61e91d.jpg",
+    "image": "./images/A_B/6747355dbac1e974d7edaf812f3ac134.jpg",
     "question": "В каких направлениях Вам можно продолжить движение на перекрёстке?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/51d2e91400970470b9716633c8a87884.jpg",
+    "image": "./images/A_B/42b2c7003185172e7a83f63a087747d6.jpg",
     "question": "Какие из указанных знаков разрешают движение мопедов?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6b3ad1ecb22d100afba009ab6e72b202.jpg",
+    "image": "./images/A_B/b53812f45f3a380ffb413e5351ecc330.jpg",
     "question": "Движение разрешается:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e3109755ea9ccdc8fcc3ab0d191f00be.jpg",
+    "image": "./images/A_B/9bc975df33249519bd33ec3f99b2e455.jpg",
     "question": "Вы намерены повернуть налево на этом перекрёстке. В какой момент следует включить указатели левого поворота?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/00005e96c400d7ce874e99b3ba6e9171.jpg",
+    "image": "./images/A_B/433d8cde6022545ff12a42d65d33738a.jpg",
     "question": "Кто должен уступить дорогу при одновременном перестроении?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bebd9c1c4c8d439c2dddf5d4058756ed.jpg",
+    "image": "./images/A_B/71476960dc050dc7428ab45f811b9df5.jpg",
     "question": "Разрешено ли Вам выполнить разворот на мосту по указанной траектории?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f52e2b73b76be2ec32fc256ac518d7ba.jpg",
+    "image": "./images/A_B/3ed5c09213181a45d6c56e28e0d1f7c7.jpg",
     "question": "С какой скоростью Вы имеете право продолжить движение в населённом пункте по правой полосе?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b2f5a6011ea1b4881008d851772fbbc8.jpg",
+    "image": "./images/A_B/e5da65f2098fe63c2afbaa833a541074.jpg",
     "question": "Разрешено ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/db9a0dca87bf638b33bc4129782b0203.jpg",
+    "image": "./images/A_B/4895dd1707175a35cf90f9f07ca1f4d4.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/13b3e8f6b28914eb655d50edc286e8c2.jpg",
+    "image": "./images/A_B/5663c46a496f134a54f98252063e87ce.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Руки регулировщика опущены («Грудь, спина – стена»). Со стороны правого и левого бока разрешено движение безрельсовым транспортным средствам прямо и направо, пешеходам разрешено переходить проезжую часть. (Пункт 6.10 ПДД). При повороте направо вы обязаны уступить дорогу пешеходам, переходящим проезжую часть дороги, на которую поворачиваете.(Пункт 13.1 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "d72dcc8b68b6d5a24de5e002d7c2b9eb"
   },
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b0fc46bd5a82e5e11736cd05c0687ac5.jpg",
+    "image": "./images/A_B/9e915cad6b65aa87bccaeec8bce88bab.jpg",
     "question": "При движении в каком направлении Вы должны уступить дорогу автомобилю с включенными проблесковым маячком и специальным звуковым сигналом?",
     "answers": [
       {
@@ -377,6 +377,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Вы обязаны обеспечить беспрепятственный проезд перекрёстка «оперативнику» с включенными специальными сигналами независимо от направления его движения. Сделать это необходимо при движении в любом направлении.(Пункты 3.1, 3.2 ПДД)",
     "topic": [
+      "Применение специальных сигналов",
       "Проезд перекрестков"
     ],
     "id": "e636c28bb84f0b1776a2da35ad1fe4f4"
@@ -385,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7e4b5849f941c7b2835553d3f4158e80.jpg",
+    "image": "./images/A_B/c8ddf180464ba0e140e85bdc73449318.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия при жёлтом мигающем сигнале светофора?",
     "answers": [
       {
@@ -497,7 +498,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 12",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f1ae00af856347d7c91178969d1fc0f2.jpg",
+    "image": "./images/A_B/a5921b53da7c236a2e1cfe3e8f99ba9a.jpg",
     "question": "Способ разворота с использованием прилегающей территории справа, обеспечивающий безопасность движения, показан:",
     "answers": [
       {

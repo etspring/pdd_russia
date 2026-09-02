@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/01ed7477d29b8de10f90ae90ae7d29cb.jpg",
+    "image": "./images/A_B/75a9bb9bfb8b94f8e6f44b50673cdecf.jpg",
     "question": "Разрешается ли Вам перестроиться?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/3204448b33920d56f0bb20f8c93c7602.jpg",
+    "image": "./images/A_B/dc17f919f714a85938483a32768fa037.jpg",
     "question": "Информационная световая секция в виде силуэта пешехода и стрелки с мигающим сигналом бело-лунного цвета, расположенная под светофором, информирует водителя о том, что:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2dbd53cb1cb6c1c8f224f4fbb8d9b349.jpg",
+    "image": "./images/A_B/505e1427f48cdfcf66b9a7ad0554b74a.jpg",
     "question": "Каким транспортным средствам разрешено движение прямо?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e5443470a7483b1da0fe3d0fa2ace7ef.jpg",
+    "image": "./images/A_B/3b2c0cbbce2a0322f9f065844105f0ea.jpg",
     "question": "Вам разрешается движение:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/22d4fb162eef4f41fc16ee622fb96507.jpg",
+    "image": "./images/A_B/5867525677ced0dc35cf369e1ea8a40b.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8df6c9c4313831708334de45de124841.jpg",
+    "image": "./images/A_B/ee673152b841b2bd913859fa464d81d7.jpg",
     "question": "В каких направлениях регулировщик разрешает Вам движение?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8a207ffb921dd618cfac99b692534264.jpg",
+    "image": "./images/A_B/4c7974c0505e06c9c61db81b6efe84a6.jpg",
     "question": "Каким транспортным средствам разрешено продолжить движение?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1f9af92008e3c8d714f4f8b04a7e1af8.jpg",
+    "image": "./images/A_B/e9588c70bdbcaecd804dfc68027fa964.jpg",
     "question": "Ваши действия в данной ситуации?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/370093f7566f4388cfb6882f5bbe739a.jpg",
+    "image": "./images/A_B/a8e8fa781d7c294421fa2cf08210fb7d.jpg",
     "question": "Должны ли Вы остановиться по требованию регулировщика в указанном им месте?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6528b4c265bbe0daee96037fba4dcb1b.jpg",
+    "image": "./images/A_B/b07fa3971dc3a23f264b83d331d93422.jpg",
     "question": "При таких сигналах светофора и жесте регулировщика Вы должны:",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bd09a7a59fb274e96d7e9b545f7365b9.jpg",
+    "image": "./images/A_B/bee8b4e1072a4b9408ef6c8314d8559a.jpg",
     "question": "Как следует поступить водителю при переключении такого сигнала светофора?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d47f6e9e06d5ef0a6603506db204101d.jpg",
+    "image": "./images/A_B/bbb5f402cb1117567a5466ca4c37e6fc.jpg",
     "question": "В каком месте Вам следует остановиться?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/90cf47a07eb8456fcc68b5a8bf95d60c.jpg",
+    "image": "./images/A_B/e4242d4e6f8ebcbefbc572c77191d01c.jpg",
     "question": "В каком направлении Вам разрешено движение?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/92281cfd89fecafa87944fcdaa8c5a5d.jpg",
+    "image": "./images/A_B/add540b1d3208d5d3c841249960fa8b0.jpg",
     "question": "Вы намеревались проехать перекрёсток в прямом направлении. Как следует поступить, если Вы не успели заранее перестроиться на левую полосу?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2e1792b564839817018a5dd8ef929449.jpg",
+    "image": "./images/A_B/b84b0f24435cab540ccb3b1537e618dd.jpg",
     "question": "Разрешено ли Вам за перекрёстком выехать на полосу с реверсивным движением?",
     "answers": [
       {
@@ -524,7 +524,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c96ce24eb93b8bba98b54c0a2ae02784.jpg",
+    "image": "./images/A_B/add808c3ecc17b61b14e27263b92b0c8.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/80f7cd255f32e256bd084fcae69c1a87.jpg",
+    "image": "./images/A_B/b9381a9131dad3662f71bf5d22ce7580.jpg",
     "question": "Сигналы такого светофора распространяются:",
     "answers": [
       {
@@ -659,7 +659,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fc25a4252377e682ce0636229c27d474.jpg",
+    "image": "./images/A_B/515bd50c1f38f7078ba004acce842264.jpg",
     "question": "Вы имеете право двигаться:",
     "answers": [
       {
@@ -686,7 +686,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/222a00fb21ed44ee5e24afdd5a11c279.jpg",
+    "image": "./images/A_B/637177ad30b40e595fdf03dbec9c5746.jpg",
     "question": "В каком месте Вы должны остановиться?",
     "answers": [
       {
@@ -713,7 +713,7 @@
     "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e2eb73c2f651c84e02f2050eb39fb0ee.jpg",
+    "image": "./images/A_B/2793a1affab170084f25856c7dce88a2.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -740,7 +740,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/334470f155bb1cb9b7f3d526a6bb40e4.jpg",
+    "image": "./images/A_B/5b398397c6741b5ddef6ea918164d31b.jpg",
     "question": "О чем информируют Вас стрелки на зелёном сигнале светофора?",
     "answers": [
       {
@@ -767,7 +767,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/93a4b9e65043969be0412dfa800272ca.jpg",
+    "image": "./images/A_B/d02a89133b0c6b754a7c72bc74d282bb.jpg",
     "question": "Можно ли Вам перестроиться на соседнюю полосу?",
     "answers": [
       {
@@ -794,7 +794,7 @@
     "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e914a860e8a271c88f67b8f6505dff1b.jpg",
+    "image": "./images/A_B/afd0a990f2af7ce7b9de6e8f84b7e13b.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -848,7 +848,7 @@
     "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9ac656b412f3b8f9fd136e8aac6036ab.jpg",
+    "image": "./images/A_B/f76a5b8f9356bf826a1148c21b62e169.jpg",
     "question": "Вам разрешено движение:",
     "answers": [
       {
@@ -875,7 +875,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/85eedcdc30047b73a7d73930e986690c.jpg",
+    "image": "./images/A_B/7dd4e9f7b425d49ff0a8477c05cdb7f6.jpg",
     "question": "Вам можно двигаться:",
     "answers": [
       {
@@ -902,7 +902,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/edebcc416f353ff162af02b4fdd5d168.jpg",
+    "image": "./images/A_B/e06eb3ef3be0e516a3b7630a42534800.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -924,221 +924,5 @@
       "Сигналы светофора и регулировщика"
     ],
     "id": "3a9ee3f82cc38aeb07ca64d3a6d32c28"
-  },
-  {
-    "title": "Вопрос 35",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/278ba0588ffeb469dbdbb9d29d63e6be.jpg",
-    "question": "Вы намерены развернуться. Ваши действия?",
-    "answers": [
-      {
-        "answer_text": "Проедете перекресток первым",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Выполните разворот, уступив дорогу легковому автомобилю",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Дождетесь, когда регулировщик опустит правую руку",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Перекрёсток регулируемый. Правая рука регулировщика вытянута вперёд. Со стороны левого бока транспортные средства могут продолжить движение в любом направлении, соблюдая правила расположения транспортных средств на проезжей части.Производя разворот из крайней левой полосы, у Вас будет помеха справа. Вы уступите дорогу легковому автомобилю, поворачивающему направо. (Пункты 6.10, 13.4 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "c4547df34b93be087eee947c49c039de"
-  },
-  {
-    "title": "Вопрос 36",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/53da52510fb507e8efa0aee9eaeea5cd.jpg",
-    "question": "Вы намерены повернуть налево. Ваши действия?",
-    "answers": [
-      {
-        "answer_text": "Проедете перекресток первым",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Уступите дорогу трамваю, выполнив поворот с проезжей части",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Пропустите трамвай, перестроитесь на трамвайные пути попутного направления и выполните с них поворот",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо.Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении.Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5).",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "122a15b1675d4d194f6692702d285d63"
-  },
-  {
-    "title": "Вопрос 37",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/590d426932bbf734e4bf97c18378c1e7.jpg",
-    "question": "Обязаны ли Вы при повороте направо уступить дорогу автомобилю, выполняющему разворот?",
-    "answers": [
-      {
-        "answer_text": "Обязаны",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Не обязаны",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "При движении «под дополнительную секцию», включённую одновременно с основным красным сигналом светофора, Вы обязаны уступить дорогу ВСЕМ движущимся с других направлений, независимо от их дальнейшего направления движения.(Пункт 13.5 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "f0e8b486407c5e33be8d2af0fb28a632"
-  },
-  {
-    "title": "Вопрос 38",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/13b3e8f6b28914eb655d50edc286e8c2.jpg",
-    "question": "Вы намерены повернуть направо. Ваши действия?",
-    "answers": [
-      {
-        "answer_text": "Повернете направо, не уступая дорогу пешеходам",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Повернете направо, уступив дорогу пешеходам",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Остановитесь перед перекрестком и дождетесь другого сигнала регулировщика",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Руки регулировщика опущены («Грудь, спина – стена»). Со стороны правого и левого бока разрешено движение безрельсовым транспортным средствам прямо и направо, пешеходам разрешено переходить проезжую часть. (Пункт 6.10 ПДД). При повороте направо вы обязаны уступить дорогу пешеходам, переходящим проезжую часть дороги, на которую поворачиваете.(Пункт 13.1 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "d72dcc8b68b6d5a24de5e002d7c2b9eb"
-  },
-  {
-    "title": "Вопрос 39",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c22366c39fa827c013966d73ac9a0279.jpg",
-    "question": "В данной ситуации Вы не обязаны уступать дорогу трамваю при движении:",
-    "answers": [
-      {
-        "answer_text": "Прямо или направо",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Только прямо",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Только направо",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Перекресток регулируемый. Светофор с одноцветной сигнализацией, предназначенный для маршрутных ТС, разрешает движение прямо. Трамвай, поворачивающий направо, дожидается смены сигнала. Зеленый сигнал светофора разрешает Вам движение – проезжайте перекресток прямо первым.(Пункты 6.2, 6.8 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "25b3ae65d4bbdc58906e2bf2311c011b"
-  },
-  {
-    "title": "Вопрос 40",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b4770066cde1a575b0f0e6c8d2467b40.jpg",
-    "question": "Как следует поступить в этой ситуации, если Вам необходимо повернуть направо?",
-    "answers": [
-      {
-        "answer_text": "Остановиться и дождаться другого сигнала регулировщика",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Повернуть направо, уступив дорогу пешеходам",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Повернуть направо, имея преимущество в движении перед пешеходами",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 2",
-    "answer_tip": "Правая рука регулировщика вытянута вперед. Со стороны левого бока безрельсовым транспортным средствам разрешено движение во всех направлениях – прямо, направо, налево и разворот. При повороте направо Вы обязаны уступить дорогу пешеходам, переходящим проезжую часть, на которую поворачиваете.(Пункты 6.10, 13.1 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "9bcb772941579769fea4240d333a85ac"
-  },
-  {
-    "title": "Вопрос 41",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./images/no_image.jpg",
-    "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
-    "answers": [
-      {
-        "answer_text": "Знаков приоритета",
-        "is_correct": true
-      },
-      {
-        "answer_text": "Запрещающих знаков",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Предписывающих знаков",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Всех перечисленных знаков",
-        "is_correct": false
-      }
-    ],
-    "correct_answer": "Правильный ответ: 1",
-    "answer_tip": "Движение регулируется: регулировщиком, сигналами светофора, знаками приоритета, разметкой, дорожным покрытием, «правилом правой руки». По вышеперечисленному «принципу приоритетности регулирования дорожного движения» знаки приоритета работают (т.е. ими мы руководствуемся) в том случае, когда отсутствует регулировщик, светофор выключен, неисправен, переведён в «жёлтый мигающий режим».(«Дорожные знаки», пункты 6.15 и 13.3 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "11f95f78b08a1345c915bf497456c7a7"
-  },
-  {
-    "title": "Вопрос 42",
-    "ticket_number": null,
-    "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f923c52afaf03bb3f9b3b99d332fedf3.jpg",
-    "question": "Как Вам следует поступить при повороте направо?",
-    "answers": [
-      {
-        "answer_text": "Остановиться и дождаться другого сигнала регулировщика",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Проехать перекресток, уступив дорогу трамваю",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Проехать перекресток первым",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "Перекрёсток регулируемый. Со стороны левого бока при таком жесте регулировщика безрельсовым транспортным средствам движение разрешается во всех направлениях. Трамваи двигаются только «по направлению рук регулировщика». В данной ситуации трамвай продолжать движение не может. Его водитель будет дожидаться смены сигнала регулировщика. Вы продолжаете движение через перекрёсток, т.е. проезжаете его первым.(Пункт 6.10 ПДД)",
-    "topic": [
-      "Сигналы светофора и регулировщика"
-    ],
-    "id": "fd51389e45b471cac4cf18d494f575dc"
   }
 ]

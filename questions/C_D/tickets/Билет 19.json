@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7742f7f3fc4c9567cdab897ee38763a1.jpg",
+    "image": "./images/C_D/f7546e8eb688cc97c6a794421146e79d.jpg",
     "question": "Сколько проезжих частей имеет данная дорога?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/283701d341a778cf99b8af5a7fa3dcb1.jpg",
+    "image": "./images/C_D/762fbf627c51ea032016da7cf058fb22.jpg",
     "question": "В каких направлениях Вам можно продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6196695a5e568691b14bc7726e1b5cef.jpg",
+    "image": "./images/C_D/c64ff87ed19dfddd5ec118718ad6a531.jpg",
     "question": "Разрешено ли осуществлять посадку (высадку) пассажиров либо загрузку (разгрузку) транспортного средства в зоне действия этого знака?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e06f8a7b0354b7c671a59af09e78073.jpg",
+    "image": "./images/C_D/7d5fd29449bcb4d5e18522dd7f70df02.jpg",
     "question": "Какие из указанных знаков разрешают выполнить разворот?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c6361ce3b963717813b654fa74534a4c.jpg",
+    "image": "./images/C_D/d9d0fab572cdfe3f93f50d3d389ac46c.jpg",
     "question": "Как Вы должны поступить в данной ситуации?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/399e8df9a610b4a5285610a250c279a7.jpg",
+    "image": "./images/C_D/4c0bb996d5a3fd21e6f65043497baac6.jpg",
     "question": "По какой траектории Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/631a86e0ef5bf79b37f855cc3e655d0b.jpg",
+    "image": "./images/C_D/4c20947167ea22ba27bcf3b571469a5a.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешено ли в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9e276c7b97f4aad9c0ff3894fdb36879.jpg",
+    "image": "./images/C_D/0eab4209cfbe4386250f609102bd4129.jpg",
     "question": "С какой скоростью Вы имеете право продолжить движение в населенном пункте по левой полосе?",
     "answers": [
       {
@@ -265,7 +265,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Разрешённая скорость движения в населённом пункте не более 60 км/ч. Вы выезжаете на полосу, над которой установлен знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», которая указывает полосу, на которую распространяется действие данного знака. Поэтому движение по данной полосе разрешается со скоростью не менее 40 км/ч, но и не превышающей 60 км/ч.(Пункт 10.2 ПДД, «Дорожные знаки»)",
     "topic": [
-      "Дорожные знаки"
+      "Скорость движения"
     ],
     "id": "6a7b8f14ca54811527e31b60a303d204"
   },
@@ -273,7 +273,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5ac0def922dac33b13c6de80d781a838.jpg",
+    "image": "./images/C_D/f379c28ebb0fdbd309051b449993115e.jpg",
     "question": "По какой полосе Вам можно продолжить движение в населенном пункте после опережения грузового автомобиля?",
     "answers": [
       {
@@ -301,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9a294c3a8fbb0d2372c932c136135f34.jpg",
+    "image": "./images/C_D/b5b6f20cf9a38af00debb0c955dacd41.jpg",
     "question": "Кто из водителей грузовых автомобилей нарушил правила стоянки?",
     "answers": [
       {
@@ -332,7 +332,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7a5bf531f1903ab6350213cb27a6702c.jpg",
+    "image": "./images/C_D/8c8364f57784ff9ca015365a182cc4ca.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -359,7 +359,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/09090a6b157019f510f405f73b980fb2.jpg",
+    "image": "./images/C_D/110392054f576e8ec0a925d562346f53.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -413,7 +413,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 19",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f9dea8e7ec361431c5e4bfce30298a3c.jpg",
+    "image": "./images/C_D/605a4c48b3865fa16986bd7a557bed92.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {

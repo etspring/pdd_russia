@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/07f6fd7642f9890aea4f459e97906a30.jpg",
+    "image": "./images/C_D/65e4ace76e59c868a2db8f2ba4c47397.jpg",
     "question": "Сколько полос для движения имеет проезжая часть данной дороги?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c44b2661c2f232325a5c2eac76abd57c.jpg",
+    "image": "./images/C_D/c13833d734d5a34211d98d7920f65f33.jpg",
     "question": "Эти знаки предупреждают Вас:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4c49a1c6d080a202e8535c4d32054ca9.jpg",
+    "image": "./images/C_D/43c39cc59abccfc2aea6ca30d03f69dc.jpg",
     "question": "Какой из указанных знаков распространяет своё действие только на ту полосу, над которой он установлен?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/85e77b1e13c8de6b7ed873bad9312b85.jpg",
+    "image": "./images/C_D/00f4f549a66615e2d0a8333addeed31d.jpg",
     "question": "Вы буксируете неисправный автомобиль. По какой полосе Вам можно продолжить движение в населенном пункте?",
     "answers": [
       {
@@ -139,7 +139,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/80cab5d7eaae2b4cc814507501b9f681.jpg",
+    "image": "./images/C_D/685669c8d684ebdddcbcd1b1c00de1b1.jpg",
     "question": "Каким транспортным средствам разрешено движение прямо?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c885755a2ae6400ecbd4499174c8b33c.jpg",
+    "image": "./images/C_D/6f66c4d7f3eebcd9d873e0823f253de5.jpg",
     "question": "Вы намерены продолжить движение по главной дороге. Обязаны ли Вы при этом включить указатели правого поворота?",
     "answers": [
       {
@@ -197,7 +197,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/66c2ff5c5d9800da52973ba08bea15af.jpg",
+    "image": "./images/C_D/e3fe09bbd5d5e9240a26ceea7cc85ff9.jpg",
     "question": "Кто должен уступить дорогу?",
     "answers": [
       {
@@ -220,7 +220,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86078836df13f0cab223328463aba00e.jpg",
+    "image": "./images/C_D/b7451bedff503a5f7d2e9d0602f77c58.jpg",
     "question": "Вам можно выполнить разворот:",
     "answers": [
       {
@@ -275,7 +275,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/57576e67a841dcb7a839ca06fd544e45.jpg",
+    "image": "./images/C_D/d098d67c848b450b49f9e6e76d90d3f0.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -302,7 +302,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bc9a118126388a0ec80e9fdd80b16988.jpg",
+    "image": "./images/C_D/278a0ee993e54ef74080e4348063bbdb.jpg",
     "question": "Разрешается ли Вам остановка для посадки пассажира в этом месте?",
     "answers": [
       {
@@ -329,7 +329,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d5a98fe6c22b7429cce7795c0898b1b2.jpg",
+    "image": "./images/C_D/99da9365342b1ac677ceabe9d588416f.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -360,7 +360,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f995e2bbdaf8554b981b7c068674a717.jpg",
+    "image": "./images/C_D/ab14e1e76bb075dbc0228ccf63b9ab76.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте направо?",
     "answers": [
       {
@@ -379,7 +379,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Первоначально Вы должны уступить дорогу пешеходу, находящемуся на нерегулируемом пешеходном переходе. (Пункт 14.1 ПДД). В последующем при повороте направо уступите дорогу пешеходам, переходящим проезжую часть дороги, на которую Вы поворачиваете. (Пункт 13.1 ПДД). Это правило распространяется при проезде как регулируемых, так и нерегулируемых перекрёстков.",
     "topic": [
-      "Пешеходные переходы и места остановок маршрутных транспортных средств"
+      "Проезд перекрестков"
     ],
     "id": "f06fda7f7c28b7dcc624f1ece5ec0ee6"
   },
@@ -387,7 +387,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 4",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cf71718fc8d9b46f03aecb6dc685143a.jpg",
+    "image": "./images/C_D/6b73bbb4d966a7be5563808ee8e5a96a.jpg",
     "question": "Как Вам следует поступить при выполнении разворота?",
     "answers": [
       {
