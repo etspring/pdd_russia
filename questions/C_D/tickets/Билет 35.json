@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fdaa642114a9f7dd5804a506d2b32065.jpg",
+    "image": "./images/C_D/cbbc6afb3a95c968e167e7af5bbe41ed.jpg",
     "question": "Вы можете продолжить движение на следующем перекрестке:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/97f7c27ff3cc9f5d93eef02ef1344421.jpg",
+    "image": "./images/C_D/6ca00a62c2179ca87d84e0f0312d2df0.jpg",
     "question": "Какие из указанных знаков разрешают движение со скоростью 60 км/ч?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7e2c52547053772c75304dc5a32f76bb.jpg",
+    "image": "./images/C_D/f20b05aaf45ebf53da76d608362c4ceb.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -112,7 +112,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c2ed272782f9d8d73259e9ce8ebde715.jpg",
+    "image": "./images/C_D/5f47debdc719a23cf745db560d2bd176.jpg",
     "question": "Вы можете объехать препятствие:",
     "answers": [
       {
@@ -166,7 +166,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4379d475816216a0c8a14989b3f2ebd1.jpg",
+    "image": "./images/C_D/d28fc8791d8456e5a454cf50d0914399.jpg",
     "question": "На каком расстоянии от транспортного средства должен быть выставлен знак аварийной остановки в данной ситуации?",
     "answers": [
       {
@@ -193,7 +193,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/13b8ddd5e612dc15a67761a48bb00a22.jpg",
+    "image": "./images/C_D/eecf97122511cf99788eb38b4b19cc31.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте во двор?",
     "answers": [
       {
@@ -247,7 +247,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/87b2e588b76b9b04bc0d79f09ec84584.jpg",
+    "image": "./images/C_D/ff1eb6fbef88ef96fde23ba0349f0d10.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т после въезда на примыкающую слева дорогу?",
     "answers": [
       {
@@ -274,7 +274,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4d0911f298b4be037611c0635f771222.jpg",
+    "image": "./images/C_D/bc7f3371883845d3f992d552116125f7.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -301,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ee38676efab9ef206d5961aefb48eee7.jpg",
+    "image": "./images/C_D/ea1ae65edcd1c007e6f7a591190e9537.jpg",
     "question": "Водители каких грузовых автомобилей с разрешенной максимальной массой более 3,5 т не нарушили правила стоянки?",
     "answers": [
       {
@@ -332,7 +332,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7d2bf6f3b4672fddd17b32c6ebda3fa7.jpg",
+    "image": "./images/C_D/e348c5a29be8bea843e1af63ceb77d25.jpg",
     "question": "Вам необходимо уступить дорогу другим участникам движения:",
     "answers": [
       {
@@ -359,7 +359,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9b4ae3528a9e86dcd67b6b90369eb107.jpg",
+    "image": "./images/C_D/ca589d260b8f4e7027b60827a36086a7.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия?",
     "answers": [
       {
@@ -386,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 35",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a61864b3dba3b562058279d37526d930.jpg",
+    "image": "./images/C_D/9f59ee24dc633f5b13ccdf97f5cba86d.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {

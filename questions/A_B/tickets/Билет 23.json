@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d71a18fedca81d266e1296bc8d0f5095.jpg",
+    "image": "./images/A_B/e7c16b443c3017ade65e06cf397b0672.jpg",
     "question": "Сколько пересечений проезжих частей имеет этот перекрёсток?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2a04745663ab451e03b3f64ead45f503.jpg",
+    "image": "./images/A_B/6de35937104d2b5f61d7a99312233c33.jpg",
     "question": "Данный дорожный знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b3d1825d05722bca8153950cf0cbb09b.jpg",
+    "image": "./images/A_B/1f3a8104c6706fcf7a312b218cae4b4a.jpg",
     "question": "Эти знаки обязывают соблюдать дистанцию:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/59cc4e25a40e9cb0b008b2155de31e15.jpg",
+    "image": "./images/A_B/ac34a1fc5ddecb7d166a4b03c9d06a8b.jpg",
     "question": "В каких направлениях Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/06c51f39b0bcc111695f708480e26181.jpg",
+    "image": "./images/A_B/8faab1f8b2013f6b4c285050feac1213.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c96ce24eb93b8bba98b54c0a2ae02784.jpg",
+    "image": "./images/A_B/add808c3ecc17b61b14e27263b92b0c8.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/5582e30fc1c4b4e19e88e8a4d050e950.jpg",
+    "image": "./images/A_B/8bb035243be57c126c54471df8b05284.jpg",
     "question": "По какой траектории Вам разрешено продолжить движение?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ee36f8d480f28468d973a743415fb234.jpg",
+    "image": "./images/A_B/dd50c9ebb878c15fe8ea5bccb35ab5af.jpg",
     "question": "На этом участке дороги Вам запрещается:",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/efe5336ecc830f437e17cae8d217714c.jpg",
+    "image": "./images/A_B/d4837025fa1254957ced8f9eda1263c6.jpg",
     "question": "Разрешается ли Вам выехать на трамвайные пути встречного направления в данной ситуации?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0664e0bd8304a5c92934542283587ea7.jpg",
+    "image": "./images/A_B/fbb8b36d11bc419104c760668d0988ad.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/82b5f44b2e91297a798580d477c53275.jpg",
+    "image": "./images/A_B/752853c70d0935e0794043f844bbdf52.jpg",
     "question": "На каком расстоянии от знака Вам разрешено поставить автомобиль на стоянку?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b4770066cde1a575b0f0e6c8d2467b40.jpg",
+    "image": "./images/A_B/24be2c3a851c5a3551ee51e0bf4e070e.jpg",
     "question": "Как следует поступить в этой ситуации, если Вам необходимо повернуть направо?",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Правая рука регулировщика вытянута вперед. Со стороны левого бока безрельсовым транспортным средствам разрешено движение во всех направлениях – прямо, направо, налево и разворот. При повороте направо Вы обязаны уступить дорогу пешеходам, переходящим проезжую часть, на которую поворачиваете.(Пункты 6.10, 13.1 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "9bcb772941579769fea4240d333a85ac"
   },
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c18f1618492b65e8153db958f03b383c.jpg",
+    "image": "./images/A_B/223965fdcfa5059bc927dc4021942d34.jpg",
     "question": "Вы намерены проехать перекрёсток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -381,7 +381,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/293cdf0b7c4dda6d38a0a354411be5a5.jpg",
+    "image": "./images/A_B/84a618debe7be645654a72799162d400.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 23",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bdfac7b05e63274427dcaa208f44f9eb.jpg",
+    "image": "./images/A_B/e650b0262d56b353cb437616cccedf8a.jpg",
     "question": "Кто из водителей правильно остановился для высадки пассажиров?",
     "answers": [
       {
@@ -435,7 +435,8 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Действие происходит в населённом пункте на участке, обозначенном знаком 5.5 «Дорога с односторонним движением». В этом случае разрешается остановка, как исключение, и с левой стороны дороги по ходу движения, т.е. в месте «А». В местах «В» и «Б» останавливаться нельзя. Место «В» располагается на полосе, отделённой сплошной линией разметки, обозначенной знаком 5.14.1 «Полоса для маршрутных транспортных средств», по которой движение и остановка при таком сочетании другим транспортным средствам запрещается. Место «Б» не является краем проезжей части, поэтому остановка выполнена с явным нарушением.(«Дорожные знаки», пункты 12.1, 18.2 ПДД)",
     "topic": [
-      "Остановка и стоянка"
+      "Остановка и стоянка",
+      "Приоритет маршрутных транспортных средств"
     ],
     "id": "60ecc976d362530660ba5daf9865000d"
   },

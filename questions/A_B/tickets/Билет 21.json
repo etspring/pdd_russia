@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/1ef3ddc0d009dc82df502d35f86e1dd6.jpg",
+    "image": "./images/A_B/9a27c1b4af76793aa3c82d02e1af4b02.jpg",
     "question": "Этот знак предупреждает о приближении к перекрёстку, на котором Вы:",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/712c510a75ee4cc5131e7901b660f17e.jpg",
+    "image": "./images/A_B/596ee37343045b9786e0dc0004f3bdd0.jpg",
     "question": "Продолжить буксировку можно?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/21a277c34e4cbdf2bc094b9b513aca54.jpg",
+    "image": "./images/A_B/2bd50ef1c6c191fae235f21f791a36b1.jpg",
     "question": "Какой из указанных знаков информирует о начале дороги с реверсивным движением?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/33d39314214758e95a3b20eb5f15a4ac.jpg",
+    "image": "./images/A_B/c21af28b8ac0132edf8a6d7fea0c469f.jpg",
     "question": "Данная вертикальная разметка:",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2e1792b564839817018a5dd8ef929449.jpg",
+    "image": "./images/A_B/b84b0f24435cab540ccb3b1537e618dd.jpg",
     "question": "Разрешено ли Вам за перекрёстком выехать на полосу с реверсивным движением?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/718a0815508f2026efb5b6e3e50d21b3.jpg",
+    "image": "./images/A_B/c378b5a0bc0d5ad003c6b441013d8403.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем легкового автомобиля, информирует Вас:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e9682cd496bb121c19c5996703fe2fb4.jpg",
+    "image": "./images/A_B/72dd0b2a2b6e71eb95d8cd7b492806a4.jpg",
     "question": "При повороте налево для въезда во двор Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/cdd6b7ebf95b39f0717b8eb63a12295a.jpg",
+    "image": "./images/A_B/ea227ad0aef92863dc229b443624759e.jpg",
     "question": "Разрешается ли Вам, управляя легковым автомобилем, продолжить движение по трамвайным путям попутного направления?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bfbda387b334828bdd586e2b8663a72f.jpg",
+    "image": "./images/A_B/f7eea2a6be13d7d57e400e16f222edd5.jpg",
     "question": "Вы можете начать обгон:",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/98e30f38ba429ba68057f1f4f14976ce.jpg",
+    "image": "./images/A_B/fcaf3432d09b7c8ae2caf089d0241253.jpg",
     "question": "В каком месте Вам следует поставить автомобиль на стоянку с правой стороны дороги?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f0d529ae4c6e419de5df66201d0d58ca.jpg",
+    "image": "./images/A_B/a63a8351cdc992d287dbdb3522ddfd6d.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево.",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d2937bc39bea570e3914cd21bc1c7f49.jpg",
+    "image": "./images/A_B/8f2b0e481b239ace5b0ddb27bd2f402d.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/068a2eed6f0d143d6c59c0a1a390f7d1.jpg",
+    "image": "./images/A_B/e73f8de2a10fdd038a1493546d8a54be.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7cb36da91f0ca735e882d1066970ca28.jpg",
+    "image": "./images/A_B/c415f7c34c0070d5cbe692d48ff23caa.jpg",
     "question": "В зоне действия каких знаков Правила разрешают подачу звуковых сигналов только для предотвращения дорожно-транспортного происшествия?",
     "answers": [
       {
@@ -501,7 +501,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 21",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4679dd0586b45a443a3a8d7d24faf583.jpg",
+    "image": "./images/A_B/a0cc2f63dbfdaba1dcbcdc35b38f2884.jpg",
     "question": "В месте выезда из лесистого участка, где установлен знак «Боковой ветер» Вам следует?",
     "answers": [
       {

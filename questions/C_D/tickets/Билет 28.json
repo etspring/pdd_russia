@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b8a2948200eabee9b673dca879089834.jpg",
+    "image": "./images/C_D/8593ad5644ad3ed6725226b0c3c5ec63.jpg",
     "question": "Вам можно продолжить движение:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fbd4f38527a64bea00293893733beded.jpg",
+    "image": "./images/C_D/88e946330904c8fcc0670392c917a5a1.jpg",
     "question": "Можно ли проехать по мосту этому автопоезду, если фактическая масса автомобиля 8 т, а прицепа 5 т?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fe714a13e5c2e056925738d913700aea.jpg",
+    "image": "./images/C_D/c708cbf2f8364b883b86f68624746894.jpg",
     "question": "Какие из указанных знаков используются для обозначения номера, присвоенного дороге (маршруту)?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df92a53b36c96e0b9f1951dccff25273.jpg",
+    "image": "./images/C_D/cefe4a9ed4b85d4dad345df94c16bbe1.jpg",
     "question": "Вы имеете право двигаться:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6e3e8caae88a29b0e45ce12a566a797f.jpg",
+    "image": "./images/C_D/75fc250964b26d7a1aeb8ae4e1789beb.jpg",
     "question": "Кто имеет преимущество в движении?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/255ca9cf071da70c272c1b7284c09183.jpg",
+    "image": "./images/C_D/5c8f6ed856be83a67be5548727d01bcd.jpg",
     "question": "Разрешено ли водителю движение задним ходом для посадки пассажира на этом участке дороги?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/89e76385ad1f45b9de1285a8ade3b49b.jpg",
+    "image": "./images/C_D/7d4b633d0470a1497be5024e2b68d440.jpg",
     "question": "Разрешается ли Вам, управляя грузовым автомобилем с разрешенной максимальной массой более 3,5 т, выехать на третью полосу в данной ситуации?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a32b4bbd748872203fef9d06d75930e4.jpg",
+    "image": "./images/C_D/f4edebcdc589c0b12d26bb21c98a6817.jpg",
     "question": "Можно ли Вам обогнать трактор, управляя грузовым автомобилем с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0d37b18d57dcaa25064c95891447deb7.jpg",
+    "image": "./images/C_D/4a55f4806c5c99bb9edc48e38e8877f2.jpg",
     "question": "В каком месте Вам разрешено остановиться?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b6afbfe7e51a98aeb18a5f989e5a06e1.jpg",
+    "image": "./images/C_D/0d4b6b470299f3b58bcbe7037d7acdc9.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/585a94c14a02281846a09bded97612c8.jpg",
+    "image": "./images/C_D/9b86884d811779c2ba3cad24e8000776.jpg",
     "question": "Вы должны уступить дорогу грузовому автомобилю:",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6f735b905cb9e97191dbccfa12182626.jpg",
+    "image": "./images/C_D/328b584e90f2fedb77552479ea4e1a1a.jpg",
     "question": "Вы намерены развернуться. Кому Вам необходимо уступить дорогу?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 28",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f131ff13e38000f86c41cd2f83e40ac5.jpg",
+    "image": "./images/C_D/1ffbeb59a25f2f7d327d13364bc18899.jpg",
     "question": "Где Вам разрешается остановиться при движении по автомагистрали?",
     "answers": [
       {

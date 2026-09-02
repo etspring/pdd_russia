@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/602f48e63f236b4808e9b0666af4a76b.jpg",
+    "image": "./images/C_D/cbc7618c5feb97ba456e459a2712dc61.jpg",
     "question": "Эти знаки предупреждают Вас:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c55698e7f825a23f65d10cb071642eb5.jpg",
+    "image": "./images/C_D/04cd308b312b469eb81441dac4e981c1.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dc2b044eca0c4b41eba91b0c18fb1d52.jpg",
+    "image": "./images/C_D/f77b00829dd36e4aba884f7c84828b46.jpg",
     "question": "Какие из указанных знаков обязывают водителя грузового автомобиля с разрешенной максимальной массой более 3,5 т повернуть направо?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d83700e3ab827b5373461e50476011ab.jpg",
+    "image": "./images/C_D/9977a8fd6ab2df34b06309550d737ff1.jpg",
     "question": "Данная разметка обозначает:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e9fba3c82500d955df25e9e453fa3537.jpg",
+    "image": "./images/C_D/05baf260fac930e9e3e81abc3646cfc2.jpg",
     "question": "Какую ошибку совершает водитель, въезжающий во двор?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f7869391d439d0dfd1b97d2c8d65e938.jpg",
+    "image": "./images/C_D/96adcd701a7b9a3fb9e491bb7d35f079.jpg",
     "question": "Должны ли Вы уступить дорогу грузовому автомобилю в данной ситуации?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8b64a1d88160a702511dd9965ba90183.jpg",
+    "image": "./images/C_D/619a3b53447ed8af79bd5f9a8945fe98.jpg",
     "question": "Разрешается ли Вам выполнить разворот?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86fc3a5f541b94b4cabdbbe965df4bc7.jpg",
+    "image": "./images/C_D/b3eb02b74ba72bcbfca8802a96f8df6c.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов, если перевозите людей в кузове грузового автомобиля с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/243806759a4e5ed6fc0ff6898cecddee.jpg",
+    "image": "./images/C_D/f5b3405ac601922fd487265dafa62bfe.jpg",
     "question": "Разрешено ли Вам выполнить обгон?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4708766a15708c857663d1e1e65622ea.jpg",
+    "image": "./images/C_D/bdc727d26db4a8e3b73823aaee87e0ef.jpg",
     "question": "Кто из водителей грузовых автомобилей нарушил правила стоянки?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7ed92aa398597aa1b5e61356b645cef0.jpg",
+    "image": "./images/C_D/86ddfd5d09d93ea95e7ae8b99953e3da.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ca8c7170d1b45af29be495a7dcd97f68.jpg",
+    "image": "./images/C_D/f3fb88455415ada91f3a71ee89a24aec.jpg",
     "question": "Кто имеет право проехать перекресток первым, если все намерены двигаться прямо?",
     "answers": [
       {
@@ -393,7 +393,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b269abde170508162067cda3b3a3a24a.jpg",
+    "image": "./images/C_D/5e7365781082ba4db6f2a76bc788ec2a.jpg",
     "question": "В каком случае Вы обязаны уступить дорогу пешеходам?",
     "answers": [
       {
@@ -420,7 +420,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 24",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d6fab6159aaf75049542b60aa29f432a.jpg",
+    "image": "./images/C_D/4d160e52114ffa468c076d23a2f834cd.jpg",
     "question": "В данной ситуации Вы должны остановиться:",
     "answers": [
       {

@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9978a0a6480315997c1fe77490a770b1.jpg",
+    "image": "./images/C_D/f22f0ec540f47e00455d4baa5c768315.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed409837e18efe9221ecf44e2d876564.jpg",
+    "image": "./images/C_D/89ba055334e8648bf33b9f7244c7e85a.jpg",
     "question": "В каких направлениях Вам можно продолжить движение на грузовом автомобиле?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/13fe0e7776cf96516e2dfba64a2e8bf3.jpg",
+    "image": "./images/C_D/e4a440743a1b0ad0ad02eb2e1856c51c.jpg",
     "question": "Каким транспортным средствам запрещена стоянка в выходные и праздничные дни?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7ee2049032dcf80ece40786cb422a3c5.jpg",
+    "image": "./images/C_D/34b1a03066126533c96a35ff515a1f79.jpg",
     "question": "Движение разрешается:",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c647b13a392eebe93504303a4f5d81a7.jpg",
+    "image": "./images/C_D/9d586da20de976b44d00b54009a6729c.jpg",
     "question": "Вы намерены повернуть налево на этом перекрестке. В какой момент следует включить указатели левого поворота?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f42ce28c6f1363777b815b88c15a907a.jpg",
+    "image": "./images/C_D/caa40405f3be5ee0956d50c1f0b5bc68.jpg",
     "question": "Кто должен уступить дорогу при одновременном перестроении?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4f911de5f848c9964083bcc827af0c59.jpg",
+    "image": "./images/C_D/6ae109d8b4f4050840b0da90b49afa71.jpg",
     "question": "Разрешено ли Вам выполнить разворот на мосту по указанной траектории, управляя маломестным автобусом?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed87ba5d3db1a9ff5a02f3da5404d804.jpg",
+    "image": "./images/C_D/15dc7cbe2ae6381de74fec4b20ab980a.jpg",
     "question": "С какой максимальной скоростью имеет право двигаться водитель грузового автомобиля?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f4fde793ad07512d1d74d08eea8cfeff.jpg",
+    "image": "./images/C_D/1a44095a73c9dd9394cb966074c641f6.jpg",
     "question": "Разрешено ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -300,7 +300,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/930890e27455c06452caf3f069c6bf90.jpg",
+    "image": "./images/C_D/ec057be8afdfd357532efc94c73b54c6.jpg",
     "question": "Можно ли Вам поставить грузовой автомобиль с разрешенной максимальной массой более 3,5 т на стоянку в указанном месте?",
     "answers": [
       {
@@ -327,7 +327,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/48a74d7c4c7efdd4848b7738a53f24cc.jpg",
+    "image": "./images/C_D/891f83bc9c910180b4960ae41250b65e.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -346,7 +346,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Руки регулировщика опущены («Грудь, спина - стена»). Со стороны правого и левого бока разрешено движение безрельсовым транспортным средствам прямо и направо, пешеходам разрешено переходить проезжую часть. (Пункт 6.10 ПДД). При повороте направо вы обязаны уступить дорогу пешеходам, переходящим проезжую часть дороги, на которую поворачиваете.(Пункт 13.1 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "d72dcc8b68b6d5a24de5e002d7c2b9eb"
   },
@@ -354,7 +354,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7c85ecf74736642df9f7e98d6065291f.jpg",
+    "image": "./images/C_D/7807fa046f557800a1be00f30f449bd0.jpg",
     "question": "При движении в каком направлении Вы должны уступить дорогу автомобилю с включенными проблесковым маячком и специальным звуковым сигналом?",
     "answers": [
       {
@@ -373,7 +373,8 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Вы обязаны обеспечить беспрепятственный проезд перекрёстка «оперативнику» с включенными специальными сигналами независимо от направления его движения. Сделать это необходимо при движении в любом направлении.(Пункты 3.1, 3.2 ПДД)",
     "topic": [
-      "Применение специальных сигналов"
+      "Применение специальных сигналов",
+      "Проезд перекрестков"
     ],
     "id": "e636c28bb84f0b1776a2da35ad1fe4f4"
   },
@@ -381,7 +382,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e7c1c54b1aa6257789586deba542040.jpg",
+    "image": "./images/C_D/4a5cda3db2134a34870f9eb95a6bf3a5.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия при желтом мигающем сигнале светофора?",
     "answers": [
       {
@@ -493,7 +494,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 12",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c689a7b36cad249ca0faf6734a82cfff.jpg",
+    "image": "./images/C_D/d884c5f1ccb60e111430313010914824.jpg",
     "question": "Способ разворота с использованием прилегающей территории справа, обеспечивающий безопасность движения, показан:",
     "answers": [
       {

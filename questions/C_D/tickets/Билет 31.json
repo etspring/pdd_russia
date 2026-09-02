@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4653fd17fc3cb78ae32816e6142c882f.jpg",
+    "image": "./images/C_D/ec7ea706dcd3274cb73764cd916f9e87.jpg",
     "question": "Какие из указанных знаков информируют о приближении к началу участка дороги со встречным движением?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5e186ae0ed20cb597e88f1df76f300f0.jpg",
+    "image": "./images/C_D/b7fc89a4d64479602cdebc1e22ef41e6.jpg",
     "question": "Вам разрешено продолжить движение на грузовом автомобиле с разрешенной максимальной массой 12 т при фактической массе 8 т:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6193884298f780d4a7c797f2e31bf2fe.jpg",
+    "image": "./images/C_D/2cb2bf3bc488ee1d0fbe780b8b71aaae.jpg",
     "question": "О чем информирует Вас данный дорожный знак с желтым фоном?",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e0133b2daf1f5453eec406ec304e1cb3.jpg",
+    "image": "./images/C_D/7f125b19d31aff1d7e7537086b763702.jpg",
     "question": "О чем информируют Вас стрелки на зеленом сигнале светофора?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ec6c26cdbde04bebb2fc4107756357fb.jpg",
+    "image": "./images/C_D/cb525c1fabf085583aacff1fe2080e66.jpg",
     "question": "Такой сигнал рукой, подаваемый водителем легкового автомобиля, информирует Вас:",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d12f6b8395f0f2d78b87b6efb4903ee9.jpg",
+    "image": "./images/C_D/18ecb49d227f8d8da41ace4f45c205f0.jpg",
     "question": "В каком направлении разрешено продолжить движение водителю грузового автомобиля?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/28cf089615a7cf48242febbf8c6b28d6.jpg",
+    "image": "./images/C_D/8487ae9c52513f6978f674d4330d6a35.jpg",
     "question": "Вам можно продолжить движение на перекрестке:",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1d04a26e264b3303690b00f840a9ebde.jpg",
+    "image": "./images/C_D/500499bca5f75763d2cb682a1c5bafcd.jpg",
     "question": "В данной ситуации преимущество имеет:",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a917aa3670c1df304a98be8f34b3ec0d.jpg",
+    "image": "./images/C_D/230ab0dfb7daaf5b1772d07c33440b19.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6ec6cdc4e4c8843066e80eeb46806fee.jpg",
+    "image": "./images/C_D/d27fc7b4f2234e4d9d3cb940efa65431.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -354,7 +354,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Перекрёсток регулируемый. У регулировщика руки опущены. Движение со стороны правого и левого бока безрельсовым транспортным средствам разрешается прямо и направо. Вы же намереваетесь повернуть налево. Поэтому Вам необходимо остановиться перед стоп-линией и дождаться соответствующего Вашему намерению сигнала регулировщика, после чего выполнить маневр.(Пункты 6.10, 6.13, 13.3 ПДД, «Горизонтальная разметка» 1.12)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "16d44fb3594000cfc8f23bc7051df64e"
   },
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3ba43a03aec4ef17b8a7b24eb05a5333.jpg",
+    "image": "./images/C_D/a2a3072e63b39328a9c3d614cd86bc2f.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fff6a171153622de634e56844d4639df.jpg",
+    "image": "./images/C_D/18172fd4d7b1b6c9e4a18cea45a4a552.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 31",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c97f145eb39f20e18d8da7cd36fdf531.jpg",
+    "image": "./images/C_D/b479ba9aa3f0dc9cc2436e1a2f4cdc57.jpg",
     "question": "Разрешено ли обучать вождению на этой дороге?",
     "answers": [
       {
@@ -435,7 +435,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Движение происходит согласно знаку 5.1 по автомагистрали. Учебная езда на ней не запрещена, т.е. разрешена.(«Дорожные знаки», пункт 16.1 ПДД).",
     "topic": [
-      "Учебная езда и дополнительные требования к движению велосипедистов"
+      "Движение по автомагистралям"
     ],
     "id": "ea4d4f17b1c5900ee71a3509435aa262"
   },

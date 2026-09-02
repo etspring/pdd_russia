@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/68dec8423a428d04976c71ec222829b8.jpg",
+    "image": "./images/C_D/64d8285a0217655d0e680f1a171a4cbf.jpg",
     "question": "Разрешен ли Вам поворот на дорогу с грунтовым покрытием?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5b8a4071a2da3938a3449113b4007c32.jpg",
+    "image": "./images/C_D/ee41d3237ff27ef3779dfd7434301194.jpg",
     "question": "Можно ли остановиться для посадки пассажира за знаком?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bb3d737cd0fd4f5841b09a8435c818e8.jpg",
+    "image": "./images/C_D/354997311b70650e18427cd8fcc34795.jpg",
     "question": "Каким транспортным средствам разрешается продолжить движение только направо?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed49e201fb9fdea43603b16b7b93e40e.jpg",
+    "image": "./images/C_D/9974436ed10adb225e3df85fffeda237.jpg",
     "question": "Вы намерены повернуть налево. Где следует остановиться, чтобы уступить дорогу легковому автомобилю?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9dd2a18a97122c646c3790c59f53854a.jpg",
+    "image": "./images/C_D/ab85266cbd45fc5cfeb8a67b6de7a4be.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d833907c8ccbde8cc500cebc63eb409e.jpg",
+    "image": "./images/C_D/a3398150a551c899aca7d0a8a1f8232f.jpg",
     "question": "По какой траектории Вам разрешено выполнить разворот на маломестном автобусе?",
     "answers": [
       {
@@ -254,7 +254,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bf61776d372ad74c66fd58d39bd56260.jpg",
+    "image": "./images/C_D/0bc6afcef1d89c5a5a9ddbf7291bf826.jpg",
     "question": "С какой скоростью Вы можете продолжить движение вне населенного пункта по левой полосе на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Над левой полосой висит знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», указывающей полосу движения, на которую распространяется действие знака. Скорость движения на грузовом автомобиле с р.м.м которого более 3,5 т по левой полосе не должна быть менее 50 км/ч и не должна превышать допустимой для дорог вне населённых пунктов, т.е. не более 70 км/ч.(«Дорожные знаки», пункт 10.3 ПДД)",
     "topic": [
-      "Дорожные знаки"
+      "Скорость движения"
     ],
     "id": "c09a7e5e6146d492094bf20fe29318e6"
   },
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/33c8878ad4c9af7c8e011b32ff3add40.jpg",
+    "image": "./images/C_D/07f6de9548f6aaa36f87d6e4b7e6d448.jpg",
     "question": "Можно ли водителю автобуса выполнить опережение грузовых автомобилей вне населенного пункта по такой траектории?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/66e690e115fb770ede03339498a093b9.jpg",
+    "image": "./images/C_D/471b4297b5a6edb31fef27bd8084efeb.jpg",
     "question": "В каком случае водителю разрешается поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/51f1b344839c326e4f1ffb648f772586.jpg",
+    "image": "./images/C_D/b78789a15bbdc3e580cd002742e9ead2.jpg",
     "question": "При повороте направо Вы должны уступить дорогу:",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7d74e801d202b3d35647090e95b38a7a.jpg",
+    "image": "./images/C_D/178c9d128df05c8eb501b1525f92d00c.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы должны уступить дорогу?",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/eefd0d0012c293fe0f58e975c3ce0a3a.jpg",
+    "image": "./images/C_D/808ddf2daba95904c958580a4c1373a7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 1",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/14b4fba9dfb78253bf92f85756e3e4a9.jpg",
+    "image": "./images/C_D/5206bc3c255aa9d1d3b4941e652d727e.jpg",
     "question": "С какой максимальной скоростью можно продолжить движение за знаком?",
     "answers": [
       {

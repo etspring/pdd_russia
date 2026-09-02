@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/51f1b344839c326e4f1ffb648f772586.jpg",
+    "image": "./images/C_D/b78789a15bbdc3e580cd002742e9ead2.jpg",
     "question": "При повороте направо Вы должны уступить дорогу:",
     "answers": [
       {
@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d3682862c570489f0f32e8618d155668.jpg",
+    "image": "./images/C_D/20342a0f0354d80fde1c4bfbc7f82aaa.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы должны уступить дорогу?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/371dc02545bd2d3b46614f247bf9f6d3.jpg",
+    "image": "./images/C_D/03ae8097bedc50c6d8b476ff17bedfe8.jpg",
     "question": "При движении прямо Вы:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d5a98fe6c22b7429cce7795c0898b1b2.jpg",
+    "image": "./images/C_D/99da9365342b1ac677ceabe9d588416f.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -119,7 +119,61 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/abbf4986dacffe6540aba6d826bf7eac.jpg",
+    "image": "./images/C_D/2c5c0e16f6807dd5d4ff7597dca882d8.jpg",
+    "question": "Вы намерены развернуться. Ваши действия?",
+    "answers": [
+      {
+        "answer_text": "Проедете перекресток первым",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Выполните разворот, уступив дорогу легковому автомобилю",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Дождетесь, когда регулировщик опустит правую руку",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "Перекрёсток регулируемый. Правая рука регулировщика вытянута вперёд. Со стороны левого бока транспортные средства могут продолжить движение в любом направлении, соблюдая правила расположения транспортных средств на проезжей части.Производя разворот из крайней левой полосы, у Вас будет помеха справа. Вы уступите дорогу легковому автомобилю, поворачивающему направо. (Пункты 6.10, 13.4 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "c4547df34b93be087eee947c49c039de"
+  },
+  {
+    "title": "Вопрос 6",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/59e528616ee765aea133354b0409b27a.jpg",
+    "question": "Вы намерены повернуть налево. Ваши действия?",
+    "answers": [
+      {
+        "answer_text": "Проедете перекресток\nпервым",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Уступите дорогу трамваю, выполнив поворот с проезжей части",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Пропустите трамвай, перестроитесь на трамвайные пути попутного направления и выполните с них поворот",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Светофор с сигналами бело-лунного цвета, предназначенный для водителей маршрутных транспортных средств, разрешает им движение прямо. Согласно зелёного сигнала светофора, разрешено движение и Вам в любом направлении. Для поворота налево, Вы должны пропустить трамвай, перестроиться на трамвайные пути попутного направления и с них выполнить поворот налево. (Пункты 6.2, 6.8, 8.5 ПДД).",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "9dfa3c0c25b1d3b12a305dfae1e87aca"
+  },
+  {
+    "title": "Вопрос 7",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/bfb1a515634bcca619d28c3b4fe3f100.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -143,10 +197,10 @@
     "id": "43c53953e16176522a26617ed214a775"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cf9904b4bd5a89bdd12756049f640d9a.jpg",
+    "image": "./images/C_D/56c3eb4d17233b7fa5e72997c33ab2fd.jpg",
     "question": "Кто из водителей, выполняющих поворот, нарушит Правила?",
     "answers": [
       {
@@ -174,10 +228,10 @@
     "id": "409de71c811fc0bbef18824b98ad8c6f"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3f1d38838c548ab2ecd1b9ff40105958.jpg",
+    "image": "./images/C_D/68f9af24c847638e4f069a61151f01c4.jpg",
     "question": "Разрешено ли Вам выехать на перекресток, за которым образовался затор:",
     "answers": [
       {
@@ -201,10 +255,87 @@
     "id": "3a327387b31e1b6a357d164227ed31e0"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/26f45adf4477922b2a892cecb0191204.jpg",
+    "image": "./images/C_D/b0b882aa3f1ffc9a19de4e25cf0cc95d.jpg",
+    "question": "При включении зеленого сигнала светофора Вам следует:",
+    "answers": [
+      {
+        "answer_text": "Сразу начать движение",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Начать движение, убедившись в отсутствии только пешеходов, завершающих переход проезжей части",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Начать движение, убедившись в отсутствии пешеходов и транспортных средств, завершающих движение после смены сигнала светофора",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Грузовик закрывает обзорность справа, откуда могут неожиданно появиться пешеходы, начавшие движение после смены сигнала светофора. Следует убедиться в отсутствии ТС, завершающих движение через перекресток. Поэтому поступите с максимальной осторожностью.(Пункт 13.8 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "b68768c8310655882e750d05bcba408d"
+  },
+  {
+    "title": "Вопрос 11",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/5e08e5e0ea54787f1daf696abe2795a7.jpg",
+    "question": "Обязаны ли Вы при повороте направо уступить дорогу автомобилю, выполняющему разворот?",
+    "answers": [
+      {
+        "answer_text": "Обязаны",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Не обязаны",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 1",
+    "answer_tip": "При движении «под дополнительную секцию», включённую одновременно с основным красным сигналом светофора, Вы обязаны уступить дорогу ВСЕМ движущимся с других направлений, независимо от их дальнейшего направления движения.(Пункт 13.5 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "f0e8b486407c5e33be8d2af0fb28a632"
+  },
+  {
+    "title": "Вопрос 12",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/891f83bc9c910180b4960ae41250b65e.jpg",
+    "question": "Вы намерены повернуть направо. Ваши действия?",
+    "answers": [
+      {
+        "answer_text": "Повернете направо, не уступая дорогу пешеходам",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Повернете направо, уступив дорогу пешеходам",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Остановитесь перед перекрестком и дождетесь другого сигнала регулировщика",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "Руки регулировщика опущены («Грудь, спина - стена»). Со стороны правого и левого бока разрешено движение безрельсовым транспортным средствам прямо и направо, пешеходам разрешено переходить проезжую часть. (Пункт 6.10 ПДД). При повороте направо вы обязаны уступить дорогу пешеходам, переходящим проезжую часть дороги, на которую поворачиваете.(Пункт 13.1 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "d72dcc8b68b6d5a24de5e002d7c2b9eb"
+  },
+  {
+    "title": "Вопрос 13",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/2912aff94a0c7d7d9937d93c2cb859e2.jpg",
     "question": "В данной ситуации Вы не обязаны уступать дорогу трамваю при движении:",
     "answers": [
       {
@@ -228,10 +359,10 @@
     "id": "25b3ae65d4bbdc58906e2bf2311c011b"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f86cb115f7b029d1836b2d774f05fd43.jpg",
+    "image": "./images/C_D/c3d7274e131a8d3e0d6462cd062a6002.jpg",
     "question": "При включении зеленого сигнала светофора Вы должны уступить дорогу:",
     "answers": [
       {
@@ -255,10 +386,10 @@
     "id": "ebc7c45aa5d6b80f106a16e7e71aa359"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ce6225f07e39156a0156da307c4c6256.jpg",
+    "image": "./images/C_D/0ed2880572fe3dc456a623deaae5a381.jpg",
     "question": "В каком случае Вы обязаны пропустить трамвай?",
     "answers": [
       {
@@ -282,10 +413,10 @@
     "id": "0cb2b478dc17e3d0ecb6e342d5fe65bd"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ad148cf3808f7110f7957bbec707117b.jpg",
+    "image": "./images/C_D/eb33ead2b4937994b01023777b02fe41.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы должны уступить дорогу?",
     "answers": [
       {
@@ -309,10 +440,10 @@
     "id": "b02627d467ef25ad1c12afeeeb770ceb"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8d3fc65898529c42e14d40ee07141b55.jpg",
+    "image": "./images/C_D/0e0416ac653a310fe71f722b91076792.jpg",
     "question": "Обязаны ли Вы уступить дорогу автобусу?",
     "answers": [
       {
@@ -332,10 +463,10 @@
     "id": "c871839f6ef53eaf9f70aea52ed1a1c0"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/eb3d676047c8ed8549d0353a79cf51e4.jpg",
+    "image": "./images/C_D/ccc3d6ac8c8d728ba086fa85e86dbdc9.jpg",
     "question": "Обязаны ли Вы уступить дорогу легковому автомобилю при повороте направо?",
     "answers": [
       {
@@ -359,10 +490,10 @@
     "id": "014098be5a4ec93894a054e03e2a5d04"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7a5bf531f1903ab6350213cb27a6702c.jpg",
+    "image": "./images/C_D/8c8364f57784ff9ca015365a182cc4ca.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -386,10 +517,10 @@
     "id": "9840bc5e0a65222061b4f0e7a55e336f"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6e57d82b10b2c27fa1e892feeb7eab8f.jpg",
+    "image": "./images/C_D/5dea328e4622c53447a2bd742dd49774.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -413,10 +544,10 @@
     "id": "e864d1ee6774acf69d5f8b24bcf221b7"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/360f42fe410a1522e3b814faf79e514e.jpg",
+    "image": "./images/C_D/ac54d0d531661d53cce8bd6d1ab49903.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -440,10 +571,10 @@
     "id": "a49deb3587fc83bcc4031fb2e53d013f"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/89c560d0d88f229bbe7eb9f5ffa3a8f2.jpg",
+    "image": "./images/C_D/97bbe1b7b42676e53c09471623a4635c.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -467,10 +598,37 @@
     "id": "cbf9fc7bea400d11172d91a6c91fa54d"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7ed92aa398597aa1b5e61356b645cef0.jpg",
+    "image": "./images/C_D/7a11af631c65643d295df9f5456c7b69.jpg",
+    "question": "Как следует поступить в этой ситуации, если Вам необходимо повернуть направо?",
+    "answers": [
+      {
+        "answer_text": "Остановиться и дождаться другого сигнала регулировщика",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Повернуть направо, уступив дорогу пешеходам",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Повернуть направо, имея преимущество в движении перед пешеходами",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "Правая рука регулировщика вытянута вперед. Со стороны левого бока безрельсовым транспортным средствам разрешено движение во всех направлениях - прямо, направо, налево и разворот. При повороте направо Вы обязаны уступить дорогу пешеходам, переходящим проезжую часть, на которую поворачиваете.(Пункты 6.10, 13.1 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "9bcb772941579769fea4240d333a85ac"
+  },
+  {
+    "title": "Вопрос 24",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/86ddfd5d09d93ea95e7ae8b99953e3da.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -494,10 +652,41 @@
     "id": "146088d5175a074ae78866a5612345c6"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/22f342671ee7c1b29cb012cb090e4df0.jpg",
+    "image": "./images/no_image.jpg",
+    "question": "Значения каких дорожных знаков отменяются сигналами светофора?",
+    "answers": [
+      {
+        "answer_text": "Знаков приоритета",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Запрещающих знаков",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Предписывающих знаков",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Всех перечисленных знаков",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 1",
+    "answer_tip": "Движение регулируется: регулировщиком, сигналами светофора, знаками приоритета, разметкой, дорожным покрытием, «правилом правой руки». По вышеперечисленному «принципу приоритетности регулирования дорожного движения» знаки приоритета работают (т.е. ими мы руководствуемся) в том случае, когда отсутствует регулировщик, светофор выключен, неисправен, переведён в «жёлтый мигающий режим».(«Дорожные знаки», пункты 6.15 и 13.3 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "11f95f78b08a1345c915bf497456c7a7"
+  },
+  {
+    "title": "Вопрос 26",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/19c40927b65e0cf67c60ab4efe740703.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -521,10 +710,37 @@
     "id": "2ac392b8cae5a64c0b6354a103d3dd82"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b6afbfe7e51a98aeb18a5f989e5a06e1.jpg",
+    "image": "./images/C_D/0543275710015e17a3cf7a2b20100c85.jpg",
+    "question": "Как Вам следует поступить при повороте направо?",
+    "answers": [
+      {
+        "answer_text": "Остановиться и дождаться другого сигнала регулировщика",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Проехать перекресток, уступив дорогу трамваю",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Проехать перекресток первым",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Перекрёсток регулируемый. Со стороны левого бока при таком жесте регулировщика безрельсовым транспортным средствам движение разрешается во всех направлениях. Трамваи двигаются только «по направлению рук регулировщика». В данной ситуации трамвай продолжать движение не может. Его водитель будет дожидаться смены сигнала регулировщика. Вы продолжаете движение через перекрёсток, т.е. проезжаете его первым.(Пункт 6.10 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "fd51389e45b471cac4cf18d494f575dc"
+  },
+  {
+    "title": "Вопрос 28",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/0d4b6b470299f3b58bcbe7037d7acdc9.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -552,10 +768,10 @@
     "id": "140ad005345a757a4fb89dd112e4de8d"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/233f02f95b79cfc9d2e67acce699dccd.jpg",
+    "image": "./images/C_D/31d5da9bee55f99dd257b23afb8357ec.jpg",
     "question": "При выполнении какого маневра водитель грузового автомобиля имеет преимущество в движении?",
     "answers": [
       {
@@ -579,10 +795,10 @@
     "id": "08823031448036e94a9dd4ff7dd8c6b3"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6933bb6cdf1c55ddb1403eed3bc25b35.jpg",
+    "image": "./images/C_D/2749368f1370fa634e5613551b69c305.jpg",
     "question": "В каком случае Вы обязаны уступить дорогу грузовому автомобилю?",
     "answers": [
       {
@@ -606,10 +822,37 @@
     "id": "046f455eca340576d92893709ada3c35"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/efdc24039cd77276d8109ad1a5c5fb8f.jpg",
+    "image": "./images/C_D/d27fc7b4f2234e4d9d3cb940efa65431.jpg",
+    "question": "Как Вам следует поступить при повороте налево?",
+    "answers": [
+      {
+        "answer_text": "Остановиться у стоп-линии и дождаться сигнала регулировщика, разрешающего поворот",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Выехав на перекресток, остановиться и дождаться сигнала регулировщика, разрешающего поворот",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Повернуть, уступив дорогу встречному автомобилю",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 1",
+    "answer_tip": "Перекрёсток регулируемый. У регулировщика руки опущены. Движение со стороны правого и левого бока безрельсовым транспортным средствам разрешается прямо и направо. Вы же намереваетесь повернуть налево. Поэтому Вам необходимо остановиться перед стоп-линией и дождаться соответствующего Вашему намерению сигнала регулировщика, после чего выполнить маневр.(Пункты 6.10, 6.13, 13.3 ПДД, «Горизонтальная разметка» 1.12)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "16d44fb3594000cfc8f23bc7051df64e"
+  },
+  {
+    "title": "Вопрос 32",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/cf7d1414b0682de0fb95deaf32d075b4.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -633,10 +876,68 @@
     "id": "55901e034913dfdfa514f258ae5b927d"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7d2bf6f3b4672fddd17b32c6ebda3fa7.jpg",
+    "image": "./images/C_D/13c09bd439e27b941b8406e1bb3af5b3.jpg",
+    "question": "Как Вам следует поступить при повороте направо?",
+    "answers": [
+      {
+        "answer_text": "Проехать перекресток первым",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Уступить дорогу только трамваю А",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Уступить дорогу только трамваю Б",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Уступить дорогу обоим трамваям",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 4",
+    "answer_tip": "Для поворота направо Вы должны пересечь трамвайные пути. Оба трамвая так же, как и Вы, имеют право на движение, они двигаются «по рукам регулировщика». Вы им уступаете, так как при одновременном праве на движение трамвай имеет преимущество перед безрельсовыми транспортными средствами.(Пункты 6.10, 13.6 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "db69c9046428c97a3a7750a59524771b"
+  },
+  {
+    "title": "Вопрос 34",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/40da411faef01e3dc49c3ebe52172f40.jpg",
+    "question": "Как Вам следует поступить при движении в прямом направлении?",
+    "answers": [
+      {
+        "answer_text": "Проехать перекресток первым",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Уступить дорогу трамваю",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Дождаться другого сигнала регулировщика",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 1",
+    "answer_tip": "Перекрёсток регулируемый. Трамваи двигаются только «по направлению рук регулировщика», т.е. прямо. Водителю трамвая поворот направо запрещён. Соответственно он стоит и дожидается смены сигнала регулировщика. Вам можно продолжить движение прямо или направо. Проезжаете перекрёсток первым. (Пункт 6.10 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "a7a90e6909172eb5984f35ae949e58c0"
+  },
+  {
+    "title": "Вопрос 35",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/e348c5a29be8bea843e1af63ceb77d25.jpg",
     "question": "Вам необходимо уступить дорогу другим участникам движения:",
     "answers": [
       {
@@ -660,10 +961,37 @@
     "id": "d77dfb4fd0696d5335aff9ae9207624a"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dd3dda1dc6b72afb42e1b7b8b6d75e3e.jpg",
+    "image": "./images/C_D/edbf12df26314ec5d1565f2573195d4b.jpg",
+    "question": "Вы намерены повернуть направо. Ваши действия?",
+    "answers": [
+      {
+        "answer_text": "Дождетесь другого сигнала регулировщика",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Уступите дорогу легковому автомобилю, осуществляющему разворот",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Проедете перекресток первым",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Со стороны вытянутой правой руки регулировщика безрельсовым транспортным средствам движение разрешается только направо. При этом разворачивающийся автомобиль, руководствуясь «правилом правой руки», уступает Вам дорогу.(Пункт 6.10 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "6bd322a1a33eae11f34384124eff1fc3"
+  },
+  {
+    "title": "Вопрос 37",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/33321b6c0b9de6807f924d6bca5ee9cf.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -687,10 +1015,10 @@
     "id": "2925e945de4da0254e5757c4541f9e5f"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5390bd98aa179f97ba119923cfac869f.jpg",
+    "image": "./images/C_D/b81e3c8c981aa42f00faea52ffec8e0d.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -714,10 +1042,10 @@
     "id": "9b912c313bf75d3e458c3e617fa76a89"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/70e61f8302e24c7c8360860f28296b9a.jpg",
+    "image": "./images/C_D/c64f3051f345b70b39858b9d13ea1997.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -741,10 +1069,10 @@
     "id": "c25a0a5ea893eba71ea32a1fe2ae73b2"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f566491539c1f8ac9e1578d5f28274c6.jpg",
+    "image": "./images/C_D/5c2d5faee19451a559c689cd1e3c483d.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -772,10 +1100,10 @@
     "id": "3510f6b6be43e17121442533447f967d"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7d74e801d202b3d35647090e95b38a7a.jpg",
+    "image": "./images/C_D/178c9d128df05c8eb501b1525f92d00c.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы должны уступить дорогу?",
     "answers": [
       {
@@ -803,10 +1131,10 @@
     "id": "09c728e5fcea9efdbd7c74d6f656b64d"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7de8fb4023d2540fb95bdfd1febc169a.jpg",
+    "image": "./images/C_D/69d6a5ed86ac80543767d0147376d2c1.jpg",
     "question": "В каком случае Вы имеете преимущество?",
     "answers": [
       {
@@ -830,10 +1158,10 @@
     "id": "b54b690a22b4660ee3c1203fb2faff2a"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 43",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e2258083b9937068c5ff4720468bc5d4.jpg",
+    "image": "./images/C_D/081491a08eac60b3ee75900a35c30426.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -857,10 +1185,37 @@
     "id": "14894e6671c8881187da401ea6168c15"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 44",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a148db465a6d5a31d7408298fb2e1765.jpg",
+    "image": "./images/C_D/ab14e1e76bb075dbc0228ccf63b9ab76.jpg",
+    "question": "Кому Вы должны уступить дорогу при повороте направо?",
+    "answers": [
+      {
+        "answer_text": "Только пешеходу, переходящему проезжую часть по нерегулируемому пешеходному переходу",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Только пешеходам, переходящим проезжую часть, на которую Вы поворачиваете",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Всем пешеходам",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Первоначально Вы должны уступить дорогу пешеходу, находящемуся на нерегулируемом пешеходном переходе. (Пункт 14.1 ПДД). В последующем при повороте направо уступите дорогу пешеходам, переходящим проезжую часть дороги, на которую Вы поворачиваете. (Пункт 13.1 ПДД). Это правило распространяется при проезде как регулируемых, так и нерегулируемых перекрёстков.",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "f06fda7f7c28b7dcc624f1ece5ec0ee6"
+  },
+  {
+    "title": "Вопрос 45",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/53896f87441039b9f983f92b4b71d286.jpg",
     "question": "Кому Вы должны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -884,10 +1239,10 @@
     "id": "eab47901eebad4a8a34538c55ddf4093"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 46",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d80bcc20ae9fbba879250a997e9d3ffa.jpg",
+    "image": "./images/C_D/79ed94bdd010103374766b39c8cf17b1.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -911,10 +1266,10 @@
     "id": "c8d62f5f28653dbf66a1c44fa29197c0"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 47",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3f1d38838c548ab2ecd1b9ff40105958.jpg",
+    "image": "./images/C_D/68f9af24c847638e4f069a61151f01c4.jpg",
     "question": "Разрешено ли Вам выехать на перекресток, за которым образовался затор:",
     "answers": [
       {
@@ -938,10 +1293,10 @@
     "id": "3a327387b31e1b6a357d164227ed31e0"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 48",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3ef646b939ac10a3921b8b2c60ae548a.jpg",
+    "image": "./images/C_D/fec97e4c27255a0094fdca51f0b048b5.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -965,10 +1320,10 @@
     "id": "bcb9d002132e2fdf0b6bce53a4ce930a"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 49",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5c4893c3372657b5196d56ab7da2c4db.jpg",
+    "image": "./images/C_D/e24c2499306d03a27f33d853d67278d5.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -988,10 +1343,10 @@
     "id": "340eda677b699654d088c6951e2b884c"
   },
   {
-    "title": "Вопрос 37",
+    "title": "Вопрос 50",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e40c61b6d51f874df2b8835ab80b62d.jpg",
+    "image": "./images/C_D/690e52b0211e988474378ff94426c306.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -1015,10 +1370,10 @@
     "id": "0d1c04e7ecd31b2e3737d4cacf7dff37"
   },
   {
-    "title": "Вопрос 38",
+    "title": "Вопрос 51",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1dc861fad244f8c1b5ee74b792b98d69.jpg",
+    "image": "./images/C_D/cd1f7fdcc8a393ce827ae7558d124efa.jpg",
     "question": "В каком случае Вы имеете право проехать перекресток первым?",
     "answers": [
       {
@@ -1042,10 +1397,37 @@
     "id": "51626a271b7cc0a56285573791689c24"
   },
   {
-    "title": "Вопрос 39",
+    "title": "Вопрос 52",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/18e455171b49c41d9b6951edc6808c07.jpg",
+    "image": "./images/C_D/7807fa046f557800a1be00f30f449bd0.jpg",
+    "question": "При движении в каком направлении Вы должны уступить дорогу автомобилю с включенными проблесковым маячком и специальным звуковым сигналом?",
+    "answers": [
+      {
+        "answer_text": "Только налево",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Налево и в обратном направлении",
+        "is_correct": false
+      },
+      {
+        "answer_text": "В любом",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Вы обязаны обеспечить беспрепятственный проезд перекрёстка «оперативнику» с включенными специальными сигналами независимо от направления его движения. Сделать это необходимо при движении в любом направлении.(Пункты 3.1, 3.2 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "e636c28bb84f0b1776a2da35ad1fe4f4"
+  },
+  {
+    "title": "Вопрос 53",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/22b8f710a05c3b3bf609ddeb98c48f9b.jpg",
     "question": "Кто из водителей, выполняющих поворот, должен уступить дорогу пешеходам?",
     "answers": [
       {
@@ -1069,10 +1451,10 @@
     "id": "2b2c8249eca052796e4ba9a714d5e8c2"
   },
   {
-    "title": "Вопрос 40",
+    "title": "Вопрос 54",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0c421fa52b2be0f69b412177c28cfbfb.jpg",
+    "image": "./images/C_D/a9b88243e51762198cae0dad8f870e01.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -1096,10 +1478,10 @@
     "id": "347972612ca8cbfe0d7bace5e5631db9"
   },
   {
-    "title": "Вопрос 41",
+    "title": "Вопрос 55",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/de2688ffb35ed16d527dea0f127f4968.jpg",
+    "image": "./images/C_D/f0c5c79ef34ca9d20c19932582ffdb98.jpg",
     "question": "При движении в прямом направлении Вам следует:",
     "answers": [
       {
@@ -1123,10 +1505,10 @@
     "id": "bc49094150c47320fca36d8d796175f8"
   },
   {
-    "title": "Вопрос 42",
+    "title": "Вопрос 56",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/eae8389efd82301cc6fb22a01807ac4b.jpg",
+    "image": "./images/C_D/747d1bfe2859c4356d9cbf31a66f9fb0.jpg",
     "question": "При въезде на перекресток Вы:",
     "answers": [
       {
@@ -1150,10 +1532,10 @@
     "id": "92f0dba4f2a2986d2028564479cc46c6"
   },
   {
-    "title": "Вопрос 43",
+    "title": "Вопрос 57",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f4ef91a9aa2198a9b2197ff84253dd78.jpg",
+    "image": "./images/C_D/7814877e97b9051b66550178d55bab95.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -1177,10 +1559,10 @@
     "id": "1af21266cbab892762d5b4df1a10f1a8"
   },
   {
-    "title": "Вопрос 44",
+    "title": "Вопрос 58",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/70cc0c1d80eebea083071a491a97b2c2.jpg",
+    "image": "./images/C_D/862fab8105fddbd2e28e231b4cff90ba.jpg",
     "question": "Вы намерены выполнить разворот. Ваши возможные действия?",
     "answers": [
       {
@@ -1204,10 +1586,10 @@
     "id": "b1a042b320744714cbef98b7313cf244"
   },
   {
-    "title": "Вопрос 45",
+    "title": "Вопрос 59",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/09090a6b157019f510f405f73b980fb2.jpg",
+    "image": "./images/C_D/110392054f576e8ec0a925d562346f53.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -1231,10 +1613,10 @@
     "id": "0f782925f03203a0c221f6311535a597"
   },
   {
-    "title": "Вопрос 46",
+    "title": "Вопрос 60",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/306ab9876f79234a6f1b219ba0f0ab20.jpg",
+    "image": "./images/C_D/e6a98a26187efb82c86b6b34f022ba1d.jpg",
     "question": "При повороте направо Вам следует:",
     "answers": [
       {
@@ -1254,10 +1636,10 @@
     "id": "21635edf0ee6ace3f61b1c502720f75d"
   },
   {
-    "title": "Вопрос 47",
+    "title": "Вопрос 61",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c9eee3959c3e511e8361808a4b387351.jpg",
+    "image": "./images/C_D/a78f84b0399b7b86c65e34f0cc0d8cf3.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -1281,10 +1663,10 @@
     "id": "701b63cb4147c3cd5e5eb0cf04750956"
   },
   {
-    "title": "Вопрос 48",
+    "title": "Вопрос 62",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fda952ff4d22738ce8f6910af85c096c.jpg",
+    "image": "./images/C_D/ec7f8554a12be641a7e43e5f4fc4747f.jpg",
     "question": "В каком случае Вы должны уступить дорогу трамваю?",
     "answers": [
       {
@@ -1308,10 +1690,10 @@
     "id": "e55e5a2b43963a7103cb95f06b502242"
   },
   {
-    "title": "Вопрос 49",
+    "title": "Вопрос 63",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e0419d1a829b25f473f93d91a75e119b.jpg",
+    "image": "./images/C_D/a0944ab6befbb9120055b46cf5ed8b6b.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -1331,10 +1713,10 @@
     "id": "77e5b9b87e95da00c8377e67a4a5ed9e"
   },
   {
-    "title": "Вопрос 50",
+    "title": "Вопрос 64",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ca8c7170d1b45af29be495a7dcd97f68.jpg",
+    "image": "./images/C_D/f3fb88455415ada91f3a71ee89a24aec.jpg",
     "question": "Кто имеет право проехать перекресток первым, если все намерены двигаться прямо?",
     "answers": [
       {
@@ -1358,10 +1740,10 @@
     "id": "da7c339f03e802195e0af390392344ce"
   },
   {
-    "title": "Вопрос 51",
+    "title": "Вопрос 65",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fc228e90c7f0e134eba5be918232030e.jpg",
+    "image": "./images/C_D/9c41f730c8fdd83282753c2d53a01c58.jpg",
     "question": "При повороте направо Вы должны уступить дорогу:",
     "answers": [
       {
@@ -1385,10 +1767,10 @@
     "id": "19b4650f7767ad3e821804e9d30435a5"
   },
   {
-    "title": "Вопрос 52",
+    "title": "Вопрос 66",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d9c18d5a7fded8cde1f7e5dbc997de3a.jpg",
+    "image": "./images/C_D/5643a59bbae5686ed6a105286df96bec.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -1412,10 +1794,10 @@
     "id": "dc8e0ff5d9aedc485e5e300c8c968ab6"
   },
   {
-    "title": "Вопрос 53",
+    "title": "Вопрос 67",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/05e24863fbf260e518ab871d3a52e0bc.jpg",
+    "image": "./images/C_D/f7e14026e5e5f217fa2fe1d39a2cafbe.jpg",
     "question": "Как Вам следует поступить, двигаясь по перекрестку с круговым движением?",
     "answers": [
       {
@@ -1439,10 +1821,10 @@
     "id": "319a9e608325bd5a9d2827c2111eaa91"
   },
   {
-    "title": "Вопрос 54",
+    "title": "Вопрос 68",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/585a94c14a02281846a09bded97612c8.jpg",
+    "image": "./images/C_D/9b86884d811779c2ba3cad24e8000776.jpg",
     "question": "Вы должны уступить дорогу грузовому автомобилю:",
     "answers": [
       {
@@ -1466,10 +1848,10 @@
     "id": "3ec9b6dcda1ca2631c07dac3deb9cce6"
   },
   {
-    "title": "Вопрос 55",
+    "title": "Вопрос 69",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f1bc5fd10fc51bcd91aeb9d783532ee5.jpg",
+    "image": "./images/C_D/0de3a6f39123055a6565ad5ebd8406ea.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -1493,10 +1875,10 @@
     "id": "e262deeff2618c88ffdc542b5585e189"
   },
   {
-    "title": "Вопрос 56",
+    "title": "Вопрос 70",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f7c8287fd6b8db67290151edfc94e885.jpg",
+    "image": "./images/C_D/b1f8dd7179ed5a76010b6736d5f49116.jpg",
     "question": "Вы намерены продолжить движение прямо при желтом мигающем сигнале светофора. Ваши действия?",
     "answers": [
       {
@@ -1520,10 +1902,10 @@
     "id": "c854f4303bdf755360a23237894f66d0"
   },
   {
-    "title": "Вопрос 57",
+    "title": "Вопрос 71",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3ba43a03aec4ef17b8a7b24eb05a5333.jpg",
+    "image": "./images/C_D/a2a3072e63b39328a9c3d614cd86bc2f.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -1543,10 +1925,10 @@
     "id": "984e284f0a3f880e3842941b4738236d"
   },
   {
-    "title": "Вопрос 58",
+    "title": "Вопрос 72",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a3c497542a8c6a6800d1b3d17527beb9.jpg",
+    "image": "./images/C_D/ffc3964304ec9e54cb0b225c075c1c12.jpg",
     "question": "Вы намерены развернуться. Ваши действия?",
     "answers": [
       {
@@ -1570,10 +1952,10 @@
     "id": "d0849040bcf830309959a75e452c0acc"
   },
   {
-    "title": "Вопрос 59",
+    "title": "Вопрос 73",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0ff9554e56b456c1b208caec2b526f17.jpg",
+    "image": "./images/C_D/eae3bc04f1a678a45b81b6dd232d9ac1.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -1597,10 +1979,10 @@
     "id": "525b156f777d5143a2e5282cecd51919"
   },
   {
-    "title": "Вопрос 60",
+    "title": "Вопрос 74",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d7ae2d734f146a9b3cf32bbcec9dc0a8.jpg",
+    "image": "./images/C_D/c4997371d7a7e399253c00a933d222ad.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -1624,10 +2006,10 @@
     "id": "cfee8e0cf87df768dce22252491672ec"
   },
   {
-    "title": "Вопрос 61",
+    "title": "Вопрос 75",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9b4ae3528a9e86dcd67b6b90369eb107.jpg",
+    "image": "./images/C_D/ca589d260b8f4e7027b60827a36086a7.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия?",
     "answers": [
       {
@@ -1651,10 +2033,10 @@
     "id": "34240fe02bdf67f29ffc35570de19688"
   },
   {
-    "title": "Вопрос 62",
+    "title": "Вопрос 76",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/571a44582659ced54d23dd2345245a81.jpg",
+    "image": "./images/C_D/5efb9a9fba195da252907b9b0d4ff73b.jpg",
     "question": "В каком случае Вы должны пропустить трамвай?",
     "answers": [
       {
@@ -1678,10 +2060,10 @@
     "id": "79ea31712f126e926ff3afa5d53ae142"
   },
   {
-    "title": "Вопрос 63",
+    "title": "Вопрос 77",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/299e398557ff0769c09ec4012cf25f70.jpg",
+    "image": "./images/C_D/dacee4d4ddbf2fa02202482e2d768422.jpg",
     "question": "При движении в каком направлении Вы будете иметь преимущество?",
     "answers": [
       {
@@ -1705,10 +2087,10 @@
     "id": "126bb08f817614dbe8b6a5786e68092e"
   },
   {
-    "title": "Вопрос 64",
+    "title": "Вопрос 78",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4b958a49df4d21b36b17fdce04666541.jpg",
+    "image": "./images/C_D/742e545ebeab2be91eeec0e8ec05ad6a.jpg",
     "question": "При движении в каком направлении Вы обязаны уступить дорогу трамваю?",
     "answers": [
       {
@@ -1732,10 +2114,10 @@
     "id": "a88b1fb896c9dd6bf8a701b2aa8e3b1c"
   },
   {
-    "title": "Вопрос 65",
+    "title": "Вопрос 79",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cbc4f419164379738b289e9be85f9335.jpg",
+    "image": "./images/C_D/93d99e1c215a3b15a0924f4e638dc9ae.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -1755,10 +2137,10 @@
     "id": "e4d2b95f9da3fa2aa7feb82c91f8041f"
   },
   {
-    "title": "Вопрос 66",
+    "title": "Вопрос 80",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0214734e8e4ff2532600fde6131b1b94.jpg",
+    "image": "./images/C_D/ec482511873ea79c060690f69d8d6577.jpg",
     "question": "При движении прямо Вы:",
     "answers": [
       {
@@ -1786,10 +2168,10 @@
     "id": "aade1a68ba6cdfb7cc0f1519206bfac1"
   },
   {
-    "title": "Вопрос 67",
+    "title": "Вопрос 81",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/eefd0d0012c293fe0f58e975c3ce0a3a.jpg",
+    "image": "./images/C_D/808ddf2daba95904c958580a4c1373a7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -1813,10 +2195,10 @@
     "id": "c64eefab25596af3056aa4b69e92516e"
   },
   {
-    "title": "Вопрос 68",
+    "title": "Вопрос 82",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cfa255351f0c01601fc6290bf2067a14.jpg",
+    "image": "./images/C_D/ad9eedaeff906a3ddda50799bad99fcf.jpg",
     "question": "Обязан ли водитель мотоцикла уступить Вам дорогу?",
     "answers": [
       {
@@ -1836,10 +2218,10 @@
     "id": "b3a079f4b929c0d74201d89e99593ebf"
   },
   {
-    "title": "Вопрос 69",
+    "title": "Вопрос 83",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b013ad7bc09176648d56f8a8537ce50b.jpg",
+    "image": "./images/C_D/7106ccc33eea4b1c7256362de3967bd7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -1867,10 +2249,10 @@
     "id": "ce32e1f30e2693ddb2c13418c65d3c94"
   },
   {
-    "title": "Вопрос 70",
+    "title": "Вопрос 84",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cf71718fc8d9b46f03aecb6dc685143a.jpg",
+    "image": "./images/C_D/6b73bbb4d966a7be5563808ee8e5a96a.jpg",
     "question": "Как Вам следует поступить при выполнении разворота?",
     "answers": [
       {
@@ -1894,10 +2276,10 @@
     "id": "d1512a1262810283918e40cb3495b9ad"
   },
   {
-    "title": "Вопрос 71",
+    "title": "Вопрос 85",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fbb8983b9f01741288d433c80a30dc02.jpg",
+    "image": "./images/C_D/c0a101bb878a8fd8c9222a1065971597.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -1921,10 +2303,37 @@
     "id": "79d037f8639905e8e898dacfb97d9cac"
   },
   {
-    "title": "Вопрос 72",
+    "title": "Вопрос 86",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9d66d36373715978d5b4ee92b486865c.jpg",
+    "image": "./images/C_D/d080334034f911acf6742e60eb2e025b.jpg",
+    "question": "В каком случае Вы должны будете уступить дорогу автомобилю ДПС?",
+    "answers": [
+      {
+        "answer_text": "Если на автомобиле ДПС будут включены проблесковые маячки синего цвета",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Если на автомобиле ДПС одновременно будут включены проблесковые маячки синего цвета и специальный звуковой сигнал",
+        "is_correct": true
+      },
+      {
+        "answer_text": "В любом",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "В данном случае Вы должны уступить дорогу «оперативнику», если на данном автомобиле одновременно будут включены проблесковые маячки синего цвета и специальный звуковой сигнал.(Пункт 3.2 ПДД)",
+    "topic": [
+      "Проезд перекрестков"
+    ],
+    "id": "8c3616674b46014b2338c7c719b2bc8d"
+  },
+  {
+    "title": "Вопрос 87",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/7dbb788d93d926363aa084a9c1f2b92d.jpg",
     "question": "Вы намерены продолжить движение прямо. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -1948,10 +2357,10 @@
     "id": "d30d4ea921f8cf6d97e3e484725cd7f6"
   },
   {
-    "title": "Вопрос 73",
+    "title": "Вопрос 88",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/725480a88995ce5886a901b5d912e90f.jpg",
+    "image": "./images/C_D/cb9df27b985a7ac79dc5fd5384969487.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -1975,10 +2384,10 @@
     "id": "5bc912be09a0a696eb5c958b22569472"
   },
   {
-    "title": "Вопрос 74",
+    "title": "Вопрос 89",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/eefd0d0012c293fe0f58e975c3ce0a3a.jpg",
+    "image": "./images/C_D/808ddf2daba95904c958580a4c1373a7.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2002,10 +2411,10 @@
     "id": "c64eefab25596af3056aa4b69e92516e"
   },
   {
-    "title": "Вопрос 75",
+    "title": "Вопрос 90",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/595996d8f6f37aa30338fee2a25a69bd.jpg",
+    "image": "./images/C_D/ea2fd5912aba5ef86ef76001199410b0.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2029,10 +2438,10 @@
     "id": "850f07c45a86afbcd4b4f09f017c6edc"
   },
   {
-    "title": "Вопрос 76",
+    "title": "Вопрос 91",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/acd8113a5f1f89f43538a9e62bbcd389.jpg",
+    "image": "./images/C_D/7b4bcffe0d3ccfd05ba509afd1f2d410.jpg",
     "question": "Вы намерены продолжить движение прямо. При желтом мигающем сигнале светофора следует:",
     "answers": [
       {
@@ -2060,10 +2469,10 @@
     "id": "83b8f4ed090f8068f75dc9b49ff8a471"
   },
   {
-    "title": "Вопрос 77",
+    "title": "Вопрос 92",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e7c1c54b1aa6257789586deba542040.jpg",
+    "image": "./images/C_D/4a5cda3db2134a34870f9eb95a6bf3a5.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия при желтом мигающем сигнале светофора?",
     "answers": [
       {
@@ -2091,10 +2500,10 @@
     "id": "f38784a6bf075da5f6c4c00b4214a860"
   },
   {
-    "title": "Вопрос 78",
+    "title": "Вопрос 93",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/04ca3a0d72441b469f490fe575966ecf.jpg",
+    "image": "./images/C_D/afb79fb4a0379f59d27100cdd737ba59.jpg",
     "question": "Можете ли Вы в данной ситуации приступить к повороту налево?",
     "answers": [
       {
@@ -2118,10 +2527,10 @@
     "id": "fd37552baccdfe11681a8b7b81c7becb"
   },
   {
-    "title": "Вопрос 79",
+    "title": "Вопрос 94",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1fb7cba01392e80e45fce7898411d59b.jpg",
+    "image": "./images/C_D/e7a9eb3c4676df7793b8a249cae523fb.jpg",
     "question": "При повороте налево Вы:",
     "answers": [
       {
@@ -2145,10 +2554,10 @@
     "id": "799fcc9cd0bb95dcd359cba8e53d205a"
   },
   {
-    "title": "Вопрос 80",
+    "title": "Вопрос 95",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/87779843aa1a433841b989ab1f8be6e3.jpg",
+    "image": "./images/C_D/a8bbef75c9855d899ea862a7dd081e47.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2172,10 +2581,10 @@
     "id": "1ff83cfa25d8634e88ee581fe7e7ba35"
   },
   {
-    "title": "Вопрос 81",
+    "title": "Вопрос 96",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c624970bc8a052d3c9f4e3c389094fa8.jpg",
+    "image": "./images/C_D/1a85b9aabc9ade6faa060d358bdcf74f.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2199,10 +2608,10 @@
     "id": "f4792cb76559bd9ab2ce7ff377db691c"
   },
   {
-    "title": "Вопрос 82",
+    "title": "Вопрос 97",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/522eeb78b4aa642e85a037fb92a6bfb2.jpg",
+    "image": "./images/C_D/ce45b86e30417060aacb12a3864da49e.jpg",
     "question": "После въезда на этот перекресток:",
     "answers": [
       {
@@ -2226,10 +2635,10 @@
     "id": "1822ac76f46db7af1683366f081492a4"
   },
   {
-    "title": "Вопрос 83",
+    "title": "Вопрос 98",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cfdc3197dd1ee8f2dec6e6fc8776c592.jpg",
+    "image": "./images/C_D/5e1ffa5d08b1dd1415dfc962ba309bbf.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. В данной ситуации:",
     "answers": [
       {
@@ -2249,7 +2658,7 @@
     "id": "2406591caa13c22af1996b1c96123a34"
   },
   {
-    "title": "Вопрос 84",
+    "title": "Вопрос 99",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -2276,10 +2685,10 @@
     "id": "482eaefb70b2a4832dac632b70810951"
   },
   {
-    "title": "Вопрос 85",
+    "title": "Вопрос 100",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/48e5c3019c182b5afb2637c237d33331.jpg",
+    "image": "./images/C_D/3171b2272e2814b4449d24f32e50e7ef.jpg",
     "question": "Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -2303,10 +2712,10 @@
     "id": "41fe413138ce960636eb45afa5f9814f"
   },
   {
-    "title": "Вопрос 86",
+    "title": "Вопрос 101",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e013c3de98efc36b5fcb62dad55061cf.jpg",
+    "image": "./images/C_D/62229592c92555e4da2ca2499af52e3f.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -2326,10 +2735,10 @@
     "id": "14178439b95029370567a4a1baec73f9"
   },
   {
-    "title": "Вопрос 87",
+    "title": "Вопрос 102",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5f3ead8e3cf340c21f6ccc2affa00948.jpg",
+    "image": "./images/C_D/6c4f043676274e8820f023e02d80c8e3.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {
@@ -2353,10 +2762,10 @@
     "id": "0d96bb9fdd652d8374191502428318f3"
   },
   {
-    "title": "Вопрос 88",
+    "title": "Вопрос 103",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/137cb9cd8133cd8ce6b25d334386bb80.jpg",
+    "image": "./images/C_D/e9356051ab013a3e88875ef5ab9df25e.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2384,10 +2793,10 @@
     "id": "1d5e655583f8405445497ef4e373949e"
   },
   {
-    "title": "Вопрос 89",
+    "title": "Вопрос 104",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b269abde170508162067cda3b3a3a24a.jpg",
+    "image": "./images/C_D/5e7365781082ba4db6f2a76bc788ec2a.jpg",
     "question": "В каком случае Вы обязаны уступить дорогу пешеходам?",
     "answers": [
       {
@@ -2411,10 +2820,10 @@
     "id": "6c360566318370e59200ff5570da9de1"
   },
   {
-    "title": "Вопрос 90",
+    "title": "Вопрос 105",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b2a82ce42c0cb687d92ad73fec792c8f.jpg",
+    "image": "./images/C_D/dac2347a438ecc459297c0695965d134.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -2442,10 +2851,10 @@
     "id": "6387787456d1a6601771764b2e486d60"
   },
   {
-    "title": "Вопрос 91",
+    "title": "Вопрос 106",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b449e581bf4eb8a7bd44ed7890b8b1b2.jpg",
+    "image": "./images/C_D/29ab59055db4e504be77830e8d02e58a.jpg",
     "question": "При движении прямо Вы обязаны уступить дорогу:",
     "answers": [
       {
@@ -2469,10 +2878,10 @@
     "id": "a25bfae6f7d0801513bb98210e2ce440"
   },
   {
-    "title": "Вопрос 92",
+    "title": "Вопрос 107",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8ca30a82eb71e56dc48e55d9be0a386c.jpg",
+    "image": "./images/C_D/999dfd37deee5b75f260c83430dff869.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2496,10 +2905,10 @@
     "id": "86d77a7c42e92969915940a86952629f"
   },
   {
-    "title": "Вопрос 93",
+    "title": "Вопрос 108",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6f735b905cb9e97191dbccfa12182626.jpg",
+    "image": "./images/C_D/328b584e90f2fedb77552479ea4e1a1a.jpg",
     "question": "Вы намерены развернуться. Кому Вам необходимо уступить дорогу?",
     "answers": [
       {
@@ -2523,10 +2932,10 @@
     "id": "b907d05ccbf9954a077bd46fab5e4863"
   },
   {
-    "title": "Вопрос 94",
+    "title": "Вопрос 109",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c774dcf8b5eda3391d0060daa9c33275.jpg",
+    "image": "./images/C_D/58dcfb87c86ff5f21f3bd127fcda3b61.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -2550,10 +2959,10 @@
     "id": "d7f2cfb6c6b84a055b3a86a84440af72"
   },
   {
-    "title": "Вопрос 95",
+    "title": "Вопрос 110",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0f1f87b794eeebd69100f07bc9c6bf4e.jpg",
+    "image": "./images/C_D/744a7ffa6772fde2c305a0ebec83411c.jpg",
     "question": "Вы намерены повернуть налево. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -2581,10 +2990,10 @@
     "id": "dc8722f25c39215350c9d79fd37ccc27"
   },
   {
-    "title": "Вопрос 96",
+    "title": "Вопрос 111",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fff6a171153622de634e56844d4639df.jpg",
+    "image": "./images/C_D/18172fd4d7b1b6c9e4a18cea45a4a552.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -2612,10 +3021,10 @@
     "id": "f775d1fd13aeb214c7ad5a7b47f32484"
   },
   {
-    "title": "Вопрос 97",
+    "title": "Вопрос 112",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2625789831b9a169f1908fa3e15914bd.jpg",
+    "image": "./images/C_D/6a27dbe3710e80ab131bb2da73563ab6.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -2643,10 +3052,10 @@
     "id": "fa7783b5b924b993c4ecdc8d949fb254"
   },
   {
-    "title": "Вопрос 98",
+    "title": "Вопрос 113",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/02450fa779ad6af1705c16131fc4b123.jpg",
+    "image": "./images/C_D/6f3cfe49b728a26f958dd56676e575b9.jpg",
     "question": "Вы обязаны уступить дорогу при движении прямо:",
     "answers": [
       {
@@ -2670,10 +3079,10 @@
     "id": "31944f0af0f56b7e2e18a5224f459ef4"
   },
   {
-    "title": "Вопрос 99",
+    "title": "Вопрос 114",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d1524bd95e17f9a21eeefc9fcbffd221.jpg",
+    "image": "./images/C_D/a8256f9988246a071d32d180570ccfb6.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -2697,10 +3106,10 @@
     "id": "d762f6de72dd3e6243854e1fe3737c2d"
   },
   {
-    "title": "Вопрос 100",
+    "title": "Вопрос 115",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a61864b3dba3b562058279d37526d930.jpg",
+    "image": "./images/C_D/9f59ee24dc633f5b13ccdf97f5cba86d.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -2724,10 +3133,10 @@
     "id": "bac222f29b219e432d28ae6b51b48d5b"
   },
   {
-    "title": "Вопрос 101",
+    "title": "Вопрос 116",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d00c5a2f3b84737307143b1966646c54.jpg",
+    "image": "./images/C_D/9f39ffd3f6f0941e1d24a687bf064f6f.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -2751,10 +3160,10 @@
     "id": "bdb3fff5e0823619159549b39230377f"
   },
   {
-    "title": "Вопрос 102",
+    "title": "Вопрос 117",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8c13a61b32b89bba8e77b39b10a2e2c0.jpg",
+    "image": "./images/C_D/736376da60fc0643c5eab708166ff738.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия?",
     "answers": [
       {
@@ -2774,10 +3183,10 @@
     "id": "25e2dc7ad63c2fb38b0810898e6b2591"
   },
   {
-    "title": "Вопрос 103",
+    "title": "Вопрос 118",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b354e33ba5612cb396e0c1fed7d28ef0.jpg",
+    "image": "./images/C_D/7ae1eddc0812edb5cd947eae0146733a.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {
@@ -2801,10 +3210,10 @@
     "id": "ce6339f42b9c4855a05f229cbcce93e7"
   },
   {
-    "title": "Вопрос 104",
+    "title": "Вопрос 119",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/949b28733ea07e453d07f448b4656688.jpg",
+    "image": "./images/C_D/f46e7fb3b5a004560e6597968d1682f0.jpg",
     "question": "Кому Вы должны уступить дорогу при движении прямо?",
     "answers": [
       {
@@ -2828,10 +3237,10 @@
     "id": "8aa84bd348c85dec8fa9dea32991515d"
   },
   {
-    "title": "Вопрос 105",
+    "title": "Вопрос 120",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fb7fba2257ddb0f882f30c5848b3b2a5.jpg",
+    "image": "./images/C_D/40bf0c1115877102eb282f6f496d1f65.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {

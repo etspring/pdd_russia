@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/516d3759e58587e3a380b94f60eee6fd.jpg",
+    "image": "./images/C_D/1494ee76cecf61b17b8f0b9419b26bc4.jpg",
     "question": "Вам необходимо двигаться со скоростью не более 40 км/ч:",
     "answers": [
       {
@@ -30,7 +30,34 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d87f79d783c8cef4be8aca3a31d384f4.jpg",
+    "image": "./images/C_D/0bc6afcef1d89c5a5a9ddbf7291bf826.jpg",
+    "question": "С какой скоростью Вы можете продолжить движение вне населенного пункта по левой полосе на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
+    "answers": [
+      {
+        "answer_text": "Не более 50 км/ч",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Не менее 50 км/ч и не более 70 км/ч",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Не менее 50 км/ч и не более 90 км/ч",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "Над левой полосой висит знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», указывающей полосу движения, на которую распространяется действие знака. Скорость движения на грузовом автомобиле с р.м.м которого более 3,5 т по левой полосе не должна быть менее 50 км/ч и не должна превышать допустимой для дорог вне населённых пунктов, т.е. не более 70 км/ч.(«Дорожные знаки», пункт 10.3 ПДД)",
+    "topic": [
+      "Скорость движения"
+    ],
+    "id": "c09a7e5e6146d492094bf20fe29318e6"
+  },
+  {
+    "title": "Вопрос 3",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/8bffecf897ab1c75c3f009b8743e882e.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенного пункта на автобусе, в котором места для сидения пассажиров не оборудованы ремнями безопасности, и не предназначенном для перевозки исключительно сидящих пассажиров?",
     "answers": [
       {
@@ -54,10 +81,10 @@
     "id": "396e5c7d04303ad2e53f5d22fce2f102"
   },
   {
-    "title": "Вопрос 3",
+    "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/606f4daecb2810f54758f2f855219341.jpg",
+    "image": "./images/C_D/df75c0022af4792cb423c691806ebe1b.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на автобусе, в котором места для сидения пассажиров\nоборудованы ремнями безопасности, предназначенном для перевозки исключительно сидящих пассажиров?",
     "answers": [
       {
@@ -81,7 +108,7 @@
     "id": "c5547ecdefc35c6d57a5cada90bf23e2"
   },
   {
-    "title": "Вопрос 4",
+    "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -108,10 +135,37 @@
     "id": "651cc845c9885852be3d7acaa972f8a8"
   },
   {
-    "title": "Вопрос 5",
+    "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ed87ba5d3db1a9ff5a02f3da5404d804.jpg",
+    "image": "./images/no_image.jpg",
+    "question": "Что должно иметь решающее значение при выборе водителем скорости движения в темное время суток?",
+    "answers": [
+      {
+        "answer_text": "Предельные ограничения скорости, установленные Правилами",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Максимальная конструктивная скорость, установленная технической характеристикой используемого транспортного средства",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Условия видимости",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Очень важным моментом при движении в ночное время является выбор скорости движения. При этом следует учитывать главное условие - расстояние видимости водителем дороги должно превышать величину остановочного пути.(«Техника управления автомобилем». Езда ночью)",
+    "topic": [
+      "Скорость движения"
+    ],
+    "id": "37524d890d82bd5a4331c78d30925c97"
+  },
+  {
+    "title": "Вопрос 7",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/15dc7cbe2ae6381de74fec4b20ab980a.jpg",
     "question": "С какой максимальной скоростью имеет право двигаться водитель грузового автомобиля?",
     "answers": [
       {
@@ -135,10 +189,10 @@
     "id": "b0781644eb0fc80801f266fe3a90c5b1"
   },
   {
-    "title": "Вопрос 6",
+    "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/defef69faa5cf51484572c31944067f1.jpg",
+    "image": "./images/C_D/c40e502da9f29ff64218aca95ecf4d29.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -162,7 +216,7 @@
     "id": "883b7645705fdbb367c2066a3db99935"
   },
   {
-    "title": "Вопрос 7",
+    "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -189,10 +243,10 @@
     "id": "5e9ef5b54f8dd2fe12d16f9e7217162e"
   },
   {
-    "title": "Вопрос 8",
+    "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/920c1d7eebd797c885b6f6e2ff577d64.jpg",
+    "image": "./images/C_D/c5b0bcd9fa1d0dbf9655333107ace66c.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -216,7 +270,7 @@
     "id": "e8b9c439584d3aba3b0c51d051e3cf48"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -243,7 +297,7 @@
     "id": "159d35f7ff679a73cd0ed696f47ed166"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -270,10 +324,37 @@
     "id": "bbabc531db2ac55923f2ee47bea38afd"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/86fc3a5f541b94b4cabdbbe965df4bc7.jpg",
+    "image": "./images/C_D/0eab4209cfbe4386250f609102bd4129.jpg",
+    "question": "С какой скоростью Вы имеете право продолжить движение в населенном пункте по левой полосе?",
+    "answers": [
+      {
+        "answer_text": "Не более 40 км/ч",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Не более 60 км/ч",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Не менее 40 км/ч и не более 60 км/ч",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Разрешённая скорость движения в населённом пункте не более 60 км/ч. Вы выезжаете на полосу, над которой установлен знак 4.6 «Ограничение минимальной скорости» с табличкой 8.14 «Полоса движения», которая указывает полосу, на которую распространяется действие данного знака. Поэтому движение по данной полосе разрешается со скоростью не менее 40 км/ч, но и не превышающей 60 км/ч.(Пункт 10.2 ПДД, «Дорожные знаки»)",
+    "topic": [
+      "Скорость движения"
+    ],
+    "id": "6a7b8f14ca54811527e31b60a303d204"
+  },
+  {
+    "title": "Вопрос 14",
+    "ticket_number": null,
+    "ticket_category": "C,D",
+    "image": "./images/C_D/b3eb02b74ba72bcbfca8802a96f8df6c.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение вне населенных пунктов, если перевозите людей в кузове грузового автомобиля с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -297,7 +378,7 @@
     "id": "86b761a70de9877af155df01acb3c95b"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -328,7 +409,7 @@
     "id": "7c724bf70e66bebee48f06ae2b2df2dd"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -355,7 +436,7 @@
     "id": "5f4816df95a04dcbf3aba86cb227681f"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
     "image": "./images/no_image.jpg",
@@ -386,10 +467,10 @@
     "id": "11fe6c8bd36cce4fa4048cf3fc682d55"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/87b2e588b76b9b04bc0d79f09ec84584.jpg",
+    "image": "./images/C_D/ff1eb6fbef88ef96fde23ba0349f0d10.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т после въезда на примыкающую слева дорогу?",
     "answers": [
       {
@@ -413,10 +494,10 @@
     "id": "e2a825bb78106b8b6f33cc73fc344eb8"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/25d9b4ffd8599cbb333c870853f9aa53.jpg",
+    "image": "./images/C_D/414e8a83ee782c6aa532243ae06381e1.jpg",
     "question": "С какой максимальной скоростью разрешается продолжить движение при буксировке неисправного механического транспортного средства?",
     "answers": [
       {
@@ -440,10 +521,10 @@
     "id": "b332d62ba55928a1b99154207a758311"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1f544ddbd213c5f434d09481fa1adc1f.jpg",
+    "image": "./images/C_D/f35fdf52df27d8bf12081b14de6f30c8.jpg",
     "question": "С какой максимальной скоростью Вы имеете право продолжить движение на грузовом автомобиле с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -471,10 +552,10 @@
     "id": "357ca91dc65717e35bc32c6a6cce2b07"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/14b4fba9dfb78253bf92f85756e3e4a9.jpg",
+    "image": "./images/C_D/5206bc3c255aa9d1d3b4941e652d727e.jpg",
     "question": "С какой максимальной скоростью можно продолжить движение за знаком?",
     "answers": [
       {

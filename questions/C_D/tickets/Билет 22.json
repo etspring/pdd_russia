@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/740d181ba7252733d09fed9d34352282.jpg",
+    "image": "./images/C_D/d7cb4dc68059c9265b75144b1f6fd30a.jpg",
     "question": "Сколько перекрестков изображено на рисунке?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1e6ab659c89febdf4757cfdca3970c59.jpg",
+    "image": "./images/C_D/c2699c6d5d70950e9ee1165072f7f4a1.jpg",
     "question": "В каком случае из перечисленных при перевозке крупногабаритного груза Вам запрещено продолжить движение в прямом направлении?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/39483415c903584c04cac1617be90fc3.jpg",
+    "image": "./images/C_D/f9d16b6828686c7decfcd5c71d9b33c2.jpg",
     "question": "Что означают эти дорожные знаки?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5ecbb580206d5d7540ef65b31a3f3ccb.jpg",
+    "image": "./images/C_D/87fddae87f1b9a9456a7a68052278ba6.jpg",
     "question": "В данной ситуации водитель автомобиля с включенными проблесковыми маячками:",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e1ee9e21aba5871f03c624d9aa0b6d1e.jpg",
+    "image": "./images/C_D/35eea428274af219deb84089db49a3f8.jpg",
     "question": "Обязаны ли Вы в данной ситуации включить указатели левого поворота?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ad3190c251a042372e746f53b4fdbabd.jpg",
+    "image": "./images/C_D/8d2fd8077c7a92513019778d5598a67e.jpg",
     "question": "По какой траектории Вам можно выполнить поворот налево?",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6cef84a5dc9be0d1b53a8db1791cd86d.jpg",
+    "image": "./images/C_D/cfb3028c78080a2330c9132693f7a398.jpg",
     "question": "Разрешено ли водителю движение задним ходом на путепроводе для посадки пассажира?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a4da054987231aeef81635da8f396921.jpg",
+    "image": "./images/C_D/a939eb07e23d76208fdc1e564e5f6758.jpg",
     "question": "Разрешено ли водителю грузового автомобиля остановиться в этом месте?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/89c560d0d88f229bbe7eb9f5ffa3a8f2.jpg",
+    "image": "./images/C_D/97bbe1b7b42676e53c09471623a4635c.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fda952ff4d22738ce8f6910af85c096c.jpg",
+    "image": "./images/C_D/ec7f8554a12be641a7e43e5f4fc4747f.jpg",
     "question": "В каком случае Вы должны уступить дорогу трамваю?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 22",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5f3ead8e3cf340c21f6ccc2affa00948.jpg",
+    "image": "./images/C_D/6c4f043676274e8820f023e02d80c8e3.jpg",
     "question": "Вы намерены повернуть направо. Можете ли Вы приступить к повороту?",
     "answers": [
       {

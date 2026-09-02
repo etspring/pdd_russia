@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cfa81f05a1bd6d9bfa632f560a9d9810.jpg",
+    "image": "./images/C_D/025e5db597a740334b8347972759db4e.jpg",
     "question": "Какой маневр намеревается выполнить водитель маломестного автобуса?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d174613aa91f518de3c9a96d3d8947f4.jpg",
+    "image": "./images/C_D/80a02c822dd7961ea63a9f134f26ce95.jpg",
     "question": "Этот знак:",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5d5936b2e603d19c4bb3ae2a746f0ca.jpg",
+    "image": "./images/C_D/52592f1c3ece78f91e2c8e4e988f918d.jpg",
     "question": "Действие данных знаков распространяется:",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e664f786683a87f6c5842ca59a1d5c1d.jpg",
+    "image": "./images/C_D/1471a2c7c271823c71f5189898413801.jpg",
     "question": "Какой из знаков указывает протяженность зоны для разворота?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e2829dbfc9caf5e0b54eb1a12d489c7d.jpg",
+    "image": "./images/C_D/4023779461c4b51a2864037aa0479f6c.jpg",
     "question": "Данная разметка обозначает:",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d4e1c3529985b0e012dea282ed642f9a.jpg",
+    "image": "./images/C_D/0b423fdc67c8cb6160ef7f2497645ac4.jpg",
     "question": "Разрешается ли Вам выполнить поворот направо по указанной траектории в данной ситуации?",
     "answers": [
       {
@@ -215,7 +215,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f336490a3a506ffb6ad257f4363cd03a.jpg",
+    "image": "./images/C_D/6d143c1f824f56adb07177a035026c7a.jpg",
     "question": "Можно ли Вам выполнить разворот?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cdebebc9545378cceff7b2d7a35b079f.jpg",
+    "image": "./images/C_D/517a013a491c0c29a7852ef3b11d762c.jpg",
     "question": "Разрешается ли Вам обогнать грузовой автомобиль в конце подъема?",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/65ba71d35003ac2bd315a44b2dd593e5.jpg",
+    "image": "./images/C_D/0855539e6929cd618d7b4baa4fb29cbf.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте при наличии узкой обочины?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bcabe4df95ac407e7b41fd28d7c76e73.jpg",
+    "image": "./images/C_D/13c09bd439e27b941b8406e1bb3af5b3.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -354,7 +354,7 @@
     "correct_answer": "Правильный ответ: 4",
     "answer_tip": "Для поворота направо Вы должны пересечь трамвайные пути. Оба трамвая так же, как и Вы, имеют право на движение, они двигаются «по рукам регулировщика». Вы им уступаете, так как при одновременном праве на движение трамвай имеет преимущество перед безрельсовыми транспортными средствами.(Пункты 6.10, 13.6 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "db69c9046428c97a3a7750a59524771b"
   },
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0ff9554e56b456c1b208caec2b526f17.jpg",
+    "image": "./images/C_D/eae3bc04f1a678a45b81b6dd232d9ac1.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/02450fa779ad6af1705c16131fc4b123.jpg",
+    "image": "./images/C_D/6f3cfe49b728a26f958dd56676e575b9.jpg",
     "question": "Вы обязаны уступить дорогу при движении прямо:",
     "answers": [
       {
@@ -416,7 +416,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 33",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/802364f24612fe8fa77d0d3d03c8643e.jpg",
+    "image": "./images/C_D/43d739919c9ec83313f72ba02061d88c.jpg",
     "question": "Кто из водителей нарушает Правила?",
     "answers": [
       {
@@ -435,7 +435,8 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Движение по автомагистрали на мопедах запрещено. Запрещается и движение грузовым автомобилям с р.м.м более 2,5 т по любой дороге, имеющей три полосы движения в данном направлении по крайней левой полосе. Нарушают правила водители грузового автомобиля и мопеда.(Пункты 9.4, 16.1 ПДД)",
     "topic": [
-      "Движение по автомагистралям"
+      "Движение по автомагистралям",
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "9f13ced150b28fcf0d7dd4e45d431595"
   },

@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/73dcec414fccf63cc99b96ad9c3ad895.jpg",
+    "image": "./images/A_B/349669400b7d096565380fbcc84d474b.jpg",
     "question": "Можно ли водителю легкового автомобиля выполнить опережение грузовых автомобилей вне населенного пункта по такой траектории?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ce4c3f12105972df6afa34c3fe195cce.jpg",
+    "image": "./images/A_B/303c5f17074542c05b29e3da849386e0.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/47f59e68de9a635316b46df597b05772.jpg",
+    "image": "./images/A_B/508502042dc32f43025f49c972b60fa9.jpg",
     "question": "Разрешено ли Вам обогнать мотоцикл?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ec07ac846650d56ca695eeffc21877dd.jpg",
+    "image": "./images/A_B/891508c372129f89e0d32b1b4b3b43c0.jpg",
     "question": "Разрешен ли Вам обгон?",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2c632a143fabe9f28ca7a0f519a81991.jpg",
+    "image": "./images/A_B/6d7b89df4b1f2ec8536d445f0a40b69b.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -165,7 +165,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/19d7275cd1f800b1de6b91801a326187.jpg",
+    "image": "./images/A_B/f289348992604cd8a31f696673458cd5.jpg",
     "question": "Разрешается ли Вам в конце подъёма перестроиться на среднюю полосу для опережения грузового автомобиля?",
     "answers": [
       {
@@ -192,7 +192,61 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/dc0dd491040ea5e364c3079aa7595723.jpg",
+    "image": "./images/A_B/80633f49e4a75fe76131152f7db34a89.jpg",
+    "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
+    "answers": [
+      {
+        "answer_text": "Разрешено",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Разрешено, если Вы намерены опередить второй автомобиль",
+        "is_correct": true
+      },
+      {
+        "answer_text": "Запрещено",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "Правильный ответ: 2",
+    "answer_tip": "Вне населённого пункта именно в такой ситуации при наличии двух полос в данном направлении разрешается оставаться на левой полосе, чтобы не осуществлять лишние маневры во время опережения. При этом Вы не должны создавать помехи транспортным средствам, движущимся за Вами с более высокой скоростью.(Пункт 9.4 ПДД).",
+    "topic": [
+      "Обгон, опережение, встречный разъезд"
+    ],
+    "id": "d81b730e232ceee0cde358cc15fc3b72"
+  },
+  {
+    "title": "Вопрос 9",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/b9a20ddec49762a76dbc953653f2c5b9.jpg",
+    "question": "Можно ли Вам после опережения грузового автомобиля продолжить движение по левой полосе вне населенных пунктов?",
+    "answers": [
+      {
+        "answer_text": "Можно",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Можно, если Вы управляете легковым автомобилем",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Нельзя",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "По завершении опережения водителю следует перестроиться на ранее занимаемую полосу. В данном случае на правую. Вне населённого пункта водители должны вести транспортные средства по возможности ближе к правому краю проезжей части. У вас такая возможность есть, продолжаете движение только по крайней правой полосе.(Пункт 9.4 ПДД)",
+    "topic": [
+      "Обгон, опережение, встречный разъезд"
+    ],
+    "id": "42cdc7ca04c27fd094b2fce5ad1f8454"
+  },
+  {
+    "title": "Вопрос 10",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/7c6c40dc913f7516cb0d0e30f295c0a5.jpg",
     "question": "Можно ли Вам обогнать трактор?",
     "answers": [
       {
@@ -216,7 +270,7 @@
     "id": "406ecb824188cb24e008ce80d5e4e6ae"
   },
   {
-    "title": "Вопрос 9",
+    "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -243,10 +297,10 @@
     "id": "feef8cf71cd40fe4306f594a162d0b9d"
   },
   {
-    "title": "Вопрос 10",
+    "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b2f5a6011ea1b4881008d851772fbbc8.jpg",
+    "image": "./images/A_B/e5da65f2098fe63c2afbaa833a541074.jpg",
     "question": "Разрешено ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -270,10 +324,10 @@
     "id": "65bb67bbaf1798938a78e2c76565be6f"
   },
   {
-    "title": "Вопрос 11",
+    "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/355f0a876e693c4d30ca2362c1b79dd7.jpg",
+    "image": "./images/A_B/fa2170a7dd69e016ab109a2266723d3a.jpg",
     "question": "Сколько транспортных средств Вам можно обогнать одновременно после проезда пешеходного перехода?",
     "answers": [
       {
@@ -297,10 +351,10 @@
     "id": "dbeb93458947c8647335e65df9a50ea9"
   },
   {
-    "title": "Вопрос 12",
+    "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c5ea880f030435b742063e9ec1df5060.jpg",
+    "image": "./images/A_B/81eca51d4108e0c6608866361561ff5f.jpg",
     "question": "В данной ситуации, Вы:",
     "answers": [
       {
@@ -324,7 +378,7 @@
     "id": "08324845c8ee61d411379adde4c25454"
   },
   {
-    "title": "Вопрос 13",
+    "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -355,10 +409,10 @@
     "id": "2baae7be995c64c9d450512326139645"
   },
   {
-    "title": "Вопрос 14",
+    "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/39343f9ab0e5791e8e0e0bc50ba08d6d.jpg",
+    "image": "./images/A_B/1bfec6313ca7b6bfab55127b37731fad.jpg",
     "question": "Разрешается ли Вам выполнить обгон в данной ситуации?",
     "answers": [
       {
@@ -382,10 +436,10 @@
     "id": "fdc633762f291c5a0796920bc0780667"
   },
   {
-    "title": "Вопрос 15",
+    "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/501d2aa50518d03d5cd41f8d17ac414a.jpg",
+    "image": "./images/A_B/59a28432a9c8f52b69fc843864e0fa84.jpg",
     "question": "Можно ли Вам начать обгон в населённом пункте?",
     "answers": [
       {
@@ -409,10 +463,10 @@
     "id": "55ac3f9f67efded665d3d2e6c33daa48"
   },
   {
-    "title": "Вопрос 16",
+    "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9ab7f6f961a97d3c826f82778be33852.jpg",
+    "image": "./images/A_B/4f3ea49eeea8acee9002e9ee40f775c9.jpg",
     "question": "Можно ли водителю легкового автомобиля начать обгон?",
     "answers": [
       {
@@ -436,10 +490,37 @@
     "id": "235f0f55e112ee1bcd341b6e9d22cc7f"
   },
   {
-    "title": "Вопрос 17",
+    "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/78bd378f97d1c266f638139db5e130aa.jpg",
+    "image": "./images/A_B/8777a9f7fed961f9be599dd3ecc6ff38.jpg",
+    "question": "По какой полосе Вам можно продолжить движение в населённом пункте после опережения грузового автомобиля?",
+    "answers": [
+      {
+        "answer_text": "Только по правой",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Только по левой",
+        "is_correct": false
+      },
+      {
+        "answer_text": "По любой",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Действие происходит в населённом пункте на дороге, имеющей по две полосы движения в каждом направлении. В этом случае имеете право использовать наиболее удобную для Вас полосу, т.е. любую.(Пункт 9.4 ПДД)",
+    "topic": [
+      "Обгон, опережение, встречный разъезд"
+    ],
+    "id": "6fcf9e9e13a2602cfb9273eb8fcf070c"
+  },
+  {
+    "title": "Вопрос 20",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/86c258b9e6553ea18429f6f1edb6e343.jpg",
     "question": "Можно ли Вам начать обгон грузового автомобиля в данной ситуации?",
     "answers": [
       {
@@ -463,10 +544,10 @@
     "id": "a4beacf74ef3ce64eaa2a68340c86f84"
   },
   {
-    "title": "Вопрос 18",
+    "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bfbda387b334828bdd586e2b8663a72f.jpg",
+    "image": "./images/A_B/f7eea2a6be13d7d57e400e16f222edd5.jpg",
     "question": "Вы можете начать обгон:",
     "answers": [
       {
@@ -490,7 +571,7 @@
     "id": "6599c01f0c6ecae5b89db87f4d108b10"
   },
   {
-    "title": "Вопрос 19",
+    "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -517,10 +598,10 @@
     "id": "45333ae163e293d813118b96f53175da"
   },
   {
-    "title": "Вопрос 20",
+    "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0664e0bd8304a5c92934542283587ea7.jpg",
+    "image": "./images/A_B/fbb8b36d11bc419104c760668d0988ad.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -544,10 +625,10 @@
     "id": "961bfb23c16fa63c832ccca03cabf84a"
   },
   {
-    "title": "Вопрос 21",
+    "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e5a6e53e15c2b721a3771e386c344adf.jpg",
+    "image": "./images/A_B/1fec8627abb5373dff849e8a662744df.jpg",
     "question": "Разрешено ли Вам выполнить обгон?",
     "answers": [
       {
@@ -571,10 +652,10 @@
     "id": "1d52692921a28e842e2d845e3feda5bf"
   },
   {
-    "title": "Вопрос 22",
+    "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/86d63bea22f97e07fac997da65a12c99.jpg",
+    "image": "./images/A_B/2a115fcfe8118a2b45c29a1f8bc31645.jpg",
     "question": "Можно ли Вам выполнить обгон?",
     "answers": [
       {
@@ -598,7 +679,7 @@
     "id": "590d83686b1575d0cc4988abc1cf8d72"
   },
   {
-    "title": "Вопрос 23",
+    "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -629,7 +710,7 @@
     "id": "4e8f61c4614ea78593cb08f8f9c46447"
   },
   {
-    "title": "Вопрос 24",
+    "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -656,10 +737,10 @@
     "id": "87e95153c8d60febd40616e6e28681eb"
   },
   {
-    "title": "Вопрос 25",
+    "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ffc6ea422f486a356d029a3756be4baa.jpg",
+    "image": "./images/A_B/9ac1c3f66258888acb5032b7a17ea30e.jpg",
     "question": "Можно ли Вам обогнать трактор, управляя грузовым автомобилем с разрешенной максимальной массой не более 3,5 т?",
     "answers": [
       {
@@ -683,10 +764,10 @@
     "id": "feb411b0cca6c240570954bc30fe9b51"
   },
   {
-    "title": "Вопрос 26",
+    "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e7c7b6ee2c57d3152ef0224e5f71ae9e.jpg",
+    "image": "./images/A_B/7d05bad54781ac4515cccb5d7bd30fdc.jpg",
     "question": "Разрешается ли Вам выполнить обгон?",
     "answers": [
       {
@@ -710,7 +791,7 @@
     "id": "8b0addcc697856fee116ab77f4d1efae"
   },
   {
-    "title": "Вопрос 27",
+    "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -737,10 +818,10 @@
     "id": "80d78b1b15cffb64538428f0ad5697f1"
   },
   {
-    "title": "Вопрос 28",
+    "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/906930f407028f50b59a1a0a96fdac96.jpg",
+    "image": "./images/A_B/5aaf75dc38569f8b3889b3a6281aa708.jpg",
     "question": "В данной ситуации преимущество имеет:",
     "answers": [
       {
@@ -764,7 +845,7 @@
     "id": "82633c8368018abe0a81afd699003cf2"
   },
   {
-    "title": "Вопрос 29",
+    "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -791,10 +872,10 @@
     "id": "e6bf2168cfb953461fa8d1f5ac6716c6"
   },
   {
-    "title": "Вопрос 30",
+    "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0f922ffe909faf8f45823488043dcaa0.jpg",
+    "image": "./images/A_B/617bad984a97e26c4b34eaa5004314ba.jpg",
     "question": "Разрешается ли Вам обогнать грузовой автомобиль в конце подъема?",
     "answers": [
       {
@@ -818,10 +899,37 @@
     "id": "1bfeee022ed13145f513052212c6e61f"
   },
   {
-    "title": "Вопрос 31",
+    "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f24be02c9083ffeba20abf3e390974ea.jpg",
+    "image": "./images/A_B/1347da88620c7eb2247ec3c4a530d0da.jpg",
+    "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
+    "answers": [
+      {
+        "answer_text": "Можно",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Можно только при отсутствии встречного транспорта",
+        "is_correct": false
+      },
+      {
+        "answer_text": "Нельзя",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "Правильный ответ: 3",
+    "answer_tip": "Средняя полоса в данной ситуации используется для движения в обоих направлениях. Она предназначена только для обгона, объезда, поворота налево или разворота. Закончив обгон, необходимо перестроиться на крайнюю правую полосу. (Пункт 9.3 ПДД). Дальнейшее движение Вы осуществляете согласно пункту 9.4 ПДД. «Вне населённых пунктов водители транспортных средств должны вести их по возможности ближе к правому краю проезжей части». У Вас такая возможность есть.",
+    "topic": [
+      "Обгон, опережение, встречный разъезд"
+    ],
+    "id": "f5405e4ab81d2c0b7c27cd460818e86b"
+  },
+  {
+    "title": "Вопрос 35",
+    "ticket_number": null,
+    "ticket_category": "A,B",
+    "image": "./images/A_B/6afa345799b7b59a8ec2353b9329791f.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -845,7 +953,7 @@
     "id": "e74f7d53ecedd513d8127923ae09bb0d"
   },
   {
-    "title": "Вопрос 32",
+    "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -872,7 +980,7 @@
     "id": "6e13a9f663974b1225e4d5962aec53b2"
   },
   {
-    "title": "Вопрос 33",
+    "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
     "image": "./images/no_image.jpg",
@@ -903,10 +1011,10 @@
     "id": "ae8d8e720b7a4e82ce00f1cdd222058d"
   },
   {
-    "title": "Вопрос 34",
+    "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e3be97fbc909e97181ecaf82ae87e2a6.jpg",
+    "image": "./images/A_B/785c0ce638bd4ac7dc45f33cbb7325a8.jpg",
     "question": "Можно ли Вам начать обгон?",
     "answers": [
       {
@@ -930,10 +1038,10 @@
     "id": "71fc9623189673d56b891f0bbe7d9fe3"
   },
   {
-    "title": "Вопрос 35",
+    "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/336675400d05b883d52c81e929bc254e.jpg",
+    "image": "./images/A_B/0df664177452fc06ba2618b2625f3c51.jpg",
     "question": "По какой траектории водителю мотоцикла можно выполнить обгон?",
     "answers": [
       {
@@ -957,10 +1065,10 @@
     "id": "0d2f89bb47f53d0d17367a5299b48092"
   },
   {
-    "title": "Вопрос 36",
+    "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f482e6b1f946d165c5175ba0920b1424.jpg",
+    "image": "./images/A_B/8c0c35d51487d9ef4521d80c11d53552.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {

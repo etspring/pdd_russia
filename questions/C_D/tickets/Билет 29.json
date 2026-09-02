@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/81e32eb8f7fc134b9f5925f87d861e22.jpg",
+    "image": "./images/C_D/ae067f3fcbeacd52effe9d2dc2d27232.jpg",
     "question": "Какие из указанных знаков предоставляют право преимущественного проезда нерегулируемых перекрестков?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bf5e6c5b2037cbd0859e2d5df7012387.jpg",
+    "image": "./images/C_D/ac59be31df4d36acf912ba12124349fb.jpg",
     "question": "Разрешено ли Вам выполнить обгон, если Вы управляете грузовым автомобилем с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/61a68e228932c7731b67fb1a99b0cfc3.jpg",
+    "image": "./images/C_D/90f3cf00f9a2249d61f0ad268fde8d8a.jpg",
     "question": "Можно ли водителю поставить грузовой автомобиль на стоянку в этом месте указанным способом?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cfbb868a76789e53d0fb2b0ee06a9060.jpg",
+    "image": "./images/C_D/c5cd26e2c2d18ff1690ef3fca8e4e034.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7334b406b2c869aa690311ae641f18eb.jpg",
+    "image": "./images/C_D/65eadc6d41237d15f1efa495e8a83c67.jpg",
     "question": "В каком месте Вы должны остановиться?",
     "answers": [
       {
@@ -192,7 +192,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8d6aaf8f52a66eb3e2f02c1fb9b72b27.jpg",
+    "image": "./images/C_D/fa930c9137176b641321a9d0fc86fd59.jpg",
     "question": "Вам разрешено выполнить поворот направо на длинномерном транспортном средстве:",
     "answers": [
       {
@@ -219,7 +219,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e5479f6d98c3a88d3ba8ad470163059.jpg",
+    "image": "./images/C_D/6e082dfca627d500e3ff8be74bc5b859.jpg",
     "question": "Разрешено ли водителю движение задним ходом при отсутствии других участников движения?",
     "answers": [
       {
@@ -246,7 +246,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9fdc60da00aa65d08fa50a4412560a08.jpg",
+    "image": "./images/C_D/98e2c27f57d2fce3e6bbef917ca706f6.jpg",
     "question": "Можно ли Вам выехать на крайнюю левую полосу в данной ситуации?",
     "answers": [
       {
@@ -273,7 +273,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8d268fd190a6a3caf2fa6673d0143e88.jpg",
+    "image": "./images/C_D/fadc95737fd64cd5d9a715e9772041c9.jpg",
     "question": "Разрешается ли Вам выполнить обгон?",
     "answers": [
       {
@@ -300,7 +300,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3333138c5580c7cdc666a2d7b0e6de85.jpg",
+    "image": "./images/C_D/7788219aff5f4bc41da34f2a438e9121.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/233f02f95b79cfc9d2e67acce699dccd.jpg",
+    "image": "./images/C_D/31d5da9bee55f99dd257b23afb8357ec.jpg",
     "question": "При выполнении какого маневра водитель грузового автомобиля имеет преимущество в движении?",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f1bc5fd10fc51bcd91aeb9d783532ee5.jpg",
+    "image": "./images/C_D/0de3a6f39123055a6565ad5ebd8406ea.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c774dcf8b5eda3391d0060daa9c33275.jpg",
+    "image": "./images/C_D/58dcfb87c86ff5f21f3bd127fcda3b61.jpg",
     "question": "Кому Вы обязаны уступить дорогу при движении в прямом направлении?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 29",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/db13cbc52e3478466fb7c7ce53a9db54.jpg",
+    "image": "./images/C_D/a2d5c669bb96280af2304c445472cf93.jpg",
     "question": "Можно ли Вам, управляя грузовым автомобилем с разрешенной максимальной массой более 3,5 т, осуществить опережение в данной ситуации?",
     "answers": [
       {
@@ -431,7 +431,8 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "На любых дорогах, имеющих для движения в данном направлении три полосы и более, занимать крайнюю левую полосу разрешается только при интенсивном движении, когда заняты другие полосы, а также для поворота налево или разворота, а грузовым автомобилям с р.м.м. более 2,5 т - только для поворота налево или разворота. Осуществить опережение на грузовом автомобиле, если р.м.м. грузового автомобиля более 3,5 т нельзя.(Пункт 9.4 ПДД)",
     "topic": [
-      "Движение по автомагистралям"
+      "Движение по автомагистралям",
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "3efa62f61df9700d4908b93aef5dc245"
   },

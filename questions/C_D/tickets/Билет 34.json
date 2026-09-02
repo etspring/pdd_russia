@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5ef7d102bccec2bad319bbb83b9689b.jpg",
+    "image": "./images/C_D/084ad0da8bed3f33a815020591527a59.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/754c88f15255c9f0b6e39e40abb4fb9b.jpg",
+    "image": "./images/C_D/5f89a34283b22090707b858ea30167e4.jpg",
     "question": "На каком расстоянии до скользкого участка дороги устанавливается данный знак в населенном пункте?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/19a5ace2b88bfb6fda946199da871825.jpg",
+    "image": "./images/C_D/67e31fc6501ffee4bc253d6ce2a29fa0.jpg",
     "question": "Этот знак запрещает движение транспортных средств:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/91c3953572dc0d9a64f453cdeb047e5b.jpg",
+    "image": "./images/C_D/9d70cf4071a5d68bd6da57b1b7401616.jpg",
     "question": "Какие из указанных знаков используются для обозначения кемпинга?",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/63f4018faf15f52f76ec4907f204f865.jpg",
+    "image": "./images/C_D/b530e8a2abb4d4d1e2ccf3c674d373f4.jpg",
     "question": "Если Вы управляете маломестным автобусом, то в случае выключения реверсивных светофоров следует:",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7fcd60bf736be24eb3ac0572a0cc99ad.jpg",
+    "image": "./images/C_D/c0001ebf38dc0d2f7f18b6cc901dcfad.jpg",
     "question": "Вам разрешено продолжить движение:",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2b60647b371becbb684413555d7fb8c4.jpg",
+    "image": "./images/C_D/15f5c3df84c0436ada30a3b35dc33039.jpg",
     "question": "Можно ли водителю автомобиля в данной ситуации начать движение от тротуара?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f7579c298d76037ed7c518fbde674f33.jpg",
+    "image": "./images/C_D/0f064c3de30d1d2a24cad26d3310c4b9.jpg",
     "question": "Водитель случайно проехал нужный въезд во двор. Разрешается ли ему в этой ситуации использовать задний ход, чтобы затем повернуть направо?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1515aeace7b500c5caddeef4562ecd85.jpg",
+    "image": "./images/C_D/2c37f766679a2c1f4dd25d65665bd90c.jpg",
     "question": "Можно ли Вам продолжить движение по средней полосе после опережения автомобиля, движущегося по правой полосе?",
     "answers": [
       {
@@ -309,7 +309,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/18238b99e3c134acc384fb96d9e96e0e.jpg",
+    "image": "./images/C_D/e61f65596c8fed322366651ee3985c9b.jpg",
     "question": "Можно ли Вам остановиться на грузовом автомобиле с разрешенной максимальной массой более 3,5 т в этом месте?",
     "answers": [
       {
@@ -336,7 +336,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/09e2f7aad2f0ca0e98fb0a30b914b05e.jpg",
+    "image": "./images/C_D/40da411faef01e3dc49c3ebe52172f40.jpg",
     "question": "Как Вам следует поступить при движении в прямом направлении?",
     "answers": [
       {
@@ -355,7 +355,7 @@
     "correct_answer": "Правильный ответ: 1",
     "answer_tip": "Перекрёсток регулируемый. Трамваи двигаются только «по направлению рук регулировщика», т.е. прямо. Водителю трамвая поворот направо запрещён. Соответственно он стоит и дожидается смены сигнала регулировщика. Вам можно продолжить движение прямо или направо. Проезжаете перекрёсток первым. (Пункт 6.10 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "a7a90e6909172eb5984f35ae949e58c0"
   },
@@ -363,7 +363,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d7ae2d734f146a9b3cf32bbcec9dc0a8.jpg",
+    "image": "./images/C_D/c4997371d7a7e399253c00a933d222ad.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -390,7 +390,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d1524bd95e17f9a21eeefc9fcbffd221.jpg",
+    "image": "./images/C_D/a8256f9988246a071d32d180570ccfb6.jpg",
     "question": "Вы намерены повернуть налево. Ваши действия?",
     "answers": [
       {
@@ -502,7 +502,7 @@
     "title": "Вопрос 19",
     "ticket_number": "Билет 34",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9e7cac973fc7911dbe45dbb9453df57d.jpg",
+    "image": "./images/C_D/74798b9c450a18bb5affa72d818e2ea6.jpg",
     "question": "При движении по двухполосной дороге за грузовым автомобилем у Вас появилась возможность совершить обгон. Ваши действия?",
     "answers": [
       {

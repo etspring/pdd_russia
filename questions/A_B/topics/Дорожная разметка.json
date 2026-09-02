@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/29536513de69ce571103af008467a743.jpg",
+    "image": "./images/A_B/cbea2fc058d3ed0304e4f92688b77acd.jpg",
     "question": "Разрешено ли Вам остановиться в указанном месте?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d146962a7d1e38cf7572e256710a9bf8.jpg",
+    "image": "./images/A_B/d08d946f8c929186eccd681ea3fcd0fc.jpg",
     "question": "Вы намерены повернуть налево. Где следует остановиться, чтобы уступить дорогу легковому автомобилю?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bd96a6a5f556fdb9dc8deda5d2ed91d2.jpg",
+    "image": "./images/A_B/e21998bdf3e1ad7edfa27998d8136086.jpg",
     "question": "Разрешен ли Вам выезд на полосу с реверсивным движением, если реверсивный светофор выключен?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/42d8039172d0bf6cf8f0914e7fcc84e2.jpg",
+    "image": "./images/A_B/b873e651968fbbcfc5585b51e8c82c44.jpg",
     "question": "Можно ли Вам остановиться в этом месте для посадки или высадки пассажиров?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/92944e57e5fb03e4e46fa5c738e84120.jpg",
+    "image": "./images/A_B/94283aec55e13882b8fac19f91134d56.jpg",
     "question": "О чем предупреждает Вас вертикальная разметка, нанесенная на ограждение дороги?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/707c25a6636465703859d65a19f17467.jpg",
+    "image": "./images/A_B/cb984e7e08ec7719761c2a5f95f06d01.jpg",
     "question": "Разметка в виде треугольника на полосе движения:",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c886337d78f28313e5bf3bf38128f289.jpg",
+    "image": "./images/A_B/4f9fa2ee1874f249415e63511355db38.jpg",
     "question": "Что обозначают прерывистые линии разметки на перекрёстке?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/01ed7477d29b8de10f90ae90ae7d29cb.jpg",
+    "image": "./images/A_B/75a9bb9bfb8b94f8e6f44b50673cdecf.jpg",
     "question": "Разрешается ли Вам перестроиться?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/bc0243aba1d9bf525cad2e0f5d121834.jpg",
+    "image": "./images/A_B/456928a5b1c55e064fd17a5aafa7ae6c.jpg",
     "question": "Можно ли Вам выполнить обгон при наличии данной разметки?",
     "answers": [
       {
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/187ee3164294a0b8e15a2041af5ac32b.jpg",
+    "image": "./images/A_B/188ebbcceb57cc3f1e22f17ad8ed3207.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -304,7 +304,7 @@
     "title": "Вопрос 12",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/65de2db63f9c439c734e1d4fd34090d4.jpg",
+    "image": "./images/A_B/d981aa7b9862ca8238dd03659b5ac219.jpg",
     "question": "Эта разметка, нанесённая на полосе движения:",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6b3ad1ecb22d100afba009ab6e72b202.jpg",
+    "image": "./images/A_B/b53812f45f3a380ffb413e5351ecc330.jpg",
     "question": "Движение разрешается:",
     "answers": [
       {
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b4a3cb349c1ca7052583dde4f87f7e29.jpg",
+    "image": "./images/A_B/9cfa6fdfee552268ba4dd128426aacf7.jpg",
     "question": "Какой пешеходный переход обозначает данная разметка?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c00c84dbff477b2ad94dd1f2864f8616.jpg",
+    "image": "./images/A_B/fbc3a25b37d2a75692aa196b6310818e.jpg",
     "question": "В каком из указанных мест Вам разрешено пересечь сплошную линию разметки и остановиться?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/f1d506fbfb636f628b8c24f2f408f7d6.jpg",
+    "image": "./images/A_B/7c49675253fb73e1a6104c352308b002.jpg",
     "question": "Разрешён ли Вам такой маневр при выключенных реверсивных светофорах?",
     "answers": [
       {
@@ -443,7 +443,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/c3e379fb8d35902afe625203c7b1c609.jpg",
+    "image": "./images/A_B/f1cbcf2d59d2c867f84062da7c75e65d.jpg",
     "question": "Разрешена ли Вам остановка в этом месте?",
     "answers": [
       {
@@ -470,7 +470,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d9702034dbea45f1737f278b9fa39b0f.jpg",
+    "image": "./images/A_B/7a9b6b82d619194349873911b83d9c8c.jpg",
     "question": "Можно ли Вам выполнить обгон при наличии данной разметки?",
     "answers": [
       {
@@ -497,7 +497,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/07dc747460fb962f1072f42bf65801c2.jpg",
+    "image": "./images/A_B/168f66924d6858caad541ae40a05167e.jpg",
     "question": "В данной ситуации Вы:",
     "answers": [
       {
@@ -578,7 +578,7 @@
     "title": "Вопрос 22",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/33d39314214758e95a3b20eb5f15a4ac.jpg",
+    "image": "./images/A_B/c21af28b8ac0132edf8a6d7fea0c469f.jpg",
     "question": "Данная вертикальная разметка:",
     "answers": [
       {
@@ -632,7 +632,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/06c51f39b0bcc111695f708480e26181.jpg",
+    "image": "./images/A_B/8faab1f8b2013f6b4c285050feac1213.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -659,7 +659,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ae63b1a4d168f572741673f99449ea30.jpg",
+    "image": "./images/A_B/16131d1e9c276a1ffe0aa10d5a228a62.jpg",
     "question": "Данная разметка обозначает:",
     "answers": [
       {
@@ -686,7 +686,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/d97cb9cf5e969350dbd157005c0e5796.jpg",
+    "image": "./images/A_B/1c56f127bda15753e3dae997ed89a2d9.jpg",
     "question": "Какой маневр Вам запрещается выполнить при наличии данной линии разметки?",
     "answers": [
       {
@@ -717,7 +717,7 @@
     "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/7dd35f76d8dd55e9bb8d4d6de3f53dc3.jpg",
+    "image": "./images/A_B/2cb1ea9f19c6f37e11775578cfe5359c.jpg",
     "question": "Такой вертикальной разметкой обозначают боковые поверхности ограждений:",
     "answers": [
       {
@@ -744,7 +744,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/cafc9ae89132d05d9fd2030e8cd30738.jpg",
+    "image": "./images/A_B/680d77111eb29874eb8e0cd4150fc4c2.jpg",
     "question": "Что обозначает эта разметка:",
     "answers": [
       {
@@ -771,7 +771,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4713dc13afb3d4a4ad0c2ca8c3b4377d.jpg",
+    "image": "./images/A_B/3a6b981224bd447c6a6795e0fbbbda4f.jpg",
     "question": "Движение по предназначенной для велосипедистов\nполосе проезжей части, которая обозначена данной\nразметкой, разрешается:",
     "answers": [
       {
@@ -798,7 +798,7 @@
     "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/4d989e03727e81102bd2fe3c46846791.jpg",
+    "image": "./images/A_B/67f1e2c8be367342f8bd7244a6b4ffc2.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -825,7 +825,7 @@
     "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/e22a7138a3a96d12eb6620ae9dcaf64a.jpg",
+    "image": "./images/A_B/f9b89582f667a9b701e70d77b26493c8.jpg",
     "question": "Что обозначает разметка А100, нанесенная на проезжую часть дороги?",
     "answers": [
       {
@@ -883,7 +883,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/9f0e30f8f0ec826616664206aad36fa9.jpg",
+    "image": "./images/A_B/494e3b33057bd28ebf1f10e91eaeeb79.jpg",
     "question": "О чем информирует Вас увеличение длины штриха прерывистой линии разметки?",
     "answers": [
       {
@@ -910,7 +910,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/acec6ef6e76d334c3fbe13cc9bda7ed8.jpg",
+    "image": "./images/A_B/009525ace41979cf612cd85eb60cce68.jpg",
     "question": "Данная разметка обозначает:",
     "answers": [
       {
@@ -937,7 +937,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b85a94c4c6006e417495b690e40dea08.jpg",
+    "image": "./images/A_B/d931271f88fac8231702feb4e4c804ca.jpg",
     "question": "Если реверсивные светофоры выключились, Вам следует:",
     "answers": [
       {
@@ -964,7 +964,7 @@
     "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b106b290c922e3517b2f8fd73bd9ba5f.jpg",
+    "image": "./images/A_B/a00e42e45dd7bdaf6387b1f84dd63f32.jpg",
     "question": "Вы можете объехать препятствие:",
     "answers": [
       {
@@ -991,7 +991,7 @@
     "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/8ddbc75a6fc625e23e32a42e1e0f661e.jpg",
+    "image": "./images/A_B/33090ddc47db9a455d5b04f2937f4db7.jpg",
     "question": "Правая полоса предназначена для движения:",
     "answers": [
       {
@@ -1018,7 +1018,7 @@
     "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/5ee41a0764989b0650d717aa675b0629.jpg",
+    "image": "./images/A_B/26a3bff9af5b5c708ccc3074a6c0807d.jpg",
     "question": "Разрешается ли Вам перестроиться на полосу с реверсивным движением в данной ситуации?",
     "answers": [
       {
@@ -1045,7 +1045,7 @@
     "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/dfe9f37ad17541d6c492999a9e072ed1.jpg",
+    "image": "./images/A_B/206af2828635839a9f590b2b950c6e44.jpg",
     "question": "Разрешается ли Вам остановка в этом месте?",
     "answers": [
       {
@@ -1076,7 +1076,7 @@
     "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/6da58f10de901739f194719230b308d2.jpg",
+    "image": "./images/A_B/a28c8d8c86f81bc9d74c4d6e0db71739.jpg",
     "question": "При наличии данной разметки, нанесенной на полосе движения, Вам разрешено выполнить:",
     "answers": [
       {
@@ -1103,7 +1103,7 @@
     "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/65b8e8af7dacc6c5d42cd4feee546de9.jpg",
+    "image": "./images/A_B/e0b897b9dc3eb1cdf106d61c8500400c.jpg",
     "question": "Разметкой в виде буквы «А» обозначают?",
     "answers": [
       {

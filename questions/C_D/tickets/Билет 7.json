@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/44f07475e7bafbdc16525bea51a48ba9.jpg",
+    "image": "./images/C_D/b7424d7c761bab92d8a90ad4a44819ac.jpg",
     "question": "Кому предоставлено право остановки грузовых автомобилей и автобусов, осуществляющих международные перевозки, в пунктах контроля, обозначенных данным дорожным знаком?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/607d13bc8a0603a945a91ad60f58eb94.jpg",
+    "image": "./images/C_D/eb1d8f1439b4ca1e4d32c84a2047cee3.jpg",
     "question": "О чем информируют Вас эти дорожные знаки?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/879e35dec5eabd3dff276c1ec95a6f54.jpg",
+    "image": "./images/C_D/e08b1c1464838e659cbdea0600cfd5b7.jpg",
     "question": "Разрешено ли Вам произвести остановку в указанном месте?",
     "answers": [
       {
@@ -85,7 +85,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/42c2d866320f5e511f1d939e385041c9.jpg",
+    "image": "./images/C_D/8cdac83b8f290771ba5360d5b63d1704.jpg",
     "question": "Действие каких знаков из указанных распространяется только до ближайшего по ходу движения перекрестка?",
     "answers": [
       {
@@ -112,7 +112,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2b1bb3f7d1cbfbb3c33a9b90cfba6616.jpg",
+    "image": "./images/C_D/0d982ba11d78da9aa3ab2229838c7a81.jpg",
     "question": "Что обозначают прерывистые линии разметки на перекрестке?",
     "answers": [
       {
@@ -139,7 +139,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/02a53bc6f49973bc9e8a5837f4ca0ea4.jpg",
+    "image": "./images/C_D/420fb0198883001480ddccefcc8b7d03.jpg",
     "question": "Вам разрешается движение:",
     "answers": [
       {
@@ -193,7 +193,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/da1509ffd831463c42659af75b781e37.jpg",
+    "image": "./images/C_D/5ed2d2ac610f0cd8c4d608d20423f213.jpg",
     "question": "Обязан ли водитель автобуса уступить дорогу водителю грузового автомобиля?",
     "answers": [
       {
@@ -220,7 +220,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2b6279b775533df5e321559aa71f6b42.jpg",
+    "image": "./images/C_D/5ead74a5e1483caec4f2e1f8212e5688.jpg",
     "question": "Разрешен ли Вам разворот на этом участке дороги?",
     "answers": [
       {
@@ -274,7 +274,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6aba76bcd81cc25247538483464f36c3.jpg",
+    "image": "./images/C_D/0f95d10974b7bc276ce92153fc582d79.jpg",
     "question": "Разрешается ли Вам в конце подъема перестроиться на среднюю полосу для опережения грузового автомобиля?",
     "answers": [
       {
@@ -301,7 +301,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d436bf375434afcbfe9d422c4cdd8806.jpg",
+    "image": "./images/C_D/fcf881888f21ebe4246e41d7dd4aed7a.jpg",
     "question": "В каком из указанных мест Вам можно поставить на стоянку грузовой автомобиль с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -332,7 +332,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/abbf4986dacffe6540aba6d826bf7eac.jpg",
+    "image": "./images/C_D/bfb1a515634bcca619d28c3b4fe3f100.jpg",
     "question": "Как Вам следует поступить при повороте налево?",
     "answers": [
       {
@@ -359,7 +359,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3f1d38838c548ab2ecd1b9ff40105958.jpg",
+    "image": "./images/C_D/68f9af24c847638e4f069a61151f01c4.jpg",
     "question": "Разрешено ли Вам выехать на перекресток, за которым образовался затор:",
     "answers": [
       {
@@ -386,7 +386,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9d66d36373715978d5b4ee92b486865c.jpg",
+    "image": "./images/C_D/7dbb788d93d926363aa084a9c1f2b92d.jpg",
     "question": "Вы намерены продолжить движение прямо. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -440,7 +440,7 @@
     "title": "Вопрос 17",
     "ticket_number": "Билет 7",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/847b3703a156153b2fb43ca17b376159.jpg",
+    "image": "./images/C_D/f0d88bfde95cc1608a53a5ae20bdbdd8.jpg",
     "question": "На каком рисунке изображен автомобиль, водитель которого не нарушает правил перевозки грузов?",
     "answers": [
       {

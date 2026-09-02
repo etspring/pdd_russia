@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fe634d98c2af3212c1a2ea47cadc8465.jpg",
+    "image": "./images/A_B/5eedb1ba3ba1357e9714f6cab76d0fdb.jpg",
     "question": "В чем особенность скоростного режима на этом участке дороги?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/0627a6bcda807b448e366a938dd7267b.jpg",
+    "image": "./images/A_B/de239f02a1f9abd5237f04215a8361a5.jpg",
     "question": "Какие из указанных знаков запрещают поворот налево?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ce1936aeb5dffa195af050ef8d234483.jpg",
+    "image": "./images/A_B/929879aeb2c3a660f1ba2aef2bb35b26.jpg",
     "question": "Можно ли Вам повернуть направо на этом перекрёстке?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/01ed7477d29b8de10f90ae90ae7d29cb.jpg",
+    "image": "./images/A_B/75a9bb9bfb8b94f8e6f44b50673cdecf.jpg",
     "question": "Разрешается ли Вам перестроиться?",
     "answers": [
       {
@@ -143,7 +143,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/22d4fb162eef4f41fc16ee622fb96507.jpg",
+    "image": "./images/A_B/5867525677ced0dc35cf369e1ea8a40b.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -170,7 +170,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/da037e32c3bdbe5b0b324c94d6036152.jpg",
+    "image": "./images/A_B/c13d0769d19e88a91ad80df6fece2b03.jpg",
     "question": "Водитель легкового автомобиля должен выключить указатели левого поворота:",
     "answers": [
       {
@@ -197,7 +197,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/ca4b4d8be85e51f1b22bb7d48c33dc7f.jpg",
+    "image": "./images/A_B/58af9c27d6e36a7c0ede1b565b743d66.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -216,7 +216,6 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "В случае отсутствия знака 5.15.1 «Направления движения по полосам» следовало бы выполнить поворот налево по траектории «А». Но на перекрёстках, перед которыми и на которых имеются знаки 5.15.1 и 5.15.2, выезд на трамвайные пути запрещён. Поворот налево (разворот) следует произвести по траектории «Б».(«Дорожные знаки», пункт 8.5 ПДД)",
     "topic": [
-      "Дорожные знаки",
       "Начало движения, маневрирование"
     ],
     "id": "76c1351bb5fb6e68489cabe11aa628ec"
@@ -225,7 +224,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/b2595fecbe711e5609a23fc8ac3fc088.jpg",
+    "image": "./images/A_B/faf7614de63c20aa2b5cbe5ff33a8477.jpg",
     "question": "Вы имеете право выполнить разворот:",
     "answers": [
       {
@@ -252,7 +251,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/676956abe8a15ebc091b562be321a1b6.jpg",
+    "image": "./images/A_B/9e1619e71879ded26e33fbd774c08a9c.jpg",
     "question": "Вне населенных пунктов Вам можно продолжить движение:",
     "answers": [
       {
@@ -279,7 +278,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2e01cd61f2acb8aab7f9fa7a5704f256.jpg",
+    "image": "./images/A_B/80633f49e4a75fe76131152f7db34a89.jpg",
     "question": "Разрешено ли Вам после опережения первого автомобиля продолжить движение по левой полосе вне населенных пунктов?",
     "answers": [
       {
@@ -298,6 +297,7 @@
     "correct_answer": "Правильный ответ: 2",
     "answer_tip": "Вне населённого пункта именно в такой ситуации при наличии двух полос в данном направлении разрешается оставаться на левой полосе, чтобы не осуществлять лишние маневры во время опережения. При этом Вы не должны создавать помехи транспортным средствам, движущимся за Вами с более высокой скоростью.(Пункт 9.4 ПДД).",
     "topic": [
+      "Обгон, опережение, встречный разъезд",
       "Расположение транспортных средств на проезжей части"
     ],
     "id": "d81b730e232ceee0cde358cc15fc3b72"
@@ -306,7 +306,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/2781ab050a7d9185d07f438297f55372.jpg",
+    "image": "./images/A_B/a08ede4c88fe10dc5ae172a6346c3a33.jpg",
     "question": "Нарушил ли водитель грузового автомобиля правила стоянки?",
     "answers": [
       {
@@ -333,7 +333,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/75b894f8b7008cbcdfd01fbe7d086b76.jpg",
+    "image": "./images/A_B/df8120ae28dc5201dada9009ab49ae32.jpg",
     "question": "Кто из водителей, выполняющих поворот, нарушит Правила?",
     "answers": [
       {
@@ -364,7 +364,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/070caf0f9b5674de0d359942722b1ffe.jpg",
+    "image": "./images/A_B/9ad705aa55c3b4105c11ccb259f47ec2.jpg",
     "question": "Вы намерены продолжить движение в прямом направлении. Ваши действия?",
     "answers": [
       {
@@ -391,7 +391,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 8",
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/3b2c8d915bef1709d23d38ab7282c354.jpg",
+    "image": "./images/A_B/ad64c41828b458b252935e63b423dd88.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {

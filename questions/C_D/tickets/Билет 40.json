@@ -34,7 +34,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4df91e11d37a7cd96fc35f791b5fc81e.jpg",
+    "image": "./images/C_D/de0dce93b6baa40c4dd1c4441bca017e.jpg",
     "question": "Вам разрешено продолжить движение на маршрутном транспортном средстве:",
     "answers": [
       {
@@ -65,7 +65,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bb93d55a7503598a5ae03494df5f45f4.jpg",
+    "image": "./images/C_D/ca682e236cc2cff98027ade955d7ff20.jpg",
     "question": "Какие из указанных знаков разрешают разворот?",
     "answers": [
       {
@@ -92,7 +92,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7946b8ec42e5eb15b287acd3d8f7e665.jpg",
+    "image": "./images/C_D/9fbeed74c3de99430b89b5f2a23097a8.jpg",
     "question": "Запрещается ставить на стоянку указанным на табличке способом:",
     "answers": [
       {
@@ -119,7 +119,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a61c00528758eaf7596eb33b99f5737e.jpg",
+    "image": "./images/C_D/49a1263c1107a5577ae225e605cb4913.jpg",
     "question": "Разметкой в виде буквы «А» обозначают:",
     "answers": [
       {
@@ -146,7 +146,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5dedbd58981102917b1ab8d6cefc4137.jpg",
+    "image": "./images/C_D/584149d618855cb80241cf744fc98cab.jpg",
     "question": "Разрешено ли Вам движение?",
     "answers": [
       {
@@ -173,7 +173,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e1b5255b958da32b3c587a93dbf40dbb.jpg",
+    "image": "./images/C_D/4382685016817096ad371b693b5d19c2.jpg",
     "question": "Какой опознавательный знак должен быть закреплен на задней части буксируемого механического транспортного средства при отсутствии или неисправности аварийной сигнализации?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bcb2d4eed9ced552f502954495b76c23.jpg",
+    "image": "./images/C_D/615c75618809cd48d5a2bc0ed7fd5eb8.jpg",
     "question": "На перекрестке Вы намерены повернуть направо. Как Вам следует поступить?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/49a7777363e930f0c30bcfe0da70bcdb.jpg",
+    "image": "./images/C_D/55299f7e8c8b583590234717e07d29f8.jpg",
     "question": "Кто должен уступить дорогу при одновременном развороте?",
     "answers": [
       {
@@ -281,7 +281,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df131d252b43972d98d91844849d5ab2.jpg",
+    "image": "./images/C_D/022e0b90c87deecb0518db4810730acf.jpg",
     "question": "Как Вам следует поступить в данной ситуации?",
     "answers": [
       {
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df6eef941f678b20fbb2a75deefc4e23.jpg",
+    "image": "./images/C_D/4ec3b18569e2601548b27785a86b6de8.jpg",
     "question": "Нарушил ли водитель маломестного автобуса правила остановки?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f566491539c1f8ac9e1578d5f28274c6.jpg",
+    "image": "./images/C_D/5c2d5faee19451a559c689cd1e3c483d.jpg",
     "question": "Вы намерены повернуть направо. Ваши действия?",
     "answers": [
       {
@@ -366,7 +366,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0214734e8e4ff2532600fde6131b1b94.jpg",
+    "image": "./images/C_D/ec482511873ea79c060690f69d8d6577.jpg",
     "question": "При движении прямо Вы:",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/fb7fba2257ddb0f882f30c5848b3b2a5.jpg",
+    "image": "./images/C_D/40bf0c1115877102eb282f6f496d1f65.jpg",
     "question": "Кому Вы обязаны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 40",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9eb4bf35c249b528f1a3ce512053ab7c.jpg",
+    "image": "./images/C_D/4a13513b9c784e6beb83561a7c8f50d8.jpg",
     "question": "Можно ли Вам въехать на железнодорожный переезд?",
     "answers": [
       {

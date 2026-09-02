@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a5818694e383d2f22dd04d221aec43db.jpg",
+    "image": "./images/C_D/dccb29ca8976f987d1080c0b6e3c377d.jpg",
     "question": "Какие из указанных знаков устанавливают непосредственно перед железнодорожным переездом?",
     "answers": [
       {
@@ -61,7 +61,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8236cc1d720f46c31a16bf3d91f0e800.jpg",
+    "image": "./images/C_D/d86fe664309990acbb296479eb70ae19.jpg",
     "question": "Вам разрешено выполнить разворот:",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/1056d47dd8d8c1d228da0210960d2324.jpg",
+    "image": "./images/C_D/1a44f58acac0d05e9c540afbafca80f4.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку за путепроводом?",
     "answers": [
       {
@@ -115,7 +115,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5ed17222a36dc16ad64439b361542741.jpg",
+    "image": "./images/C_D/119acc02cdc423ca9bc221147ab2266e.jpg",
     "question": "Разрешается ли Вам перестроиться на полосу с реверсивным движением в данной ситуации?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0755f11f922ddce0ebf95b64b50550e2.jpg",
+    "image": "./images/C_D/a72f6adf67450bcd3387a102e4eb5ad7.jpg",
     "question": "Вам разрешено движение:",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2fae38f621f1b1719231f0de6fd0e24b.jpg",
+    "image": "./images/C_D/45fa35207dc30512a88509472d4dbbc0.jpg",
     "question": "Какие указатели поворота Вы обязаны включить при выполнении разворота по такой траектории?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/691dbb68bca3eeff36c8eac179997173.jpg",
+    "image": "./images/C_D/ce220c7e9db26675c5a387b20849be86.jpg",
     "question": "Ситуация, в которой водитель транспортного средства, движущегося по правой полосе, обязан уступить дорогу при перестроении, показана:",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/aec9d842e39c07982adf72eb7dada2a5.jpg",
+    "image": "./images/C_D/12e89721e0ef1ce03277a479c8ee9e34.jpg",
     "question": "Разрешено ли водителю маломестного автобуса движение задним ходом для посадки пассажира?",
     "answers": [
       {
@@ -250,7 +250,7 @@
     "title": "Вопрос 10",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/534458f807c817cc64d58c8699c9808f.jpg",
+    "image": "./images/C_D/cdc250802bb03504a3b537487af4b5f3.jpg",
     "question": "В данной ситуации для того, чтобы продолжить движение в прямом направлении, Вы имеете право:",
     "answers": [
       {
@@ -269,7 +269,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "В данной ситуации Ваше право выбирать: или объехать грузовой автомобиль справа;или дождаться освобождения полосы, на которой Вы находитесь, чтобы без лишних перестроений продолжить дальнейшее движение.(Пункты ПДД: 1.2 термины «Перестроение», Опережение», 8.4)",
     "topic": [
-      "Начало движения, маневрирование"
+      "Расположение транспортных средств на проезжей части"
     ],
     "id": "b18684295628bf9197e837be8532b67c"
   },
@@ -308,7 +308,7 @@
     "title": "Вопрос 12",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cd02414b08d4f57dbcf50b1d7b7fd7cd.jpg",
+    "image": "./images/C_D/cfd1be991723b85d9b7e0781c4efa0ac.jpg",
     "question": "Можно ли Вам остановиться в тоннеле для посадки пассажира?",
     "answers": [
       {
@@ -335,7 +335,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dd3dda1dc6b72afb42e1b7b8b6d75e3e.jpg",
+    "image": "./images/C_D/33321b6c0b9de6807f924d6bca5ee9cf.jpg",
     "question": "Как Вам следует поступить при повороте направо?",
     "answers": [
       {
@@ -362,7 +362,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/299e398557ff0769c09ec4012cf25f70.jpg",
+    "image": "./images/C_D/dacee4d4ddbf2fa02202482e2d768422.jpg",
     "question": "При движении в каком направлении Вы будете иметь преимущество?",
     "answers": [
       {
@@ -389,7 +389,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 37",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8c13a61b32b89bba8e77b39b10a2e2c0.jpg",
+    "image": "./images/C_D/736376da60fc0643c5eab708166ff738.jpg",
     "question": "Вы намерены продолжить движение прямо. Ваши действия?",
     "answers": [
       {

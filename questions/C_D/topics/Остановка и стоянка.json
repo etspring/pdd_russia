@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/7e2c52547053772c75304dc5a32f76bb.jpg",
+    "image": "./images/C_D/f20b05aaf45ebf53da76d608362c4ceb.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5d00f239427732dd36fe4a826257c4f8.jpg",
+    "image": "./images/C_D/832419833f12e93275c0600587d0a7e5.jpg",
     "question": "Можно ли Вам остановиться в этом месте для посадки или высадки пассажиров?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/66e690e115fb770ede03339498a093b9.jpg",
+    "image": "./images/C_D/471b4297b5a6edb31fef27bd8084efeb.jpg",
     "question": "В каком случае водителю разрешается поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a23d235eb7c85239109f389621dbf9df.jpg",
+    "image": "./images/C_D/0ffe81325863c6272b733316ce9c8835.jpg",
     "question": "Разрешается ли Вам остановиться в указанном месте?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/10adfa6bc44c84bfa86ab4d27144c209.jpg",
+    "image": "./images/C_D/7e7b6ce005942fb76ad4db9bbb79f4b5.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -142,7 +142,7 @@
     "title": "Вопрос 6",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/bc9a118126388a0ec80e9fdd80b16988.jpg",
+    "image": "./images/C_D/278a0ee993e54ef74080e4348063bbdb.jpg",
     "question": "Разрешается ли Вам остановка для посадки пассажира в этом месте?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f048a546fa9b4d900c1cb9ef5bef751e.jpg",
+    "image": "./images/C_D/c43aee866cbb14f183dc6e51186b5727.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -200,7 +200,7 @@
     "title": "Вопрос 8",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/406b6f091288f5bd57a6d9036619168e.jpg",
+    "image": "./images/C_D/e042e74e4148ac6314c30adae8e20f6a.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте?",
     "answers": [
       {
@@ -227,7 +227,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/d436bf375434afcbfe9d422c4cdd8806.jpg",
+    "image": "./images/C_D/fcf881888f21ebe4246e41d7dd4aed7a.jpg",
     "question": "В каком из указанных мест Вам можно поставить на стоянку грузовой автомобиль с разрешенной максимальной массой более 3,5 т?",
     "answers": [
       {
@@ -258,7 +258,7 @@
     "title": "Вопрос 10",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b1532de63a11df66888161daaa59f383.jpg",
+    "image": "./images/C_D/24816343bc46465398eb78a4a4fb7fab.jpg",
     "question": "Кто из водителей правильно поставил автомобиль на стоянку?",
     "answers": [
       {
@@ -285,7 +285,7 @@
     "title": "Вопрос 11",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/8ff7d801dcefec1659626ff7180fff72.jpg",
+    "image": "./images/C_D/1a7be208112299c542fe226fe662bb94.jpg",
     "question": "Запрещена ли водителю грузового автомобиля остановка в этом месте?",
     "answers": [
       {
@@ -339,7 +339,7 @@
     "title": "Вопрос 13",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df14697cb6f2c416837d7996a3ea0552.jpg",
+    "image": "./images/C_D/10b59b2e92931b83d6018ed132c880c8.jpg",
     "question": "Кто из водителей нарушил правила стоянки?",
     "answers": [
       {
@@ -370,7 +370,7 @@
     "title": "Вопрос 14",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/930890e27455c06452caf3f069c6bf90.jpg",
+    "image": "./images/C_D/ec057be8afdfd357532efc94c73b54c6.jpg",
     "question": "Можно ли Вам поставить грузовой автомобиль с разрешенной максимальной массой более 3,5 т на стоянку в указанном месте?",
     "answers": [
       {
@@ -397,7 +397,7 @@
     "title": "Вопрос 15",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/c296f77495f7bfecadd997026e223a0c.jpg",
+    "image": "./images/C_D/d324ca1a6a3593fef651a39905a2bd74.jpg",
     "question": "Разрешено ли Вам остановиться на мосту для посадки пассажира?",
     "answers": [
       {
@@ -424,7 +424,7 @@
     "title": "Вопрос 16",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/109bddcb80ecc054a04583f2b5a167fb.jpg",
+    "image": "./images/C_D/38a923f05790dd4a87cd11056d78232b.jpg",
     "question": "Разрешено ли Вам остановиться на мосту в указанном месте?",
     "answers": [
       {
@@ -451,7 +451,7 @@
     "title": "Вопрос 17",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2e7b4e2719f5b6ebd730d2ce0813319c.jpg",
+    "image": "./images/C_D/10412e9cec631ea541c33931006a777b.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -482,7 +482,7 @@
     "title": "Вопрос 18",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/591b98def49b4a052995083721981fac.jpg",
+    "image": "./images/C_D/764ad5443bc5288c9d64f615b42a70c6.jpg",
     "question": "В каком из указанных мест Вы можете поставить автобус на стоянку?",
     "answers": [
       {
@@ -509,7 +509,7 @@
     "title": "Вопрос 19",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/27931d395dfb4f84e87e3ead1cd436f4.jpg",
+    "image": "./images/C_D/446e8672a53b506bcb2b4ac1200e04b3.jpg",
     "question": "В каком месте на данном участке дороги Вам разрешено поставить автомобиль на длительную стоянку?",
     "answers": [
       {
@@ -536,7 +536,7 @@
     "title": "Вопрос 20",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/09fc82aa15431be00bc5cb6b9692ce6d.jpg",
+    "image": "./images/C_D/399ccf3419d13ddf36f1d772f040f971.jpg",
     "question": "Кто нарушил правила остановки?",
     "answers": [
       {
@@ -567,7 +567,7 @@
     "title": "Вопрос 21",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9a294c3a8fbb0d2372c932c136135f34.jpg",
+    "image": "./images/C_D/b5b6f20cf9a38af00debb0c955dacd41.jpg",
     "question": "Кто из водителей грузовых автомобилей нарушил правила стоянки?",
     "answers": [
       {
@@ -629,7 +629,7 @@
     "title": "Вопрос 23",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ab7b239f0713a047d2519b9252d57339.jpg",
+    "image": "./images/C_D/8977d7aa17da4d4d702f449276faf594.jpg",
     "question": "В каком месте Вам следует поставить автомобиль на стоянку с правой стороны дороги?",
     "answers": [
       {
@@ -656,7 +656,7 @@
     "title": "Вопрос 24",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a4da054987231aeef81635da8f396921.jpg",
+    "image": "./images/C_D/a939eb07e23d76208fdc1e564e5f6758.jpg",
     "question": "Разрешено ли водителю грузового автомобиля остановиться в этом месте?",
     "answers": [
       {
@@ -683,7 +683,7 @@
     "title": "Вопрос 25",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f72d5005c71e976fb87446a32c5822e0.jpg",
+    "image": "./images/C_D/91fcc260cbdb523b4a3b7786d6aba13d.jpg",
     "question": "На каком расстоянии от знака Вам разрешено поставить автомобиль на стоянку?",
     "answers": [
       {
@@ -710,7 +710,7 @@
     "title": "Вопрос 26",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/4708766a15708c857663d1e1e65622ea.jpg",
+    "image": "./images/C_D/bdc727d26db4a8e3b73823aaee87e0ef.jpg",
     "question": "Кто из водителей грузовых автомобилей нарушил правила стоянки?",
     "answers": [
       {
@@ -741,7 +741,7 @@
     "title": "Вопрос 27",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/e151b975e12438db22cd6c3be5a6f3d9.jpg",
+    "image": "./images/C_D/0dfd4669132120f844cf23b547ee92e9.jpg",
     "question": "Разрешена ли остановка в этом месте?",
     "answers": [
       {
@@ -768,7 +768,7 @@
     "title": "Вопрос 28",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/dd1287541dae98592be4fab120e282eb.jpg",
+    "image": "./images/C_D/367dd225c306080837490347a462fcc0.jpg",
     "question": "Водители каких транспортных средств нарушили правила остановки?",
     "answers": [
       {
@@ -795,7 +795,7 @@
     "title": "Вопрос 29",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/9c41df8ad1e81a65ee0bb2dae26e6c93.jpg",
+    "image": "./images/C_D/689719435c77414b5db4c51eb6082682.jpg",
     "question": "Нарушил ли водитель грузового автомобиля правила стоянки?",
     "answers": [
       {
@@ -822,7 +822,7 @@
     "title": "Вопрос 30",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0d37b18d57dcaa25064c95891447deb7.jpg",
+    "image": "./images/C_D/4a55f4806c5c99bb9edc48e38e8877f2.jpg",
     "question": "В каком месте Вам разрешено остановиться?",
     "answers": [
       {
@@ -849,7 +849,7 @@
     "title": "Вопрос 31",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3333138c5580c7cdc666a2d7b0e6de85.jpg",
+    "image": "./images/C_D/7788219aff5f4bc41da34f2a438e9121.jpg",
     "question": "Кто из водителей нарушил правила остановки?",
     "answers": [
       {
@@ -880,7 +880,7 @@
     "title": "Вопрос 32",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/2b970a427358956c8dd99af2bd59b70f.jpg",
+    "image": "./images/C_D/b49a07cf2950a11d1f587e1c44bdb6b7.jpg",
     "question": "Водитель грузового автомобиля нарушил правила остановки:",
     "answers": [
       {
@@ -907,7 +907,7 @@
     "title": "Вопрос 33",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/a917aa3670c1df304a98be8f34b3ec0d.jpg",
+    "image": "./images/C_D/230ab0dfb7daaf5b1772d07c33440b19.jpg",
     "question": "Можно ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -934,7 +934,7 @@
     "title": "Вопрос 34",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/19410ee0eeaa4c47703a4064ede9c9f1.jpg",
+    "image": "./images/C_D/927e20e000ff56651694b6b479890b60.jpg",
     "question": "В каком месте Вам можно остановиться?",
     "answers": [
       {
@@ -965,7 +965,7 @@
     "title": "Вопрос 35",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/65ba71d35003ac2bd315a44b2dd593e5.jpg",
+    "image": "./images/C_D/0855539e6929cd618d7b4baa4fb29cbf.jpg",
     "question": "Разрешено ли Вам поставить автомобиль на стоянку в этом месте при наличии узкой обочины?",
     "answers": [
       {
@@ -992,7 +992,7 @@
     "title": "Вопрос 36",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/18238b99e3c134acc384fb96d9e96e0e.jpg",
+    "image": "./images/C_D/e61f65596c8fed322366651ee3985c9b.jpg",
     "question": "Можно ли Вам остановиться на грузовом автомобиле с разрешенной максимальной массой более 3,5 т в этом месте?",
     "answers": [
       {
@@ -1019,7 +1019,7 @@
     "title": "Вопрос 37",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ee38676efab9ef206d5961aefb48eee7.jpg",
+    "image": "./images/C_D/ea1ae65edcd1c007e6f7a591190e9537.jpg",
     "question": "Водители каких грузовых автомобилей с разрешенной максимальной массой более 3,5 т не нарушили правила стоянки?",
     "answers": [
       {
@@ -1050,7 +1050,7 @@
     "title": "Вопрос 38",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/ceadd589cd64f92a41d1171f65793565.jpg",
+    "image": "./images/C_D/090115ea13dd63273fa91fe6e16282a3.jpg",
     "question": "Разрешена ли Вам остановка на грузовом автомобиле с разрешенной максимальной массой более 3,5 т в указанном месте?",
     "answers": [
       {
@@ -1077,7 +1077,7 @@
     "title": "Вопрос 39",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/cd02414b08d4f57dbcf50b1d7b7fd7cd.jpg",
+    "image": "./images/C_D/cfd1be991723b85d9b7e0781c4efa0ac.jpg",
     "question": "Можно ли Вам остановиться в тоннеле для посадки пассажира?",
     "answers": [
       {
@@ -1104,7 +1104,7 @@
     "title": "Вопрос 40",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5c737cdc38726bc9ea02bd0709ab94b0.jpg",
+    "image": "./images/C_D/e1a1f7d0e311426735f96e241c1b059d.jpg",
     "question": "Разрешено ли водителю грузового автомобиля с разрешенной максимальной массой более 3,5 т остановиться в указанном месте?",
     "answers": [
       {
@@ -1131,7 +1131,7 @@
     "title": "Вопрос 41",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/11166c383b6ccaebcb3fe016cd4caac4.jpg",
+    "image": "./images/C_D/60d2c9ccfb7ab0efedcff41639b5aac2.jpg",
     "question": "Разрешается ли Вам остановка в указанном месте?",
     "answers": [
       {
@@ -1158,7 +1158,7 @@
     "title": "Вопрос 42",
     "ticket_number": null,
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/df6eef941f678b20fbb2a75deefc4e23.jpg",
+    "image": "./images/C_D/4ec3b18569e2601548b27785a86b6de8.jpg",
     "question": "Нарушил ли водитель маломестного автобуса правила остановки?",
     "answers": [
       {
@@ -1180,63 +1180,5 @@
       "Остановка и стоянка"
     ],
     "id": "f5d36c60f6be7fa19f1812423343d654"
-  },
-  {
-    "title": "Вопрос 43",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3a2596475cb344e3b4160ac18056ee4a.jpg",
-    "question": "Кто из водителей нарушил правила остановки?",
-    "answers": [
-      {
-        "answer_text": "Только водитель легкового автомобиля",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Только водитель грузового автомобиля",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Оба",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 3",
-    "answer_tip": "На автомагистрали остановка и стоянка вне мест, специально отведённых и обозначенных соответствующими знаками, запрещена. Оба водителя нарушают правила.(«Дорожные знаки», пункты 12.1, 16.1 ПДД)",
-    "topic": [
-      "Остановка и стоянка"
-    ],
-    "id": "03018a402611d50309be83db59abc924"
-  },
-  {
-    "title": "Вопрос 44",
-    "ticket_number": null,
-    "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/833936d52b078b3252b2b30a66904372.jpg",
-    "question": "Разрешается ли водителю произвести остановку в этом месте в целях разгрузки транспортного средства?",
-    "answers": [
-      {
-        "answer_text": "Разрешается",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается, если остановка займет не более 5 минут",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Разрешается, если не будут созданы помехи движению маршрутных транспортных средств",
-        "is_correct": false
-      },
-      {
-        "answer_text": "Запрещается",
-        "is_correct": true
-      }
-    ],
-    "correct_answer": "Правильный ответ: 4",
-    "answer_tip": "Полоса для маршрутных транспортных средств отделена прерывистой линией разметки. В этом случае остановка допускается только в связи с посадкой или высадкой пассажиров, при условии, что остановка не создаст помех движению маршрутных транспортных средств, легковых такси, велосипедистов, «школьных автобусов». Другие случаи правилами не допускаются.(Пункт 18.2 ПДД, «Горизонтальная разметка» 1.23.1)",
-    "topic": [
-      "Остановка и стоянка"
-    ],
-    "id": "922e64cb044b50638091daa39f08f777"
   }
 ]

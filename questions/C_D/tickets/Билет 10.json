@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/66adbe455cdccc852e3a007ed086dd89.jpg",
+    "image": "./images/C_D/579f1d5ea7c89082890ef87a538fa324.jpg",
     "question": "Главная дорога показана:",
     "answers": [
       {
@@ -30,7 +30,7 @@
     "title": "Вопрос 2",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/b8ed4d669a77cf1537bad75f18cb36b6.jpg",
+    "image": "./images/C_D/aa95b40988457cb065924aebf15844a5.jpg",
     "question": "Какие из указанных знаков распространяют свое действие только на период времени, когда покрытие проезжей части влажное?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/67c83646bb7a8f088785144eb5e4f77f.jpg",
+    "image": "./images/C_D/85b078b40242e898855510ccd7240fef.jpg",
     "question": "Разрешается ли Вам поставить автомобиль на стоянку в указанном месте?",
     "answers": [
       {
@@ -84,7 +84,7 @@
     "title": "Вопрос 4",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6aca0fe836e3e45d30756524e865e93b.jpg",
+    "image": "./images/C_D/751f2f3152129803cda712bde13cf52c.jpg",
     "question": "Вы управляете грузовым автомобилем с разрешенной максимальной массой более 3,5 т. В каком направлении Вам разрешено дальнейшее движение?",
     "answers": [
       {
@@ -111,7 +111,7 @@
     "title": "Вопрос 5",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/f932eaeb0e0d587fd8ad3fdd8dda5746.jpg",
+    "image": "./images/C_D/0a2b518fd62d5711d82e3885f5b8348f.jpg",
     "question": "Такой вертикальной разметкой обозначают:",
     "answers": [
       {
@@ -138,7 +138,7 @@
     "title": "Вопрос 6",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/423a6250b862db28f28675a02463478e.jpg",
+    "image": "./images/C_D/ef9d9d4168cc6fff2c671434cf15bced.jpg",
     "question": "Каким транспортным средствам разрешено продолжить движение?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/45cdd4b7f83c415f7891fe54b9327280.jpg",
+    "image": "./images/C_D/45d4e27d06892ea412c985f70791e897.jpg",
     "question": "Вы намерены произвести разворот на перекрестке. Какие указатели поворота необходимо включить перед въездом на перекресток?",
     "answers": [
       {
@@ -196,7 +196,7 @@
     "title": "Вопрос 8",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/20d068565c7fd5a3bf80c49925a8653a.jpg",
+    "image": "./images/C_D/4f5e78d8977ecb8ecf3008ea1d799aa6.jpg",
     "question": "По какой траектории Вам разрешается выполнить поворот налево?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0379dc297e7d497116bc04910bb08af2.jpg",
+    "image": "./images/C_D/e386ba0b9826cc108a73679c97f76685.jpg",
     "question": "Водитель грузового автомобиля в данной ситуации:",
     "answers": [
       {
@@ -269,7 +269,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Очень важным моментом при движении в ночное время является выбор скорости движения. При этом следует учитывать главное условие - расстояние видимости водителем дороги должно превышать величину остановочного пути.(«Техника управления автомобилем». Езда ночью)",
     "topic": [
-      "Безопасность движения и техника управления автомобилем"
+      "Скорость движения"
     ],
     "id": "37524d890d82bd5a4331c78d30925c97"
   },
@@ -277,7 +277,7 @@
     "title": "Вопрос 11",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/6b2609779b58e84936c4e5de79c7b2e0.jpg",
+    "image": "./images/C_D/d5f40701a1f61ab61bda049cb7cc8e67.jpg",
     "question": "Можно ли Вам обогнать трактор?",
     "answers": [
       {
@@ -331,7 +331,7 @@
     "title": "Вопрос 13",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/5cf0a130f00fddeccb677b06545341f9.jpg",
+    "image": "./images/C_D/b0b882aa3f1ffc9a19de4e25cf0cc95d.jpg",
     "question": "При включении зеленого сигнала светофора Вам следует:",
     "answers": [
       {
@@ -350,7 +350,7 @@
     "correct_answer": "Правильный ответ: 3",
     "answer_tip": "Грузовик закрывает обзорность справа, откуда могут неожиданно появиться пешеходы, начавшие движение после смены сигнала светофора. Следует убедиться в отсутствии ТС, завершающих движение через перекресток. Поэтому поступите с максимальной осторожностью.(Пункт 13.8 ПДД)",
     "topic": [
-      "Сигналы светофора и регулировщика"
+      "Проезд перекрестков"
     ],
     "id": "b68768c8310655882e750d05bcba408d"
   },
@@ -358,7 +358,7 @@
     "title": "Вопрос 14",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/3e40c61b6d51f874df2b8835ab80b62d.jpg",
+    "image": "./images/C_D/690e52b0211e988474378ff94426c306.jpg",
     "question": "Вы намерены проехать перекресток в прямом направлении. Кому Вы обязаны уступить дорогу?",
     "answers": [
       {
@@ -385,7 +385,7 @@
     "title": "Вопрос 15",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/595996d8f6f37aa30338fee2a25a69bd.jpg",
+    "image": "./images/C_D/ea2fd5912aba5ef86ef76001199410b0.jpg",
     "question": "Кому Вы должны уступить дорогу при повороте налево?",
     "answers": [
       {
@@ -412,7 +412,7 @@
     "title": "Вопрос 16",
     "ticket_number": "Билет 10",
     "ticket_category": "C,D",
-    "image": "./tmp/images/C_D/0d3a6f9efdec96b884b291c7650b58c0.jpg",
+    "image": "./images/C_D/2de3b222acf650197732ea2245cd0d69.jpg",
     "question": "Разрешен ли Вам въезд на железнодорожный переезд в данной ситуации?",
     "answers": [
       {

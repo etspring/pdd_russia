@@ -3,7 +3,7 @@
     "title": "Вопрос 1",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/fc1e5f78d8da6944c860bb3894c8cd9c.jpg",
+    "image": "./images/A_B/ea1e6f2135d6811e8e38a370d6a2d5ed.jpg",
     "question": "Обязан ли в этой ситуации водитель, остановившийся из-за неисправности, выставить знак аварийной остановки?",
     "answers": [
       {
@@ -57,7 +57,7 @@
     "title": "Вопрос 3",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/365f9b3d36543de124b483e97eed0487.jpg",
+    "image": "./images/A_B/966528e99ac2d288009c3dc2db00c21a.jpg",
     "question": "На каком расстоянии от транспортного средства должен быть выставлен знак аварийной остановки в данной ситуации?",
     "answers": [
       {
@@ -88,7 +88,7 @@
     "title": "Вопрос 4",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/20fd015a2ad992d7534e16d81993e880.jpg",
+    "image": "./images/A_B/ae1a65bfbe7bb47645dbf19714215b07.jpg",
     "question": "Какой знак используется для обозначения транспортного средства при вынужденной остановке в местах, где с учетом условий видимости оно не может быть своевременно замечено другими водителями?",
     "answers": [
       {
@@ -169,7 +169,7 @@
     "title": "Вопрос 7",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/094d277cf0b1d7ed2b704c2948306286.jpg",
+    "image": "./images/A_B/3c2d634511da1ab5f71f1e9ec2aebaa7.jpg",
     "question": "На каком расстоянии от транспортного средства должен быть выставлен знак аварийной остановки в данной ситуации?",
     "answers": [
       {
@@ -223,7 +223,7 @@
     "title": "Вопрос 9",
     "ticket_number": null,
     "ticket_category": "A,B",
-    "image": "./tmp/images/A_B/194dc17228fcf44ddc2c546ec5b0fa2a.jpg",
+    "image": "./images/A_B/c2952e73963e7f9073e05449482cadbf.jpg",
     "question": "Какой опознавательный знак должен быть закреплен на задней части буксируемого механического транспортного средства при отсутствии или неисправности аварийной сигнализации?",
     "answers": [
       {
